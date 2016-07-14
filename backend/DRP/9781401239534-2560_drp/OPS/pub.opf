@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="PrimaryID" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:title>Wonder Woman: Odyssey Volume 1</dc:title>
+        <dc:description/>
+        <dc:creator>Michael J. Straczynski, Don Kramer</dc:creator>
+        <dc:publisher>DC Comics</dc:publisher>
+        <dc:identifier id="PrimaryID" opf:scheme="URN">urn:uuid:6cd254f9-527d-42ba-b8df-010f95ff97f4</dc:identifier>
+        <dc:identifier id="LDID">lat</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:date opf:event="publication">2012-07-23</dc:date>
+    </metadata>
+    <manifest>
+        <item href="images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+        <item href="cover.xml" id="cover.xml" media-type="application/xhtml+xml"/>
+        <item href="section.xml" id="section" media-type="application/xhtml+xml"/>
+        <item href="css/test1.css" id="css" media-type="text/css"/>
+        <item href="pub.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    </manifest>
+    <spine toc="ncx">
+        <itemref idref="cover.xml" linear="yes"/>
+        <itemref idref="section" linear="yes"/>
+    </spine>
+    <guide>
+        <reference href="section.xml" title="Wonder Woman: Odyssey Volume 1" type="toc"/>
+    </guide>
+</package>

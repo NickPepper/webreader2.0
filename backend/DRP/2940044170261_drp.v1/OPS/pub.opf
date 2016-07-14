@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="PrimaryID" version="2.0">
+  <opf:metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Ame-Comi Girls #1</dc:title>
+    <dc:description />
+    <dc:creator>Justin Gray, Writer; Jimmy Palmotti, Eduardo Francisco, Artist</dc:creator>
+    <dc:publisher>DC Comics</dc:publisher>
+    <dc:identifier id="PrimaryID" opf:scheme="URN">2940044170261</dc:identifier>
+    <dc:identifier id="LDID">lat</dc:identifier>
+    <dc:language>en</dc:language>
+    <dc:date opf:event="publication">2012-11-07</dc:date>
+    <meta name="BNContentKind" content="ComicsDRP" xmlns="" />
+    <meta property="rendition:orientation">landscape</meta>
+    <meta property="rendition:spread">none</meta>
+    
+  </opf:metadata>
+  <manifest>
+    <item href="images/cover.jpg" id="cover.jpg" media-type="image/jpeg" />
+    <item href="cover.xml" id="cover.xml" media-type="application/xhtml+xml" />
+    <item href="images/cover.jpg" id="cover" media-type="image/jpeg" />
+    <item href="section.xml" id="section" media-type="application/xhtml+xml" />
+    <item href="css/test1.css" id="test1" media-type="text/css" />
+    <item href="replicaMap.xml" id="replicaMap" media-type="application/xhtml+xml" />
+    <item href="pub.ncx" id="pub" media-type="application/x-dtbncx+xml" />
+    <item href="images/pages/BN_DRP_PAGE_12-thumb.jpg" id="BN_DRP_PAGE_12-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_23-thumb.jpg" id="BN_DRP_PAGE_23-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_9.jpg" id="BN_DRP_PAGE_9" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_23.jpg" id="BN_DRP_PAGE_23" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_7-thumb.jpg" id="BN_DRP_PAGE_7-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_11.jpg" id="BN_DRP_PAGE_11" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_10-thumb.jpg" id="BN_DRP_PAGE_10-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_17-thumb.jpg" id="BN_DRP_PAGE_17-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_10.jpg" id="BN_DRP_PAGE_10" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_22.jpg" id="BN_DRP_PAGE_22" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_8.jpg" id="BN_DRP_PAGE_8" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_19.jpg" id="BN_DRP_PAGE_19" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_6.jpg" id="BN_DRP_PAGE_6" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_15-thumb.jpg" id="BN_DRP_PAGE_15-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_14-thumb.jpg" id="BN_DRP_PAGE_14-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_20.jpg" id="BN_DRP_PAGE_20" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_20-thumb.jpg" id="BN_DRP_PAGE_20-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_24.jpg" id="BN_DRP_PAGE_24" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_1.jpg" id="BN_DRP_PAGE_1" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_4.jpg" id="BN_DRP_PAGE_4" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_13.jpg" id="BN_DRP_PAGE_13" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_8-thumb.jpg" id="BN_DRP_PAGE_8-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_21.jpg" id="BN_DRP_PAGE_21" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_15.jpg" id="BN_DRP_PAGE_15" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_2.jpg" id="BN_DRP_PAGE_2" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_5.jpg" id="BN_DRP_PAGE_5" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_14.jpg" id="BN_DRP_PAGE_14" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_9-thumb.jpg" id="BN_DRP_PAGE_9-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_12.jpg" id="BN_DRP_PAGE_12" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_16-thumb.jpg" id="BN_DRP_PAGE_16-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_4-thumb.jpg" id="BN_DRP_PAGE_4-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_11-thumb.jpg" id="BN_DRP_PAGE_11-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_5-thumb.jpg" id="BN_DRP_PAGE_5-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_22-thumb.jpg" id="BN_DRP_PAGE_22-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_19-thumb.jpg" id="BN_DRP_PAGE_19-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_2-thumb.jpg" id="BN_DRP_PAGE_2-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_1-thumb.jpg" id="BN_DRP_PAGE_1-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_17.jpg" id="BN_DRP_PAGE_17" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_21-thumb.jpg" id="BN_DRP_PAGE_21-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_24-thumb.jpg" id="BN_DRP_PAGE_24-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_3-thumb.jpg" id="BN_DRP_PAGE_3-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_3.jpg" id="BN_DRP_PAGE_3" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_18-thumb.jpg" id="BN_DRP_PAGE_18-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_13-thumb.jpg" id="BN_DRP_PAGE_13-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_6-thumb.jpg" id="BN_DRP_PAGE_6-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_16.jpg" id="BN_DRP_PAGE_16" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_18.jpg" id="BN_DRP_PAGE_18" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_7.jpg" id="BN_DRP_PAGE_7" media-type="image/jpeg" />
+    <item href="../META-INF/renditionMaps/zoomview.xml" id="zoomview" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="pub">
+    <itemref idref="cover.xml" linear="yes" />
+    <itemref idref="section" linear="yes" />
+  </spine>
+  <guide>
+    <reference href="section.xml" title="Ame-Comi Girls #1" type="toc" />
+  </guide>
+</package>

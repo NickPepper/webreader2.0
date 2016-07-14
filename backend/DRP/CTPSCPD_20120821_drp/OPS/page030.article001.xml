@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Cooking with Paula Deen</title>
+<link href="css/test1.css" rel="stylesheet" type="text/css" />
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    </head>
+<body class="left">
+        <div class="before">
+            <div class="articleMenuWrapper" id="header_navbar">
+                <div class="sectionMenuLeft" id="header_navbar_previous">
+                    <a href="page028.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="header_navbar_next">
+                    <a href="page032.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+            <div class="masthead" id="header">
+                <div class="masthead-text">
+                    <div class="masthead-section" id="header_title">
+                        <a href="section.xml">Contents</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="article-headline" id="Headline">DAY 3</div>
+<div class="article-subhead" id="SubHeadline">Pretzel-crusted Chicken with Cheddar Cheese Sauce│Broccoli and Rice Pilaf</div>
+
+
+<div class="article-in-image" id="image1"><img src="images/page030.article001.image1.jpg" class="article-in-image" alt=""/></div>
+<div class="separator-line" id="separatorLine"> <div class="invisible">empty</div> </div>
+<div class="articleImageCaption" id="ImageCaption">Start by cooking the Broccoli and Rice Pilaf first. By the time you’ve cooked the chicken, the pilaf will be done.</div>
+<div class="articleImageCredit" id="ImageCredit">PHOTOGRAPHY BY WILLIAM DICKEY</div>
+<div class="article-body" id="Body"><p class="no-indent">Pretzel-crusted Chicken with Cheddar Cheese Sauce </p><p class="no-indent">Makes 4 to 6 servings </p><br/><p class="no-indent">2 large eggs </p><p class="no-indent">1 tablespoon Dijon mustard </p><p class="no-indent">1½ cups crushed pretzels </p><p class="no-indent">1 tablespoon minced fresh thyme </p><p class="no-indent">1½ pounds chicken cutlets </p><p class="no-indent">¼ cup olive oil, divided </p><p class="no-indent">2 tablespoons butter </p><p class="no-indent">2 tablespoons all-purpose flour </p><p class="no-indent">2 cups milk </p><p class="no-indent">1½ cups shredded Cheddar cheese </p><br/><p class="no-indent">1. In a shallow dish, whisk together egg and mustard until smooth. In a separate shallow dish, combine pretzels and thyme. </p><br/><p class="no-indent">2. Dip chicken in egg mixture, letting excess drip off. Dredge in pretzel mixture to coat. </p><br/><p class="no-indent">3. In a large nonstick skillet, heat 2 tablespoons olive oil over medium heat. Add half of chicken, and cook for 5 to 6 minutes per side or until cooked through. Remove chicken from skillet, and keep warm. Repeat procedure with remaining 2 tablespoons oil and chicken. Wipe skillet clean. </p><br/><p class="no-indent">4. Melt butter over medium heat. Add flour, and cook, whisking constantly, for 2 minutes. Slowly add milk, whisking until smooth. Cook, whisking constantly, for 6 to 8 minutes or until thickened and bubbly. Add cheese; stirring until cheese melts and mixture is smooth. Spoon sauce over chicken. Serve with Broccoli and Rice Pilaf. </p><br/><p>______________________________</p><br/><p class="no-indent">Broccoli and Rice Pilaf </p><p class="no-indent">Makes 4 to 6 servings </p><br/><p class="no-indent">2 tablespoons butter </p><p class="no-indent">3 cups chopped broccoli </p><p class="no-indent">½ cup finely chopped onion </p><p class="no-indent">1½ cups uncooked long-grain rice </p><p class="no-indent">3 cups chicken broth </p><br/><p class="no-indent">1. In a medium saucepan, melt butter over medium heat. Add broccoli and onion, and cook, stirring frequently, for 3 minutes. Add rice, and cook, stirring constantly for 1 minute. Stir in broth. Increase heat to medium-high, and bring mixture to a boil. Cover, reduce heat, and simmer for 15 to 20 minutes or until rice is tender.</p></div>
+<div class="after">
+            <div class="articleMenuWrapper" id="footer_navbar">
+                <div class="sectionMenuLeft" id="footer_navbar_previous">
+                    <a href="page028.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="footer_navbar_next">
+                    <a href="page032.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+        </div>
+    </body>
+</html>

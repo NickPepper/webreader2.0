@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns:saxon="http://saxon.sf.net/" xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:nitf="http://www.nytimes.com/applicationdata/xml/nitf-3-3.dtd">
+   <head>
+      <title>Noted: TELECOM&#x2019;S &#x2018;REGULATORS&#x2019;</title>
+      <link rel="stylesheet" href="css/TablesAndFloats.css" type="text/css"/>
+   </head>
+   <body>
+      <div id="header_navbar" class="articleMenuWrapper">
+         <span id="header_navbar_previous" class="sectionMenuLeft">
+            <a href="article_5-2.xml">Previous Article</a>
+         </span>
+         <span id="header_navbar_next" class="sectionMenuRight">
+            <a href="article_5-4.xml">Next Article</a>
+         </span>
+      </div>
+      <div class="clean"/>
+      <div id="header" class="masthead">
+         <div class="masthead-text">
+            <div id="header_title" class="masthead-section">
+               <a href="section_3.xml">Editorial</a>
+            </div>
+         </div>
+      </div>
+      <h2 id="headline" class="article-full-headline">Noted: TELECOM&#x2019;S &#x2018;REGULATORS&#x2019;</h2>
+      <p id="byline" class="article-full-byline">JOHN NICHOLS</p>
+      <div>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">There was nothing Comcast and NBC executives wanted more than approval by the Federal Communications Commission of their multibillion-dollar merger. And despite objections from public interest groups, commissioner Meredith Attwell Baker gave the media giants what they wanted, voting with the FCC majority to create the controversial conglomerate. Four months later, the commissioner who aggressively promoted the merger—arguing to speed the approval process, opposing accountability measures—is leaving the agency to become a highly paid Comcast–NBC lobbyist.</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">“I feel strongly that the process was compromised,” says Representative Maxine Waters, who wants to know when Baker began negotiations about working with the media monolith she was supposed to regulate. House Oversight and Government Reform Committee chair Darrell Issa is monitoring the alleged ethical violations; the media reform group Free Press is urging him to investigate her “seemingly clear conflict of interest.”</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">Investigations make sense, as would stricter rules barring “revolving door” lobbying by former regulators. But the bigger problem is at the other end of the process. Baker, appointed to a Republican-reserved seat on the FCC by President Obama and approved by the Senate, should never have been an FCC commissioner. A former telecom lawyer who was director of Congressional affairs with the Cellular Telecommunications Industry Association, she didn’t develop conflicts of interest while serving on the commission—she arrived with them. This is not just an FCC problem; Washington has grown too comfortable with putting foxes in charge of henhouses. Our government fails the public interest when it appoints “regulators” who serve the industries they are supposed to regulate.</p>
+         <div id="footer_navbar" class="sectionMenuWrapper">
+            <span id="footer_navbar_previous" class="sectionMenuLeft">
+               <a href="article_5-2.xml">Previous Article</a>
+            </span>
+            <span id="footer_navbar_next" class="sectionMenuRight">
+               <a href="article_5-4.xml">Next Article</a>
+            </span>
+         </div>
+      </div>
+   </body>
+</html>

@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+<head>
+<meta name="dtb:uid" content="9781451648553" />
+<meta name="dtb:depth" content="1" />
+<meta name="dtb:totalPageCount" content="0" />
+<meta name="dtb:maxPageNumber" content="0" />
+</head>
+<docTitle>
+<text>Steve Jobs</text>
+</docTitle>
+<navMap>
+<navPoint id="i1" playOrder="1">
+<navLabel>
+<text>Cover</text>
+</navLabel>
+<content src="xhtml/cover.html" />
+</navPoint>
+<navPoint id="i2" playOrder="2">
+<navLabel>
+<text>Epigraph</text>
+</navLabel>
+<content src="xhtml/epigraph.html" />
+</navPoint>
+<navPoint id="i3" playOrder="3">
+<navLabel>
+<text>Characters</text>
+</navLabel>
+<content src="xhtml/characters.html" />
+</navPoint>
+<navPoint id="i4" playOrder="4">
+<navLabel>
+<text>Introduction: How This Book Came to Be</text>
+</navLabel>
+<content src="xhtml/intro.html#intro" />
+</navPoint>
+<navPoint id="i5" playOrder="5">
+<navLabel>
+<text>Chapter One: Childhood: Abandoned and Chosen</text>
+</navLabel>
+<content src="xhtml/fm03.html#ch01" />
+</navPoint>
+<navPoint id="i6" playOrder="6">
+<navLabel>
+<text>Chapter Two: Odd Couple: The Two Steves</text>
+</navLabel>
+<content src="xhtml/ch02.html#ch02" />
+</navPoint>
+<navPoint id="i7" playOrder="7">
+<navLabel>
+<text>Chapter Three: The Dropout: Turn On, Tune In&#xa0;.&#xa0;.&#xa0;.</text>
+</navLabel>
+<content src="xhtml/ch03.html#ch03" />
+</navPoint>
+<navPoint id="i8" playOrder="8">
+<navLabel>
+<text>Chapter Four: Atari and India: Zen and the Art of Game Design</text>
+</navLabel>
+<content src="xhtml/ch04.html#ch04" />
+</navPoint>
+<navPoint id="i9" playOrder="9">
+<navLabel>
+<text>Chapter Five: The Apple I: Turn On, Boot Up, Jack In&#xa0;.&#xa0;.&#xa0;.</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#ch05_nook_isaSample_9" />
+</navPoint>
+<navPoint id="i10" playOrder="10">
+<navLabel>
+<text>Chapter Six: The Apple II: Dawn of a New Age</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#ch06_nook_isaSample_10" />
+</navPoint>
+<navPoint id="i11" playOrder="11">
+<navLabel>
+<text>Chapter Seven: Chrisann and Lisa: He Who is Abandoned&#xa0;.&#xa0;.&#xa0;.</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#ch07_nook_isaSample_11" />
+</navPoint>
+<navPoint id="i12" playOrder="12">
+<navLabel>
+<text>Chapter Eight: Xerox and Lisa: Graphical User Interfaces</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#ch08_nook_isaSample_12" />
+</navPoint>
+<navPoint id="i13" playOrder="13">
+<navLabel>
+<text>Chapter Nine: Going Public: A Man of Wealth and Fame</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#ch09_nook_isaSample_13" />
+</navPoint>
+<navPoint id="i14" playOrder="14">
+<navLabel>
+<text>Chapter Ten: The Mac Is Born: You Say You Want a Revolution</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#ch10_nook_isaSample_14" />
+</navPoint>
+<navPoint id="i15" playOrder="15">
+<navLabel>
+<text>Chapter Eleven: The Reality Distortion Field: Playing by His Own Set of Rules</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#ch11_nook_isaSample_15" />
+</navPoint>
+<navPoint id="i16" playOrder="16">
+<navLabel>
+<text>Chapter Twelve: The Design: Real Artists Simplify</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#ch12_nook_isaSample_16" />
+</navPoint>
+<navPoint id="i17" playOrder="17">
+<navLabel>
+<text>Chapter Thirteen: Building the Mac: The Journey is the Reward</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#ch13_nook_isaSample_17" />
+</navPoint>
+<navPoint id="i18" playOrder="18">
+<navLabel>
+<text>Chapter Fourteen: Enter Sculley: The Pepsi Challenge</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#ch14_nook_isaSample_18" />
+</navPoint>
+<navPoint id="i19" playOrder="19">
+<navLabel>
+<text>Chapter Fifteen: The Launch: A Dent in the Universe</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#ch15_nook_isaSample_19" />
+</navPoint>
+<navPoint id="i20" playOrder="20">
+<navLabel>
+<text>Chapter Sixteen: Gates and Jobs: When Orbits Intersect</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#ch16_nook_isaSample_20" />
+</navPoint>
+<navPoint id="i21" playOrder="21">
+<navLabel>
+<text>Chapter Seventeen: Icarus: What Goes Up&#xa0;.&#xa0;.&#xa0;.</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#ch17_nook_isaSample_21" />
+</navPoint>
+<navPoint id="i22" playOrder="22">
+<navLabel>
+<text>Chapter Eighteen: NeXT: Prometheus Unbound</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#ch18_nook_isaSample_22" />
+</navPoint>
+<navPoint id="i23" playOrder="23">
+<navLabel>
+<text>Chapter Nineteen: Pixar: Technology Meets Art</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#ch19_nook_isaSample_23" />
+</navPoint>
+<navPoint id="i24" playOrder="24">
+<navLabel>
+<text>Chapter Twenty: A Regular Guy: Love is Just a Four-Letter Word</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#ch20_nook_isaSample_24" />
+</navPoint>
+<navPoint id="i25" playOrder="25">
+<navLabel>
+<text>Chapter Twenty-One: Family Man: At Home with the Jobs Clan</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#ch21_nook_isaSample_25" />
+</navPoint>
+<navPoint id="i26" playOrder="26">
+<navLabel>
+<text>Chapter Twenty-Two: Toy Story: Buzz and Woody to the Rescue</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#ch22_nook_isaSample_26" />
+</navPoint>
+<navPoint id="i27" playOrder="27">
+<navLabel>
+<text>Chapter Twenty-Three: The Second Coming: What Rough Beast, its Hour Come Round at Last&#xa0;.&#xa0;.&#xa0;.</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#ch23_nook_isaSample_27" />
+</navPoint>
+<navPoint id="i28" playOrder="28">
+<navLabel>
+<text>Chapter Twenty-Four: The Restoration: The Loser Now Will be Later to Win</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#ch24_nook_isaSample_28" />
+</navPoint>
+<navPoint id="i29" playOrder="29">
+<navLabel>
+<text>Chapter Twenty-Five: Think Different: Jobs as iCEO</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#ch25_nook_isaSample_29" />
+</navPoint>
+<navPoint id="i30" playOrder="30">
+<navLabel>
+<text>Chapter Twenty-Six: Design Principles: The Studio of Jobs and Ive</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#ch26_nook_isaSample_30" />
+</navPoint>
+<navPoint id="i31" playOrder="31">
+<navLabel>
+<text>Chapter Twenty-Seven: The iMac: Hello (Again)</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#ch27_nook_isaSample_31" />
+</navPoint>
+<navPoint id="i32" playOrder="32">
+<navLabel>
+<text>Chapter Twenty-Eight: CEO: Still Crazy after All These Years</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#ch28_nook_isaSample_32" />
+</navPoint>
+<navPoint id="i33" playOrder="33">
+<navLabel>
+<text>Chapter Twenty-Nine: Apple Stores: Genius Bars and Siena Sandstone</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#ch29_nook_isaSample_33" />
+</navPoint>
+<navPoint id="i34" playOrder="34">
+<navLabel>
+<text>Chapter Thirty: The Digital Hub: From iTunes to the iPod</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#ch30_nook_isaSample_34" />
+</navPoint>
+<navPoint id="i35" playOrder="35">
+<navLabel>
+<text>Chapter Thirty-One: The iTunes Store: I&#x2019;m the Pied Piper</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#ch31_nook_isaSample_35" />
+</navPoint>
+<navPoint id="i36" playOrder="36">
+<navLabel>
+<text>Chapter Thirty-Two: Music Man: The Sound Track of His Life</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#ch32_nook_isaSample_36" />
+</navPoint>
+<navPoint id="i37" playOrder="37">
+<navLabel>
+<text>Chapter Thirty-Three: Pixar&#x2019;s Friends: .&#xa0;.&#xa0;.&#xa0;and Foes</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#ch33_nook_isaSample_37" />
+</navPoint>
+<navPoint id="i38" playOrder="38">
+<navLabel>
+<text>Chapter Thirty-Four: Twenty-first-century Macs: Setting Apple Apart</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#ch34_nook_isaSample_38" />
+</navPoint>
+<navPoint id="i39" playOrder="39">
+<navLabel>
+<text>Chapter Thirty-Five: Round One: Memento Mori</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#ch35_nook_isaSample_39" />
+</navPoint>
+<navPoint id="i40" playOrder="40">
+<navLabel>
+<text>Chapter Thirty-Six: The iPhone: Three Revolutionary Products in One</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#ch36_nook_isaSample_40" />
+</navPoint>
+<navPoint id="i41" playOrder="41">
+<navLabel>
+<text>Chapter Thirty-Seven: Round Two: The Cancer Recurs</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#ch37_nook_isaSample_41" />
+</navPoint>
+<navPoint id="i42" playOrder="42">
+<navLabel>
+<text>Chapter Thirty-Eight: The iPad: Into the Post-PC Era</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#ch38_nook_isaSample_42" />
+</navPoint>
+<navPoint id="i43" playOrder="43">
+<navLabel>
+<text>Chapter Thirty-Nine: New Battles: And Echoes of Old Ones</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#ch39_nook_isaSample_43" />
+</navPoint>
+<navPoint id="i44" playOrder="44">
+<navLabel>
+<text>Chapter Forty: To Infinity: The Cloud, the Spaceship, and Beyond</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#ch40_nook_isaSample_44" />
+</navPoint>
+<navPoint id="i45" playOrder="45">
+<navLabel>
+<text>Chapter Forty-One: Round Three: The Twilight Struggle</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#ch41_nook_isaSample_45" />
+</navPoint>
+<navPoint id="i46" playOrder="46">
+<navLabel>
+<text>Chapter Forty-Two: Legacy: The Brightest Heaven of Invention</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#ch42_nook_isaSample_46" />
+</navPoint>
+<navPoint id="i47" playOrder="47">
+<navLabel>
+<text>Epilogue</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#epilogue_nook_isaSample_47" />
+</navPoint>
+<navPoint id="i48" playOrder="48">
+<navLabel>
+<text>Acknowledgments</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#ack_nook_isaSample_48" />
+</navPoint>
+    <navPoint id="i51" playOrder="49">
+        <navLabel>
+            <text>Photographs</text>
+        </navLabel>
+        <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_49" />
+    </navPoint>
+<navPoint id="i52" playOrder="50">
+<navLabel>
+<text>About Walter Isaacson</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_50" />
+</navPoint>
+    <navPoint id="i49" playOrder="51">
+        <navLabel>
+            <text>Sources</text>
+        </navLabel>
+        <content src="..%2Fnook%2FisaSample.xhtml#source_nook_isaSample_51" />
+    </navPoint>
+<navPoint id="i53" playOrder="52">
+<navLabel>
+<text>Notes</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#notes_nook_isaSample_52" />
+</navPoint>
+    <navPoint id="i50" playOrder="53">
+        <navLabel>
+            <text>Illustration Credits</text>
+        </navLabel>
+        <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_53" />
+    </navPoint>
+<navPoint id="i54" playOrder="54">
+<navLabel>
+<text>Index</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#index_nook_isaSample_54" />
+</navPoint>
+<navPoint id="i55" playOrder="55">
+<navLabel>
+<text>Copyright</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_55" />
+</navPoint>
+</navMap>
+</ncx>

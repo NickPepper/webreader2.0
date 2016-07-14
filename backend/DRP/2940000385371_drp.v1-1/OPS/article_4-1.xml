@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns:saxon="http://saxon.sf.net/" xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:nitf="http://www.nytimes.com/applicationdata/xml/nitf-3-3.dtd">
+   <head>
+      <title>DSK D&#xe9;j&#xe0; Vu</title>
+      <link rel="stylesheet" href="css/TablesAndFloats.css" type="text/css"/>
+   </head>
+   <body>
+      <div id="header_navbar" class="articleMenuWrapper">
+         <span id="header_navbar_previous" class="sectionMenuLeft">
+            <a href="article_3-1.xml">Previous Article</a>
+         </span>
+         <span id="header_navbar_next" class="sectionMenuRight">
+            <a href="article_5-1.xml">Next Article</a>
+         </span>
+      </div>
+      <div class="clean"/>
+      <div id="header" class="masthead">
+         <div class="masthead-text">
+            <div id="header_title" class="masthead-section">
+               <a href="section_3.xml">Editorial</a>
+            </div>
+         </div>
+      </div>
+      <h2 id="headline" class="article-full-headline">DSK D&#xe9;j&#xe0; Vu</h2>
+      <p id="byline" class="article-full-byline">KATHA POLLITT</p>
+      <div>
+         <div id="image_0" class="article-in-image">
+            <img id="image_0_img" class="article-in-image" src="images/img_9_411.jpg" alt="News image"/>
+         </div>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">The French political class is aghast at the treatment being meted out in New York to Dominique Strauss-Kahn, head of the International Monetary Fund and likely Socialist Party candidate for the French presidency, who is charged with attempted rape and unlawful imprisonment of a housekeeper in his $3,000-a-night suite at the Sofitel hotel in midtown Manhattan. On the radio, his friend Robert Badinter, husband of Élisabeth, one of France’s most famous feminists, declared he had been “destroyed before any trial.” Martine Aubry, first secretary of the Socialist Party and also a possible presidential contender, declared herself “stunned, shocked”—not by the allegations, but by photos of DSK in handcuffs. “The heart can only contract before these humiliating and poignant images that they’re giving of him,” wrote Jean-Pierre Chevènement, a senator and former minister. “A horrible global lynching! And what if it were all a monstrous injustice?”</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">Indeed, like everyone charged with a crime, DSK is innocent until proven guilty, but can’t the French political and journalistic elite focus for two minutes on the crime of which he is accused? Say what you like about handcuffs and perp walks, they really don’t compare with a violent sex attack. It’s a little scandalous that all these so-called socialists not only think this powerful man deserves special treatment before the law but also have not one word to say about the woman, a 32-year-old Guinean immigrant and single mother, except to imply that she’s a lying slut.</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">And maybe part of a political plot. Frantically spinning for DSK, as he did for his other dear friend Roman Polanski, philosopher turned pundit Bernard-Henri Lévy found it very suspicious that the woman entered his room alone: “I do not know—but, on the other hand, it would be nice to know, and without delay—how a chambermaid could have walked in alone, contrary to the habitual practice of most of New York’s grand hotels of sending a ‘cleaning brigade’ of two people [untrue], into the room of one of the most closely watched figures on the planet.” No presumption of innocence for the “chambermaid,” apparently. When all else fails, there’s the old standby, wheeled out whenever a famous or powerful man is accused of rape: why would he rape when women were lining up to have sex with him? “A seducer yes, a rapist no,” said DSK biographer Michel Taubmann. Like he would know.</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">In the wake of DSK’s arrest, other women are coming forward. The young writer Tristane Banon—who didn’t press charges in 2002 when, she claims, DSK tried to rape her—is pursuing charges now. (Her mother, Anne Mansouret, a Socialist candidate, now says she’s sorry that she discouraged her daughter from going to the police.) Piroska Nagy, with whom DSK had an affair at the IMF, is back in the news, reminding the world that when the IMF board declared there was “no evidence of coercion or abuse of his power,” it ignored her own statement that she had been pressured and coerced into sleeping with him. Suddenly, it’s common knowledge that women journalists and IMF staffers took care not to be alone with him.</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">But of course DSK’s predatory behavior was always common knowledge, the stuff of jokes, gossip and veiled allusions in the press. It was just called something else: seduction, love of women, even, proof of good health. It took a powerless outsider in a foreign country—the housekeeper had no idea that DSK, as one of the world’s most powerful men, was entitled to make violent use of her body—to take action. Now DSK’s defense attorney is saying the sex, if it took place, was consensual. Because nothing is more likely than that a housekeeper—a Muslim widow in a headscarf, no less—will leap at the chance to fellate a 62-year-old hotel guest who springs naked out of the bathroom.</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">Americans shouldn’t be too quick to mock the French, though. Eight years ago, Californians brushed aside multiple women’s accounts of crude and even sadistic sexual harassment by Arnold Schwarzenegger and elected him governor of California. Like Strauss-Kahn’s wife, TV host Anne Sinclair, Schwarzenegger’s wife, Maria Shriver, stood by him,  and her defense may have made the difference. Her reward was to discover that more than ten years ago he produced a love child with the housekeeper.</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">Powerful men molest with impunity, enabled by friends, wives, political cronies, a servile press and a culture deeply hostile to women. Tell me again how feminism’s job is over.</p>
+         <div id="footer_navbar" class="sectionMenuWrapper">
+            <span id="footer_navbar_previous" class="sectionMenuLeft">
+               <a href="article_3-1.xml">Previous Article</a>
+            </span>
+            <span id="footer_navbar_next" class="sectionMenuRight">
+               <a href="article_5-1.xml">Next Article</a>
+            </span>
+         </div>
+      </div>
+   </body>
+</html>

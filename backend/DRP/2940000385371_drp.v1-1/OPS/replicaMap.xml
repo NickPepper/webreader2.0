@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReplicaMap xmlns="http://www.hp.com/schemas/imaging/ereader/hff">
+   <Title>The Nation</Title>
+   <Pages>
+      <Page pageNum="0" file="images/pages/pg-01.jpg" thumbFile="images/pages/pg-01-thumb.jpg">
+         <Group ePubTarget="article_1-1.xml"/>
+      </Page>
+      <Page pageNum="1" file="images/pages/pg-02.jpg" thumbFile="images/pages/pg-02-thumb.jpg">
+         <Group ePubTarget="http://www.google.com">
+            <Block coord="0.341385,0.177601,0.475577,0.203201"/>
+            <Block coord="0.341385,0.2128,0.661299,0.6008"/>
+         </Group>
+         <Group ePubTarget="http://www.wiki.com">
+            <Block coord="0.341385,0.6088,0.568975,0.6328"/>
+            <Block coord="0.34568,0.636,0.658079,0.948399"/>
+            <Block coord="0.667739,0.213601,0.98336,0.4608"/>
+         </Group>
+         <Group ePubTarget="http://www.ixbt.com">
+            <Block coord="0.666667,0.4712,0.776167,0.4952"/>
+            <Block coord="0.665594,0.5008,0.98336,0.9728"/>
+         </Group>
+      </Page>
+      <Page pageNum="2" file="images/pages/pg-03.jpg" thumbFile="images/pages/pg-03-thumb.jpg">
+         <Group ePubTarget="http://www.yandex.ru">
+            <Block coord="0.030596,0.115601,0.637144,0.172801"/>
+         </Group>
+         <Group ePubTarget="http://www.3dnews.ru">
+            <Block coord="0.017713,0.1872,0.650026,0.2632"/>
+         </Group>
+         <Group ePubTarget="http://www.yahoo.ru">
+            <Block coord="0.023618,0.27,0.336017,0.9648"/>
+         </Group>
+         <Group ePubTarget="http://www.explaymarket.ru/">
+            <Block coord="0.347826,0.266399,0.654858,0.962799"/>
+         </Group>
+      </Page>
+      <Page pageNum="3" file="images/pages/pg-04.jpg" thumbFile="images/pages/pg-04-thumb.jpg">
+         <Group ePubTarget="article_4-1.xml">
+            <Block coord="0.50671,0.058399,0.750403,0.099199"/>
+            <Block coord="0.50993,0.1032,0.977991,0.1248"/>
+            <Block coord="0.50671,0.129601,0.981214,0.968"/>
+         </Group>
+      </Page>
+      <Page pageNum="4" file="images/pages/pg-05.jpg" thumbFile="images/pages/pg-05-thumb.jpg">
+         <Group ePubTarget="article_5-1.xml">
+            <Block coord="0.024155,0.151601,0.224369,0.171201"/>
+            <Block coord="0.213635,0.841601,0.328503,0.850001"/>
+            <Block coord="0.024155,0.1568,0.326354,0.8392"/>
+         </Group>
+         <Group ePubTarget="article_5-2.xml">
+            <Block coord="0.016103,0.862399,0.256038,0.881999"/>
+            <Block coord="0.484701,0.756,0.647342,0.7728"/>
+            <Block coord="0.017713,0.8664,0.324746,0.9656"/>
+            <Block coord="0.345142,0.101601,0.650565,0.775601"/>
+         </Group>
+         <Group ePubTarget="article_5-3.xml">
+            <Block coord="0.349973,0.787601,0.550189,0.802001"/>
+            <Block coord="0.874396,0.6628,0.981213,0.6796"/>
+            <Block coord="0.343532,0.7828,0.648953,0.9688"/>
+            <Block coord="0.668815,0.106399,0.981214,0.682"/>
+         </Group>
+         <Group ePubTarget="article_5-4.xml">
+            <Block coord="0.67257,0.693601,0.807299,0.708001"/>
+            <Block coord="0.67096,0.6908,0.969941,0.9712"/>
+         </Group>
+      </Page>
+      <Page pageNum="5" file="images/pages/pg-06.jpg" thumbFile="images/pages/pg-06-thumb.jpg">
+         <Group ePubTarget="article_4-1.xml">
+            <Block coord="0.389156,0.3808,0.488458,0.3964"/>
+            <Block coord="0.022544,0.0628,0.491143,0.381601"/>
+         </Group>
+         <Group ePubTarget="article_6-2.xml">
+            <Block coord="0.025765,0.4148,0.424047,0.4608"/>
+            <Block coord="0.866345,0.9004,0.975309,0.9172"/>
+            <Block coord="0.022544,0.4672,0.492755,0.651599"/>
+            <Block coord="0.512613,0.060399,0.977991,0.919599"/>
+            <Block coord="0.512613,0.9308,0.966719,0.9684"/>
+         </Group>
+         <Group ePubTarget="article_6-3.xml">
+            <Block coord="0.083736,0.734399,0.378959,0.791199"/>
+            <Block coord="0.049383,0.685601,0.462696,0.717601"/>
+            <Block coord="0.08803,0.796,0.409017,0.9488"/>
+         </Group>
+      </Page>
+      <Page pageNum="6" file="images/pages/pg-07.jpg" thumbFile="images/pages/pg-07-thumb.jpg"/>
+      <Page pageNum="7" file="images/pages/pg-08.jpg" thumbFile="images/pages/pg-08-thumb.jpg">
+         <Group ePubTarget="article_8-1.xml">
+            <Block coord="0.013956,0.098399,0.912506,0.143999"/>
+            <Block coord="0.020397,0.0568,0.380032,0.0952"/>
+            <Block coord="0.016103,0.150399,0.49168,0.219999"/>
+            <Block coord="0.01825,0.224,0.495973,0.972"/>
+            <Block coord="0.502415,0.1568,0.979067,0.9688"/>
+         </Group>
+      </Page>
+      <Page pageNum="8" file="images/pages/pg-09.jpg" thumbFile="images/pages/pg-09-thumb.jpg"/>
+      <Page pageNum="9" file="images/pages/pg-10.jpg" thumbFile="images/pages/pg-10-thumb.jpg">
+         <Group ePubTarget="article_10-1.xml">
+            <Block coord="0.013956,0.098399,0.40365,0.139999"/>
+            <Block coord="0.020397,0.056,0.328501,0.0992"/>
+            <Block coord="0.022544,0.152,0.4949,0.2216"/>
+            <Block coord="0.019324,0.221601,0.497049,0.969601"/>
+            <Block coord="0.504563,0.153601,0.986581,0.967201"/>
+         </Group>
+      </Page>
+      <Page pageNum="10" file="images/pages/pg-11.jpg" thumbFile="images/pages/pg-11-thumb.jpg">
+         <Group ePubTarget="article_11-1.xml">
+            <Block coord="0.026838,0.0972,0.523885,0.154"/>
+            <Block coord="0.024691,0.16,0.249598,0.1848"/>
+            <Block coord="0.680086,0.8188,0.895867,0.8756"/>
+            <Block coord="0.020934,0.196,0.339238,0.910399"/>
+            <Block coord="0.346216,0.818,0.658615,0.969601"/>
+            <Block coord="0.66452,0.8908,0.979067,0.9684"/>
+         </Group>
+      </Page>
+      <Page pageNum="11" file="images/pages/pg-12.jpg" thumbFile="images/pages/pg-12-thumb.jpg">
+         <Group ePubTarget="article_11-1.xml">
+            <Block coord="0.016103,0.061601,0.339238,0.262401"/>
+            <Block coord="0.01825,0.370399,0.337092,0.454399"/>
+            <Block coord="0.01825,0.461601,0.339238,0.976"/>
+            <Block coord="0.343532,0.062399,0.658079,0.974399"/>
+            <Block coord="0.662372,0.064,0.97155,0.084"/>
+            <Block coord="0.680622,0.085601,0.960815,0.2528"/>
+            <Block coord="0.661299,0.256,0.986581,0.894399"/>
+            <Block coord="0.673108,0.9016,0.954374,0.9688"/>
+            <Block coord="0.020397,0.268,0.447665,0.364"/>
+         </Group>
+      </Page>
+      <Page pageNum="12" file="images/pages/pg-13.jpg" thumbFile="images/pages/pg-13-thumb.jpg">
+         <Group ePubTarget="article_11-1.xml">
+            <Block coord="0.017713,0.0612,0.336553,0.514399"/>
+            <Block coord="0.341923,0.0572,0.662374,0.5192"/>
+            <Block coord="0.660763,0.0548,0.982824,0.518"/>
+         </Group>
+      </Page>
+      <Page pageNum="13" file="images/pages/pg-14.jpg" thumbFile="images/pages/pg-14-thumb.jpg">
+         <Group ePubTarget="article_11-1.xml">
+            <Block coord="0.01825,0.066,0.332261,0.503601"/>
+            <Block coord="0.340311,0.0628,0.655932,0.597601"/>
+            <Block coord="0.365004,0.6032,0.612991,0.7652"/>
+            <Block coord="0.341923,0.7688,0.655932,0.972"/>
+            <Block coord="0.662372,0.064,0.977991,0.8488"/>
+            <Block coord="0.679013,0.858,0.942567,0.9732"/>
+            <Block coord="0.683844,0.861601,0.935052,0.967601"/>
+         </Group>
+      </Page>
+      <Page pageNum="14" file="images/pages/pg-15.jpg" thumbFile="images/pages/pg-15-thumb.jpg">
+         <Group ePubTarget="article_15-1.xml">
+            <Block coord="0.017713,0.395601,0.163714,0.438401"/>
+            <Block coord="0.020934,0.448399,0.244231,0.471599"/>
+            <Block coord="0.363392,0.4728,0.568439,0.5412"/>
+            <Block coord="0.016103,0.476399,0.338164,0.973599"/>
+            <Block coord="0.340311,0.553601,0.660763,0.971201"/>
+            <Block coord="0.660763,0.0612,0.980676,0.977599"/>
+         </Group>
+      </Page>
+      <Page pageNum="15" file="images/pages/pg-16.jpg" thumbFile="images/pages/pg-16-thumb.jpg">
+         <Group ePubTarget="article_15-1.xml">
+            <Block coord="0.498121,0.061601,0.981212,0.973601"/>
+         </Group>
+      </Page>
+      <Page pageNum="16" file="images/pages/pg-17.jpg" thumbFile="images/pages/pg-17-thumb.jpg">
+         <Group ePubTarget="article_15-1.xml">
+            <Block coord="0.024155,0.066,0.338164,0.9688"/>
+            <Block coord="0.343532,0.062399,0.657543,0.9752"/>
+            <Block coord="0.665594,0.062399,0.994097,0.9752"/>
+         </Group>
+      </Page>
+      <Page pageNum="17" file="images/pages/pg-18.jpg" thumbFile="images/pages/pg-18-thumb.jpg">
+         <Group ePubTarget="article_15-1.xml">
+            <Block coord="0.017713,0.0612,0.333332,0.1308"/>
+            <Block coord="0.039184,0.1348,0.319914,0.31"/>
+            <Block coord="0.022544,0.3148,0.334944,0.4016"/>
+            <Block coord="0.343532,0.063601,0.655932,0.847601"/>
+            <Block coord="0.363392,0.857601,0.637682,0.970001"/>
+            <Block coord="0.679013,0.062399,0.974773,0.254799"/>
+            <Block coord="0.663984,0.258399,1.004291,0.98"/>
+         </Group>
+         <Group ePubTarget="article_18-2.xml">
+            <Block coord="0.020934,0.4288,0.174987,0.464"/>
+            <Block coord="0.108427,0.9448,0.294148,0.974"/>
+            <Block coord="0.017713,0.477601,0.285561,0.928401"/>
+         </Group>
+      </Page>
+      <Page pageNum="18" file="images/pages/pg-19.jpg" thumbFile="images/pages/pg-19-thumb.jpg">
+         <Group ePubTarget="article_15-1.xml">
+            <Block coord="0.016103,0.06,0.336555,0.9752"/>
+            <Block coord="0.345142,0.0612,0.655932,0.2928"/>
+            <Block coord="0.665594,0.06,0.992486,0.294"/>
+         </Group>
+      </Page>
+      <Page pageNum="19" file="images/pages/pg-20.jpg" thumbFile="images/pages/pg-20-thumb.jpg">
+         <Group ePubTarget="article_15-1.xml">
+            <Block coord="0.026838,0.0592,0.33709,0.592"/>
+            <Block coord="0.020934,0.607601,0.339238,0.968401"/>
+            <Block coord="0.344604,0.063601,0.658615,0.972"/>
+            <Block coord="0.66452,0.066,0.977991,0.9692"/>
+         </Group>
+      </Page>
+      <Page pageNum="20" file="images/pages/pg-21.jpg" thumbFile="images/pages/pg-21-thumb.jpg">
+         <Group ePubTarget="article_15-1.xml">
+            <Block coord="0.01825,0.0568,0.49168,0.9768"/>
+         </Group>
+      </Page>
+      <Page pageNum="21" file="images/pages/pg-22.jpg" thumbFile="images/pages/pg-22-thumb.jpg">
+         <Group ePubTarget="article_15-1.xml">
+            <Block coord="0.017713,0.064,0.336017,0.465601"/>
+            <Block coord="0.346216,0.064,0.655932,0.9688"/>
+            <Block coord="0.666667,0.060399,0.98014,0.976"/>
+         </Group>
+         <Group ePubTarget="article_22-2.xml">
+            <Block coord="0.014493,0.5052,0.112185,0.5432"/>
+            <Block coord="0.107354,0.9428,0.266237,0.9736"/>
+            <Block coord="0.01986,0.55,0.263553,0.9368"/>
+         </Group>
+      </Page>
+      <Page pageNum="22" file="images/pages/pg-23.jpg" thumbFile="images/pages/pg-23-thumb.jpg">
+         <Group ePubTarget="article_15-1.xml">
+            <Block coord="0.019324,0.0628,0.336554,0.1732"/>
+            <Block coord="0.343532,0.061601,0.657543,0.178001"/>
+            <Block coord="0.636608,0.157601,0.6511,0.170801"/>
+         </Group>
+         <Group ePubTarget="article_23-2.xml">
+            <Block coord="0.020934,0.191601,0.351047,0.236401"/>
+            <Block coord="0.025765,0.242399,0.22759,0.263999"/>
+            <Block coord="0.358561,0.2712,0.604403,0.3592"/>
+            <Block coord="0.020934,0.268,0.339776,0.897601"/>
+            <Block coord="0.348363,0.37,0.65271,0.965601"/>
+            <Block coord="0.665594,0.060399,0.976383,0.970399"/>
+         </Group>
+      </Page>
+      <Page pageNum="23" file="images/pages/pg-24.jpg" thumbFile="images/pages/pg-24-thumb.jpg">
+         <Group ePubTarget="article_23-2.xml">
+            <Block coord="0.009662,0.0572,0.341385,0.97"/>
+            <Block coord="0.341923,0.0572,0.660763,0.978399"/>
+            <Block coord="0.663984,0.056,0.987655,0.9772"/>
+         </Group>
+      </Page>
+      <Page pageNum="24" file="images/pages/pg-25.jpg" thumbFile="images/pages/pg-25-thumb.jpg">
+         <Group ePubTarget="article_23-2.xml">
+            <Block coord="0.022008,0.06,0.334407,0.3968"/>
+            <Block coord="0.340847,0.0612,0.660761,0.398"/>
+            <Block coord="0.665594,0.059601,0.976383,0.398401"/>
+         </Group>
+         <Group ePubTarget="article_25-2.xml">
+            <Block coord="0.052067,0.4172,0.952764,0.45"/>
+            <Block coord="0.781534,0.924,0.960278,0.9532"/>
+            <Block coord="0.056897,0.4572,0.711755,0.9168"/>
+            <Block coord="0.044015,0.9432,0.421362,0.9736"/>
+         </Group>
+      </Page>
+      <Page pageNum="25" file="images/pages/pg-26.jpg" thumbFile="images/pages/pg-26-thumb.jpg">
+         <Group ePubTarget="article_23-2.xml">
+            <Block coord="0.025765,0.0648,0.339776,0.976401"/>
+            <Block coord="0.338701,0.0572,0.657543,0.972399"/>
+            <Block coord="0.663984,0.063601,0.989266,0.970401"/>
+            <Block coord="0.026302,0.340399,0.455179,0.443199"/>
+         </Group>
+      </Page>
+      <Page pageNum="26" file="images/pages/pg-27.jpg" thumbFile="images/pages/pg-27-thumb.jpg">
+         <Group ePubTarget="article_23-2.xml">
+            <Block coord="0.024691,0.0628,0.337091,0.1424"/>
+            <Block coord="0.346216,0.064399,0.65432,0.141999"/>
+            <Block coord="0.346216,0.112,0.65432,0.1412"/>
+            <Block coord="0.632851,0.125601,0.651638,0.139601"/>
+         </Group>
+         <Group ePubTarget="article_27-2.xml">
+            <Block coord="0.024691,0.1648,0.342995,0.2092"/>
+            <Block coord="0.026838,0.212,0.227053,0.2336"/>
+            <Block coord="0.362856,0.452399,0.587763,0.540399"/>
+            <Block coord="0.023618,0.239601,0.337091,0.925601"/>
+            <Block coord="0.345142,0.550399,0.658615,0.968399"/>
+         </Group>
+      </Page>
+      <Page pageNum="27" file="images/pages/pg-28.jpg" thumbFile="images/pages/pg-28-thumb.jpg">
+         <Group ePubTarget="article_27-2.xml">
+            <Block coord="0.01664,0.064,0.337091,0.97"/>
+            <Block coord="0.344604,0.0628,0.657004,0.972401"/>
+            <Block coord="0.665594,0.060399,0.987655,0.972"/>
+         </Group>
+      </Page>
+      <Page pageNum="28" file="images/pages/pg-29.jpg" thumbFile="images/pages/pg-29-thumb.jpg">
+         <Group ePubTarget="article_27-2.xml">
+            <Block coord="0.016103,0.057601,0.337091,0.422401"/>
+            <Block coord="0.011809,0.432,0.339239,0.9768"/>
+            <Block coord="0.343532,0.0648,0.659153,0.5112"/>
+            <Block coord="0.66452,0.066399,0.979067,0.510399"/>
+         </Group>
+      </Page>
+      <Page pageNum="29" file="images/pages/pg-30.jpg" thumbFile="images/pages/pg-30-thumb.jpg">
+         <Group ePubTarget="article_27-2.xml">
+            <Block coord="0.020934,0.0572,0.336554,0.2948"/>
+            <Block coord="0.024155,0.401601,0.334944,0.9848"/>
+            <Block coord="0.345142,0.063601,0.655932,0.2888"/>
+            <Block coord="0.45518,0.290399,0.657005,0.406799"/>
+            <Block coord="0.341923,0.404399,0.659153,0.981599"/>
+            <Block coord="0.663984,0.056,0.995707,0.98"/>
+         </Group>
+      </Page>
+      <Page pageNum="30" file="images/pages/pg-31.jpg" thumbFile="images/pages/pg-31-thumb.jpg">
+         <Group ePubTarget="article_27-2.xml">
+            <Block coord="0.016103,0.0612,0.342995,0.970399"/>
+            <Block coord="0.341923,0.0612,0.660763,0.2928"/>
+            <Block coord="0.662372,0.0588,0.976381,0.290401"/>
+            <Block coord="0.663446,0.142,0.979603,0.29"/>
+         </Group>
+      </Page>
+      <Page pageNum="31" file="images/pages/pg-32.jpg" thumbFile="images/pages/pg-32-thumb.jpg">
+         <Group ePubTarget="article_32-1.xml">
+            <Block coord="0.022544,0.052399,0.329577,0.177199"/>
+            <Block coord="0.022544,0.183601,0.280729,0.206801"/>
+            <Block coord="0.020934,0.210399,0.333333,0.304399"/>
+            <Block coord="0.020934,0.302399,0.296833,0.700399"/>
+            <Block coord="0.024155,0.7032,0.332797,0.926"/>
+            <Block coord="0.345142,0.0612,0.653784,0.3048"/>
+            <Block coord="0.345142,0.702,0.653784,0.971601"/>
+            <Block coord="0.663984,0.062399,0.981214,0.302399"/>
+            <Block coord="0.71766,0.302399,0.989264,0.700399"/>
+            <Block coord="0.665594,0.704,1.00268,0.9828"/>
+            <Block coord="0.022544,0.9324,0.338165,0.9732"/>
+            <Block coord="0.939881,0.952,0.987117,0.968"/>
+         </Group>
+      </Page>
+      <Page pageNum="32" file="images/pages/pg-33.jpg" thumbFile="images/pages/pg-33-thumb.jpg">
+         <Group ePubTarget="article_33-1.xml">
+            <Block coord="0.016103,0.052,0.645197,0.1056"/>
+            <Block coord="0.020397,0.110399,0.236178,0.129599"/>
+            <Block coord="0.358561,0.136,0.639827,0.2144"/>
+            <Block coord="0.017177,0.137601,0.340311,0.911201"/>
+            <Block coord="0.343532,0.226399,0.659153,0.968"/>
+            <Block coord="0.665594,0.0568,0.977993,0.3928"/>
+            <Block coord="0.663446,0.401601,0.98014,0.972"/>
+         </Group>
+      </Page>
+      <Page pageNum="33" file="images/pages/pg-34.jpg" thumbFile="images/pages/pg-34-thumb.jpg">
+         <Group ePubTarget="article_33-1.xml">
+            <Block coord="0.023618,0.062399,0.336017,0.326799"/>
+            <Block coord="0.020397,0.436,0.336018,0.976"/>
+            <Block coord="0.344068,0.056399,0.654858,0.316399"/>
+            <Block coord="0.45518,0.3188,0.65432,0.4336"/>
+            <Block coord="0.341385,0.436399,0.655932,0.973599"/>
+            <Block coord="0.660763,0.062399,0.980676,0.972"/>
+         </Group>
+      </Page>
+      <Page pageNum="34" file="images/pages/pg-35.jpg" thumbFile="images/pages/pg-35-thumb.jpg">
+         <Group ePubTarget="article_33-1.xml">
+            <Block coord="0.01825,0.0592,0.33548,0.9732"/>
+            <Block coord="0.343532,0.0592,0.663984,0.972"/>
+         </Group>
+      </Page>
+      <Page pageNum="35" file="images/pages/pg-36.jpg" thumbFile="images/pages/pg-36-thumb.jpg">
+         <Group ePubTarget="article_33-1.xml">
+            <Block coord="0.021471,0.0628,0.337091,0.394"/>
+            <Block coord="0.022544,0.504,0.33387,0.9712"/>
+            <Block coord="0.344604,0.064,0.65593,0.389601"/>
+            <Block coord="0.45357,0.394,0.654322,0.506"/>
+            <Block coord="0.343532,0.512,0.657543,0.968"/>
+            <Block coord="0.660763,0.061601,0.983897,0.975601"/>
+         </Group>
+      </Page>
+      <Page pageNum="36" file="images/pages/pg-37.jpg" thumbFile="images/pages/pg-37-thumb.jpg">
+         <Group ePubTarget="article_33-1.xml">
+            <Block coord="0.020934,0.0612,0.333333,0.503599"/>
+            <Block coord="0.343532,0.062399,0.654322,0.502"/>
+            <Block coord="0.663984,0.062399,1.00107,0.504799"/>
+            <Block coord="0.663984,0.449601,0.997317,0.502001"/>
+            <Block coord="0.943638,0.477601,0.981212,0.495601"/>
+         </Group>
+      </Page>
+      <Page pageNum="37" file="images/pages/pg-38.jpg" thumbFile="images/pages/pg-38-thumb.jpg"/>
+      <Page pageNum="38" file="images/pages/pg-39.jpg" thumbFile="images/pages/pg-39-thumb.jpg"/>
+      <Page pageNum="39" file="images/pages/pg-40.jpg" thumbFile="images/pages/pg-40-thumb.jpg"/>
+   </Pages>
+   <Articles>
+      <Article id="a799669558" file="article_2-1.xml">
+         <title ref="headline">Mud in Your Eye</title>
+         <byline ref="byline"/>
+         <Summary>HAMTRAMCK, MICH. In minor objection but with much appreciation for Elias Altman&#8217;s &#8220;Watered Whiskey&#8221; [May 2], it seems to me that this collection contains some of the strongest barrels of whiskey</Summary>
+      </Article>
+      <Article id="a800593079" file="article_2-2.xml">
+         <title ref="headline">Dreamt of in Your Philosophy</title>
+         <byline ref="byline"/>
+         <Summary>HOLDEN, MASS. Re Richard Wolin&#8217;s thoughtful review of James Miller&#8217;s Examined Lives [&#8220;Being in the World,&#8221; March 7/14]: I would like to see critics take seriously that Western philosophers do not</Summary>
+      </Article>
+      <Article id="a801516600" file="article_2-3.xml">
+         <title ref="headline">Wolin Replies</title>
+         <byline ref="byline"/>
+         <Summary>NEW YORK CITY In keeping with Todd Lewis&#8217;s suggestion, I am all in favor of histories of philosophy that are in tune with the contributions of Taoism, Confucianism and so forth. But I am not sure that</Summary>
+      </Article>
+      <Article id="a713217046" file="article_11-1.xml">
+         <title ref="headline">An Imperfect Life</title>
+         <byline ref="byline">by JAMES LONGENBACH</byline>
+         <Summary>W.B. Yeats and George Yeats The Letters. Edited by Ann Saddlemyer. Oxford. 599 pp. $49.95. The time is 1917; the place, London. The war is on. You are a young woman, attractive, well-off, fluent in</Summary>
+      </Article>
+      <Article id="a-31735526" file="article_15-1.xml">
+         <title ref="headline">Trials</title>
+         <byline ref="byline">by MIRIAM MARKOWITZ</byline>
+         <Summary>Iphigenia in Forest Hills Anatomy of a Murder Trial. by Janet Malcolm. Yale. 155 pp. $25. I am almost certain I first learned about the Borukhova case from the local television news soon after Daniel</Summary>
+      </Article>
+      <Article id="a-1663268258" file="article_18-2.xml">
+         <title ref="headline">Swarf</title>
+         <byline ref="byline">ERICA FUNKHOUSER</byline>
+         <Summary>If you have seen the fine metallic filings flying onto the fellow who crimps copper into flashing and fashions pivot hinges from brass, you have seen it. This is not the late Bronze Age. There are no</Summary>
+      </Article>
+      <Article id="a-950512713" file="article_22-2.xml">
+         <title ref="headline">Kerf</title>
+         <byline ref="byline">ERICA FUNKHOUSER</byline>
+         <Summary>What disappears when an eight-foot plank is sawn in half, yielding two less-than-four-foot boards, a solid term for what&#8217;s lost to the teeth of separation. Neither sawdust nor error, nor the labor of</Summary>
+      </Article>
+      <Article id="a-63009032" file="article_23-2.xml">
+         <title ref="headline">The Impresario</title>
+         <byline ref="byline">by GEORGE SCIALABBA</byline>
+         <Summary>The Neoconservative Persuasion Selected Essays, 1942&#8211;2009. By Irving Kristol. Edited by Gertrude Himmelfarb. Foreword by William Kristol. Basic. 390 pp. $29.95. Matisse said he wanted his art to have</Summary>
+      </Article>
+      <Article id="a1711998330" file="article_25-2.xml">
+         <title ref="headline">Hordes of trees with unpronounceable names poured down on our suburb</title>
+         <byline ref="byline">V&#xc9;NUS KHOURY-GHATA</byline>
+         <Summary>As the seasons waned Collided with our own trees grown grassy with meditation Club-footed humilis draped in a coat borrowed from the wolf Quercus with its tympanums pierced by vindictive birds</Summary>
+      </Article>
+      <Article id="a-807961604" file="article_27-2.xml">
+         <title ref="headline">Unreal Images</title>
+         <byline ref="byline">by JONATHAN BLITZER</byline>
+         <Summary>The Anatomy of a Moment Thirty-five Minutes in History and Imagination. By Javier Cercas. Translated by Anne McLean. Bloomsbury. 403 pp. Paper $18. On February 23, 1981, a video camera hanging in the</Summary>
+      </Article>
+      <Article id="a791374101" file="article_32-1.xml">
+         <title ref="headline">SHELF LIFE</title>
+         <byline ref="byline">by ALEXANDRA SCHWARTZ</byline>
+         <Summary>&#8220;ORIENTATION,&#8221; DANIEL OROZCO&#8217;s short story in the form of a new employee&#8217;s tour through an unnamed office, was published in 1994, the year before the debut of The Drew Carey Show. Like Carey, Orozco</Summary>
+      </Article>
+      <Article id="a1678877782" file="article_33-1.xml">
+         <title ref="headline">The Dumbest Story Ever Told</title>
+         <byline ref="byline">by GARY GREENBERG</byline>
+         <Summary>The Social Animal The Hidden Sources of Love, Character, and Achievement. By David Brooks. Random House. 424 pp. $27. Ever since his days at the University of Chicago, David Brooks has had, as he puts</Summary>
+      </Article>
+      <Article id="a1687173239" file="article_3-1.xml">
+         <title ref="headline">Curbing Campaign Cash</title>
+         <byline ref="byline"/>
+         <Summary>The post&#8211;Citizens United drive for secret campaign money has now become an arms race. As a New York Times editorial recently noted, former White House deputy press secretary Bill Burton will be</Summary>
+      </Article>
+      <Article id="a-1720290376" file="article_4-1.xml">
+         <title ref="headline">DSK D&#xe9;j&#xe0; Vu</title>
+         <byline ref="byline">KATHA POLLITT</byline>
+         <Summary>The French political class is aghast at the treatment being meted out in New York to Dominique Strauss-Kahn, head of the International Monetary Fund and likely Socialist Party candidate for the French</Summary>
+      </Article>
+      <Article id="a-832786695" file="article_5-1.xml">
+         <title ref="headline">Noted: ERIK PRINCE&#x2019;S NEW ARMY</title>
+         <byline ref="byline">JEREMY SCAHILL</byline>
+         <Summary>A year after he fled to Abu Dhabi, Blackwater founder Erik Prince is building an army of mercenaries, the New York Times has revealed. The forces, 800 strong, are under the auspices of a new company,</Summary>
+      </Article>
+      <Article id="a-831863174" file="article_5-2.xml">
+         <title ref="headline">Noted: ISRAEL AND THE ARAB SPRING</title>
+         <byline ref="byline">SHARIF ABDEL KOUDDOUS</byline>
+         <Summary>On May 15, thousands of Palestinian refugees and their supporters marched to Israel&#8217;s borders from neighboring countries to mark what they call the Nakba, or &#8220;catastrophe,&#8221; when more than 700,000</Summary>
+      </Article>
+      <Article id="a-830939653" file="article_5-3.xml">
+         <title ref="headline">Noted: TELECOM&#x2019;S &#x2018;REGULATORS&#x2019;</title>
+         <byline ref="byline">JOHN NICHOLS</byline>
+         <Summary>There was nothing Comcast and NBC executives wanted more than approval by the Federal Communications Commission of their multibillion-dollar merger. And despite objections from public interest groups,</Summary>
+      </Article>
+      <Article id="a-830016132" file="article_5-4.xml">
+         <title ref="headline">Noted: KUDOS TO KATHA</title>
+         <byline ref="byline"/>
+         <Summary>With more than three decades as a Nation contributor and columnist, Katha Pollitt is both an institution and indispensable. Winner of two National Magazine Awards and fellowships from the National</Summary>
+      </Article>
+      <Article id="a55640507" file="article_6-2.xml">
+         <title ref="headline">Solving the Euro Crisis</title>
+         <byline ref="byline">MARK WEISBROT</byline>
+         <Summary>The eurozone crisis is in some ways less complicated in its foundations than most people are making it. The fundamental problem is that Greece, Spain, Ireland and Portugal are stuck in recession or</Summary>
+      </Article>
+      <Article id="a56564028" file="article_6-3.xml">
+         <title ref="headline">Strauss-Kahn Lightens Gingrich&#x2019;s Baggage</title>
+         <byline ref="byline">Calvin Trillin, Deadline Poet</byline>
+         <Summary>Yes, Gingrich, our yard-sale Don Juan, Perked up at the news of Strauss-Kahn: Compared with a rape charge, some feel, Philandering&#8217;s not a big deal: Affairs, for which Newt has repented, Involved only</Summary>
+      </Article>
+      <Article id="a1829724348" file="article_8-1.xml">
+         <title ref="headline">The Intelligent Liberal&#x2019;s Guide to Foolish Principles</title>
+         <byline ref="byline">Eric Alterman</byline>
+         <Summary>In Tony Kushner&#8217;s moving&#8212;and mind-bending&#8212;new play, The Intelligent Homosexual&#8217;s Guide..., the 72-year-old ex-longshoreman and (yes) Communist Party activist Gus Mercantonio pronounces of a</Summary>
+      </Article>
+      <Article id="a-174286635" file="article_10-1.xml">
+         <title ref="headline">The Paradox of Hope</title>
+         <byline ref="byline">Gary Younge</byline>
+         <Summary>When Barack Obama was pondering a run for the presidency Michelle asked him what he thought he could accomplish. He replied, &#8220;The day I take the oath of office, the world will look at us differently.</Summary>
+      </Article>
+   </Articles>
+   <TOC>
+      <TocEntry title="Cover">
+         <Summary>Cover</Summary>
+         <Page pagenum="0"/>
+      </TocEntry>
+      <TocEntry title="Mud in Your Eye">
+         <Summary>HAMTRAMCK, MICH. In minor objection but with much appreciation for Elias Altman&#8217;s &#8220;Watered Whiskey&#8221; [May 2], it seems to me that this collection contains some of the strongest barrels of whiskey</Summary>
+         <Page pagenum="1"/>
+         <Article refid="a799669558"/>
+      </TocEntry>
+      <TocEntry title="Dreamt of in Your Philosophy">
+         <Summary>HOLDEN, MASS. Re Richard Wolin&#8217;s thoughtful review of James Miller&#8217;s Examined Lives [&#8220;Being in the World,&#8221; March 7/14]: I would like to see critics take seriously that Western philosophers do not</Summary>
+         <Page pagenum="1"/>
+         <Article refid="a800593079"/>
+      </TocEntry>
+      <TocEntry title="Wolin Replies">
+         <Summary>NEW YORK CITY In keeping with Todd Lewis&#8217;s suggestion, I am all in favor of histories of philosophy that are in tune with the contributions of Taoism, Confucianism and so forth. But I am not sure that</Summary>
+         <Page pagenum="1"/>
+         <Article refid="a801516600"/>
+      </TocEntry>
+      <TocEntry title="An Imperfect Life">
+         <Summary>W.B. Yeats and George Yeats The Letters. Edited by Ann Saddlemyer. Oxford. 599 pp. $49.95. The time is 1917; the place, London. The war is on. You are a young woman, attractive, well-off, fluent in</Summary>
+         <Page pagenum="10"/>
+         <Article refid="a713217046"/>
+      </TocEntry>
+      <TocEntry title="Trials">
+         <Summary>Iphigenia in Forest Hills Anatomy of a Murder Trial. by Janet Malcolm. Yale. 155 pp. $25. I am almost certain I first learned about the Borukhova case from the local television news soon after Daniel</Summary>
+         <Page pagenum="14"/>
+         <Article refid="a-31735526"/>
+      </TocEntry>
+      <TocEntry title="Swarf">
+         <Summary>If you have seen the fine metallic filings flying onto the fellow who crimps copper into flashing and fashions pivot hinges from brass, you have seen it. This is not the late Bronze Age. There are no</Summary>
+         <Page pagenum="17"/>
+         <Article refid="a-1663268258"/>
+      </TocEntry>
+      <TocEntry title="Kerf">
+         <Summary>What disappears when an eight-foot plank is sawn in half, yielding two less-than-four-foot boards, a solid term for what&#8217;s lost to the teeth of separation. Neither sawdust nor error, nor the labor of</Summary>
+         <Page pagenum="21"/>
+         <Article refid="a-950512713"/>
+      </TocEntry>
+      <TocEntry title="The Impresario">
+         <Summary>The Neoconservative Persuasion Selected Essays, 1942&#8211;2009. By Irving Kristol. Edited by Gertrude Himmelfarb. Foreword by William Kristol. Basic. 390 pp. $29.95. Matisse said he wanted his art to have</Summary>
+         <Page pagenum="22"/>
+         <Article refid="a-63009032"/>
+      </TocEntry>
+      <TocEntry title="Hordes of trees with unpronounceable names poured down on our suburb">
+         <Summary>As the seasons waned Collided with our own trees grown grassy with meditation Club-footed humilis draped in a coat borrowed from the wolf Quercus with its tympanums pierced by vindictive birds</Summary>
+         <Page pagenum="24"/>
+         <Article refid="a1711998330"/>
+      </TocEntry>
+      <TocEntry title="Unreal Images">
+         <Summary>The Anatomy of a Moment Thirty-five Minutes in History and Imagination. By Javier Cercas. Translated by Anne McLean. Bloomsbury. 403 pp. Paper $18. On February 23, 1981, a video camera hanging in the</Summary>
+         <Page pagenum="26"/>
+         <Article refid="a-807961604"/>
+      </TocEntry>
+      <TocEntry title="SHELF LIFE">
+         <Summary>&#8220;ORIENTATION,&#8221; DANIEL OROZCO&#8217;s short story in the form of a new employee&#8217;s tour through an unnamed office, was published in 1994, the year before the debut of The Drew Carey Show. Like Carey, Orozco</Summary>
+         <Page pagenum="31"/>
+         <Article refid="a791374101"/>
+      </TocEntry>
+      <TocEntry title="The Dumbest Story Ever Told">
+         <Summary>The Social Animal The Hidden Sources of Love, Character, and Achievement. By David Brooks. Random House. 424 pp. $27. Ever since his days at the University of Chicago, David Brooks has had, as he puts</Summary>
+         <Page pagenum="32"/>
+         <Article refid="a1678877782"/>
+      </TocEntry>
+      <TocEntry title="Curbing Campaign Cash">
+         <Summary>The post&#8211;Citizens United drive for secret campaign money has now become an arms race. As a New York Times editorial recently noted, former White House deputy press secretary Bill Burton will be</Summary>
+         <Page pagenum="2"/>
+         <Article refid="a1687173239"/>
+      </TocEntry>
+      <TocEntry title="DSK Déjà Vu">
+         <Summary>The French political class is aghast at the treatment being meted out in New York to Dominique Strauss-Kahn, head of the International Monetary Fund and likely Socialist Party candidate for the French</Summary>
+         <Page pagenum="3"/>
+         <Article refid="a-1720290376"/>
+      </TocEntry>
+      <TocEntry title="Noted: ERIK PRINCE’S NEW ARMY">
+         <Summary>A year after he fled to Abu Dhabi, Blackwater founder Erik Prince is building an army of mercenaries, the New York Times has revealed. The forces, 800 strong, are under the auspices of a new company,</Summary>
+         <Page pagenum="4"/>
+         <Article refid="a-832786695"/>
+      </TocEntry>
+      <TocEntry title="Noted: ISRAEL AND THE ARAB SPRING">
+         <Summary>On May 15, thousands of Palestinian refugees and their supporters marched to Israel&#8217;s borders from neighboring countries to mark what they call the Nakba, or &#8220;catastrophe,&#8221; when more than 700,000</Summary>
+         <Page pagenum="4"/>
+         <Article refid="a-831863174"/>
+      </TocEntry>
+      <TocEntry title="Noted: TELECOM’S ‘REGULATORS’">
+         <Summary>There was nothing Comcast and NBC executives wanted more than approval by the Federal Communications Commission of their multibillion-dollar merger. And despite objections from public interest groups,</Summary>
+         <Page pagenum="4"/>
+         <Article refid="a-830939653"/>
+      </TocEntry>
+      <TocEntry title="Noted: KUDOS TO KATHA">
+         <Summary>With more than three decades as a Nation contributor and columnist, Katha Pollitt is both an institution and indispensable. Winner of two National Magazine Awards and fellowships from the National</Summary>
+         <Page pagenum="4"/>
+         <Article refid="a-830016132"/>
+      </TocEntry>
+      <TocEntry title="Solving the Euro Crisis">
+         <Summary>The eurozone crisis is in some ways less complicated in its foundations than most people are making it. The fundamental problem is that Greece, Spain, Ireland and Portugal are stuck in recession or</Summary>
+         <Page pagenum="5"/>
+         <Article refid="a55640507"/>
+      </TocEntry>
+      <TocEntry title="Strauss-Kahn Lightens Gingrich’s Baggage">
+         <Summary>Yes, Gingrich, our yard-sale Don Juan, Perked up at the news of Strauss-Kahn: Compared with a rape charge, some feel, Philandering&#8217;s not a big deal: Affairs, for which Newt has repented, Involved only</Summary>
+         <Page pagenum="5"/>
+         <Article refid="a56564028"/>
+      </TocEntry>
+      <TocEntry title="The Intelligent Liberal’s Guide to Foolish Principles">
+         <Summary>In Tony Kushner&#8217;s moving&#8212;and mind-bending&#8212;new play, The Intelligent Homosexual&#8217;s Guide..., the 72-year-old ex-longshoreman and (yes) Communist Party activist Gus Mercantonio pronounces of a</Summary>
+         <Page pagenum="7"/>
+         <Article refid="a1829724348"/>
+      </TocEntry>
+      <TocEntry title="The Paradox of Hope">
+         <Summary>When Barack Obama was pondering a run for the presidency Michelle asked him what he thought he could accomplish. He replied, &#8220;The day I take the oath of office, the world will look at us differently.</Summary>
+         <Page pagenum="9"/>
+         <Article refid="a-174286635"/>
+      </TocEntry>
+   </TOC>
+</ReplicaMap>

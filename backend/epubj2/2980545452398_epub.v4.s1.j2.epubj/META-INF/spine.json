@@ -1,0 +1,180 @@
+{  
+    "v":"2.0",
+    "_":1,
+    "metadata":{  
+        "title":"The Hunger Games: The Official Illustrated Movie Companion",
+        "language":"en-US",
+        "date":"2012-01-05",
+        "identifier":"9780545452397",
+        "publisher":"Scholastic Inc.",
+        "creator":"Kate Egan"
+    },
+    "spine":[  
+        {  
+            "T":"OEBPS/HG_Movie_ebook.html",
+            "X":"q1",
+            "O":"OEBPS/HG_Movie_ebook.content.json",
+            "R":"application/dtls",
+            "C":"/6/2",
+            "N":true,
+            "Z":575,
+            "G":374
+        },
+        {  
+            "T":"OEBPS/HG_Movie_ebook-2.html",
+            "X":"q2",
+            "O":"OEBPS/HG_Movie_ebook-2.content.json",
+            "R":"application/dtls",
+            "C":"/6/4",
+            "N":true,
+            "Z":600,
+            "G":394
+        },
+        {  
+            "T":"OEBPS/HG_Movie_ebook-1.html",
+            "X":"q3",
+            "O":"OEBPS/HG_Movie_ebook-1.content.json",
+            "R":"application/dtls",
+            "C":"/6/6",
+            "N":true,
+            "Z":1644,
+            "G":567
+        },
+        {  
+            "T":"OEBPS/HG_Movie_ebook-3.html",
+            "X":"q4",
+            "O":"OEBPS/HG_Movie_ebook-3.content.json",
+            "R":"application/dtls",
+            "C":"/6/8",
+            "N":true,
+            "Z":6513,
+            "G":2954
+        },
+        {  
+            "T":"nook/isaSample.xhtml",
+            "X":"q5",
+            "O":"nook/isaSample.content.json",
+            "R":"application/dtls",
+            "C":"/6/10",
+            "N":true,
+            "Z":809,
+            "G":330
+        }
+    ],
+    "toc":{  
+        "b":"The Hunger Games: The Official Illustrated Movie Companion",
+        "navmap":[  
+            {  
+                "label":"Cover",
+                "E":"OEBPS/HG_Movie_ebook.html#toc_marker-1",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Title Page",
+                "E":"OEBPS/HG_Movie_ebook-2.html#toc_marker-2",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Contents",
+                "E":"OEBPS/HG_Movie_ebook-1.html#toc_marker-3",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Part 1: The History of The Hunger Games",
+                "E":"OEBPS/HG_Movie_ebook-3.html#toc_marker-4",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Part 2: The Cast of The Hunger Games",
+                "E":"OEBPS/../nook/isaSample.xhtml#toc_marker-5_nook_isaSample_5",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Part 3: The Look of The Hunger Games: Places and Props",
+                "E":"OEBPS/../nook/isaSample.xhtml#toc_marker-6_nook_isaSample_6",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Part 4: The Look of The Hunger Games: People",
+                "E":"OEBPS/../nook/isaSample.xhtml#toc_marker-7_nook_isaSample_7",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Part 5: The Filming of The Hunger Games",
+                "E":"OEBPS/../nook/isaSample.xhtml#toc_marker-8_nook_isaSample_8",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Part 6: The Legacy of The Hunger Games",
+                "E":"OEBPS/../nook/isaSample.xhtml#toc_marker-9_nook_isaSample_9",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Acknowledgments",
+                "E":"OEBPS/../nook/isaSample.xhtml#toc_marker-10_nook_isaSample_10",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Copyright",
+                "E":"OEBPS/../nook/isaSample.xhtml#toc_marker-11_nook_isaSample_11",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            }
+        ]
+    },
+    "pagemap":[  
+        {  
+            "C":"/6/2!"
+        },
+        {  
+            "C":"/6/4!"
+        },
+        {  
+            "C":"/6/6!"
+        },
+        {  
+            "C":"/6/8!"
+        },
+        {  
+            "C":"/6/8!/4/2[HG_Movie_ebook-3.html]/6/14/5:149"
+        },
+        {  
+            "C":"/6/8!/4/2[HG_Movie_ebook-3.html]/6/32/3:76"
+        },
+        {  
+            "C":"/6/10!"
+        }
+    ]
+}

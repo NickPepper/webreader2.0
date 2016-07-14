@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Cooking with Paula Deen</title>
+<link href="css/test1.css" rel="stylesheet" type="text/css" />
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    </head>
+<body class="left">
+        <div class="before">
+            <div class="articleMenuWrapper" id="header_navbar">
+                <div class="sectionMenuLeft" id="header_navbar_previous">
+                    <a href="page051.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="header_navbar_next">
+                    <a href="page054.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+            <div class="masthead" id="header">
+                <div class="masthead-text">
+                    <div class="masthead-section" id="header_title">
+                        <a href="section.xml">Contents</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="article-headline" id="Headline">BUFFALO CHICKEN SLIDERS</div>
+
+
+
+<div class="article-in-image" id="image1"><img src="images/page052.article001.image1.jpg" class="article-in-image" alt=""/></div>
+<div id="separatorLine"> <div class="invisible">empty</div> </div>
+
+<div class="articleImageCredit" id="ImageCredit">PHOTOGRAPHY BY MARCY BLACK SIMPSON</div>
+<div class="article-body" id="Body"><p class="no-indent">Makes 24 sliders </p><br/><p class="no-indent">8 boneless skinless chicken breasts (about 5½ pounds) </p><p class="no-indent">2 cups buffalo sauce*, divided </p><p class="no-indent">1 (1-ounce) envelope ranch dressing mix </p><p class="no-indent">1 teaspoon celery seeds </p><p class="no-indent">2 (12-count) packages slider buns </p><p class="no-indent">Blue Cheese Dip (recipe follows) </p><br/><p class="no-indent">1. Cut each chicken breast into 3 pieces. Place chicken pieces between 2 sheets of heavy-duty plastic wrap, and flatten to ¾-inch thickness using a rolling pin or meat mallet. </p><br/><p class="no-indent">2. In a small bowl, whisk together 1 cup buffalo sauce, dressing mix, and celery seeds. Place chicken into a large heavy-duty resealable bag. Add buffalo sauce mixture; seal and turn to coat. Chill for 2 to 4 hours. </p><br/><p class="no-indent">3. Spray grill with nonstick nonflammable cooking spray and preheat to medium-high heat (350° to 400°). Remove chicken from marinade, discarding marinade. </p><br/><p class="no-indent">4. Grill chicken for 4 to 5 minutes per side or until a meat thermometer inserted into thickest portion registers 165°. Toss chicken with remaining 1 cup buffalo sauce. </p><br/><p class="no-indent">5. Place 1 piece of chicken on bottom half of each bun. Spread about 2 tablespoons Blue Cheese Dip on cut sides of top half of buns and place, sauce side down, on chicken. Serve immediately. </p><br/><p class="no-indent">*We used Moore’s Buffalo Wing sauce.</p><br/><p>______________________________</p><br/><p class="no-indent">Blue Cheese Dip </p><p class="no-indent">Makes about 3½ cups </p><br/><p class="no-indent">This dip is as great with corn or tortilla chips as it is on the sliders. </p><br/><p class="no-indent">1 (8-ounce) package cream cheese, softened </p><p class="no-indent">1 (16-ounce) container sour cream, divided </p><p class="no-indent">1 (4-ounce) package blue cheese, crumbled </p><p class="no-indent">¼ cup chopped green onions </p><p class="no-indent">2 tablespoons chopped parsley </p><p class="no-indent">1 teaspoon ground black pepper </p><br/><p class="no-indent">1. In a large bowl, beat cream cheese at medium speed with a mixer until smooth. Add ½ cup sour cream, beating until smooth. Add remaining sour cream, beating until smooth. Stir in blue cheese, green onions, parsley, and pepper. Cover and chill until ready to serve.</p><br/><p>______________________________</p><br/><br/><p class="no-indent">“Here’s how we roll with these sandwiches: I marinate the chicken at home and take it to the picnic, then Michael grills it on site.” </p><p class="no-indent">–PAULA</p><br/><p>______________________________</p><br/><p class="no-indent">BE FOOD SAFE</p><br/><p class="no-indent">Anything you would keep in the refrigerator at home should be stored in an ice-packed cooler until you’re ready to cook or eat.</p></div>
+<div class="after">
+            <div class="articleMenuWrapper" id="footer_navbar">
+                <div class="sectionMenuLeft" id="footer_navbar_previous">
+                    <a href="page051.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="footer_navbar_next">
+                    <a href="page054.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+        </div>
+    </body>
+</html>

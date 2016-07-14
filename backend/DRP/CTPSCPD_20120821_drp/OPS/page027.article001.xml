@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Cooking with Paula Deen</title>
+<link href="css/test1.css" rel="stylesheet" type="text/css" />
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    </head>
+<body class="left">
+        <div class="before">
+            <div class="articleMenuWrapper" id="header_navbar">
+                <div class="sectionMenuLeft" id="header_navbar_previous">
+                    <a href="page024.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="header_navbar_next">
+                    <a href="page026.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+            <div class="masthead" id="header">
+                <div class="masthead-text">
+                    <div class="masthead-section" id="header_title">
+                        <a href="section.xml">Contents</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="article-headline" id="Headline">DAY 1</div>
+<div class="article-subhead" id="SubHeadline">Chicken and Orzo Soup with Spinach and Lemon│Toasted Pita</div>
+
+
+<div class="article-in-image" id="image1"><img src="images/page027.article001.image1.jpg" class="article-in-image" alt=""/></div>
+<div id="separatorLine"> <div class="invisible">empty</div> </div>
+
+<div class="articleImageCredit" id="ImageCredit">PHOTOGRAPHY BY WILLIAM DICKEY</div>
+<div class="article-body" id="Body"><p class="no-indent">Chicken and Orzo Soup with Spinach and Lemon</p><p class="no-indent">Makes 6 to 8 servings </p><br/><p class="no-indent">1 tablespoon olive oil </p><p class="no-indent">¾ cup chopped onion </p><p class="no-indent">¾ cup chopped carrot </p><p class="no-indent">1 teaspoon bottled minced garlic </p><p class="no-indent">1½ pounds boneless skinless chicken breast, cut into ½-inch pieces </p><p class="no-indent">2 (32-ounce) boxes chicken broth </p><p class="no-indent">¾ cup uncooked orzo pasta </p><p class="no-indent">1 (6-ounce) bag baby spinach, stems removed </p><p class="no-indent">2 tablespoons fresh lemon juice </p><p class="no-indent">1 teaspoon dried dill </p><p class="no-indent">½ teaspoon ground black pepper </p><br/><p class="no-indent">1. In a large Dutch oven, heat olive oil over medium heat. Add onion, carrot, and garlic; cook, stirring frequently, for 3 minutes. Add chicken, and cook, stirring frequently, for 6 minutes. </p><br/><p class="no-indent">2. Add broth, and bring to a boil over medium-high heat. Add orzo, reduce heat, and simmer for 8 minutes, or until orzo is tender. </p><br/><p class="no-indent">3. Add spinach, lemon juice, dill, and pepper; cook for 2 minutes or until spinach is wilted. </p><br/><p>______________________________</p><br/><p class="no-indent">Toasted Pita </p><p class="no-indent">Makes 6 to 8 servings </p><br/><p class="no-indent">1 (12-ounce) package pita bread rounds </p><p class="no-indent">2 tablespoons olive oil </p><p class="no-indent">½ teaspoon kosher salt </p><p class="no-indent">¼ teaspoon ground black pepper </p><br/><p class="no-indent">1. Preheat oven to 400˚. Brush pita rounds with olive oil; sprinkle with salt and pepper. Place on a rimmed baking sheet. </p><br/><p class="no-indent">2. Bake for 10 minutes or until crisp. Tear into pieces to serve.</p><br/><p>______________________________</p><br/><p class="no-indent">WEB EXTRAS</p><br/><p class="no-indent">Ingredients that are italicized are considered Pantry Basics and will not be included in the Shopping List on page 35. Before you go shopping, be sure to check your pantry and fridge for italicized items to make sure you are stocked up. Visit cookingwithpauladeen.com and click on Web Extras for our complete list of Pantry Basics.</p></div>
+<div class="after">
+            <div class="articleMenuWrapper" id="footer_navbar">
+                <div class="sectionMenuLeft" id="footer_navbar_previous">
+                    <a href="page024.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="footer_navbar_next">
+                    <a href="page026.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+        </div>
+    </body>
+</html>

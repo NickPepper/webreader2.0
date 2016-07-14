@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Cooking with Paula Deen</title>
+<link href="css/test1.css" rel="stylesheet" type="text/css" />
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    </head>
+<body class="left">
+        <div class="before">
+            <div class="articleMenuWrapper" id="header_navbar">
+                <div class="sectionMenuLeft" id="header_navbar_previous">
+                    <a href="page033.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="header_navbar_next">
+                    <a href="page034.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+            <div class="masthead" id="header">
+                <div class="masthead-text">
+                    <div class="masthead-section" id="header_title">
+                        <a href="section.xml">Contents</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="article-headline" id="Headline">SHOPPING LIST</div>
+
+
+
+
+<div id="separatorLine"> <div class="invisible">empty</div> </div>
+
+
+<div class="article-body" id="Body"><p class="no-indent">PRODUCE </p><br/><p class="no-indent">● 3 onions </p><br/><p class="no-indent">● 2 red bell peppers </p><br/><p class="no-indent">● 1 large head bok choy </p><br/><p class="no-indent">● 1 head broccoli </p><br/><p class="no-indent">● 1 lemon </p><br/><p class="no-indent">● 1 orange </p><br/><p class="no-indent">● 2 pounds small red potatoes </p><br/><p class="no-indent">● 1 pound asparagus </p><br/><p class="no-indent">● 1 (1-pound) bag carrots </p><br/><p class="no-indent">● 1 (8-ounce) package button mushrooms </p><br/><p class="no-indent">● 1 (6-ounce) bag fresh baby spinach </p><br/><p class="no-indent">● 1 (6-ounce) bag fresh Italian salad mix </p><br/><p class="no-indent">● 1 pint cherry tomatoes </p><br/><p class="no-indent">● 1 (1-ounce) package fresh thyme </p><br/><p class="no-indent">● 1 (1-ounce) package fresh rosemary </p><br/><p class="no-indent">DAIRY </p><br/><p class="no-indent">● 1 (16-ounce) container heavy whipping cream </p><br/><p class="no-indent">● 1 (15-ounce) container ricotta cheese </p><br/><p class="no-indent">● 2 (8-ounce) packages shredded mozzarella cheese </p><br/><p class="no-indent">● 1 (8-ounce) package provolone cheese </p><br/><p class="no-indent">● 1 (8-ounce) package shredded Cheddar cheese </p><br/><p class="no-indent">● 1 (6-ounce) package shredded Parmesan cheese </p><br/><p class="no-indent">PANTRY </p><br/><p class="no-indent">● 3 (32-ounce) cartons chicken broth </p><br/><p class="no-indent">● 1 (25-ounce) jar tomato and basil pasta sauce </p><br/><p class="no-indent">● 1 (16-ounce) package orzo </p><br/><p class="no-indent">● 1 (8-ounce) package manicotti </p><br/><p class="no-indent">● 1 (16-ounce) bag pretzels </p><br/><p class="no-indent">● 1 (12-ounce) loaf French bread </p><br/><p class="no-indent">● 1 (12-ounce) package pita bread rounds </p><br/><p class="no-indent">● 1 (7.3-ounce) jar whole-grain Dijon mustard </p><br/><p class="no-indent">● 1 (0.6-ounce) envelope zesty Italian dressing mix </p><br/><p class="no-indent">MEAT </p><br/><p class="no-indent">● 2½ pounds boneless top sirloin steak </p><br/><p class="no-indent">● 1½ pounds pork tenderloin </p><br/><p class="no-indent">● 1½ pounds boneless skinless chicken breast </p><br/><p class="no-indent">● 1½ pounds chicken cutlets </p><br/><p class="no-indent">FROZEN </p><br/><p class="no-indent">● 1 (15-ounce) package prepared egg rolls </p><br/><p class="no-indent">● 1 (10-ounce) package frozen chopped spinach</p></div>
+<div class="after">
+            <div class="articleMenuWrapper" id="footer_navbar">
+                <div class="sectionMenuLeft" id="footer_navbar_previous">
+                    <a href="page033.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="footer_navbar_next">
+                    <a href="page034.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+        </div>
+    </body>
+</html>

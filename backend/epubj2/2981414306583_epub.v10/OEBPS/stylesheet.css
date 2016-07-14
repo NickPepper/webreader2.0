@@ -1,0 +1,1440 @@
+@page {
+    margin-top: 20px;
+    margin-bottom: 15px
+    }
+body {
+    line-height: 1.33em;
+    margin-right: 25px;
+    margin-left: 25px;
+    adobe-text-layout: optimizeSpeed;
+    widows: 3;
+    orphans: 3
+    }
+div.image {
+    margin-left: 0;
+    text-indent: 0;
+    text-align: center
+    }
+div.full-image {
+    margin-left: 0;
+    text-indent: 0;
+    text-align: center;
+    max-width: 100%;
+    height: 99%
+    }
+div.note-first {
+    margin-top: 100px
+    }
+div.callouts {
+    float: right;
+    width: 40%;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px
+    }
+div.sidebar {
+    font-size: 0.8em;
+    margin-right: 60px;
+    margin-left: 60px;
+    margin-top: 30px;
+    margin-bottom: 30px
+    }
+div.cover-image {
+    margin-left: 0;
+    text-indent: 0;
+    text-align: center
+    }
+div.title-page-image {
+    margin-left: 0;
+    text-indent: 0;
+    text-align: center
+    }
+div.half-title-page-image {
+    margin-left: 0;
+    text-indent: 0;
+    text-align: center
+    }
+div.toc-list-1 {
+    margin-top: 100px
+    }
+img.cover-image {
+    max-width: 100%;
+    height: 99%
+    }
+img.title-page-image {
+    max-width: 100%;
+    height: 99%
+    }
+img.half-title-page-image {
+    margin-left: 0;
+    text-indent: 0;
+    text-align: center;
+    max-width: 100%;
+    height: 99%
+    }
+img.full-image {
+    max-width: 100%;
+    height: 99%
+    }
+img.image {
+    max-width: 100%
+    }
+p.title-page-title {
+    font-family: sans-serif;
+    font-size: 3em;
+    line-height: 1.5em;
+    page-break-before: always;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 0;
+    text-indent: 0;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic
+    }
+p.title-page-subtitle {
+    font-family: sans-serif;
+    font-size: 2em;
+    line-height: 1.33em;
+    page-break-before: auto;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 0;
+    text-indent: 0;
+    text-align: center;
+    font-weight: bold;
+    font-style: normal
+    }
+p.title-page-by {
+    font-family: sans-serif;
+    font-size: 1.5em;
+    line-height: 1.33em;
+    margin-bottom: 0;
+    text-indent: 0;
+    text-align: center;
+    font-weight: bold
+    }
+p.title-page-author {
+    font-family: sans-serif;
+    font-size: 2.3em;
+    line-height: 2em;
+    page-break-before: auto;
+    margin-bottom: 0;
+    text-indent: 0;
+    text-align: center;
+    font-weight: bold
+    }
+p.title-page-publisher {
+    font-family: sans-serif;
+    font-size: 1.5em;
+    line-height: 1.5em;
+    page-break-before: auto;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-bottom: 0;
+    text-indent: 0;
+    text-align: center;
+    font-weight: bold
+    }
+p.title-page-publisher-location {
+    font-family: sans-serif;
+    font-size: 1.5em;
+    page-break-before: auto;
+    margin-bottom: 0;
+    text-indent: 0;
+    margin-left: 60px;
+    margin-right: 60px;
+    text-align: center;
+    font-weight: bold
+    }
+p.build-stamp {
+    line-height: 1.33em;
+    font-size: 0.66em;
+    margin-top: 10px;
+    margin-bottom: 0;
+    text-indent: 0;
+    margin-left: 0;
+    margin-right: 0;
+    text-align: justify;
+    font-weight: normal;
+    font-style: normal
+    }
+p.toc-ebook-chapter {
+    font-size: 1em;
+    margin-top: 10px;
+    margin-bottom: 0;
+    text-indent: -30px;
+    margin-left: 60px;
+    margin-right: 0;
+    text-align: justify;
+    font-weight: normal;
+    font-style: normal
+    }
+p.toc-ebook-chapter-sp {
+    font-size: 1em;
+    margin-top: 30px;
+    margin-bottom: 0;
+    text-indent: -30px;
+    margin-left: 60px;
+    margin-right: 0;
+    text-align: justify;
+    font-weight: normal;
+    font-style: normal
+    }
+p.toc-ebook-fm-bm-sp {
+    font-size: 1em;
+    margin-top: 30px;
+    margin-bottom: 0;
+    text-indent: 0;
+    margin-left: 60px;
+    margin-right: 0;
+    text-align: justify;
+    font-weight: normal;
+    font-style: italic
+    }
+p.toc-ebook-fm-bm {
+    font-size: 1em;
+    margin-top: 10px;
+    margin-bottom: 0;
+    text-indent: 0;
+    margin-left: 60px;
+    margin-right: 0;
+    text-align: justify;
+    font-weight: normal;
+    font-style: italic
+    }
+p.toc-ebook-teaser-sp {
+    font-size: 1em;
+    margin-top: 30px;
+    margin-bottom: 0;
+    text-indent: 0;
+    margin-left: 60px;
+    margin-right: 0;
+    text-align: justify;
+    font-weight: normal;
+    font-style: normal
+    }
+p.toc-ebook-teaser {
+    font-size: 1em;
+    margin-top: 10px;
+    margin-bottom: 0;
+    text-indent: 0;
+    margin-left: 60px;
+    margin-right: 0;
+    text-align: justify;
+    font-weight: normal;
+    font-style: normal
+    }
+p.toc-ebook-part {
+    font-size: 1em;
+    margin-top: 30px;
+    margin-bottom: 0;
+    text-indent: 0;
+    margin-left: 0;
+    margin-right: 0;
+    text-align: justify;
+    font-weight: bold;
+    font-style: normal
+    }
+p.toc-ebook-division {
+    font-size: 1em;
+    margin-top: 15px;
+    margin-bottom: 0;
+    text-indent: -30px;
+    margin-left: 45px;
+    margin-right: 0;
+    text-align: justify;
+    font-weight: bold;
+    font-style: normal
+    }
+span.note-link {
+    font-family: inherit;
+    font-size: 0.75em;
+    vertical-align: text-top;
+    /*mobi8::vertical-align:text-bottom;*/
+    }
+span.cs-fake-sc {
+    font-family: inherit;
+    font-size: 0.8em;
+    text-transform: uppercase
+    }
+sup.note_marker {
+    font-family: inherit;
+    font-size: 0.75em;
+    vertical-align: text-top;
+    /*mobi8::vertical-align:text-bottom;*/
+    }
+ol.toc-list-1 {
+    list-style: none;
+    margin-top: 100px
+    }
+ol.toc-list-2 {
+    list-style: none
+    }
+ol.toc-list-3 {
+    list-style: none
+    }
+li.toc-ebook-chapter {
+    font-size: 1em;
+    margin-top: 10px;
+    margin-bottom: 0;
+    text-indent: -30px;
+    margin-left: 30px;
+    margin-right: 0;
+    text-align: justify;
+    font-weight: normal;
+    font-style: normal
+    }
+li.toc-ebook-chapter-sp {
+    font-size: 1em;
+    margin-top: 30px;
+    margin-bottom: 0;
+    text-indent: -30px;
+    margin-left: 30px;
+    margin-right: 0;
+    text-align: justify;
+    font-weight: normal;
+    font-style: normal
+    }
+li.toc-ebook-fm-bm-sp {
+    font-size: 1em;
+    margin-top: 30px;
+    margin-bottom: 0;
+    text-indent: 0;
+    margin-left: 60px;
+    margin-right: 0;
+    text-align: justify;
+    font-weight: normal;
+    font-style: italic
+    }
+li.toc-ebook-teaser-sp {
+    font-size: 1em;
+    margin-top: 30px;
+    margin-bottom: 0;
+    text-indent: 0;
+    margin-left: 60px;
+    margin-right: 0;
+    text-align: justify;
+    font-weight: normal;
+    font-style: normal
+    }
+li.toc-ebook-fm-bm {
+    font-size: 1em;
+    margin-top: 10px;
+    margin-bottom: 0;
+    text-indent: 0;
+    margin-left: 60px;
+    margin-right: 0;
+    text-align: justify;
+    font-weight: normal;
+    font-style: italic
+    }
+li.toc-ebook-teaser {
+    font-size: 1em;
+    margin-top: 10px;
+    margin-bottom: 0;
+    text-indent: 0;
+    margin-left: 60px;
+    margin-right: 0;
+    text-align: justify;
+    font-weight: normal;
+    font-style: normal
+    }
+li.toc-ebook-part {
+    font-size: 1em;
+    margin-top: 30px;
+    margin-bottom: 0;
+    text-indent: 0;
+    margin-left: 0;
+    margin-right: 0;
+    text-align: justify;
+    font-weight: bold;
+    font-style: normal
+    }
+li.toc-ebook-division {
+    font-size: 1em;
+    margin-top: 15px;
+    margin-bottom: 0;
+    text-indent: 0;
+    margin-left: 0;
+    margin-right: 0;
+    text-align: justify;
+    font-weight: bold;
+    font-style: normal
+    }
+h1.chapter-title {
+    font-size: 1.5em;
+    line-height: 1.33em;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-indent: 0;
+    margin-left: 60px;
+    margin-right: 60px;
+    text-align: center;
+    font-weight: bold;
+    font-style: normal
+    }
+h1.part-title {
+    font-size: 2.5em;
+    line-height: 1.33em;
+    margin-top: 15px;
+    margin-bottom: 0;
+    text-indent: 0;
+    margin-left: 0;
+    margin-right: 0;
+    text-align: center;
+    font-weight: bold;
+    font-style: normal
+    }
+p.bible-text-note {
+    line-height: 1.33em;
+    font-size: 0.8em;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-indent: -30px;
+    margin-left: 30px;
+    margin-right: 0;
+    text-align: justify;
+    font-weight: normal;
+    font-style: normal
+    }
+p.body-ch {
+    margin-top: 10px;
+    margin-bottom: 0;
+    text-indent: 0;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: normal;
+    font-style: normal
+    }
+p.body-ch-hd {
+    margin-top: 10px;
+    margin-bottom: 0;
+    text-indent: 0;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: normal;
+    font-style: normal
+    }
+p.body-fl {
+    margin-top: 10px;
+    margin-bottom: 0;
+    text-indent: 0;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: normal;
+    font-style: normal
+    }
+p.body-hd {
+    margin-top: 10px;
+    margin-bottom: 0;
+    text-indent: 0;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: normal;
+    font-style: normal
+    }
+p.ext-body-ch-hd {
+    line-height: 1.33em;
+    font-size: 1em;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-indent: 0;
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: justify;
+    font-weight: normal;
+    font-style: normal
+    }
+p.ext-body-fl {
+    line-height: 1.33em;
+    font-size: 1em;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-indent: 0;
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: justify;
+    font-weight: normal;
+    font-style: normal
+    }
+p.front-copyright {
+    line-height: 1.33em;
+    font-size: 0.66em;
+    margin-top: 10px;
+    margin-bottom: 0;
+    text-indent: 0;
+    margin-left: 0;
+    margin-right: 0;
+    text-align: justify;
+    font-weight: normal;
+    font-style: normal
+    }
+p.front-copyright-box {
+    margin: 0.5em 0;
+    border: 1px solid black;
+    padding: 0.5em;
+    text-indent: 0;
+    font-family: sans-serif;
+    font-size: 90%
+    }
+p.front-copyright-ext {
+    line-height: 1.33em;
+    font-size: 0.66em;
+    margin-top: 10px;
+    margin-bottom: 0;
+    text-indent: 0;
+    margin-left: 1.5em;
+    margin-right: 0;
+    text-align: justify;
+    font-weight: normal;
+    font-style: normal
+    }
+p.front-h1 {
+    margin-bottom: 2em;
+    text-align: center;
+    text-indent: 0;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: #6D3011
+    }
+p.front-list {
+    margin-left: 1em;
+    text-indent: -1em
+    }
+p.oy-month-nav {
+    line-height: 1.4em;
+    font-size: 1.33em;
+    margin-top: 10px;
+    margin-bottom: 0;
+    text-indent: 0;
+    margin-left: 0;
+    margin-right: 0;
+    text-align: center;
+    font-weight: normal;
+    font-style: normal
+    }
+p.poet1-hd {
+    line-height: 1.33em;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-indent: -60px;
+    margin-left: 90px;
+    margin-right: 0;
+    font-weight: normal;
+    font-style: normal
+    }
+em {
+    font-family: inherit;
+    font-style: italic
+    }
+span.vn {
+    font-family: inherit;
+    font-size: 0.7em;
+    vertical-align: text-top;
+    /*mobi8::vertical-align:text-bottom;*/
+    font-weight: bold;
+    padding-right: 0.1em
+    }
+sup.tn-fract-ital-num {
+    font-family: inherit;
+    font-size: 0.66em;
+    vertical-align: text-top;
+    /*mobi8::vertical-align:text-bottom;*/
+    font-style: italic;
+    }
+a {
+    font-family: inherit
+    }
+sup.fract-num {
+    font-family: inherit;
+    font-size: 0.66em;
+    vertical-align: text-top;
+    /*mobi8::vertical-align:text-bottom;*/
+    }
+sup.tn-fract-num {
+    font-family: inherit;
+    font-size: 0.66em;
+    vertical-align: text-top;
+    /*mobi8::vertical-align:text-bottom;*/
+    }
+/* Tyndale Bible Verse Finder */
+p.tbvf-h2 {
+    margin-top: 1em;
+    text-indent: 0;
+    font-weight: bold;
+    margin-left: 0
+    }
+p.tbvf-list {
+    margin-left: 1em;
+    text-indent: -1em
+    }
+span.see {
+    font-weight: normal;
+    font-style: italic
+    }
+/*from bibles/products/NLT*/
+/* == NLT TEXT == */
+a.book, a.chapter, a.tr, a.verse {
+    text-decoration: none
+    }
+div.toc p {
+    line-height: 1.5
+    }
+p.body {
+    line-height: 1.33em;
+    font-size: 1em;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    text-indent: 1em
+    }
+p.body-ch, p.body-ch-hd, p.body-fl, p.body-hd {
+    line-height: 1.33em;
+    font-size: 1em;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-indent: 0;
+    margin-left: 0;
+    margin-right: 0
+    }
+p.body-fl-sp {
+    margin-top: 0.5em;
+    line-height: 1.33em;
+    font-size: 1em;
+    margin-bottom: 0;
+    text-indent: 0;
+    margin-left: 0;
+    margin-right: 0
+    }
+p.body-sp {
+    margin-top: 0.5em;
+    text-indent: 1em;
+    line-height: 1.33em;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0
+    }
+p.chapter-number {
+    line-height: 1.33em;
+    font-size: 1.2em;
+    margin-top: 30px;
+    margin-bottom: 0;
+    text-indent: 0;
+    margin-left: 0;
+    margin-right: 0;
+    text-align: justify;
+    font-weight: bold;
+    font-style: normal
+    }
+p.chapter-number a:link, p.chapter-number a:visited {
+    color: inherit;
+    text-decoration: none
+    }
+a.chapter-number {
+    font-size: 200%
+    }
+p.chapter-number .tr {
+    vertical-align: super
+    }
+p.chapter-number a:link {
+    text-decoration: none
+    }
+p.chapter-number a.tr:link {
+    text-decoration: underline
+    }
+p.ext-body {
+    margin-left: 1em;
+    text-indent: 1em;
+    line-height: 1.33em;
+    font-size: 1em;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 0
+    }
+p.ext-body-ch, p.ext-body-ch-hd, p.ext-body-fl, p.ext-body-hd {
+    margin-left: 1em;
+    line-height: 1.33em;
+    font-size: 1em;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-indent: 0;
+    margin-right: 0
+    }
+p.ext-body-fl-sp {
+    margin-top: 0.5em;
+    margin-left: 1em;
+    line-height: 1.33em;
+    font-size: 1em;
+    margin-bottom: 0;
+    text-indent: 0;
+    margin-right: 0
+    }
+p.ext-body-sp {
+    margin-top: 0.5em;
+    margin-left: 1em;
+    text-indent: 1em;
+    line-height: 1.33em;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-right: 0
+    }
+p.ext-hanging, p.ext-hanging-ch, p.ext-hanging-hd, p.ext-hanging-ch-hd {
+    margin-left: 1em;
+    text-indent: -1em;
+    line-height: 1.33em;
+    font-size: 1em;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 0
+    }
+p.ext-hanging-sp {
+    margin-top: 0.5em;
+    margin-left: 1em;
+    text-indent: -1em;
+    line-height: 1.33em;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-right: 0
+    }
+p.ext-list, p.ext-list-vn {
+    margin-left: 2em;
+    text-indent: -1em;
+    line-height: 1.33em;
+    font-size: 1em;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 0
+    }
+p.ext-poet1 {
+    margin-left: 4em;
+    text-indent: -2em;
+    line-height: 1.33em;
+    font-size: 1em;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 0
+    }
+p.ext-poet1-sp {
+    margin-top: 0.5em;
+    margin-left: 4em;
+    text-indent: -2em;
+    line-height: 1.33em;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-right: 0
+    }
+p.ext-poet1-vn {
+    margin-top: 0;
+    margin-left: 4em;
+    text-indent: -3em;
+    line-height: 1.33em;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-right: 0
+    }
+p.ext-poet1-vn-sp {
+    margin-top: 0.5em;
+    margin-left: 4em;
+    text-indent: -3em;
+    line-height: 1.33em;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-right: 0
+    }
+p.ext-poet2 {
+    margin-left: 4em;
+    text-indent: -1em;
+    line-height: 1.33em;
+    font-size: 1em;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 0
+    }
+p.list {
+    margin-left: 2em;
+    text-indent: -1em;
+    line-height: 1.33em;
+    font-size: 1em;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 0
+    }
+p.list-sp {
+    margin-top: 0.5em;
+    margin-left: 2em;
+    text-indent: -1em;
+    line-height: 1.33em;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-right: 0
+    }
+p.list-vn {
+    margin-left: 2em;
+    text-indent: -1.75em;
+    line-height: 1.33em;
+    font-size: 1em;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 0
+    }
+p.list-vn-sp {
+    margin-top: 0.5em;
+    margin-left: 2em;
+    text-indent: -1.75em;
+    line-height: 1.33em;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-right: 0
+    }
+p.poet-fr {
+    margin-left: 5em;
+    text-align: right;
+    font-style: italic;
+    line-height: 1.33em;
+    font-size: 1em;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-indent: 0;
+    margin-right: 0
+    }
+p.poet1 {
+    margin-left: 3em;
+    text-indent: -2em;
+    line-height: 1.33em;
+    font-size: 1em;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 0
+    }
+p.poet1-sp {
+    margin-top: 0.5em;
+    margin-left: 3em;
+    text-indent: -2em;
+    line-height: 1.33em;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-right: 0
+    }
+p.poet1-vn, p.poet1-vn-ch, p.poet1-vn-ch-hd, p.poet1-vn-hd {
+    margin-left: 3em;
+    text-indent: -3em;
+    line-height: 1.33em;
+    font-size: 1em;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 0
+    }
+p.poet1-vn-sp {
+    margin-top: 0.5em;
+    margin-left: 3em;
+    text-indent: -3em;
+    line-height: 1.33em;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-right: 0
+    }
+p.poet2 {
+    margin-left: 3em;
+    text-indent: -1em;
+    line-height: 1.33em;
+    font-size: 1em;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 0
+    }
+p.poet2-vn {
+    margin-left: 3em;
+    text-indent: -1.25em;
+    line-height: 1.33em;
+    font-size: 1em;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 0
+    }
+p.poet3 {
+    margin-left: 4em;
+    text-indent: -1em;
+    line-height: 1.33em;
+    font-size: 1em;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 0
+    }
+p.psa-book {
+    margin-top: 1em;
+    text-indent: 0;
+    font-style: italic;
+    font-weight: bold;
+    line-height: 1.33em;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0
+    }
+p.psa-hebrew {
+    margin-top: 0.5em;
+    text-indent: 0;
+    font-style: italic;
+    line-height: 1.33em;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0
+    }
+p.psa-title, p.psa-title-hd {
+    line-height: 1.33em;
+    font-size: 1em;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-indent: 0;
+    margin-left: 0;
+    margin-right: 0;
+    font-style: italic
+    }
+p.rule {
+    margin: 1em 2em 0 2em;
+    border-top: 1px solid black;
+    width: 50%;
+    text-align: center;
+    line-height: 1.33em;
+    font-size: 1em;
+    text-indent: 0
+    }
+p.selah {
+    text-align: right;
+    text-indent: 0;
+    font-style: italic;
+    line-height: 1.33em;
+    font-size: 1em;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0
+    }
+p.sos-speaker {
+    margin-top: 0.5em;
+    text-indent: 0;
+    font-style: italic;
+    -webkit-hyphens: none;
+    line-height: 1.33em;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0
+    }
+p.subhead {
+    margin-top: 0.5em;
+    margin-left: 0;
+    text-indent: 0;
+    font-style: italic;
+    font-weight: bold;
+    -webkit-hyphens: none;
+    line-height: 1.33em;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-right: 0
+    }
+p.text-critical {
+    text-align: center;
+    text-indent: 0;
+    line-height: 1.33em;
+    font-size: 1em;
+    margin-top: .5em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0
+    }
+table {
+    margin-top: 0.5em;
+    width: 100%
+    }
+table p {
+    line-height: 1
+    }
+th {
+    font-weight: normal;
+    font-style: italic
+    }
+table.col2a {
+    margin-top: 0;
+    margin-left: 0.5em
+    }
+table.col2a-sp {
+    margin-top: 0.5em;
+    margin-left: 0.5em
+    }
+table.col2b-sp {
+    margin-top: 0.5em;
+    margin-left: 0.5em
+    }
+table.col3-sp {
+    margin-top: 0.5em;
+    margin-left: 0.5em
+    }
+table.ext-col2a {
+    margin-left: 1em
+    }
+td {
+    padding: 0 0.5em 0 0
+    }
+td.table-head {
+    font-weight: bold;
+    text-indent: 0;
+}
+th {
+    font-style: italic;
+    text-indent: 0;
+    }
+/* Index */
+p.toc {
+    margin-top: 0.25em;
+    text-indent: 0;
+    line-height: 1.33em;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0
+    }
+/* ConcEntry */
+p.conc-also {
+    line-height: 1.33em;
+    font-size: 1em;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-indent: 0;
+    margin-left: 0;
+    margin-right: 0
+    }
+p.conc-def-list {
+    margin-left: 1em;
+    text-indent: -1em;
+    line-height: 1.33em;
+    font-size: 1em;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 0
+    }
+p.conc-def-fl {
+    line-height: 1.33em;
+    font-size: 1em;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-indent: 0;
+    margin-left: 0;
+    margin-right: 0
+    }
+p.conc-entry, p.conc-head {
+    margin-top: 0.5em;
+    line-height: 1.33em;
+    font-size: 1em;
+    margin-bottom: 0;
+    text-indent: 0;
+    margin-left: 0;
+    margin-right: 0
+    }
+p.conc-KJV {
+    margin-top: 0.5em;
+    text-indent: 0;
+    font-weight: bold;
+    line-height: 1.33em;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0
+    }
+span.ce {
+    font-weight: bold
+    }
+span.conc-head {
+    font-weight: bold
+    }
+span.italic-character {
+    font-style: italic
+    }
+span.ks {
+    font-weight: bold
+    }
+span.ks-sc {
+    font-variant: small-caps;
+    font-weight: bold
+    }
+span.ord {
+    text-transform: uppercase;
+    font-size: 80%
+    }
+span.sc {
+    font-variant: small-caps
+    }
+span.smallcaps {
+    font-variant: small-caps
+    }
+/* == NLT TEXT NOTES == */
+a.tn-ref {
+    font-weight: bold
+    }
+p.dn {
+    text-indent: 0
+    }
+span.tn-ital {
+    font-style: italic
+    }
+span.tn-ref-bold-sc {
+    font-weight: bold;
+    font-variant: small-caps
+    }
+span.tn-sc {
+    font-variant: small-caps
+    }
+i.tn-sc-ital {
+    font-style: italic;
+    font-variant: small-caps
+    }
+span.tn-vn {
+    vertical-align: text-top;
+    /*mobi8::vertical-align:text-bottom;*/
+    font-size: 75%
+    }
+sub {
+    vertical-align: text-bottom;
+    /*mobi8::vertical-align:text-top;*/
+    font-size: 75%
+    }
+sup {
+    vertical-align: text-top;
+    /*mobi8::vertical-align:text-bottom;*/
+    font-size: 75%
+    }
+/* == FRACTIONS == */
+/* numerator */
+sup.fract-num, sup.tn-fract-num {
+    vertical-align: text-top;
+    /*mobi8::vertical-align:text-bottom;*/
+    font-size: 75%
+    }
+/* denominator */
+sub.fract-den, sub.tn-fract-den, span.tn-fract-den, span.fract-den {
+    font-family: inherit;
+    vertical-align: text-bottom;
+    /*mobi8::vertical-align:text-top;*/
+    font-size: 75%
+    }
+/* separator */
+span.fract-vin, span.tn-fract-vin {
+    font-style: italic
+    }
+/* numerator */
+span.tn-fract-ital-num {
+    vertical-align: text-top;
+    /*mobi8::vertical-align:text-bottom;*/
+    margin-right: -0.1em;
+    font-size: 75%;
+    font-style: italic
+    }
+/* denominator */
+span.tn-fract-ital-den {
+    vertical-align: text-bottom;
+    /*mobi8::vertical-align:text-top;*/
+    margin-left: -0.1em;
+    font-size: 75%;
+    font-style: italic
+    }
+/* separator */
+span.tn-fract-ital-vin {
+    font-style: italic
+    }
+/* == NLT Front Matter == */
+/* Bible Translation Team */
+p.nl2-btt-book {
+    margin-top: 0.75em;
+    text-indent: 0;
+    margin-left: 0;
+    text-transform: uppercase;
+    -webkit-hyphens: none;
+    line-height: 1.33em;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-right: 0
+    }
+p.nl2-btt-section {
+    margin-top: 2em;
+    text-indent: 0;
+    margin-left: 0;
+    text-transform: uppercase;
+    font-weight: bold;
+    -webkit-hyphens: none;
+    line-height: 1.33em;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-right: 0
+    }
+p.nl2-btt-st {
+    margin-left: 2em;
+    text-indent: -0.75em
+    }
+p.nl2-btt-sti {
+    margin-left: 2em;
+    text-indent: -0.75em;
+    font-style: italic
+    }
+p.nl2-btt-title1 {
+    margin-top: 1.5em;
+    text-indent: 0;
+    margin-left: 0;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 150%;
+    -webkit-hyphens: none
+    }
+p.nl2-btt-title2 {
+    margin-bottom: 1em;
+    text-indent: 0;
+    margin-left: 0;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 150%;
+    -webkit-hyphens: none
+    }
+p.nl2-btt-tr {
+    margin-left: 2em;
+    text-indent: -0.75em
+    }
+/* NLT Introduction */
+p.nl2-int {
+    text-indent: 1em;
+    margin: 0
+    }
+p.nl2-int-btc {
+    margin-top: 0.5em;
+    text-align: right;
+    text-indent: 0;
+    margin-left: 0;
+    font-style: italic
+    }
+p.nl2-int-bullet {
+    display: list-item;
+    list-style-type: disc;
+    list-style-position: outside;
+    margin-top: 0.75em;
+    text-indent: 0;
+    margin-left: 2em
+    }
+p.nl2-int-bullet0 {
+    text-indent: 0;
+    display: list-item;
+    list-style-type: disc;
+    list-style-position: outside;
+    margin-left: 2em
+    }
+p.nl2-int-bullet-sub {
+    margin-left: 2em;
+    text-indent: 1em
+    }
+p.nl2-int-fl {
+    text-indent: 0;
+    margin: 0
+    }
+p.nl2-int-fl0 {
+    margin-top: 0.75em;
+    text-indent: 0;
+    margin: 0
+    }
+p.nl2-int-h1 {
+    margin-top: 1.5em;
+    text-indent: 0;
+    text-align: center;
+    font-size: 150%;
+    -webkit-hyphens: none
+    }
+p.nl2-int-h2 {
+    margin-top: 0.75em;
+    text-indent: 0;
+    margin-left: 0;
+    margin-right: 0;
+    font-style: italic;
+    -webkit-hyphens: none
+    }
+/* Note to Readers */
+p.nl2-ntr {
+    text-indent: 1em;
+    margin: 0
+    }
+p.nl2-ntr-date {
+    text-indent: 0;
+    margin: 0;
+    text-align: right;
+    font-style: italic
+    }
+p.nl2-ntr-fl {
+    margin-top: 1em;
+    text-indent: 0;
+    margin-left: 0;
+    margin-right: 0
+    }
+p.nl2-ntr-h1 {
+    margin-top: 1.5em;
+    margin-bottom: 0.75em;
+    text-align: center;
+    text-indent: 0;
+    font-size: 150%;
+    -webkit-hyphens: none
+    }
+p.nl2-ntr-pub {
+    margin-top: 0.75em;
+    text-indent: 0;
+    text-align: right;
+    font-style: italic
+    }
+/* spans */
+span.cs-italic {
+    font-style: italic
+    }
+span.front-italic {
+    font-style: italic
+    }
+span.cs-small-cap {
+    font-variant: small-caps
+    }
+img.full-width {
+    width: 100%;
+    max-height: 100%
+    }
+h1 {
+    line-height: 1.33em;
+    font-size: 1.2em;
+    margin-top: 30px;
+    margin-bottom: 0;
+    text-indent: 0;
+    margin-left: 0;
+    margin-right: 0;
+    text-align: justify;
+    font-weight: bold;
+    font-style: normal
+    }
+span.print {
+    display: none
+    }
+p.qvl_books_head {
+    text-indent: 0;
+    font-weight: bold;
+    margin-top: 1em;
+    margin-bottom: 1em
+    }
+p.qvl_books_list {
+    text-indent: 0;
+    line-height: 2em
+    }
+p.qvl_chapters_head {
+    /*page-break-before: always;*/
+    margin-bottom: 1em;
+    font-weight: bold;
+    text-indent: 0
+    }
+p.qvl_chapters_list {
+    text-indent: 0;
+    line-height: 2em
+    }
+p.qvl_verses_head {
+    page-break-before: always;
+    margin-bottom: 1em;
+    font-weight: bold;
+    text-indent: 0
+    }
+p.qvl_verses_list {
+    line-height: 2em;
+    text-indent: 0
+    }
+p.htu-head {
+    margin-top: 1em;
+    font-weight: bold;
+    text-indent: 0
+    }
+p.fn1-head {
+    text-indent: 0;
+    margin-top: 1em;
+    font-weight: bold
+    }
+p.fn1 {
+    margin-top: 0;
+    text-indent: 0
+    }
+hr.fn1 {
+    margin-top: 5em
+    }
+tr {
+    
+    }
+span.psa-book-sc {
+    font-variant: small-caps;
+    font-family: inherit
+    }
+span.psa-title-sc {
+    font-variant: small-caps;
+    font-family: inherit
+    }
+span.red {
+    color: #8B0000;
+    font-family: inherit
+    }
+span.red-ital {
+    font-style: italic;
+    color: #8B0000;
+    font-family: inherit
+    }
+span.red-sc {
+    font-variant: small-caps;
+    color: #8B0000;
+    font-family: inherit
+    }
+span.sc-ital {
+    font-family: inherit;
+    font-variant: small-caps;
+    font-style: italic
+    }
+span.subhead-sc {
+    font-family: inherit;
+    font-variant: small-caps
+    }
+span.text-critical-ital {
+    font-family: inherit;
+    font-style: italic
+    }
+.cn {
+    vertical-align: text-top;
+    /*mobi8::vertical-align:text-bottom;*/
+    font-size: 75%;
+    font-weight: bold
+    }
+.ital {
+    font-style: italic
+    }
+.subhead-ital {
+    font-style: italic
+    }
+.tc-ital {
+    font-style: italic
+    }
+.ws {
+    vertical-align: text-top;
+    /*mobi8::vertical-align:text-bottom;*/
+    font-size: 75%;
+    padding-right: 0.1em
+    }
+.vnfig-1digit {
+    display: none
+    }
+.sub {
+    vertical-align: text-bottom;
+    /*mobi8::vertical-align:text-top;*/
+    font-size: 75%
+    }
+.sup {
+    vertical-align: text-top;
+    /*mobi8::vertical-align:text-bottom;*/
+    font-size: 75%
+    }
+
+body { text-align: justify; }

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Cooking with Paula Deen</title>
+<link href="css/test1.css" rel="stylesheet" type="text/css" />
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    </head>
+<body class="left">
+        <div class="before">
+            <div class="articleMenuWrapper" id="header_navbar">
+                <div class="sectionMenuLeft" id="header_navbar_previous">
+                    <a href="page060.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="header_navbar_next">
+                    <a href="page059.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+            <div class="masthead" id="header">
+                <div class="masthead-text">
+                    <div class="masthead-section" id="header_title">
+                        <a href="section.xml">Contents</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="article-headline" id="Headline">CHICKEN MARSALA</div>
+
+
+
+<div class="article-in-image" id="image1"><img src="images/page060.article003.image1.jpg" class="article-in-image" alt=""/></div>
+<div id="separatorLine"> <div class="invisible">empty</div> </div>
+
+<div class="articleImageCredit" id="ImageCredit">PHOTOGRAPHY BY KAMIN WILLIAMS</div>
+<div class="article-body" id="Body"><p class="no-indent">Makes 4 to 6 servings </p><br/><p class="no-indent">For a pretty, colorful dinner presentation, serve with steamed asparagus and mashed potatoes. </p><br/><p class="no-indent">½ cup all-purpose flour </p><p class="no-indent">½ teaspoon salt </p><p class="no-indent">½ teaspoon ground black pepper </p><p class="no-indent">1½ pounds chicken cutlets </p><p class="no-indent">¼ cup olive oil, divided </p><p class="no-indent">1 (8-ounce) package sliced baby portobello mushrooms </p><p class="no-indent">½ cup Marsala wine </p><p class="no-indent">½ cup chicken broth </p><p class="no-indent">3 tablespoons butter </p><br/><p class="no-indent">1. In a shallow dish, combine flour, salt, and pepper. Dredge chicken cutlets in flour mixture to coat, shaking off excess. </p><br/><p class="no-indent">2. In a large skillet, heat 2 tablespoons olive oil over medium heat. Cook half of cutlets for 3 to 4 minutes per side, or until golden brown. Remove from skillet, and keep warm. Repeat procedure with remaining oil and cutlets. </p><br/><p class="no-indent">3. Add mushrooms to skillet, and cook, stirring occasionally, for 3 to 4 minutes, or just until tender. Stir in wine, scraping browned bits from bottom of pan with a wooden spoon, and cook for 2 minutes. Stir in broth, and cook for 4 minutes, or until slightly thickened. Whisk in butter, 1 tablespoon at a time, until combined. Serve mushrooms and sauce over chicken.</p></div>
+<div class="after">
+            <div class="articleMenuWrapper" id="footer_navbar">
+                <div class="sectionMenuLeft" id="footer_navbar_previous">
+                    <a href="page060.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="footer_navbar_next">
+                    <a href="page059.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+        </div>
+    </body>
+</html>

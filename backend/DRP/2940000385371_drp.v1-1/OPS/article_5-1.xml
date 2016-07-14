@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns:saxon="http://saxon.sf.net/" xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:nitf="http://www.nytimes.com/applicationdata/xml/nitf-3-3.dtd">
+   <head>
+      <title>Noted: ERIK PRINCE&#x2019;S NEW ARMY</title>
+      <link rel="stylesheet" href="css/TablesAndFloats.css" type="text/css"/>
+   </head>
+   <body>
+      <div id="header_navbar" class="articleMenuWrapper">
+         <span id="header_navbar_previous" class="sectionMenuLeft">
+            <a href="article_4-1.xml">Previous Article</a>
+         </span>
+         <span id="header_navbar_next" class="sectionMenuRight">
+            <a href="article_5-2.xml">Next Article</a>
+         </span>
+      </div>
+      <div class="clean"/>
+      <div id="header" class="masthead">
+         <div class="masthead-text">
+            <div id="header_title" class="masthead-section">
+               <a href="section_3.xml">Editorial</a>
+            </div>
+         </div>
+      </div>
+      <h2 id="headline" class="article-full-headline">Noted: ERIK PRINCE&#x2019;S NEW ARMY</h2>
+      <p id="byline" class="article-full-byline">JEREMY SCAHILL</p>
+      <div>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">A year after he fled to Abu Dhabi, Blackwater founder Erik Prince is building an army of mercenaries, the New York Times has revealed. The forces, 800 strong, are under the auspices of a new company, Reflex Responses, also known as R2. Prince was hired by Sheik Mohamed bin Zayed al-Nahyan, crown prince of Abu Dhabi, and bankrolled to the tune of $529 million.</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">The contract includes “crowd-control operations,” protecting oil pipelines and special operations missions in and outside the United Arab Emirates “to destroy enemy personnel and equipment.” The Emiratis are also reportedly interested in quelling potential rebellions in the labor camps that house Filipinos, Pakistanis and other imported laborers of the country’s workforce. Prince plans to build a training camp modeled after the 7,000-acre private military base he built in North Carolina.</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">Jan Schakowsky, a Democratic member of the House Intelligence Committee, tells The Nation she opposes US citizens providing mercenary forces for foreign governments, and that she will investigate whether Prince’s work in the UAE has breached US law. “The man who brought us Blackwater, a company whose name has become synonymous with the worst of contractor abuses in Iraq and Afghanistan, has been hired to put together a mercenary army that could be used to suppress a revolt or attack pro-democracy protesters,” Schakowsky says.</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">Meanwhile, an American who runs a different security company in the country tells The Nation that news of Prince’s company is “a fricking PR disaster” for the UAE, adding that it will mean “some of the other sheiks will want answers about what a private Christian army was intended for.”</p>
+         <div id="footer_navbar" class="sectionMenuWrapper">
+            <span id="footer_navbar_previous" class="sectionMenuLeft">
+               <a href="article_4-1.xml">Previous Article</a>
+            </span>
+            <span id="footer_navbar_next" class="sectionMenuRight">
+               <a href="article_5-2.xml">Next Article</a>
+            </span>
+         </div>
+      </div>
+   </body>
+</html>

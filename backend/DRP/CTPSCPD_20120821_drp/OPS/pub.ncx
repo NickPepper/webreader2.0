@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+    <head>
+        <meta content="nyt/nyt/nyt/20080927/sat_met/674989" name="dtb:uid"/>
+        <meta content="2" name="dtb:depth"/>
+        <meta content="0" name="dtb:totalPageCount"/>
+        <meta content="0" name="dtb:maxPageNumber"/>
+    </head>
+    <docTitle>
+        <text>Cooking with Paula Deen</text>
+    </docTitle>
+    <docAuthor>
+        <text>cpd</text>
+    </docAuthor>
+    <navMap>
+        <navPoint class="introduction" id="cover.xml" playOrder="1">
+            <navLabel>
+                <text>Cover</text>
+            </navLabel>
+            <content src="cover.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page008.article001" playOrder="2">
+            <navLabel>
+                <text>HEY Y'ALL</text>
+            </navLabel>
+            <content src="page008.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page010.article001" playOrder="3">
+            <navLabel>
+                <text>ASK PAULA...</text>
+            </navLabel>
+            <content src="page010.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page010.article002" playOrder="4">
+            <navLabel>
+                <text>HIDDEN GEM</text>
+            </navLabel>
+            <content src="page010.article002.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page012.article001" playOrder="5">
+            <navLabel>
+                <text>PAULA’S PICKS</text>
+            </navLabel>
+            <content src="page012.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page014.article001" playOrder="6">
+            <navLabel>
+                <text>ACCURACY MATTERS</text>
+            </navLabel>
+            <content src="page014.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page018.article001" playOrder="7">
+            <navLabel>
+                <text>BRAISING</text>
+            </navLabel>
+            <content src="page018.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page019.article001" playOrder="8">
+            <navLabel>
+                <text>BRAISED LAMB SHANKS</text>
+            </navLabel>
+            <content src="page019.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page020.article001" playOrder="9">
+            <navLabel>
+                <text>RED WINE-BRAISED BEEF SHORT RIBS</text>
+            </navLabel>
+            <content src="page020.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page021.article001" playOrder="10">
+            <navLabel>
+                <text>BRAISING STEP-BY-STEP</text>
+            </navLabel>
+            <content src="page021.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page022.article001" playOrder="11">
+            <navLabel>
+                <text>PORK, TOMATILLO, AND GREEN CHILE STEW</text>
+            </navLabel>
+            <content src="page022.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page022.article002" playOrder="12">
+            <navLabel>
+                <text>COCONUT CHICKEN CURRY</text>
+            </navLabel>
+            <content src="page022.article002.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page024.article001" playOrder="13">
+            <navLabel>
+                <text>LOAVES OF LOVE</text>
+            </navLabel>
+            <content src="page024.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page027.article001" playOrder="14">
+            <navLabel>
+                <text>DAY 1</text>
+            </navLabel>
+            <content src="page027.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page026.article001" playOrder="15">
+            <navLabel>
+                <text>PAULA’S WEEKLY 5</text>
+            </navLabel>
+            <content src="page026.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page028.article001" playOrder="16">
+            <navLabel>
+                <text>DAY 2</text>
+            </navLabel>
+            <content src="page028.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page030.article001" playOrder="17">
+            <navLabel>
+                <text>DAY 3</text>
+            </navLabel>
+            <content src="page030.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page032.article001" playOrder="18">
+            <navLabel>
+                <text>DAY 4</text>
+            </navLabel>
+            <content src="page032.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page033.article001" playOrder="19">
+            <navLabel>
+                <text>DAY 5</text>
+            </navLabel>
+            <content src="page033.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page033.article002" playOrder="20">
+            <navLabel>
+                <text>SHOPPING LIST</text>
+            </navLabel>
+            <content src="page033.article002.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page034.article001" playOrder="21">
+            <navLabel>
+                <text>GET SET WITH APPETIZERS</text>
+            </navLabel>
+            <content src="page034.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page038.article002" playOrder="22">
+            <navLabel>
+                <text>LEMON COCONUT STACK CAKES</text>
+            </navLabel>
+            <content src="page038.article002.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page038.article001" playOrder="23">
+            <navLabel>
+                <text>PRALINE BROWNIES</text>
+            </navLabel>
+            <content src="page038.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page037.article003" playOrder="24">
+            <navLabel>
+                <text>BACON-STUFFED MUSHROOMS</text>
+            </navLabel>
+            <content src="page037.article003.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page036.article001" playOrder="25">
+            <navLabel>
+                <text>ASIAN PORK STACKS</text>
+            </navLabel>
+            <content src="page036.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page037.article001" playOrder="26">
+            <navLabel>
+                <text>HUMMUS IN PITA CUPS WITH BLACK OLIVE RELISH</text>
+            </navLabel>
+            <content src="page037.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page037.article002" playOrder="27">
+            <navLabel>
+                <text>SHRIMP AND CHEESE PHYLLO TRIANGLES</text>
+            </navLabel>
+            <content src="page037.article002.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page040.article001" playOrder="28">
+            <navLabel>
+                <text>AWESOME APPLE DESSERTS</text>
+            </navLabel>
+            <content src="page040.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page041.article001" playOrder="29">
+            <navLabel>
+                <text>APPLESAUCE BUNDT CAKE</text>
+            </navLabel>
+            <content src="page041.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page041.article002" playOrder="30">
+            <navLabel>
+                <text>APPLE CRISP</text>
+            </navLabel>
+            <content src="page041.article002.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page042.article001" playOrder="31">
+            <navLabel>
+                <text>GRANOLA-STUFFED BAKED APPLES</text>
+            </navLabel>
+            <content src="page042.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page045.article001" playOrder="32">
+            <navLabel>
+                <text>COMIC RELIEF AT SUPPER</text>
+            </navLabel>
+            <content src="page045.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page045.article002" playOrder="33">
+            <navLabel>
+                <text>SPAGHETTI WITH MINI MEATBALLS AND PEPPERONI SAUCE</text>
+            </navLabel>
+            <content src="page045.article002.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page047.article001" playOrder="34">
+            <navLabel>
+                <text>FEASTING ON FALL’S BOUNTY</text>
+            </navLabel>
+            <content src="page047.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page048.article001" playOrder="35">
+            <navLabel>
+                <text>DAY TRIP PICNIC</text>
+            </navLabel>
+            <content src="page048.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page050.article001" playOrder="36">
+            <navLabel>
+                <text>BARBECUE SNACK MIX</text>
+            </navLabel>
+            <content src="page050.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page051.article001" playOrder="37">
+            <navLabel>
+                <text>PHILLY CHEESE STEAK-STYLE SUBS</text>
+            </navLabel>
+            <content src="page051.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page052.article001" playOrder="38">
+            <navLabel>
+                <text>BUFFALO CHICKEN SLIDERS</text>
+            </navLabel>
+            <content src="page052.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page054.article001" playOrder="39">
+            <navLabel>
+                <text>PEANUT BUTTER BROWNIE CUPS</text>
+            </navLabel>
+            <content src="page054.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page054.article002" playOrder="40">
+            <navLabel>
+                <text>COCONUT CARAMEL CRISPY TREATS</text>
+            </navLabel>
+            <content src="page054.article002.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page055.article001" playOrder="41">
+            <navLabel>
+                <text>WHISKEY SOURS FOR A CROWD</text>
+            </navLabel>
+            <content src="page055.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page056.article001" playOrder="42">
+            <navLabel>
+                <text>SENSATIONAL CHICKEN DINNERS</text>
+            </navLabel>
+            <content src="page056.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page060.article001" playOrder="43">
+            <navLabel>
+                <text>SKILLET GREEK CHICKEN</text>
+            </navLabel>
+            <content src="page060.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page060.article003" playOrder="44">
+            <navLabel>
+                <text>CHICKEN MARSALA</text>
+            </navLabel>
+            <content src="page060.article003.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page059.article001" playOrder="45">
+            <navLabel>
+                <text>CHICKEN AND CREAMY CHEDDAR GRITS</text>
+            </navLabel>
+            <content src="page059.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page059.article002" playOrder="46">
+            <navLabel>
+                <text>CHICKEN-BROCCOLI STIR-FRY</text>
+            </navLabel>
+            <content src="page059.article002.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page059.article003" playOrder="47">
+            <navLabel>
+                <text>CHICKEN CORN CHOWDER</text>
+            </navLabel>
+            <content src="page059.article003.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page059.article004" playOrder="48">
+            <navLabel>
+                <text>LEMON HERB ROASTED CHICKEN</text>
+            </navLabel>
+            <content src="page059.article004.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page060.article002" playOrder="49">
+            <navLabel>
+                <text>CHICKEN PESTO PASTA</text>
+            </navLabel>
+            <content src="page060.article002.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page062.article001" playOrder="50">
+            <navLabel>
+                <text>HALLOWEEN BONFIRE FUN</text>
+            </navLabel>
+            <content src="page062.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page065.article001" playOrder="51">
+            <navLabel>
+                <text>CARAMELIZED ONIONS, MUSHROOMS, AND BACON</text>
+            </navLabel>
+            <content src="page065.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page065.article002" playOrder="52">
+            <navLabel>
+                <text>PEPPERY CHILI</text>
+            </navLabel>
+            <content src="page065.article002.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page065.article003" playOrder="53">
+            <navLabel>
+                <text>HOT NACHO CHEESE DIP</text>
+            </navLabel>
+            <content src="page065.article003.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page066.article001" playOrder="54">
+            <navLabel>
+                <text>PARMESAN POPCORN</text>
+            </navLabel>
+            <content src="page066.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page067.article001" playOrder="55">
+            <navLabel>
+                <text>WARM APPLE CIDER</text>
+            </navLabel>
+            <content src="page067.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page068.article001" playOrder="56">
+            <navLabel>
+                <text>REKINDLE THE TRADITION: SUNDAY DINNER</text>
+            </navLabel>
+            <content src="page068.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page071.article002" playOrder="57">
+            <navLabel>
+                <text>GREEN PEAS AND MUSHROOMS</text>
+            </navLabel>
+            <content src="page071.article002.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page071.article001" playOrder="58">
+            <navLabel>
+                <text>HOMESTYLE MEATLOAF</text>
+            </navLabel>
+            <content src="page071.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page071.article003" playOrder="59">
+            <navLabel>
+                <text>HERBED POTATO CASSEROLE</text>
+            </navLabel>
+            <content src="page071.article003.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page072.article001" playOrder="60">
+            <navLabel>
+                <text>QUICK CLOVERLEAF ROLLS</text>
+            </navLabel>
+            <content src="page072.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page072.article002" playOrder="61">
+            <navLabel>
+                <text>CHOCOLATE PECAN PIE</text>
+            </navLabel>
+            <content src="page072.article002.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page075.article001" playOrder="62">
+            <navLabel>
+                <text>WARM &amp; MODERN KITCHEN</text>
+            </navLabel>
+            <content src="page075.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page080.article001" playOrder="63">
+            <navLabel>
+                <text>A TABLE OF TREATS</text>
+            </navLabel>
+            <content src="page080.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page083.article001" playOrder="64">
+            <navLabel>
+                <text>FALL BEACH RETREAT</text>
+            </navLabel>
+            <content src="page083.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page084.article001" playOrder="65">
+            <navLabel>
+                <text>TYBEE ISLAND</text>
+            </navLabel>
+            <content src="page084.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page090.article001" playOrder="66">
+            <navLabel>
+                <text>LOVELESS ROAD TRIP</text>
+            </navLabel>
+            <content src="page090.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="ID_page098.article001" playOrder="67">
+            <navLabel>
+                <text>AUTUMN PUMPKIN SOUP</text>
+            </navLabel>
+            <content src="page098.article001.xml"/>
+        </navPoint>
+    </navMap>
+</ncx>

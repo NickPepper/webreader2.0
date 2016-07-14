@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Cooking with Paula Deen</title>
+<link href="css/test1.css" rel="stylesheet" type="text/css" />
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    </head>
+<body class="left">
+        <div class="before">
+            <div class="articleMenuWrapper" id="header_navbar">
+                <div class="sectionMenuLeft" id="header_navbar_previous">
+                    <a href="page012.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="header_navbar_next">
+                    <a href="page018.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+            <div class="masthead" id="header">
+                <div class="masthead-text">
+                    <div class="masthead-section" id="header_title">
+                        <a href="section.xml">Contents</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="article-headline" id="Headline">ACCURACY MATTERS</div>
+<div class="article-subhead" id="SubHeadline">Making successful recipes begins with using ingredients in the correct amounts. And here’s an important tip: Measuring cups for dry ingredients and liquid ingredients are not interchangeable.</div>
+
+
+<div class="article-in-image" id="image1"><img src="images/page014.article001.image1.jpg" class="article-in-image" alt=""/></div>
+<div id="separatorLine"> <div class="invisible">empty</div> </div>
+
+<div class="articleImageCredit" id="ImageCredit">PHOTOGRAPHY BY WILLIAM DICKEY</div>
+<div class="article-body" id="Body"><p class="no-indent">Dry Measuring Cups </p><br/><p class="no-indent">For ingredients such as flour and sugar, select a set of measuring cups from ¼ cup to 1 cup to accommodate all your dry measuring needs. The graduated sizes allow the set to nest one inside the other, saving space while in storage. Cuisipro Measuring Cups ($9.99) from Bed Bath &amp; Beyond feature long handles and thick, flat rims for easy leveling.</p><br/><p class="no-indent">Straight Edge Spatula </p><br/><p class="no-indent">Once dry ingredients are spooned into measuring cups until they’re overflowing, the ingredient should be leveled off until it’s even with the rim. A blunt-edge utensil, like the Ateco offset or straight spatula (starting at $3.50) from atecousa.net is just the tool for the job.</p><br/><p class="no-indent">Liquid Measuring Cups</p><br/><p class="no-indent">Liquid measuring cups are typically made from clear glass or plastic and include a pouring spout. Horizontal markings on the outside indicate volume level and should be checked at eye level. Zyliss  ($24.99) from macys.com also feature measurement markings that can be read from the inside, eliminating the need view at eye level. A nonslip base helps prevent spills, too.</p><br/><p class="no-indent">Magnetic Measuring Spoons </p><br/><p class="no-indent">Jamie Oliver’s Magnetic Measuring Spoons ($6.99), sold on amazon.com, have built-in magnets to keep the spoons together so you don’t lose them in the kitchen drawer.</p><br/><p class="no-indent">Classic Measuring Spoons </p><br/><p class="no-indent">Look for sets with long handles and shallow spoons so they’ll easily fit into small or narrow jars. Cuisipro Stainless Steel Measuring Spoons ($15.87) from amazon.com are heavy-duty and feature a removable loop to keep them intact.</p></div>
+<div class="after">
+            <div class="articleMenuWrapper" id="footer_navbar">
+                <div class="sectionMenuLeft" id="footer_navbar_previous">
+                    <a href="page012.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="footer_navbar_next">
+                    <a href="page018.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+        </div>
+    </body>
+</html>

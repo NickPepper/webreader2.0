@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Cooking with Paula Deen</title>
+<link href="css/test1.css" rel="stylesheet" type="text/css" />
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    </head>
+<body class="left">
+        <div class="before">
+            <div class="articleMenuWrapper" id="header_navbar">
+                <div class="sectionMenuLeft" id="header_navbar_previous">
+                    <a href="page018.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="header_navbar_next">
+                    <a href="page020.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+            <div class="masthead" id="header">
+                <div class="masthead-text">
+                    <div class="masthead-section" id="header_title">
+                        <a href="section.xml">Contents</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="article-headline" id="Headline">BRAISED LAMB SHANKS</div>
+
+<div class="article-byline" id="ByLine">BY ELIZABETH NELSON</div>
+
+<div class="article-in-image" id="image1"><img src="images/page019.article001.image1.jpg" class="article-in-image" alt=""/></div>
+<div id="separatorLine"> <div class="invisible">empty</div> </div>
+
+<div class="articleImageCredit" id="ImageCredit">PHOTOGRAPHY BY WILLIAM DICKEY</div>
+<div class="article-body" id="Body"><p class="no-indent">Makes 4 servings </p><br/><p class="no-indent">6 tablespoons butter, divided </p><p class="no-indent">4 meaty lamb shanks (about 4½ to 5 pounds) </p><p class="no-indent">1 teaspoon pepper </p><p class="no-indent">1 teaspoon salt </p><p class="no-indent">1½ cups chopped onion </p><p class="no-indent">1 cup sliced carrot (¼-inch thick) </p><p class="no-indent">1 (16-ounce) package white button mushrooms, sliced ¼-inch thick </p><p class="no-indent">4 cloves garlic, minced </p><p class="no-indent">2 bay leaves </p><p class="no-indent">1 cup dry white wine </p><p class="no-indent">2 cups reduced sodium chicken broth </p><p class="no-indent">5 (4-inch) sprigs thyme </p><p class="no-indent">¼ cup all-purpose flour </p><br/><p class="no-indent">1. Preheat oven to 325º. </p><br/><p class="no-indent">2. In a large oven-safe Dutch oven, melt 4 tablespoons butter over medium-high heat. Sprinkle lamb shanks with salt and pepper. Reduce heat to medium, and brown lamb shanks on all sides. Remove shanks from pan. Add onion, carrots, mushrooms, and garlic to Dutch oven, and cook, stirring occasionally, for 7 minutes or until mushrooms have released their liquid. Using a slotted spoon, remove vegetables from pan. Stir in bay leaves, wine, and chicken broth, and cook, stirring often, for 10 minutes or until reduced by half. Remove from heat, and stir vegetables into chicken broth mixture. </p><br/><p class="no-indent">3. Place lamb shanks in vegetable mixture, and top with thyme sprigs. Cover and bake for 2 to 2½ hours or until lamb is tender. Remove lamb shanks from pan and keep warm. </p><br/><p class="no-indent">4. Pour vegetable mixture through a fine mesh strainer into a glass measuring cup, reserving liquid. Reserve vegetables, discarding bay leaves and thyme sprigs, and keep warm. Let cooking liquid stand for 10 minutes, and then skim fat from top. </p><br/><p class="no-indent">5. Melt remaining 2 tablespoons butter over medium heat in Dutch oven. Stir flour into butter, and cook for 2 minutes. Whisk cooking liquid into flour mixture, and cook, whisking constantly, for 8 minutes or until thickened. Stir vegetables into sauce. Serve with meat.</p><br/><p>______________________________</p><br/><p class="no-indent">“Here’s what I really love about braising: The main dish bakes uninterrupted for a long time, leaving me plenty of time to get other things done." –Paula</p></div>
+<div class="after">
+            <div class="articleMenuWrapper" id="footer_navbar">
+                <div class="sectionMenuLeft" id="footer_navbar_previous">
+                    <a href="page018.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="footer_navbar_next">
+                    <a href="page020.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+        </div>
+    </body>
+</html>

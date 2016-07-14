@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="c98702cc-1def-4789-9366-18d8bdf83710" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>The History of the Ancient World</text>
+  </docTitle>
+<navMap>
+<navPoint id="navpoint-1" playOrder="1"><navLabel><text>Cover</text></navLabel><content src="9780393070897_cov.html" /></navPoint>
+<navPoint id="navpoint-2" playOrder="2"><navLabel><text>Also by Susan Wise Bauer</text></navLabel><content src="9780393070897_adc01.html" /></navPoint>
+<navPoint id="navpoint-3" playOrder="3"><navLabel><text>Title Page</text></navLabel><content src="9780393070897_tp01.html" /></navPoint>
+<navPoint id="navpoint-4" playOrder="4"><navLabel><text>Copyright</text></navLabel><content src="9780393070897_cop01.html" /></navPoint>
+<navPoint id="navpoint-5" playOrder="5"><navLabel><text>Dedication</text></navLabel><content src="9780393070897_ded01.html" /></navPoint>
+<navPoint id="navpoint-6" playOrder="6"><navLabel><text>Contents</text></navLabel><content src="9780393070897_con01.html" /></navPoint>
+<navPoint id="navpoint-7" playOrder="7"><navLabel><text>List of Maps</text></navLabel><content src="9780393070897_fm01.html" /></navPoint>
+<navPoint id="navpoint-8" playOrder="8"><navLabel><text>List of Illustrations</text></navLabel><content src="9780393070897_fm02.html" /></navPoint>
+<navPoint id="navpoint-9" playOrder="9"><navLabel><text>Acknowledgments</text></navLabel><content src="9780393070897_ack01.html" /></navPoint>
+<navPoint id="navpoint-10" playOrder="10"><navLabel><text>Preface</text></navLabel><content src="9780393070897_fm03.html" /></navPoint>
+<navPoint id="navpoint-11" playOrder="11"><navLabel><text>Part One: The Edge of History</text></navLabel><content src="9780393070897_pt01.html" />
+<navPoint id="navpoint-12" playOrder="12"><navLabel><text>Chapter One: The Origin of Kingship</text></navLabel><content src="9780393070897_ch01.html#ch01" /></navPoint>
+<navPoint id="navpoint-13" playOrder="13"><navLabel><text>Chapter Two: The Earliest Story</text></navLabel><content src="9780393070897_ch02.html#ch02" /></navPoint>
+<navPoint id="navpoint-14" playOrder="14"><navLabel><text>Chapter Three: The Rise of Aristocracy</text></navLabel><content src="9780393070897_ch03.html#ch03" /></navPoint>
+<navPoint id="navpoint-15" playOrder="15"><navLabel><text>Chapter Four: The Creation of Empire</text></navLabel><content src="9780393070897_ch04.html#ch04" /></navPoint>
+<navPoint id="navpoint-16" playOrder="16"><navLabel><text>Chapter Five: The Age of Iron</text></navLabel><content src="9780393070897_ch05.html#ch05" /></navPoint>
+<navPoint id="navpoint-17" playOrder="17"><navLabel><text>Chapter Six: The Philosopher King</text></navLabel><content src="9780393070897_ch06.html#ch06" /></navPoint></navPoint>
+<navPoint id="navpoint-18" playOrder="18"><navLabel><text>Part Two: Firsts</text></navLabel><content src="9780393070897_pt02.html" />
+<navPoint id="navpoint-19" playOrder="19"><navLabel><text>Chapter Seven: The First Written Records</text></navLabel><content src="9780393070897_ch07.html#ch07" /></navPoint>
+<navPoint id="navpoint-20" playOrder="20"><navLabel><text>Chapter Eight: The First War Chronicles</text></navLabel><content src="9780393070897_ch08.html#ch08" /></navPoint>
+<navPoint id="navpoint-21" playOrder="21"><navLabel><text>Chapter Nine: The First Civil War</text></navLabel><content src="9780393070897_ch09.html#ch09" /></navPoint>
+<navPoint id="navpoint-22" playOrder="22"><navLabel><text>Chapter Ten: The First Epic Hero</text></navLabel><content src="9780393070897_ch10.html#ch10" /></navPoint>
+<navPoint id="navpoint-23" playOrder="23"><navLabel><text>Chapter Eleven: The First Victory over Death</text></navLabel><content src="9780393070897_ch11.html#ch11" /></navPoint>
+<navPoint id="navpoint-24" playOrder="24"><navLabel><text>Chapter Twelve: The First Reformer</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch12_nook_isaSample_24" /></navPoint>
+<navPoint id="navpoint-25" playOrder="25"><navLabel><text>Chapter Thirteen: The First Military Dictator</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch13_nook_isaSample_25" /></navPoint>
+<navPoint id="navpoint-26" playOrder="26"><navLabel><text>Chapter Fourteen: The First Planned Cities</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch14_nook_isaSample_26" /></navPoint>
+<navPoint id="navpoint-27" playOrder="27"><navLabel><text>Chapter Fifteen: The First Collapse of Empire</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch15_nook_isaSample_27" /></navPoint>
+<navPoint id="navpoint-28" playOrder="28"><navLabel><text>Chapter Sixteen: The First Barbarian Invasions</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch16_nook_isaSample_28" /></navPoint>
+<navPoint id="navpoint-29" playOrder="29"><navLabel><text>Chapter Seventeen: The First Monotheist</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch17_nook_isaSample_29" /></navPoint>
+<navPoint id="navpoint-30" playOrder="30"><navLabel><text>Chapter Eighteen: The First Environmental Disaster</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch18_nook_isaSample_30" /></navPoint></navPoint>
+<navPoint id="navpoint-31" playOrder="31"><navLabel><text>Part Three: Struggle</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_31" />
+<navPoint id="navpoint-32" playOrder="32"><navLabel><text>Chapter Nineteen: The Battle for Reunification</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch19_nook_isaSample_32" /></navPoint>
+<navPoint id="navpoint-33" playOrder="33"><navLabel><text>Chapter Twenty: The Mesopotamian Mixing Bowl</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch20_nook_isaSample_33" /></navPoint>
+<navPoint id="navpoint-34" playOrder="34"><navLabel><text>Chapter Twenty-One: The Overthrow of the Xia</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch21_nook_isaSample_34" /></navPoint>
+<navPoint id="navpoint-35" playOrder="35"><navLabel><text>Chapter Twenty-Two: Hammurabi&#x2019;s Empire</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch22_nook_isaSample_35" /></navPoint>
+<navPoint id="navpoint-36" playOrder="36"><navLabel><text>Chapter Twenty-Three: The Hyksos Seize Egypt</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch23_nook_isaSample_36" /></navPoint>
+<navPoint id="navpoint-37" playOrder="37"><navLabel><text>Chapter Twenty-Four: King Minos of Crete</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch24_nook_isaSample_37" /></navPoint>
+<navPoint id="navpoint-38" playOrder="38"><navLabel><text>Chapter Twenty-Five: The Harappan Disintegration</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch25_nook_isaSample_38" /></navPoint>
+<navPoint id="navpoint-39" playOrder="39"><navLabel><text>Chapter Twenty-Six: The Rise of the Hittites</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch26_nook_isaSample_39" /></navPoint>
+<navPoint id="navpoint-40" playOrder="40"><navLabel><text>Chapter Twenty-Seven: Ahmose Expels the Hyksos</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch27_nook_isaSample_40" /></navPoint>
+<navPoint id="navpoint-41" playOrder="41"><navLabel><text>Chapter Twenty-Eight: Usurpation and Revenge</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch28_nook_isaSample_41" /></navPoint>
+<navPoint id="navpoint-42" playOrder="42"><navLabel><text>Chapter Twenty-Nine: The Three-Way Contest</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch29_nook_isaSample_42" /></navPoint>
+<navPoint id="navpoint-43" playOrder="43"><navLabel><text>Chapter Thirty: The Shifting Capitals of the Shang</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch30_nook_isaSample_43" /></navPoint>
+<navPoint id="navpoint-44" playOrder="44"><navLabel><text>Chapter Thirty-One: The Mycenaeans of Greece</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch31_nook_isaSample_44" /></navPoint>
+<navPoint id="navpoint-45" playOrder="45"><navLabel><text>Chapter Thirty-Two: Struggle of the Gods</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch32_nook_isaSample_45" /></navPoint>
+<navPoint id="navpoint-46" playOrder="46"><navLabel><text>Chapter Thirty-Three: Wars and Marriages</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch33_nook_isaSample_46" /></navPoint>
+<navPoint id="navpoint-47" playOrder="47"><navLabel><text>Chapter Thirty-Four: The Greatest Battle in Very Ancient Times</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch34_nook_isaSample_47" /></navPoint>
+<navPoint id="navpoint-48" playOrder="48"><navLabel><text>Chapter Thirty-Five: The Battle for Troy</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch35_nook_isaSample_48" /></navPoint>
+<navPoint id="navpoint-49" playOrder="49"><navLabel><text>Chapter Thirty-Six: The First Historical King of China</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch36_nook_isaSample_49" /></navPoint>
+<navPoint id="navpoint-50" playOrder="50"><navLabel><text>Chapter Thirty-Seven: The Rig Veda</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch37_nook_isaSample_50" /></navPoint>
+<navPoint id="navpoint-51" playOrder="51"><navLabel><text>Chapter Thirty-Eight: The Wheel Turns Again</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch38_nook_isaSample_51" /></navPoint>
+<navPoint id="navpoint-52" playOrder="52"><navLabel><text>Chapter Thirty-Nine: The End of the New Kingdom</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch39_nook_isaSample_52" /></navPoint>
+<navPoint id="navpoint-53" playOrder="53"><navLabel><text>Chapter Forty: The Dark Age of Greece</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch40_nook_isaSample_53" /></navPoint>
+<navPoint id="navpoint-54" playOrder="54"><navLabel><text>Chapter Forty-One: The Dark Age of Mesopotamia</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch41_nook_isaSample_54" /></navPoint>
+<navPoint id="navpoint-55" playOrder="55"><navLabel><text>Chapter Forty-Two: The Fall of the Shang</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch42_nook_isaSample_55" /></navPoint></navPoint>
+<navPoint id="navpoint-56" playOrder="56"><navLabel><text>Part Four: Empires</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_56" />
+<navPoint id="navpoint-57" playOrder="57"><navLabel><text>Chapter Forty-Three: The Mandate of Heaven</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch43_nook_isaSample_57" /></navPoint>
+<navPoint id="navpoint-58" playOrder="58"><navLabel><text>Chapter Forty-Four: The Bharata War</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch44_nook_isaSample_58" /></navPoint>
+<navPoint id="navpoint-59" playOrder="59"><navLabel><text>Chapter Forty-Five: The Son of David</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch45_nook_isaSample_59" /></navPoint>
+<navPoint id="navpoint-60" playOrder="60"><navLabel><text>Chapter Forty-Six: From Western to Eastern Zhou</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch46_nook_isaSample_60" /></navPoint>
+<navPoint id="navpoint-61" playOrder="61"><navLabel><text>Chapter Forty-Seven: The Assyrian Renaissance</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch47_nook_isaSample_61" /></navPoint>
+<navPoint id="navpoint-62" playOrder="62"><navLabel><text>Chapter Forty-Eight: New Peoples</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch48_nook_isaSample_62" /></navPoint>
+<navPoint id="navpoint-63" playOrder="63"><navLabel><text>Chapter Forty-Nine: Trading Posts and Colonies</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch49_nook_isaSample_63" /></navPoint>
+<navPoint id="navpoint-64" playOrder="64"><navLabel><text>Chapter Fifty: Old Enemies</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch50_nook_isaSample_64" /></navPoint>
+<navPoint id="navpoint-65" playOrder="65"><navLabel><text>Chapter Fifty-One: Kings of Assyria and Babylon</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch51_nook_isaSample_65" /></navPoint>
+<navPoint id="navpoint-66" playOrder="66"><navLabel><text>Chapter Fifty-Two: Spectacular Defeat</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch52_nook_isaSample_66" /></navPoint>
+<navPoint id="navpoint-67" playOrder="67"><navLabel><text>Chapter Fifty-Three: The Decline of the King</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch53_nook_isaSample_67" /></navPoint>
+<navPoint id="navpoint-68" playOrder="68"><navLabel><text>Chapter Fifty-Four: The Assyrians in Egypt</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch54_nook_isaSample_68" /></navPoint>
+<navPoint id="navpoint-69" playOrder="69"><navLabel><text>Chapter Fifty-Five: Medes and Persians</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch55_nook_isaSample_69" /></navPoint>
+<navPoint id="navpoint-70" playOrder="70"><navLabel><text>Chapter Fifty-Six: Conquest and Tyranny</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch56_nook_isaSample_70" /></navPoint>
+<navPoint id="navpoint-71" playOrder="71"><navLabel><text>Chapter Fifty-Seven: The Beginnings and End of Empire</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch57_nook_isaSample_71" /></navPoint>
+<navPoint id="navpoint-72" playOrder="72"><navLabel><text>Chapter Fifty-Eight: A Brief Empire</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch58_nook_isaSample_72" /></navPoint>
+<navPoint id="navpoint-73" playOrder="73"><navLabel><text>Chapter Fifty-Nine: Cyrus the Great</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch59_nook_isaSample_73" /></navPoint>
+<navPoint id="navpoint-74" playOrder="74"><navLabel><text>Chapter Sixty: The Republic of Rome</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch60_nook_isaSample_74" /></navPoint>
+<navPoint id="navpoint-75" playOrder="75"><navLabel><text>Chapter Sixty-One: Kingdoms and Reformers</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch61_nook_isaSample_75" /></navPoint>
+<navPoint id="navpoint-76" playOrder="76"><navLabel><text>Chapter Sixty-Two: The Power of Duty and the Art of War</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch62_nook_isaSample_76" /></navPoint>
+<navPoint id="navpoint-77" playOrder="77"><navLabel><text>Chapter Sixty-Three: The Spreading Persian Empire</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch63_nook_isaSample_77" /></navPoint>
+<navPoint id="navpoint-78" playOrder="78"><navLabel><text>Chapter Sixty-Four: The Persian Wars</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch64_nook_isaSample_78" /></navPoint></navPoint>
+<navPoint id="navpoint-79" playOrder="79"><navLabel><text>Part Five: Identity</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_79" />
+<navPoint id="navpoint-80" playOrder="80"><navLabel><text>Chapter Sixty-Five: The Peloponnesian Wars</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch65_nook_isaSample_80" /></navPoint>
+<navPoint id="navpoint-81" playOrder="81"><navLabel><text>Chapter Sixty-Six: The First Sack of Rome</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch66_nook_isaSample_81" /></navPoint>
+<navPoint id="navpoint-82" playOrder="82"><navLabel><text>Chapter Sixty-Seven: The Rise of the Ch&#x2019;in</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch67_nook_isaSample_82" /></navPoint>
+<navPoint id="navpoint-83" playOrder="83"><navLabel><text>Chapter Sixty-Eight: The Macedonian Conquerors</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch68_nook_isaSample_83" /></navPoint>
+<navPoint id="navpoint-84" playOrder="84"><navLabel><text>Chapter Sixty-Nine: Rome Tightens Its Grasp</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch69_nook_isaSample_84" /></navPoint>
+<navPoint id="navpoint-85" playOrder="85"><navLabel><text>Chapter Seventy: Alexander and the Wars of the Successors</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch70_nook_isaSample_85" /></navPoint>
+<navPoint id="navpoint-86" playOrder="86"><navLabel><text>Chapter Seventy-One: The Mauryan Epiphany</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch71_nook_isaSample_86" /></navPoint>
+<navPoint id="navpoint-87" playOrder="87"><navLabel><text>Chapter Seventy-Two: First Emperor, Second Dynasty</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch72_nook_isaSample_87" /></navPoint>
+<navPoint id="navpoint-88" playOrder="88"><navLabel><text>Chapter Seventy-Three: The Wars of the Sons</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch73_nook_isaSample_88" /></navPoint>
+<navPoint id="navpoint-89" playOrder="89"><navLabel><text>Chapter Seventy-Four: Roman Liberators and Seleucid Conquerors</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch74_nook_isaSample_89" /></navPoint>
+<navPoint id="navpoint-90" playOrder="90"><navLabel><text>Chapter Seventy-Five: Between East and West</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch75_nook_isaSample_90" /></navPoint>
+<navPoint id="navpoint-91" playOrder="91"><navLabel><text>Chapter Seventy-Six: Breaking the System</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch76_nook_isaSample_91" /></navPoint>
+<navPoint id="navpoint-92" playOrder="92"><navLabel><text>Chapter Seventy-Seven: The Problems of Prosperity</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch77_nook_isaSample_92" /></navPoint>
+<navPoint id="navpoint-93" playOrder="93"><navLabel><text>Chapter Seventy-Eight: New Men</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch78_nook_isaSample_93" /></navPoint>
+<navPoint id="navpoint-94" playOrder="94"><navLabel><text>Chapter Seventy-Nine: Empire</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch79_nook_isaSample_94" /></navPoint>
+<navPoint id="navpoint-95" playOrder="95"><navLabel><text>Chapter Eighty: Eclipse and Restoration</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch80_nook_isaSample_95" /></navPoint>
+<navPoint id="navpoint-96" playOrder="96"><navLabel><text>Chapter Eighty-One: The Problem of Succession</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch81_nook_isaSample_96" /></navPoint>
+<navPoint id="navpoint-97" playOrder="97"><navLabel><text>Chapter Eighty-Two: The Edges of the Roman World</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch82_nook_isaSample_97" /></navPoint>
+<navPoint id="navpoint-98" playOrder="98"><navLabel><text>Chapter Eighty-Three: Children on the Throne</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch83_nook_isaSample_98" /></navPoint>
+<navPoint id="navpoint-99" playOrder="99"><navLabel><text>Chapter Eighty-Four: The Mistake of Inherited Power</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch84_nook_isaSample_99" /></navPoint>
+<navPoint id="navpoint-100" playOrder="100"><navLabel><text>Chapter Eighty-Five: Savior of the Empire</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#ch85_nook_isaSample_100" /></navPoint></navPoint>
+<navPoint id="navpoint-101" playOrder="101"><navLabel><text>Notes</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#end01_nook_isaSample_101" /></navPoint>
+<navPoint id="navpoint-102" playOrder="102"><navLabel><text>Works Cited</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#bm01_nook_isaSample_102" /></navPoint>
+<navPoint id="navpoint-103" playOrder="103"><navLabel><text>Permissions</text></navLabel><content src="..%2Fnook%2FisaSample.xhtml#bm02_nook_isaSample_103" /></navPoint>
+</navMap>
+</ncx>

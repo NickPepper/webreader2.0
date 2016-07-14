@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Cooking with Paula Deen</title>
+<link href="css/test1.css" rel="stylesheet" type="text/css" />
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    </head>
+<body class="left">
+        <div class="before">
+            <div class="articleMenuWrapper" id="header_navbar">
+                <div class="sectionMenuLeft" id="header_navbar_previous">
+                    <a href="page071.article003.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="header_navbar_next">
+                    <a href="page072.article002.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+            <div class="masthead" id="header">
+                <div class="masthead-text">
+                    <div class="masthead-section" id="header_title">
+                        <a href="section.xml">Contents</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="article-headline" id="Headline">QUICK CLOVERLEAF ROLLS</div>
+
+
+
+<div class="article-in-image" id="image1"><img src="images/page072.article001.image1.jpg" class="article-in-image" alt=""/></div>
+<div id="separatorLine"> <div class="invisible">empty</div> </div>
+
+<div class="articleImageCredit" id="ImageCredit">PHOTOGRAPHY BY WILLIAM DICKEY</div>
+<div class="article-body" id="Body"><p class="no-indent">Makes about 2 dozen </p><br/><p class="no-indent">2 (16.3-ounce) cans refrigerated jumbo biscuits* </p><p class="no-indent">½ cup butter, melted </p><p class="no-indent">1 teaspoon kosher salt </p><p class="no-indent">1 teaspoon onion flakes </p><p class="no-indent">1 teaspoon sesame seeds </p><p class="no-indent">1 teaspoon poppy seeds </p><p class="no-indent">1 teaspoon ground black pepper </p><br/><p class="no-indent">1. Preheat oven to 350°. Spray 2 (12-cup)muffin pans with nonstick cooking spray. Using kitchen scissors, cut biscuits into fourths. </p><br/><p class="no-indent">2. Pour melted butter into a small bowl. Dip each biscuit piece in butter, and place 3 pieces in each muffin cup. </p><br/><p class="no-indent">3. In another small bowl, combine salt and remaining 4 ingredients. Sprinkle seasonings over tops of biscuits. </p><br/><p class="no-indent">4. Bake for 12 to 15 minutes or until golden brown. Serve immediately. </p><br/><p class="no-indent">*We used Pillsbury Grands! Flaky Layers Original Biscuits.</p><br/><p>______________________________</p><br/><p class="no-indent">“A pretty table-setting, fresh rolls from the oven, and dessert separate Sunday Dinners from ordinary weeknight meals.” –Paula</p></div>
+<div class="after">
+            <div class="articleMenuWrapper" id="footer_navbar">
+                <div class="sectionMenuLeft" id="footer_navbar_previous">
+                    <a href="page071.article003.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="footer_navbar_next">
+                    <a href="page072.article002.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+        </div>
+    </body>
+</html>

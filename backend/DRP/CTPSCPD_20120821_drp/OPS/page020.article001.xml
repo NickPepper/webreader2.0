@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Cooking with Paula Deen</title>
+<link href="css/test1.css" rel="stylesheet" type="text/css" />
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    </head>
+<body class="left">
+        <div class="before">
+            <div class="articleMenuWrapper" id="header_navbar">
+                <div class="sectionMenuLeft" id="header_navbar_previous">
+                    <a href="page019.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="header_navbar_next">
+                    <a href="page021.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+            <div class="masthead" id="header">
+                <div class="masthead-text">
+                    <div class="masthead-section" id="header_title">
+                        <a href="section.xml">Contents</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="article-headline" id="Headline">RED WINE-BRAISED BEEF SHORT RIBS</div>
+
+<div class="article-byline" id="ByLine">BY ELIZABETH NELSON</div>
+
+<div class="article-in-image" id="image1"><img src="images/page020.article001.image1.jpg" class="article-in-image" alt=""/></div>
+<div id="separatorLine"> <div class="invisible">empty</div> </div>
+
+<div class="articleImageCredit" id="ImageCredit">PHOTOGRAPHY BY WILLIAM DICKEY</div>
+<div class="article-body" id="Body"><p class="no-indent">Makes 6 servings</p><br/><p class="no-indent">5 slices bacon </p><p class="no-indent">1 teaspoon pepper </p><p class="no-indent">½ teaspoon salt </p><p class="no-indent">6 (5-inch-long) beef short ribs </p><p class="no-indent">2 cups chopped onions </p><p class="no-indent">1½ cups chopped carrot </p><p class="no-indent">2 (8-ounce) packages baby portobello mushrooms, quartered </p><p class="no-indent">2½ cups reduced sodium chicken broth, divided </p><p class="no-indent">2 cups red wine, divided </p><p class="no-indent">1 tablespoon tomato paste </p><p class="no-indent">4 (5-inch) sprigs rosemary </p><p class="no-indent">2 tablespoons butter </p><p class="no-indent">⅓ cup flour</p><br/><p class="no-indent">1. Preheat oven to 325º. </p><br/><p class="no-indent">2. In a large oven-safe Dutch oven, cook bacon over medium heat until crisp. Remove bacon to paper towels to drain, reserving drippings in pan. Crumble bacon. Sprinkle short ribs with salt and pepper. Brown short ribs in hot drippings on all sides. Remove short ribs from pan. </p><br/><p class="no-indent">3. Add onions, carrot, and mushrooms to drippings in pan. Cook for 7 minutes or until mushrooms have released their liquid. Using a slotted spoon, remove vegetables from pan. </p><br/><p class="no-indent">4. Stir together 2 cups chicken broth, 1½ cups red wine, and tomato paste in pan. Cook over high heat, stirring frequently, for 10 minutes or until reduced by half. Remove from heat, and stir in vegetables until well combined.</p><br/><p class="no-indent">5. Arrange short ribs in vegetable mixture, and top with rosemary sprigs. Cover and bake for 2 to 2½ hours or until meat is tender. </p><br/><p class="no-indent">6. Pour vegetable mixture through a fine mesh strainer into a glass measuring cup, reserving liquid. Reserve vegetables, discarding rosemary sprigs, and keep warm. Let cooking liquid stand for 10 minutes, and then skim fat from top. </p><br/><p class="no-indent">7. Melt butter in Dutch oven over medium heat. Stir in flour, and cook, stirring constantly, for 2 minutes. Stir in cooking liquid, remaining ½ cup broth, and remaining ½ cup wine. Cook for 10 minutes or until thickened. Stir vegetables into sauce. Serve with meat.</p><br/><p>______________________________</p><br/><p class="no-indent">Be sure to buy English-style short ribs, which have one long bone, and not flanken-style short ribs, which are thinner and have a few small bones in each piece.</p></div>
+<div class="after">
+            <div class="articleMenuWrapper" id="footer_navbar">
+                <div class="sectionMenuLeft" id="footer_navbar_previous">
+                    <a href="page019.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="footer_navbar_next">
+                    <a href="page021.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+        </div>
+    </body>
+</html>

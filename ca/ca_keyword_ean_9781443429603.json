@@ -1,0 +1,161 @@
+{
+  "request": "http://pnjanalyticsm01:6100/m/snack/search?sort=&q=ean%3A9781443429603&rf=json&fields=title,ean,id,file_order,epub_path,publisher,epub_title,images,snack_type,id,startCfi,endCfi,pageshots", 
+  "response": {
+    "docs": [
+      {
+        "ean": "9781443429603", 
+        "endCfi": "/6/116!/4/2/22/8/2/1", 
+        "epub_path": "/Harper Collins/03/9781443429603/9781443429603_epub.v2.epub", 
+        "epub_title": "The Best of Down Goes Brown: Greatest Hits and Brand New Classics-to-Be from Hockey's Most Hilarious Blog", 
+        "file_order": [
+          "OEBPS/9781118358436c52.xhtml"
+        ], 
+        "id": "9781443429603.56", 
+        "publisher": "HARPERCOLLINS", 
+        "snack_type": "article", 
+        "startCfi": "/6/116!", 
+        "title": "Chapter 52: Take the Quiz: Was that a Dive?"
+      }, 
+      {
+        "ean": "9781443429603", 
+        "endCfi": "/6/84!/4/2/18/70/3", 
+        "epub_path": "/Harper Collins/03/9781443429603/9781443429603_epub.v2.epub", 
+        "epub_title": "The Best of Down Goes Brown: Greatest Hits and Brand New Classics-to-Be from Hockey's Most Hilarious Blog", 
+        "file_order": [
+          "OEBPS/9781118358436c36.xhtml"
+        ], 
+        "id": "9781443429603.40", 
+        "publisher": "HARPERCOLLINS", 
+        "snack_type": "article", 
+        "startCfi": "/6/84!", 
+        "title": "Chapter 36: An NHLer's Guide to Never saying Anything Interesting"
+      }, 
+      {
+        "ean": "9781443429603", 
+        "endCfi": "/6/86!/4/2/18/50/3", 
+        "epub_path": "/Harper Collins/03/9781443429603/9781443429603_epub.v2.epub", 
+        "epub_title": "The Best of Down Goes Brown: Greatest Hits and Brand New Classics-to-Be from Hockey's Most Hilarious Blog", 
+        "file_order": [
+          "OEBPS/9781118358436c37.xhtml"
+        ], 
+        "id": "9781443429603.41", 
+        "publisher": "HARPERCOLLINS", 
+        "snack_type": "article", 
+        "startCfi": "/6/86!", 
+        "title": "Chapter 37: Democracy Doesn't Work: A History of All-Star Voting"
+      }, 
+      {
+        "ean": "9781443429603", 
+        "endCfi": "/6/138!/4/2/20/42/3", 
+        "epub_path": "/Harper Collins/03/9781443429603/9781443429603_epub.v2.epub", 
+        "epub_title": "The Best of Down Goes Brown: Greatest Hits and Brand New Classics-to-Be from Hockey's Most Hilarious Blog", 
+        "file_order": [
+          "OEBPS/9781118358436c63.xhtml"
+        ], 
+        "id": "9781443429603.67", 
+        "publisher": "HARPERCOLLINS", 
+        "snack_type": "article", 
+        "startCfi": "/6/138!", 
+        "title": "Chapter 63: When a Day with the Stanley Cup Goes Wrong"
+      }, 
+      {
+        "ean": "9781443429603", 
+        "endCfi": "/6/22!/4/2/34/1", 
+        "epub_path": "/Harper Collins/03/9781443429603/9781443429603_epub.v2.epub", 
+        "epub_title": "The Best of Down Goes Brown: Greatest Hits and Brand New Classics-to-Be from Hockey's Most Hilarious Blog", 
+        "file_order": [
+          "OEBPS/9781118358436c05.xhtml"
+        ], 
+        "id": "9781443429603.9", 
+        "publisher": "HARPERCOLLINS", 
+        "snack_type": "article", 
+        "startCfi": "/6/22!", 
+        "title": "Chapter 5: A Look Back at Game Seven of the 2011 Stanley Cup Final: (Which, Due to a Scheduling Error, had to be Published Twelve Hours Early)"
+      }, 
+      {
+        "ean": "9781443429603", 
+        "endCfi": "/6/20!/4/2/18/70/3", 
+        "epub_path": "/Harper Collins/03/9781443429603/9781443429603_epub.v2.epub", 
+        "epub_title": "The Best of Down Goes Brown: Greatest Hits and Brand New Classics-to-Be from Hockey's Most Hilarious Blog", 
+        "file_order": [
+          "OEBPS/9781118358436c04.xhtml"
+        ], 
+        "id": "9781443429603.8", 
+        "publisher": "HARPERCOLLINS", 
+        "snack_type": "article", 
+        "startCfi": "/6/20!", 
+        "title": "Chapter 4: Know Your Sports"
+      }, 
+      {
+        "ean": "9781443429603", 
+        "endCfi": "/6/110!/4/2/38/6/3", 
+        "epub_path": "/Harper Collins/03/9781443429603/9781443429603_epub.v2.epub", 
+        "epub_title": "The Best of Down Goes Brown: Greatest Hits and Brand New Classics-to-Be from Hockey's Most Hilarious Blog", 
+        "file_order": [
+          "OEBPS/9781118358436c49.xhtml"
+        ], 
+        "id": "9781443429603.53", 
+        "publisher": "HARPERCOLLINS", 
+        "snack_type": "article", 
+        "startCfi": "/6/110!", 
+        "title": "Chapter 49: A Period-by-Period Recap of the 2012 Stanley Cup Final"
+      }, 
+      {
+        "ean": "9781443429603", 
+        "endCfi": "/6/144!/4/2/18/76/3", 
+        "epub_path": "/Harper Collins/03/9781443429603/9781443429603_epub.v2.epub", 
+        "epub_title": "The Best of Down Goes Brown: Greatest Hits and Brand New Classics-to-Be from Hockey's Most Hilarious Blog", 
+        "file_order": [
+          "OEBPS/9781118358436c66.xhtml"
+        ], 
+        "id": "9781443429603.70", 
+        "publisher": "HARPERCOLLINS", 
+        "snack_type": "article", 
+        "startCfi": "/6/144!", 
+        "title": "Chapter 66: Know your Sports: The NHL vs. UFC"
+      }, 
+      {
+        "ean": "9781443429603", 
+        "endCfi": "/6/150!/4/2/162/3", 
+        "epub_path": "/Harper Collins/03/9781443429603/9781443429603_epub.v2.epub", 
+        "epub_title": "The Best of Down Goes Brown: Greatest Hits and Brand New Classics-to-Be from Hockey's Most Hilarious Blog", 
+        "file_order": [
+          "OEBPS/9781118358436c69.xhtml"
+        ], 
+        "id": "9781443429603.73", 
+        "publisher": "HARPERCOLLINS", 
+        "snack_type": "article", 
+        "startCfi": "/6/150!", 
+        "title": "Chapter 69: A Complete Transcript of Every Post-Game Call-In Show Ever Broadcast"
+      }, 
+      {
+        "ean": "9781443429603", 
+        "endCfi": "/6/146!/4/2/80/3", 
+        "epub_path": "/Harper Collins/03/9781443429603/9781443429603_epub.v2.epub", 
+        "epub_title": "The Best of Down Goes Brown: Greatest Hits and Brand New Classics-to-Be from Hockey's Most Hilarious Blog", 
+        "file_order": [
+          "OEBPS/9781118358436c67.xhtml"
+        ], 
+        "id": "9781443429603.71", 
+        "publisher": "HARPERCOLLINS", 
+        "snack_type": "article", 
+        "startCfi": "/6/146!", 
+        "title": "Chapter 67: A Hockey Fan's Guide to Modern TV Technology"
+      }
+    ], 
+    "maxScore": 11.514837, 
+    "numFound": 77, 
+    "start": 0
+  }, 
+  "responseHeader": {
+    "QTime": 15, 
+    "params": {
+      "defType": "edismax", 
+      "fl": "title,ean,id,file_order,epub_path,publisher,epub_title,images,snack_type,id,startCfi,endCfi,pageshots", 
+      "q": "ean:9781443429603", 
+      "start": "0", 
+      "wt": "json"
+    }, 
+    "status": 0
+  }
+}

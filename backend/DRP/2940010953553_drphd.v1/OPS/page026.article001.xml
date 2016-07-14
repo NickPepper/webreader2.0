@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>The New Yorker</title>
+<link href="css/test1.css" rel="stylesheet" type="text/css" />
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    </head>
+<body class="left">
+        <div class="before">
+            <div class="articleMenuWrapper" id="header_navbar">
+                <div class="sectionMenuLeft" id="header_navbar_previous">
+                    <a href="page025.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="header_navbar_next">
+                    <a href="page029.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+            <div class="masthead" id="header">
+                <div class="masthead-text">
+                    <div class="masthead-section" id="header_title">
+                        <a href="section.xml">Contents</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="article-headline" id="Headline">FOOD &amp; DRINK</div>
+
+
+
+<div class="article-in-image" id="image1"><img src="images/page026.article001.image1.jpg" class="article-in-image" alt=""/></div>
+<div id="separatorLine"> <div class="invisible">empty</div> </div>
+
+<div class="articleImageCredit" id="ImageCredit">Photograph by Brea Souders</div>
+<div class="article-body" id="Body"><p class="no-indent">TABLES FOR TWO</p><br/><p class="no-indent">SHALOM JAPAN</p><p class="no-indent">310 S. 4th St., Brooklyn (718 -388-4012)</p><br/><p class="no-indent">JEWISH AND JAPANESE are not words or cuisines usually associated with each other. Shalom Japan, the name of a new restaurant in South Williamsburg, sounds almost like the punch line to a joke—“A Jewish guy and a Japanese woman walk into a bar . . .”—but the married couple Aaron Israel and Sawako Okochi, the Jewish guy and the Japanese woman who opened the place, are far from kidding around. At its best, their food is fusion in the truest sense, seamless and utterly convincing. Matzah Ball Ramen (trend alert: Dassara, in Carroll Gardens, serves a version as well) belongs in the canon of soup: clear chicken broth; a single, perfect matzo ball; a tangle of springy ramen noodles; fat chunks of carrot, celery, and parsnip; a delicate but explosively flavorful gyoza filled with ground chicken and foie gras; and a tender, tasty coin of chicken char siu, all topped with crunchy yellow mandel, traditional Jewish soup croutons.</p><br/><p class="no-indent">Beautifully braided miniature challahs, shiny with egg wash and studded with poppy seeds, are made with yeast left over from sake brewing. It’s hard to discern the flavor but fun to know the fact, and the challah is delicious in its own right, especially slathered in butter blended with plump golden raisins that have been rehydrated in sake. In a winning nod to both schmalz herring and sashimi, spot, a small fish caught seasonally near Montauk, is quick-pickled, sliced thick, and served with soy sauce, a shiso leaf, and the fish’s intact skeleton, which is deep-fried and edible, if not particularly satisfying. Not everything quite hits the mark: the dubiously named Jew Egg—like a Scotch egg but embedded in falafel rather than sausage—is clever but underwhelming, and pouches made of aburaage (cold fried tofu skin) don’t exactly jibe with their raclette filling.</p><br/><p class="no-indent">Though Israel and Okochi are serious chefs (they’ve worked, respectively, at Torrisi and Annisa), Shalom Japan maintains a playful spirit. In addition to a high-tech Japanese toilet, the restaurant’s bathroom contains Star of David kosher soap, a book titled “Hibachi Cookery in the American Manner,” and an iconic “You Don’t Have to Be Jewish to Love Levy’s” poster, picturing a Japanese boy holding a sandwich on rye. Cocktails include the Shiksappeal (gin, watermelon, Cocchi Americano, basil) and the Nathan Birnbaum (cold-smoked rye, curaçao, charred-pineapple bitters), which was George Burns’s real name, and the wine list is divided into helpful categories like Spicy Reds and Natty Whites. Dessert is pure fun: sheets of mochi filled with chocolate and vanilla ice cream are a spiffy spin on the blintz, and a grown-up egg cream is made with stout and carbonated milk. Jewish-Japanese—it trips off the tongue.</p><br/><p class="no-indent">—Hannah Goldfield</p><br/><p>______________________________</p><br/><p class="no-indent">BAR TAB</p><br/><p class="no-indent">RUSSIAN VODKA ROOM </p><p class="no-indent">265 W. 52nd St. (212-307-5835) </p><br/><p class="no-indent">“Dorogie Tovarischi! Comrades!” reads the Web site for this dimly lit lounge on the fringes of the theatre district—but you will get no such greeting upon stepping up to the green marble bar. The bartenders are invariably Russian women with ice-blue eyes who manage to convey, with very few words, one message to the after-work happy-hour droves: “Don’t fuck with me.” If you want warmth, drink vodka. There are at least fifty kinds, foremost the house-infused varieties, of which horseradish is the winner. (Cranberry is good, too, but some flavors, such as “apple &amp; pomegranate” and “garlic pepper &amp; dill” underscore the rubbing-alcohol essence of vodka with an unrecognizable chemical taste.) But there is good reason to take to the bar, or a table in the back room, even if you don’t want to get sloshed, as the kitchen is turning out carefully cooked, generously portioned classics: hot borscht, smoked-trout salad, gravlax with potato pancakes. One night, a bartender and the covert leader of the mysterious seating system (a free-for-all, unless you can get in good with her), was asked to name her favorite thing on the menu. For just a moment, her face softened and she lit up: “The meat dumplings are fantastic.”</p><br/><p class="no-indent">—Shauna Lyon</p></div>
+<div class="after">
+            <div class="articleMenuWrapper" id="footer_navbar">
+                <div class="sectionMenuLeft" id="footer_navbar_previous">
+                    <a href="page025.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="footer_navbar_next">
+                    <a href="page029.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+        </div>
+    </body>
+</html>

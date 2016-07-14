@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Cooking with Paula Deen</title>
+<link href="css/test1.css" rel="stylesheet" type="text/css" />
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    </head>
+<body class="left">
+        <div class="before">
+            <div class="articleMenuWrapper" id="header_navbar">
+                <div class="sectionMenuLeft" id="header_navbar_previous">
+                    <a href="page071.article002.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="header_navbar_next">
+                    <a href="page071.article003.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+            <div class="masthead" id="header">
+                <div class="masthead-text">
+                    <div class="masthead-section" id="header_title">
+                        <a href="section.xml">Contents</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="article-headline" id="Headline">HOMESTYLE MEATLOAF</div>
+
+
+
+<div class="article-in-image" id="image1"><img src="images/page071.article001.image1.jpg" class="article-in-image" alt=""/></div>
+<div id="separatorLine"> <div class="invisible">empty</div> </div>
+
+<div class="articleImageCredit" id="ImageCredit">PHOTOGRAPHY BY WILLIAM DICKEY</div>
+<div class="article-body" id="Body"><p class="no-indent">Makes 6 to 8 servings </p><br/><p class="no-indent">2 pounds ground chuck </p><p class="no-indent">1 (6-ounce) can tomato paste, divided </p><p class="no-indent">1 cup crushed saltine crackers </p><p class="no-indent">½ cup finely chopped onion </p><p class="no-indent">½ cup finely chopped celery </p><p class="no-indent">¼ cup Dijon mustard, divided </p><p class="no-indent">2 large eggs, lightly beaten </p><p class="no-indent">3 tablespoons Worcestershire sauce </p><p class="no-indent">2 tablespoons chopped fresh parsley </p><p class="no-indent">1¼ teaspoons salt, divided </p><p class="no-indent">1 teaspoon ground black pepper </p><p class="no-indent">2 tablespoons firmly packed brown sugar </p><p class="no-indent">1 tablespoon fresh lemon juice </p><p class="no-indent">Garnish: fresh parsley </p><br/><p class="no-indent">1. Preheat oven to 350°. Line a rimmed baking sheet with aluminum foil. Spray foil with nonstick cooking spray. </p><br/><p class="no-indent">2. In a large bowl, combine ground chuck, 3 tablespoons tomato paste, crackers, onion, celery, 2 tablespoons mustard, eggs, Worcestershire, parsley, 1 teaspoon salt, and pepper. Shape mixture into a 12-inch loaf on prepared baking sheet. Bake for 30 minutes. </p><br/><p class="no-indent">3. In a small bowl, combine remaining tomato paste, remaining 2 tablespoon mustard, remaining ¼ teaspoon salt, brown sugar, and lemon juice. Spread mixture over meatloaf, and bake for 30 minutes more or until a meat thermometer registers 165°. Let stand for 10 minutes before slicing. Garnish with fresh parsley, if desired.</p></div>
+<div class="after">
+            <div class="articleMenuWrapper" id="footer_navbar">
+                <div class="sectionMenuLeft" id="footer_navbar_previous">
+                    <a href="page071.article002.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="footer_navbar_next">
+                    <a href="page071.article003.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+        </div>
+    </body>
+</html>

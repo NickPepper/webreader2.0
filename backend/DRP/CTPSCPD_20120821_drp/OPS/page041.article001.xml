@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Cooking with Paula Deen</title>
+<link href="css/test1.css" rel="stylesheet" type="text/css" />
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    </head>
+<body class="left">
+        <div class="before">
+            <div class="articleMenuWrapper" id="header_navbar">
+                <div class="sectionMenuLeft" id="header_navbar_previous">
+                    <a href="page040.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="header_navbar_next">
+                    <a href="page041.article002.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+            <div class="masthead" id="header">
+                <div class="masthead-text">
+                    <div class="masthead-section" id="header_title">
+                        <a href="section.xml">Contents</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="article-headline" id="Headline">APPLESAUCE BUNDT CAKE</div>
+
+
+
+<div class="article-in-image" id="image1"><img src="images/page041.article001.image1.jpg" class="article-in-image" alt=""/></div>
+<div id="separatorLine"> <div class="invisible">empty</div> </div>
+
+<div class="articleImageCredit" id="ImageCredit">PHOTOGRAPHY BY WILLIAM DICKEY</div>
+<div class="article-body" id="Body"><p class="no-indent">Makes 10 to 12 servings </p><br/><p class="no-indent">3 cups all-purpose flour </p><p class="no-indent">1½ cups granulated sugar </p><p class="no-indent">½ cup firmly packed dark brown sugar </p><p class="no-indent">2 teaspoons ground cinnamon </p><p class="no-indent">1 teaspoon apple pie spice </p><p class="no-indent">1 teaspoon baking soda </p><p class="no-indent">1 teaspoon salt </p><p class="no-indent">3 large eggs </p><p class="no-indent">1 cup unsweetened applesauce</p><p class="no-indent">½ cup vegetable oil </p><p class="no-indent">¾ teaspoon vanilla extract </p><p class="no-indent">3 cups peeled and chopped Braeburn apples </p><p class="no-indent">½ cup dried cranberries* </p><p class="no-indent">½ cup golden raisins* </p><p class="no-indent">Confectioners’ sugar </p><br/><p class="no-indent">1. Preheat oven to 350º. Spray a 10-cup Bundt pan with nonstick baking spray with flour.</p><br/><p class="no-indent">2. In a large bowl, whisk together flour and next 6 ingredients. In a medium bowl, whisk together eggs, applesauce oil, and vanilla. Whisk applesauce mixture into flour mixture. Stir in apples, cranberries, and raisins. </p><br/><p class="no-indent">3. Pour batter into prepared pan. Gently tap pan on counter to release air bubbles. Bake for 1 hour or until a wooden pick inserted into the center of the cake comes out clean. Let cool 10 minutes in pan on a wire rack. Invert cake onto wire rack and let cool completely. Dust with confectioners’ sugar, if desired. </p><br/><p class="no-indent">*1 cup cranberries or 1 cup raisins may be used instead of ½ cup each, if desired. Dark raisins may be substituted for golden.</p></div>
+<div class="after">
+            <div class="articleMenuWrapper" id="footer_navbar">
+                <div class="sectionMenuLeft" id="footer_navbar_previous">
+                    <a href="page040.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="footer_navbar_next">
+                    <a href="page041.article002.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+        </div>
+    </body>
+</html>

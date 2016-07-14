@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns:ncr="http://www.nytimes.com/NewsClientReader#"
+      xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:nitf="http://www.nytimes.com/applicationdata/xml/nitf-3-3.dtd">
+   <head>
+      <title>Columns</title>
+      <link rel="stylesheet" href="css/TablesAndFloats.css" type="text/css"/>
+   </head>
+   <body>
+      <div class="clean"/>
+      <div id="header" class="masthead">
+         <div id="header_title" class="sectionName">Columns</div>
+      </div>
+			
+			
+<div id="preview_0" class="sectionArticleBlockOdd">
+   <div id="preview_0_image_0" class="sectionArticleThumbBlock">
+      <img id="preview_0_image_0_img" class="sectionArticleImage" src="images/Thumb-img_11_811.jpg"
+           alt=""/>
+   </div>
+   <div class="sectionArticleTextBlock">
+      <div class="sectionArticleTitle">
+         <a class="sectionArticleLink" href="article_8-1.xml">
+            <span id="preview_0_headline" class="sectionArticleHeadline">The Intelligent Liberal&#x2019;s Guide to Foolish Principles</span>
+         </a>
+      </div>
+      <div id="preview_0_byline" class="sectionArticleByline">Eric Alterman</div>
+      <div id="preview_0_snippet" class="sectionArticleBody">In Tony Kushner&#8217;s moving&#8212;and mind-bending&#8212;new play, The Intelligent Homosexual&#8217;s Guide..., the 72-year-old ex-longshoreman and (yes) Communist Party activist Gus Mercantonio pronounces of a...</div>
+   </div>
+</div>
+
+<div class="article-spacer"/>
+<div id="preview_1" class="sectionArticleBlock">
+   <div id="preview_1_image_0" class="sectionArticleThumbBlock">
+      <img id="preview_1_image_0_img" class="sectionArticleImage" src="images/Thumb-img_12_1011.jpg"
+           alt=""/>
+   </div>
+   <div class="sectionArticleTextBlock">
+      <div class="sectionArticleTitle">
+         <a class="sectionArticleLink" href="article_10-1.xml">
+            <span id="preview_1_headline" class="sectionArticleHeadline">The Paradox of Hope</span>
+         </a>
+      </div>
+      <div id="preview_1_byline" class="sectionArticleByline">Gary Younge</div>
+      <div id="preview_1_snippet" class="sectionArticleBody">When Barack Obama was pondering a run for the presidency Michelle asked him what he thought he could accomplish. He replied, &#8220;The day I take the oath of office, the world will look at us differently....</div>
+   </div>
+</div>
+
+			
+			<div id="footer_navbar" class="sectionMenuWrapper">
+         <div id="footer_navbar_title" class="sectionNameGoTo">
+            <a class="sectionNameGoTo" href="section_4.xml">Top of Columns</a>
+         </div>
+         <span id="footer_navbar_previous" class="sectionMenuLeft">
+            <a href="section_3.xml">Editorial</a>
+         </span>
+         <span id="footer_navbar_next" class="sectionMenuRight"/>
+      </div>
+   </body>
+</html>
+
+

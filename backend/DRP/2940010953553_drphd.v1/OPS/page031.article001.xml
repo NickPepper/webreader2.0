@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>The New Yorker</title>
+<link href="css/test1.css" rel="stylesheet" type="text/css" />
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    </head>
+<body class="left">
+        <div class="before">
+            <div class="articleMenuWrapper" id="header_navbar">
+                <div class="sectionMenuLeft" id="header_navbar_previous">
+                    <a href="page030.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="header_navbar_next">
+                    <a href="page032.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+            <div class="masthead" id="header">
+                <div class="masthead-text">
+                    <div class="masthead-section" id="header_title">
+                        <a href="section.xml">Contents</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="article-headline" id="Headline">WIND ON CAPITOL HILL: NAIL-BITER</div>
+
+<div class="article-byline" id="ByLine">Lizzie Widdicombe</div>
+
+<div class="article-in-image" id="image1"><img src="images/page031.article001.image1.jpg" class="article-in-image" alt=""/></div>
+<div id="separatorLine"> <div class="invisible">empty</div> </div>
+
+
+<div class="article-body" id="Body"><p class="no-indent">Last weekend, moviegoers lined up to see Tom Hanks held at gunpoint by Somali pirates, in “Captain Phillips.” As the pirates boarded the ship and alarm bells clanged, viewers could be forgiven for experiencing déjà vu: hadn’t we spent the past week enduring our own hostage crisis, with House Republicans trying to hijack the ship of state? The threat—of debt default and economic chaos—was to our 401(k) accounts, not to our lives. But, as the shutdown wore on, and negotiations stalled, you couldn’t help but relate to Hanks’s captain. SOS! </p><br/><p class="no-indent">Hostage negotiators are the new political analysts. Sam Farina, a former Rochester, New York, deputy police chief and the president of the New York Association of Hostage Negotiators, said that the standoff on Capitol Hill presented a classic stalemate. This happens when the hostage-taker holds a “trump card”—like the threat of default—or is unwilling to talk. “You need to operate from a position of power,” he said, describing his negotiation technique. “If both sides have equal power, then negotiation isn’t going to happen.” To illustrate, he brought up a situation he had faced in Rochester: a berserk dog breeder had holed up in his house with guns, his two children, and sixteen Italian mastiffs, and started firing at police. Italian mastiffs, Farina noted, are “a hundred and sixty-five pounds apiece,” and “attack in a pack fashion.” He said, “We can’t go in and start shooting dogs, not knowing where the kids are.” A thirty-one-hour standoff ensued, before the dog breeder surrendered.</p><br/><p class="no-indent">As it happened, Farina was attending a hostage negotiators’ conference in South Carolina—an event that he described as “fun.” One of the speakers was Gary Noesner, a former crisis negotiator for the F.B.I. and a veteran of both the 1993 Waco siege and the 1991 prison riots in Talladega, Alabama. Thinking back over his career, Noesner said that the government shutdown most reminded him of an incident in Sandy, Utah. “There was a situation where a very religiously orthodox Mormon guy went to a hospital to kill a doctor who’d given his wife a tubal ligation.” The man carried guns and dynamite, and he took patients and staff hostage, killing a nurse. Noesner reflected, “He was a little bit like some of the Tea Party folks. He was full of rage, and out of control.” In that case, and in Washington today, Noesner said, negotiators had to steer the hostage-taker away from “unmeetable demands.” House Republicans initially demanded that Obamacare—the President’s most prized legislative achievement—be defunded, while the Utah husband demanded to speak to his wife, whom police feared he meant to kill. In both cases, Noesner said, “there’s no way that a responsible negotiator could let this happen.” </p><br/><p class="no-indent">Still, the negotiators agreed that any solution has to involve compromise. “We have to appear to meet halfway,” Noesner said. “It’s the rule of reciprocity.” Clint van Zandt, another former F.B.I. negotiator, said, “We have said through the years that we do not negotiate with terrorists or international hostage-takers. Well, of course we do. We do it all the time.” In the hospital incident, the F.B.I. came up with a concession: it would allow the wife to appear at the end of a hallway, protected by a SWAT team. That way, Noesner said, the husband “got some sense of victory” and was persuaded to give up the siege. Similarly, Noesner said, “Republicans have to have some sense that all we’ve been through in the last few weeks was for something.” </p><br/><p class="no-indent">Colonel John Steed, in Nairobi, is the onetime head of counter-piracy for the United Nations. He now runs a program that is working toward the release of hostages currently held by Somali pirates. (Ninety people are being held, most of them from poor countries, such as Bangladesh and Cambodia; their families can’t afford to pay ransom.) “They are talking to us every day,” Steed said of the pirates. “They’re desperate for money.” Unlike in our domestic dispute, Somali pirates have a purely financial agenda. “It’s a business model.” Since Steed’s organization doesn’t pay ransoms, his tactics include managing “unrealistic expectations” of a payday and “convincing the pirates that it’s going to cost them money in the long run not to negotiate.” The bargaining can take years. There might be a lesson here for Congress: by last week, the government shutdown had already cost the economy $1.6 billion. Unlike the pirates, Steed observed, the Tea Party leaders keep changing their demands and seem unwilling to bargain. “I was listening to Newt Gingrich talk about it on CNN,” he said. “I can understand why the President feels frustrated.”</p></div>
+<div class="after">
+            <div class="articleMenuWrapper" id="footer_navbar">
+                <div class="sectionMenuLeft" id="footer_navbar_previous">
+                    <a href="page030.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="footer_navbar_next">
+                    <a href="page032.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+        </div>
+    </body>
+</html>

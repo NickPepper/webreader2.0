@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx version="2005-1" xml:lang="en-US" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+<head>
+	<meta name="dtb:uid" content="nyt/nyt/nyt/20080927/sat_met/674989"/>
+	<meta name="dtb:depth" content="2"/>
+	<meta name="dtb:totalPageCount" content="0"/>
+	<meta name="dtb:maxPageNumber" content="0"/>
+</head>
+<docTitle><text>The Nation,Mon, Jun 6, 2011</text></docTitle>
+<docAuthor><text>The Nation</text></docAuthor>
+<navMap>
+	<navPoint class="introduction" id="cover.xml" playOrder="1">
+		<navLabel><text>Cover</text></navLabel>
+		<content src="cover.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="s-1371557247" playOrder="2">
+		<navLabel><text>Books &#x0026; the Arts</text></navLabel>
+		<content src="section_2.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="s-1370633726" playOrder="3">
+		<navLabel><text>Editorial</text></navLabel>
+		<content src="section_3.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="s-1369710205" playOrder="4">
+		<navLabel><text>Columns</text></navLabel>
+		<content src="section_4.xml"/>
+	</navPoint>
+</navMap>
+</ncx>

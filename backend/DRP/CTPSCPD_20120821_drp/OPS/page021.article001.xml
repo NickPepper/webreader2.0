@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Cooking with Paula Deen</title>
+<link href="css/test1.css" rel="stylesheet" type="text/css" />
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    </head>
+<body class="left">
+        <div class="before">
+            <div class="articleMenuWrapper" id="header_navbar">
+                <div class="sectionMenuLeft" id="header_navbar_previous">
+                    <a href="page020.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="header_navbar_next">
+                    <a href="page022.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+            <div class="masthead" id="header">
+                <div class="masthead-text">
+                    <div class="masthead-section" id="header_title">
+                        <a href="section.xml">Contents</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="article-headline" id="Headline">BRAISING STEP-BY-STEP</div>
+
+<div class="article-byline" id="ByLine">BY ELIZABETH NELSON</div>
+
+<div class="article-in-image" id="image1"><img src="images/page021.article001.image1.jpg" class="article-in-image" alt=""/></div>
+<div id="separatorLine"> <div class="invisible">empty</div> </div>
+
+<div class="articleImageCredit" id="ImageCredit">PHOTOGRAPHY BY WILLIAM DICKEY</div>
+<div class="article-body" id="Body"><p class="no-indent">1. Brown the meat on all sides to give it—and the bottom of the pan—a flavorful crust and good color.</p><br/><p class="no-indent">2. Sauté the vegetables to allow the moisture from them to evaporate so it will not water down the cooking liquid. </p><br/><p class="no-indent">3. Reduce savory liquids such as wine and broth to give the dish a deeper, richer flavor. </p><br/><p class="no-indent">4. Place the browned meat in a single layer in the pan to promote even cooking. </p><br/><p class="no-indent">5. Bake the covered dish in the oven to provide gentle, constant heat from all angles. </p><br/><p class="no-indent">6. Tent the meat with foil while you’re finishing the sauce. It will help keep it warm until you’re ready to serve. </p><br/><p class="no-indent">7. Strain the vegetables from the cooking liquid. Skimming the fat from the liquid alone helps avoid an oily sauce. </p><br/><p class="no-indent">8. A roux, which is a mixture of flour and butter, thickens the sauce. Stir constantly to avoid scorching. </p><br/><p class="no-indent">9. Stir vegetables back into sauce before serving with the meat.</p></div>
+<div class="after">
+            <div class="articleMenuWrapper" id="footer_navbar">
+                <div class="sectionMenuLeft" id="footer_navbar_previous">
+                    <a href="page020.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="footer_navbar_next">
+                    <a href="page022.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+        </div>
+    </body>
+</html>

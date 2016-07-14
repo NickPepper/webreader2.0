@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>The New Yorker</title>
+<link href="css/test1.css" rel="stylesheet" type="text/css" />
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    </head>
+<body class="left">
+        <div class="before">
+            <div class="articleMenuWrapper" id="header_navbar">
+                <div class="sectionMenuLeft" id="header_navbar_previous">
+                    <a href="page032.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="header_navbar_next">
+                    <a href="page036.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+            <div class="masthead" id="header">
+                <div class="masthead-text">
+                    <div class="masthead-section" id="header_title">
+                        <a href="section.xml">Contents</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="article-headline" id="Headline">THE FINANCIAL PAGE: OPEN SEASON</div>
+
+<div class="article-byline" id="ByLine">James Surowiecki</div>
+
+<div class="article-in-image" id="image1"><img src="images/page035.article001.image1.jpg" class="article-in-image" alt=""/></div>
+<div id="separatorLine"> <div class="invisible">empty</div> </div>
+
+<div class="articleImageCredit" id="ImageCredit">CHRISTOPH NIEMANN</div>
+<div class="article-body" id="Body"><p class="no-indent">In 1965, America’s big companies had a hell of a year. The stock market was booming. Sales were rising briskly, profit margins were fat, and corporate profits as a percentage of G.D.P. were at an all-time high. Almost half a century later, some things look much the same: big American companies have had a hell of a year, with the stock market soaring, margins strong, and profits hitting a new all-time high. But there’s one very noticeable difference. In 1965, C.E.O.s at big companies earned, on average, about twenty times as much as their typical employee. These days, C.E.O.s earn about two hundred and seventy times as much.</p><br/><p class="no-indent">That huge gap between the top and the middle is the result of a boom in executive compensation, which rose eight hundred and seventy-six per cent between 1978 and 2011, according to a study by the liberal Economic Policy Institute. In response, we’ve had a host of regulatory reforms designed to curb executive pay. The latest of these is a rule, unveiled by the S.E.C. last month, requiring companies to disclose the ratio of the C.E.O.’s pay to that of the median worker. The idea is that, once the disparity is made public, companies will be less likely to award outsized pay packages. </p><br/><p class="no-indent">Faith in disclosure has been crucial to the regulation of executive pay since the nineteen-thirties, when companies were first required to reveal those figures. More recently, rules have made companies detail the size and the structure of compensation packages and have enforced transparency about the kinds of comparisons they rely on to determine salaries. The business press, meanwhile, now rigorously tracks executive pay. The result is that shareholders today know far more about C.E.O. compensation than ever before. There’s only one problem: even as companies are disclosing more and more, executive pay keeps going up and up.</p><br/><p class="no-indent">This isn’t a coincidence: the drive for transparency has actually helped fuel the spiralling salaries. For one thing, it gives executives a good idea of how much they can get away with asking for. A more crucial reason, though, has to do with the way boards of directors set salaries. As the corporate-governance experts Charles Elson and Craig Ferrere write in a recent paper, boards at most companies use what’s called “peer benchmarking.” They look at the C.E.O. salaries at peer-group firms, and then peg their C.E.O.’s pay to the fiftieth, seventy-fifth, or ninetieth percentile of the peer group—never lower. This leads to the so-called Lake Wobegon effect: every C.E.O. gets treated as above average. With all the other companies following the same process, salaries ratchet inexorably higher. “Relying on peer-group comparisons, the way boards do, mathematically guarantees that pay is going to go up,” Elson told me. “Higher pay becomes a kind of self-fulfilling prophecy.”</p><br/><p class="no-indent">On top of this, peer-group comparisons aren’t always honest: boards can be too cozy with C.E.O.s and may tweak the comparisons to justify overpaying. A recent study by the labor economist Ron Laschever shows that boards tend to include as peers companies that are bigger than they are and that pay their C.E.O.s more. The system is also skewed by so-called “leapfroggers,” the few C.E.O.s in a given year who, whether by innate brilliance or by dumb luck, end up earning astronomical salaries. Those big paydays reset the baseline expectations for everyone else. </p><br/><p class="no-indent">This isn’t just an American problem. Elson notes that, when Canada toughened its disclosure requirements, executive salaries there rose sharply, and German studies have found something similar. Nor is it primarily a case of boards being helplessly in thrall to a company’s executives. Boards are far more independent of management than they used to be, and it’s notable that a C.E.O. hired from outside a company—who therefore has no influence over the board—typically gets twenty to twenty-five per cent more than an inside candidate. The real issues are subtler, though no less insidious. Some boards, in the face of much evidence to the contrary, remain convinced of what Elson calls “superstar theory”: they think that C.E.O.s can work their magic anywhere, and must be overpaid to stay. In addition, Elson said, “if you pay below average, it makes it look as if you’d hired a below-average C.E.O., and what board wants that?”</p><br/><p class="no-indent">Transparent pricing has perverse effects in other fields. In a host of recent cases, public disclosure of the prices that hospitals charge for various procedures has ended up driving prices up rather than down. And the psychological causes in both situations seem similar. We tend to be uneasy about bargaining in situations where the stakes are very high: do you want the guy doing your neurosurgery, or running your company, to be offering discounts? Better, in the event that something goes wrong, to be able to tell yourself that you spent all you could. And overspending is always easier when you’re spending someone else’s money. Corporate board members are disbursing shareholder funds; most patients have insurance to foot the bill.</p><br/><p class="no-indent">Sunlight is supposed to be the best disinfectant. But there’s something naïve about the new S.E.C. rule, which presumes that full disclosure will embarrass companies enough to restrain executive pay. As Elson told me, “People who can ask to be paid a hundred million dollars are beyond embarrassment.” More important, as long as the system for setting pay is broken, more disclosure makes things worse instead of better. We don’t need more information. We need boards of directors to step up and set pay themselves, instead of outsourcing the job to their peers. The rest of us don’t get to live in Lake Wobegon. C.E.O.s shouldn’t, either.</p></div>
+<div class="after">
+            <div class="articleMenuWrapper" id="footer_navbar">
+                <div class="sectionMenuLeft" id="footer_navbar_previous">
+                    <a href="page032.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="footer_navbar_next">
+                    <a href="page036.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns:saxon="http://saxon.sf.net/" xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:nitf="http://www.nytimes.com/applicationdata/xml/nitf-3-3.dtd">
+   <head>
+      <title>Kerf</title>
+      <link rel="stylesheet" href="css/TablesAndFloats.css" type="text/css"/>
+   </head>
+   <body>
+      <div id="header_navbar" class="articleMenuWrapper">
+         <span id="header_navbar_previous" class="sectionMenuLeft">
+            <a href="article_18-2.xml">Previous Article</a>
+         </span>
+         <span id="header_navbar_next" class="sectionMenuRight">
+            <a href="article_23-2.xml">Next Article</a>
+         </span>
+      </div>
+      <div class="clean"/>
+      <div id="header" class="masthead">
+         <div class="masthead-text">
+            <div id="header_title" class="masthead-section">
+               <a href="section_2.xml">Books &#x0026; the Arts</a>
+            </div>
+         </div>
+      </div>
+      <h2 id="headline" class="article-full-headline">Kerf</h2>
+      <p id="byline" class="article-full-byline">ERICA FUNKHOUSER</p>
+      <div>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">What disappears</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">when an eight-foot plank</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">is sawn in half, yielding</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">two less-than-four-foot boards,</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">a solid term for what’s lost</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">to the teeth of separation.</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">Neither sawdust nor error,</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">nor the labor of gremlins</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">waiting to wreak havoc</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">on perfectly accurate</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">measurements.</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">Kerf—you will know it</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">by its absence,</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">like divided attention.</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">Small consolation:</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">each board as it’s halved</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">releases both sides</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">of a single scent,</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">limewood for linden,</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">pine for pine.</p>
+         <div id="footer_navbar" class="sectionMenuWrapper">
+            <span id="footer_navbar_previous" class="sectionMenuLeft">
+               <a href="article_18-2.xml">Previous Article</a>
+            </span>
+            <span id="footer_navbar_next" class="sectionMenuRight">
+               <a href="article_23-2.xml">Next Article</a>
+            </span>
+         </div>
+      </div>
+   </body>
+</html>

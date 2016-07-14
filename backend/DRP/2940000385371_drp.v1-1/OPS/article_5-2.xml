@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns:saxon="http://saxon.sf.net/" xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:nitf="http://www.nytimes.com/applicationdata/xml/nitf-3-3.dtd">
+   <head>
+      <title>Noted: ISRAEL AND THE ARAB SPRING</title>
+      <link rel="stylesheet" href="css/TablesAndFloats.css" type="text/css"/>
+   </head>
+   <body>
+      <div id="header_navbar" class="articleMenuWrapper">
+         <span id="header_navbar_previous" class="sectionMenuLeft">
+            <a href="article_5-1.xml">Previous Article</a>
+         </span>
+         <span id="header_navbar_next" class="sectionMenuRight">
+            <a href="article_5-3.xml">Next Article</a>
+         </span>
+      </div>
+      <div class="clean"/>
+      <div id="header" class="masthead">
+         <div class="masthead-text">
+            <div id="header_title" class="masthead-section">
+               <a href="section_3.xml">Editorial</a>
+            </div>
+         </div>
+      </div>
+      <h2 id="headline" class="article-full-headline">Noted: ISRAEL AND THE ARAB SPRING</h2>
+      <p id="byline" class="article-full-byline">SHARIF ABDEL KOUDDOUS</p>
+      <div>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">On May 15, thousands of Palestinian refugees and their supporters marched to Israel’s borders from neighboring countries to mark what they call the Nakba, or “catastrophe,” when more than 700,000 Palestinians were driven from their homes after the 1948 founding of Israel.</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">From Syria thousands of Palestinians marched toward the village of Majdal Shams in the Golan Heights, occupied by Israel since 1967. Protesters overwhelmed Syrian border guards, briefly entering Israel before coming under fire from Israeli soldiers. Four protesters were killed. In Lebanon marchers went to the border village of Maroun al-Ras, where several hundred got past the Lebanese army and threw stones across the border. Israeli troops responded with live ammunition, killing ten people. Palestinians also marched from the Gaza Strip, and protests erupted in the West Bank and East Jerusalem.</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">In Egypt the Supreme Council of the Armed Forces, which has ruled the country since the departure of Hosni Mubarak, prevented protesters from reaching the Rafah border, installing checkpoints in Sinai and even blocking bridge and tunnel crossings at the Suez Canal. The Egyptian government has been complicit in Israel’s siege of Gaza for the past five years, and the Rafah border remains largely closed despite a pledge by Egypt’s transitional government to reopen it. In response, thousands protested outside the Israeli Embassy in Giza, threatening to storm the building. The Israeli army and central security forces opened fire with rubber bullets, live ammunition and tear gas, wounding more than 350 people and arresting 137.</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">The protests, unprecedented in scale, come less than four months before Palestinians take their case to the United Nations to request international recognition of the State of Palestine by the General Assembly—another historic move for the Arab world.</p>
+         <div id="footer_navbar" class="sectionMenuWrapper">
+            <span id="footer_navbar_previous" class="sectionMenuLeft">
+               <a href="article_5-1.xml">Previous Article</a>
+            </span>
+            <span id="footer_navbar_next" class="sectionMenuRight">
+               <a href="article_5-3.xml">Next Article</a>
+            </span>
+         </div>
+      </div>
+   </body>
+</html>

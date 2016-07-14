@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Cooking with Paula Deen</title>
+<link href="css/test1.css" rel="stylesheet" type="text/css" />
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    </head>
+<body class="left">
+        <div class="before">
+            <div class="articleMenuWrapper" id="header_navbar">
+                <div class="sectionMenuLeft" id="header_navbar_previous">
+                    <a href="page047.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="header_navbar_next">
+                    <a href="page050.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+            <div class="masthead" id="header">
+                <div class="masthead-text">
+                    <div class="masthead-section" id="header_title">
+                        <a href="section.xml">Contents</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="article-headline" id="Headline">DAY TRIP PICNIC</div>
+
+
+
+<div class="article-in-image" id="image1"><img src="images/page048.article001.image1.jpg" class="article-in-image" alt=""/></div>
+<div id="separatorLine"> <div class="invisible">empty</div> </div>
+
+<div class="articleImageCredit" id="ImageCredit">PHOTOGRAPHY BY MARCY BLACK SIMPSON</div>
+<div class="article-body" id="Body"><p class="no-indent">When the weather’s no longer hot but not yet cold, hit the road with friends for a relaxing outdoor destination. After enjoying a scenic hike or tossing the football in an open field, unpack this portable feast to enjoy on the spot.</p><br/><p>______________________________</p><br/><p class="no-indent">menu </p><br/><p class="no-indent">Barbecue Snack Mix</p><p class="no-indent">Buffalo Chicken Sliders with Blue Cheese Dip</p><p class="no-indent">Philly Cheese Steak-Style Subs</p><p class="no-indent">Coconut Caramel Crispy Treats</p><p class="no-indent">Peanut Butter Brownie Cups</p><p class="no-indent">Whiskey Sours </p><p class="no-indent">soft drinks</p></div>
+<div class="after">
+            <div class="articleMenuWrapper" id="footer_navbar">
+                <div class="sectionMenuLeft" id="footer_navbar_previous">
+                    <a href="page047.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="footer_navbar_next">
+                    <a href="page050.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Cooking with Paula Deen</title>
+<link href="css/test1.css" rel="stylesheet" type="text/css" />
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    </head>
+<body class="left">
+        <div class="before">
+            <div class="articleMenuWrapper" id="header_navbar">
+                <div class="sectionMenuLeft" id="header_navbar_previous">
+                    <a href="page048.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="header_navbar_next">
+                    <a href="page051.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+            <div class="masthead" id="header">
+                <div class="masthead-text">
+                    <div class="masthead-section" id="header_title">
+                        <a href="section.xml">Contents</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="article-headline" id="Headline">BARBECUE SNACK MIX</div>
+
+
+
+<div class="article-in-image" id="image1"><img src="images/page050.article001.image1.jpg" class="article-in-image" alt=""/></div>
+<div id="separatorLine"> <div class="invisible">empty</div> </div>
+
+<div class="articleImageCredit" id="ImageCredit">PHOTOGRAPHY BY MARCY BLACK SIMPSON</div>
+<div class="article-body" id="Body"><p class="no-indent">Makes about 18 cups </p><br/><p class="no-indent">To make these nibbles a little spicy, add 1/8 teaspoon ground red pepper. </p><br/><p class="no-indent">¼ cup butter, melted </p><p class="no-indent">3 tablespoons barbecue sauce </p><p class="no-indent">2 tablespoons Worcestershire sauce </p><p class="no-indent">2 tablespoons light corn syrup </p><p class="no-indent">1 (1-ounce) envelope ranch dressing mix </p><p class="no-indent">1 tablespoon smoked paprika </p><p class="no-indent">¼ teaspoon dry mustard </p><p class="no-indent">4 cups corn-and-rice cereal* </p><p class="no-indent">4 cups corn cereal squares* </p><p class="no-indent">3 cups bite-size Cheddar cheese crackers*</p><p class="no-indent">3 cups baked snack crackers* </p><p class="no-indent">3 cups pretzel twists </p><p class="no-indent">1 cup dry-roasted peanuts </p><br/><p class="no-indent">1. Preheat oven to 250°. In a small bowl, whisk together butter and next 6 ingredients. </p><br/><p class="no-indent">2. In a large roasting pan, combine cereals and remaining 4 ingredients. Pour butter mixture over cereal mixture, tossing to coat. </p><br/><p class="no-indent">3. Bake for 1 hour to 1 hour and 15 minutes, stirring every 15 minutes, until crispy. Spread in a single layer on wax paper to cool. Store in an airtight container for up to 1 week. </p><br/><p class="no-indent">*We used Crispix and Corn Chex cereals and Cheez-Its and Wheat Thins Original Crackers.</p><br/><p>______________________________</p><br/><p class="no-indent">WEB EXTRAS</p><br/><p class="no-indent">For instructions to make the Barbecue Snack Mix containers, visit cookingwithpauladeen.com and click on Web Extras.</p></div>
+<div class="after">
+            <div class="articleMenuWrapper" id="footer_navbar">
+                <div class="sectionMenuLeft" id="footer_navbar_previous">
+                    <a href="page048.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="footer_navbar_next">
+                    <a href="page051.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+        </div>
+    </body>
+</html>

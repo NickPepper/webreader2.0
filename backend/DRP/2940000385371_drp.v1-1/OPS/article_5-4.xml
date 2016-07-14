@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns:saxon="http://saxon.sf.net/" xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:nitf="http://www.nytimes.com/applicationdata/xml/nitf-3-3.dtd">
+   <head>
+      <title>Noted: KUDOS TO KATHA</title>
+      <link rel="stylesheet" href="css/TablesAndFloats.css" type="text/css"/>
+   </head>
+   <body>
+      <div id="header_navbar" class="articleMenuWrapper">
+         <span id="header_navbar_previous" class="sectionMenuLeft">
+            <a href="article_5-3.xml">Previous Article</a>
+         </span>
+         <span id="header_navbar_next" class="sectionMenuRight">
+            <a href="article_6-2.xml">Next Article</a>
+         </span>
+      </div>
+      <div class="clean"/>
+      <div id="header" class="masthead">
+         <div class="masthead-text">
+            <div id="header_title" class="masthead-section">
+               <a href="section_3.xml">Editorial</a>
+            </div>
+         </div>
+      </div>
+      <h2 id="headline" class="article-full-headline">Noted: KUDOS TO KATHA</h2>
+      <p id="byline" class="article-full-byline"></p>
+      <div>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">With more than three decades as a Nation contributor and columnist, Katha Pollitt is both an institution and indispensable. Winner of two National Magazine Awards and fellowships from the National Endowment for the Arts, the Guggenheim Foundation and the Whiting Foundation, Katha can now add a 2011 Puffin Foundation Writing Fellowship at The Nation Institute to her many accolades. The Puffin Foundation has a long and admirable record of investing in writers who might otherwise be marginalized “due to their race, gender, or social philosophy.” We’re delighted that it has chosen to support Katha’s vital, fiercely independent voice. Congratulations, Katha!</p>
+         <div id="footer_navbar" class="sectionMenuWrapper">
+            <span id="footer_navbar_previous" class="sectionMenuLeft">
+               <a href="article_5-3.xml">Previous Article</a>
+            </span>
+            <span id="footer_navbar_next" class="sectionMenuRight">
+               <a href="article_6-2.xml">Next Article</a>
+            </span>
+         </div>
+      </div>
+   </body>
+</html>

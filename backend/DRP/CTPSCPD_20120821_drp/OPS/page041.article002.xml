@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Cooking with Paula Deen</title>
+<link href="css/test1.css" rel="stylesheet" type="text/css" />
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    </head>
+<body class="left">
+        <div class="before">
+            <div class="articleMenuWrapper" id="header_navbar">
+                <div class="sectionMenuLeft" id="header_navbar_previous">
+                    <a href="page041.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="header_navbar_next">
+                    <a href="page042.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+            <div class="masthead" id="header">
+                <div class="masthead-text">
+                    <div class="masthead-section" id="header_title">
+                        <a href="section.xml">Contents</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="article-headline" id="Headline">APPLE CRISP</div>
+
+
+
+<div class="article-in-image" id="image1"><img src="images/page041.article002.image1.jpg" class="article-in-image" alt=""/></div>
+<div id="separatorLine"> <div class="invisible">empty</div> </div>
+
+<div class="articleImageCredit" id="ImageCredit">PHOTOGRAPHY BY WILLIAM DICKEY</div>
+<div class="article-body" id="Body"><p class="no-indent">Makes 4 servings </p><br/><p class="no-indent">3 large Granny Smith apples, peeled and sliced </p><p class="no-indent">2 large Braeburn apples, peeled and sliced </p><p class="no-indent">1 cup firmly packed light brown sugar, divided </p><p class="no-indent">1 tablespoon cornstarch </p><p class="no-indent">1 teaspoon vanilla extract </p><p class="no-indent">1 teaspoon ground cinnamon, divided </p><p class="no-indent">½ teaspoon salt, divided </p><p class="no-indent">¼ teaspoon apple pie spice </p><p class="no-indent">½ cup old-fashioned rolled oats </p><p class="no-indent">½ cup all-purpose flour </p><p class="no-indent">⅓ cup chopped walnuts </p><p class="no-indent">¼ cup butter, cut into pats</p><br/><p class="no-indent">1. Preheat oven to 375º. Spray an 8x8-inch baking pan or dish with nonstick cooking spray. </p><br/><p class="no-indent">2. In a large bowl, stir together apples, ½ cup brown sugar, cornstarch, vanilla, ½ teaspoon cinnamon, ¼ teaspoon salt, and apple pie spice. </p><br/><p class="no-indent">3. In a medium bowl, combine oats, flour, walnuts, remaining ½ cup brown sugar, remaining ½ teaspoon cinnamon, and remaining ¼ teaspoon salt. Using a pastry blender or 2 knives, cut in butter until mixture resembles coarse crumbs. </p><br/><p class="no-indent">4. Pour apple mixture into prepared baking pan. Sprinkle oat mixture over apples. Bake for 40 to 45 minutes or until golden brown and bubbly.</p></div>
+<div class="after">
+            <div class="articleMenuWrapper" id="footer_navbar">
+                <div class="sectionMenuLeft" id="footer_navbar_previous">
+                    <a href="page041.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="footer_navbar_next">
+                    <a href="page042.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+        </div>
+    </body>
+</html>

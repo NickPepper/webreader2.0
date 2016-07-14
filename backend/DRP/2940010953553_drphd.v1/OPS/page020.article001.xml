@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>The New Yorker</title>
+<link href="css/test1.css" rel="stylesheet" type="text/css" />
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    </head>
+<body class="left">
+        <div class="before">
+            <div class="articleMenuWrapper" id="header_navbar">
+                <div class="sectionMenuLeft" id="header_navbar_previous">
+                    <a href="page018.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="header_navbar_next">
+                    <a href="page022.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+            <div class="masthead" id="header">
+                <div class="masthead-text">
+                    <div class="masthead-section" id="header_title">
+                        <a href="section.xml">Contents</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="article-headline" id="Headline">ABOVE &amp; BEYOND</div>
+
+
+
+<div class="article-in-image" id="image1"><img src="images/page020.article001.image1.jpg" class="article-in-image" alt=""/></div>
+<div id="separatorLine"> <div class="invisible">empty</div> </div>
+
+
+<div class="article-body" id="Body"><p class="no-indent">Honk NYC! Festival </p><p class="no-indent">It might seem to some who live in the city that there are too many horns blaring too often. But not to the folks behind this gathering, though they take a decidedly more festive approach by bringing in brass bands from around the country and the world for five days of concerts and parades. Highlights of the seventh annual event include appearances by Perhaps Contraption, an “avant-pop marching band” from London, and Os Siderais, “funk-rock fusionists” from Rio de Janeiro. (Oct. 15-19. honknyc.com.)</p><br/><p class="no-indent">“Concert of the Mind” </p><p class="no-indent">The noted magician Asi Wind, who has counted among his fans Woody Allen and Paul Newman as well as insiders of the New York publishing world, displays his remarkable mental powers in this limited-run show. He promises to solve two Rubik’s cubes at the same time without looking at them and to memorize the names of the entire audience, in addition to other feats. (Axis Theatre, 1 Sheridan Sq. 212-352-3101. Oct. 17-19, Oct. 24-26, and Oct. 30.)</p><br/><p>______________________________</p><br/><p class="no-indent">AUCTIONS AND ANTIQUES </p><br/><p class="no-indent">A selling exhibit at Sotheby’s (through Oct. 24) concentrates on the paintings of Georges Braque from the period after his return from the front lines of the First World War. The twenty-one works illustrate the changes in his style after a long convalescence from head injuries; as the lines become progressively more sensual, the colors grow brighter, and a Surrealist dreaminess takes over. (York Ave. at 72nd St. 212-606-7000.) • There is nothing quite like the sickening frisson that comes from seeing documentary photographs of criminals, victims of crime, and—most hair-raising—executions. Swann’s sale of photographs on Oct. 17 contains all of the above, including four images captured by Alexander Gardner on the day John Wilkes Booth’s co-conspirators were hanged at the Washington Arsenal. One of them, Mary Surratt—the owner of the boardinghouse where the men plotted Lincoln’s murder—would become the first woman to be hanged by the U.S. government; the detail of her black dress, tied about her knees, is especially distressing. The sale is followed on Oct. 18 by a far more cheerful one, with colorful travel posters from the thirties and forties. (104 E. 25th St. 212-254-4710.)</p><br/><p>______________________________</p><br/><p class="no-indent">READINGS AND TALKS </p><br/><p class="no-indent">“Intelligence Squared U.S.” </p><p class="no-indent">This series of live Oxford-style debates presents the topic “Break Up the Big Banks.” Richard Fisher, president and C.E.O. of the Federal Reserve Bank of Dallas, and Simon Johnson, former chief economist of the International Monetary Fund, will argue in support of the motion. Douglas Elliott, a fellow at the Brookings Institution, and Paul Saltzman, president of the Clearing House Association, will argue against the motion. (Kaufman Center, 129 W. 67th St. Oct. 16 at 6:45, with a reception beforehand, starting at 5:45. For more information, visit iq2us.org.)</p><br/><p class="no-indent">The PowerHouse Arena </p><p class="no-indent">Liesl Schillinger talks about her new book, “Wordbirds,” a collection of contemporary neologisms (and beautiful avian drawings by Elizabeth Zechel), with the writer Teddy Wayne. (37 Main St., at Water St., Brooklyn. 718-666-3049. Oct. 16 at 7.)</p><br/><p class="no-indent">The Great Hall at Cooper Union </p><p class="no-indent">Alain de Botton discusses his latest book, “Art as Therapy.” (7 E. 7th St., at Third Ave. Oct. 18 at 6:30.)</p></div>
+<div class="after">
+            <div class="articleMenuWrapper" id="footer_navbar">
+                <div class="sectionMenuLeft" id="footer_navbar_previous">
+                    <a href="page018.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="footer_navbar_next">
+                    <a href="page022.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+        </div>
+    </body>
+</html>

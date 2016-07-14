@@ -1,0 +1,383 @@
+
+body
+{
+line-height: 1.2em;
+font-size: 0.9em;
+}
+img {
+max-width: 100%;
+}
+p.img
+{
+margin-top:30.0px;
+text-align: center;
+text-indent:0.0px;
+margin-bottom:15.0px;
+padding-top: 0.2em;
+}
+p.welcome
+{
+text-indent:0.0px;
+text-align: center;
+margin-bottom:3.75px;
+}
+.BookTitlePage img {
+width: auto !important;
+}
+.center {
+text-align: center;
+text-indent: 0;
+}
+.pc {
+margin: 0;
+padding: 0;
+}
+h1.part-number {
+font-size: large;
+margin-top: 15%;
+margin-bottom:0.0px;
+text-align: center;
+text-indent:0.0px;
+line-height: 1.2em;
+font-weight:normal;
+}
+h1.part-title {
+font-size: xx-large;
+margin-top:18.0px;
+margin-bottom:22.5px;
+text-align: center;
+text-indent:0.0px;
+line-height: 1.2em;
+font-weight:normal;
+}
+p { display: block;
+ font-size: small;
+ margin-top:0.0px;
+ margin-bottom:0.0px;
+ margin-left:0.0px;
+ margin-right:0.0px;
+ text-indent: 20pt;
+ }
+.space-break {
+margin-top:30.0px;
+text-indent:0.0px;
+}
+blockquote p {
+margin-left: 0;
+margin-right: 0;
+}
+div.epigraph {
+margin-left: 20%;
+margin-right: 20%;
+margin-top:22.5px;
+margin-bottom:22.5px;
+text-align:center;
+text-indent:0.0px;
+padding-bottom:0.4em;
+}
+div.dateline p {
+font-family: monospace;
+text-indent:0.0px;
+}
+.attribution {
+text-align: right;
+text-indent: 0pt;
+margin-bottom:19.5px;
+}
+li {
+font-size: small;
+}
+li p {
+text-indent:0.0px;
+}
+ul {
+margin-top:15.0px;
+margin-bottom:15.0px;
+}
+ol {
+margin-top:15.0px;
+margin-bottom:15.0px;
+}
+.noindent {
+text-indent:0.0px;
+}
+h1 {
+font-size: large;
+margin-top:30.0px;
+margin-bottom:15.0px;
+line-height: 1.2em;
+}
+h2 {
+font-size: medium;
+margin-top:22.5px;
+margin-bottom:7.5px;
+line-height: 1.2em;
+}
+h1.chapter-number {
+font-size: x-large;
+margin-top: 15%;
+margin-bottom:30.0px;
+text-align: center;
+text-indent:0.0px;
+line-height: 1.2em;
+font-weight:normal;
+}
+h1.preface-title {
+font-size: medium;
+margin-top: 15%;
+margin-bottom:6.0px;
+text-align: center;
+text-indent:0.0px;
+line-height: 1.2em;
+}
+h1.preface-title1 {
+font-size: large;
+margin-top:0.0px;
+margin-bottom:30.0px;
+text-align: center;
+text-indent:0.0px;
+line-height: 1.2em;
+}
+h1.toc-title {
+font-size: large;
+margin-top: 10%;
+margin-bottom:30.0px;
+text-align: center;
+text-indent:0.0px;
+line-height: 1.2em;
+}
+h1.copyright-title {
+font-size: medium;
+margin-top: 10%;
+margin-bottom:30.0px;
+text-align: center;
+text-indent:0.0px;
+font-weight: normal;
+line-height: 1.2em;
+}
+.toc-part {
+text-indent:0.0px;
+margin-top: 12pt;
+font-weight: bold;
+}
+.toc-chapter1 {
+text-indent:0.0px;
+margin-top: 6pt;
+font-weight: normal;
+margin-left:15.0px;
+}
+.toc-preface {
+text-indent:0.0px;
+margin-top: 6pt;
+margin-bottom: 6pt;
+}
+.toc-appendix {
+text-indent:0.0px;
+margin-top: 6pt;
+margin-bottom: 6pt;
+}
+.copyright-space {
+text-indent:0.0px;
+margin-top:15.0px;
+font-size: small;
+text-align: justify;
+}
+.copyright {
+text-indent:0.0px;
+margin-top:0.0px;
+font-size: small;
+text-align: justify;
+}
+.dedication
+{
+text-indent:0.0px;
+text-align: center;
+margin-top: 15%;
+margin-left: 0%;
+margin-right: 0%;
+}
+.toc-front
+{
+text-indent:0.0px;
+margin-top: 6pt;
+}
+.toc-dedication
+{
+text-indent:0.0px;
+margin-top: 6pt;
+}
+span.small-caps
+{
+font-size: x-small;
+}
+span.dropcap
+{
+font-size: x-large;
+}
+span.center
+{
+text-align: center;
+text-indent:0.0px;
+}
+h1.sect1
+{
+margin-top:22.5px;
+margin-bottom:0.0px;
+text-align: center;
+text-indent:0.0px;
+line-height: 1.2em;
+font-size:medium;
+}
+h1.sect1a
+{
+margin-top:0.0px;
+margin-bottom:15.0px;
+text-align: center;
+text-indent:0.0px;
+line-height: 1.2em;
+font-size: large;
+}
+.toc-teaser {
+text-indent:0.0px;
+margin-top: 6pt;
+margin-bottom: 6pt;
+}
+.adc {
+text-indent:0.0px;
+text-align: center;
+margin-top:4.5px;
+}
+table
+{
+margin-top:22.5px;
+margin-bottom:22.5px;
+font-size: x-small;
+border-collapse: collapse;
+}
+tr td
+{
+padding: 0.2em;
+}
+.galley-rw { color: rgb(0, 0, 0); font-family: serif; font-size: 1em; font-weight: normal; letter-spacing: 0; line-height: 1.2em; margin: 0; orphans: 1; padding: 0; text-align: justify; widows: 1; word-spacing: 0; }
+div.fixed-rw img { width: auto !important; }
+.list-toc-rw p { text-align: center; text-indent: 0; }
+.block-rw { margin-top:19.05px; margin-bottom:19.05px; }
+div.fixed-rw { text-align: center; }
+.dedication-rw { display: block; font-size: 1.09em; line-height: 1.2em; padding: 2em; text-align: center; }
+.copyright-rw { display: block; font-size: 1em; font-weight: normal; line-height: 1.2em; padding-top: 2.00em; padding-bottom: 2.00em; text-align: justify; }
+.AdCard-rw { text-align: center; text-indent: 0; }
+.hidden-tag { display: none; visibility: hidden; }
+nav[hidden], ol[hidden] {display: none; visibility: hidden;}
+.disclaimer-rw {font-size: x-small; text-indent: 0; text-align: center !important; margin-top:22.5px; }
+div.pc-rw { text-align: center; }
+div.block-rw {margin-top:3.75px; margin-bottom:0.0px; }
+div.list-toc-rw p { text-align: center; text-indent: 0; }
+div.BookTitlePage img { width: auto !important; }
+div.center { text-align: center; text-indent: 0; }
+div.pc { margin: 0; padding: 0; }
+.leading-line-rw { margin-top:9.599999px; margin-bottom:9.599999px; }
+sup {
+  vertical-align: super;
+  font-size: x-small;
+  line-height: 100% !important;
+}
+sub {
+  vertical-align: sub;
+  font-size: x-small;
+  line-height: 100% !important;
+}
+ol.none {
+list-style-type:none;
+margin: 0; padding: 0;
+}
+.dedication1
+{
+text-indent:0.0px;
+text-align: center;
+margin-top:0.0px;
+margin-left: 0%;
+margin-right: 0%;
+}
+.list-title {
+text-indent:0.0px;
+text-align: center;
+margin-top:19.5px;
+margin-bottom:10.5px;
+}
+.right {
+text-indent:0.0px;
+text-align:right;
+}
+.right1 {
+text-indent:0.0px;
+text-align:right;
+margin-top:15.0px;
+}
+.attributionh {
+text-align: center;
+text-indent: 0pt;
+padding-bottom:0.4em;
+}
+.toc-acknowledgements1 {
+text-indent:0.0px;
+margin-top: 15pt;
+margin-bottom: 6pt;
+}
+.toc-preface1 {
+text-indent:0.0px;
+margin-top: 6pt;
+margin-bottom: 15pt;
+}
+h1.teaser-title {
+font-size: x-large;
+margin-top: 15%;
+}
+.center1 {
+text-align: center;
+text-indent:0.0px;
+margin-top:15.0px;
+}
+p.tit1
+{
+text-align: center;
+text-indent:0.0px;
+margin-top:15.0px;
+margin-bottom:7.5px;
+font-size: xx-large;
+}
+p.sidebar-title
+{
+text-align: center;
+text-indent:0.0px;
+margin-top:15.0px;
+line-height: 1.2em;
+}
+div.sidebar
+{
+margin-top:22.5px;
+margin-bottom:22.5px;
+padding: 1em;
+border: 1px solid #000000;
+margin-left: 20%;
+margin-right: 20%;
+}
+h1.acknowledgements-title {
+font-size: x-large;
+margin-top: 15%;
+margin-bottom:30.0px;
+text-align: center;
+text-indent:0.0px;
+line-height: 1.2em;
+font-weight: normal;
+}
+h1.preface-titleh1 {
+font-size: large;
+margin-top: 15%;
+margin-bottom:30.0px;
+text-align: center;
+text-indent:0.0px;
+line-height: 1.2em;
+font-weight:normal;
+}
+@page { margin-top: 30px; margin-bottom: 20px; margin-left: 30px; margin-right: 30px; }
+body { text-align: justify; }

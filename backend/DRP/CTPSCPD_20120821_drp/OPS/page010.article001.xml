@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Cooking with Paula Deen</title>
+<link href="css/test1.css" rel="stylesheet" type="text/css" />
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    </head>
+<body class="left">
+        <div class="before">
+            <div class="articleMenuWrapper" id="header_navbar">
+                <div class="sectionMenuLeft" id="header_navbar_previous">
+                    <a href="page008.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="header_navbar_next">
+                    <a href="page010.article002.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+            <div class="masthead" id="header">
+                <div class="masthead-text">
+                    <div class="masthead-section" id="header_title">
+                        <a href="section.xml">Contents</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="article-headline" id="Headline">ASK PAULA...</div>
+
+
+
+<div class="article-in-image" id="image1"><img src="images/page010.article001.image1.jpg" class="article-in-image" alt=""/></div>
+<div id="separatorLine"> <div class="invisible">empty</div> </div>
+
+
+<div class="article-body" id="Body"><p class="no-indent">Pitting an Avocado </p><br/><p class="no-indent">My peeling skills are less than great, especially when it comes to an avocado because the skin is firm and the flesh is so soft. And I don’t want to waste the precious pulp. What’s the best way to get the most out of an avocado? </p><br/><p class="no-indent">Brittany </p><p class="no-indent">Pensacola, Florida </p><br/><p class="no-indent">You’re in luck, Brittany. There’s no peeling required, but with this technique, as well as for when using the delicious avocado pulp, it’s especially important that the avocado is ripe. Ripe avocados should yield slightly with gentle pressure. If they’re firm, put them in a paper bag, fold down the top, and leave it at room temperature for two to five days. Now, here’s the no-peeling-required way to get to that sumptuous pulp. Using a sharp knife, slice the avocado lengthwise all the way around the seed. Twist the halves in opposite directions, and pull them apart. Use a spoon to lift out the seed, and then just scoop out the flesh.</p><br/><p>______________________________</p><br/><p class="no-indent">Looking for Lean </p><br/><p class="no-indent">With all the different labels on ground beef, how do I know which is the leanest? </p><br/><p class="no-indent">Stephen</p><p class="no-indent">Symrna, Georgia </p><br/><p class="no-indent">Stephen, any ground meat labeled “hamburger” or “ground beef” can contain no more than 30 percent fat according to USDA. Lean ground beef has no more than 22 percent fat, and extra lean ground beef has 15 percent fat or less. The fat percentage varies with ground chuck, round, or sirloin, but generally ground sirloin is the leanest. At a quick glance, you can recognize the leanest ground beef by color—it should be the one with the reddest color.</p><br/><p>______________________________</p><br/><p class="no-indent">Toasting Walnuts </p><br/><p class="no-indent">I want to substitute walnuts in a recipe that calls for toasted pecans. Do I toast walnuts the same way as pecans?</p><br/><p class="no-indent">Olene </p><p class="no-indent">Chandler, Arizona</p><br/><p class="no-indent">Yes, and here are three easy ways. By the way, you’ll know the nuts are ready when they’re lightly browned and fragrant. 1: On HIGH in the microwave, stirring and checking them every 30 seconds. 2: In a skillet over medium-high heat, stirring often for 3 to 5 minutes. 3: Spread on a baking sheet and baked at 350° for 8 to 10 minutes, stirring once or twice. </p><br/><p class="no-indent">Here’s a handy tip: Warm nuts are easier to chop!</p><br/><p>______________________________</p><br/><p class="no-indent">Do you have a recipe, food, or cooking question to ask Paula? E-mail it to info@pauladeenmagazine.com for a chance to have her answer it in Ask Paula.</p></div>
+<div class="after">
+            <div class="articleMenuWrapper" id="footer_navbar">
+                <div class="sectionMenuLeft" id="footer_navbar_previous">
+                    <a href="page008.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="footer_navbar_next">
+                    <a href="page010.article002.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+        </div>
+    </body>
+</html>

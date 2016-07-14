@@ -1,0 +1,340 @@
+{  
+    "v":"2.0",
+    "_":1,
+    "metadata":{  
+        "title":"Dreaming in Chinese",
+        "rights":"All rights reserved",
+        "language":"en",
+        "format":"Text pages",
+        "date":"2010",
+        "identifier":"9780802779243",
+        "publisher":"Bloomsbury_US",
+        "creator":"Deborah Fallows"
+    },
+    "spine":[  
+        {  
+            "T":"OEBPS/cover.html",
+            "X":"q1",
+            "O":"OEBPS/cover.content.json",
+            "R":"application/dtls",
+            "C":"/6/2",
+            "N":true,
+            "Z":500,
+            "G":294
+        },
+        {  
+            "T":"OEBPS/fm1.html",
+            "X":"q2",
+            "O":"OEBPS/fm1.content.json",
+            "R":"application/dtls",
+            "C":"/6/4",
+            "N":true,
+            "Z":2798,
+            "G":1234
+        },
+        {  
+            "T":"OEBPS/fm3.html",
+            "X":"q3",
+            "O":"OEBPS/fm3.content.json",
+            "R":"application/dtls",
+            "C":"/6/6",
+            "N":true,
+            "Z":464,
+            "G":315
+        },
+        {  
+            "T":"OEBPS/fm5.html",
+            "X":"q4",
+            "O":"OEBPS/fm5.content.json",
+            "R":"application/dtls",
+            "C":"/6/8",
+            "N":true,
+            "Z":400,
+            "G":278
+        },
+        {  
+            "T":"OEBPS/fm6.html",
+            "X":"q5",
+            "O":"OEBPS/fm6.content.json",
+            "R":"application/dtls",
+            "C":"/6/10",
+            "N":true,
+            "Z":6747,
+            "G":1365
+        },
+        {  
+            "T":"OEBPS/intro.html",
+            "X":"q6",
+            "O":"OEBPS/intro.content.json",
+            "R":"application/dtls",
+            "C":"/6/12",
+            "N":true,
+            "Z":8202,
+            "G":3555
+        },
+        {  
+            "T":"OEBPS/chapter1.html",
+            "X":"q7",
+            "O":"OEBPS/chapter1.content.json",
+            "R":"application/dtls",
+            "C":"/6/14",
+            "N":true,
+            "Z":5030,
+            "G":2159
+        },
+        {  
+            "T":"nook/isaSample.xhtml",
+            "X":"q8",
+            "O":"nook/isaSample.content.json",
+            "R":"application/dtls",
+            "C":"/6/16",
+            "N":true,
+            "Z":1268,
+            "G":408
+        }
+    ],
+    "toc":{  
+        "b":"Dreaming in Chinese",
+        "navmap":[  
+            {  
+                "label":"Cover",
+                "E":"OEBPS/cover.html",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Epigraph",
+                "E":"OEBPS/fm1.html#fm1",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Title Page",
+                "E":"OEBPS/fm3.html#fm3",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Dedication",
+                "E":"OEBPS/fm5.html#fm5",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Contents",
+                "E":"OEBPS/fm6.html#fm6",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Introduction",
+                "E":"OEBPS/intro.html#intro",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"1. The grammar of romance",
+                "E":"OEBPS/chapter1.html#chapter1",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"2. When rude is polite",
+                "E":"OEBPS/../nook/isaSample.xhtml#chapter2_nook_isaSample_9",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"3. Language play as a national sport",
+                "E":"OEBPS/../nook/isaSample.xhtml#chapter3_nook_isaSample_10",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"4. Why the Chinese hear tones, and we don\u2019t",
+                "E":"OEBPS/../nook/isaSample.xhtml#chapter4_nook_isaSample_11",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"5. China\u2019s Ordinary Joe",
+                "E":"OEBPS/../nook/isaSample.xhtml#chapter5_nook_isaSample_12",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"6. A brief introduction to Chinese names",
+                "E":"OEBPS/../nook/isaSample.xhtml#chapter6_nook_isaSample_13",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"7. Finding your way in China\u2014the semantics of time and place",
+                "E":"OEBPS/../nook/isaSample.xhtml#chapter7_nook_isaSample_14",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"8. Disappearing pronouns and the sense of self",
+                "E":"OEBPS/../nook/isaSample.xhtml#chapter8_nook_isaSample_15",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"9. Think like the Chinese think",
+                "E":"OEBPS/../nook/isaSample.xhtml#chapter9_nook_isaSample_16",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"10. A billion people; countless dialects",
+                "E":"OEBPS/../nook/isaSample.xhtml#chapter10_nook_isaSample_17",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"11. The essence of being Chinese",
+                "E":"OEBPS/../nook/isaSample.xhtml#chapter11_nook_isaSample_18",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"12. Rules to follow and rules to break",
+                "E":"OEBPS/../nook/isaSample.xhtml#chapter12_nook_isaSample_19",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"13. Out of calamity, tenderness",
+                "E":"OEBPS/../nook/isaSample.xhtml#chapter13_nook_isaSample_20",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"14. A little goes a long way",
+                "E":"OEBPS/../nook/isaSample.xhtml#chapter14_nook_isaSample_21",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Pronunciation guide",
+                "E":"OEBPS/../nook/isaSample.xhtml#bm1_nook_isaSample_22",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Acknowledgements",
+                "E":"OEBPS/../nook/isaSample.xhtml#bm2_nook_isaSample_23",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"A Note on the Author",
+                "E":"OEBPS/../nook/isaSample.xhtml#bm3_nook_isaSample_24",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"eCopyright",
+                "E":"OEBPS/../nook/isaSample.xhtml#fm4_nook_isaSample_4",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            }
+        ]
+    },
+    "pagemap":[  
+        {  
+            "C":"/6/2!"
+        },
+        {  
+            "C":"/6/4!"
+        },
+        {  
+            "C":"/6/4!/4/2[fm1]/6/8/1:194"
+        },
+        {  
+            "C":"/6/6!"
+        },
+        {  
+            "C":"/6/8!"
+        },
+        {  
+            "C":"/6/10!"
+        },
+        {  
+            "C":"/6/10!/4/2[fm6]/32/4/3:1"
+        },
+        {  
+            "C":"/6/12!"
+        },
+        {  
+            "C":"/6/12!/4/2[intro]/10/6/1:27"
+        },
+        {  
+            "C":"/6/12!/4/2[intro]/18/2/1:112"
+        },
+        {  
+            "C":"/6/12!/4/2[intro]/24/2/1:187"
+        },
+        {  
+            "C":"/6/14!"
+        },
+        {  
+            "C":"/6/14!/4/2[chapter1]/12/2/1:211"
+        },
+        {  
+            "C":"/6/14!/4/2[chapter1]/16/2/1:332"
+        },
+        {  
+            "C":"/6/16!"
+        }
+    ]
+}

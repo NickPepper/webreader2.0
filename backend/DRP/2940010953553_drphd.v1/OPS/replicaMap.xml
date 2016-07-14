@@ -1,0 +1,1093 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReplicaMap xmlns="http://www.hp.com/schemas/imaging/ereader/hff">
+    <Title>The New Yorker</Title>
+    <Pages>
+        <Page file="images/pages/BN_DRP_PAGE_1.jpg" pageNum="0" thumbFile="images/pages/BN_DRP_PAGE_1-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_2.jpg" pageNum="1" thumbFile="images/pages/BN_DRP_PAGE_2-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_3.jpg" pageNum="2" thumbFile="images/pages/BN_DRP_PAGE_3-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_4.jpg" pageNum="3" thumbFile="images/pages/BN_DRP_PAGE_4-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_5.jpg" pageNum="4" thumbFile="images/pages/BN_DRP_PAGE_5-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_6.jpg" pageNum="5" thumbFile="images/pages/BN_DRP_PAGE_6-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_7.jpg" pageNum="6" thumbFile="images/pages/BN_DRP_PAGE_7-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_8.jpg" pageNum="7" thumbFile="images/pages/BN_DRP_PAGE_8-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_9.jpg" pageNum="8" thumbFile="images/pages/BN_DRP_PAGE_9-thumb.jpg">
+            <Group ePubTarget="page009.article001.xml">
+                <Block coord="0.2345679012345679,0.06459948320413436,0.7530864197530864,0.20671834625322996"/>
+                <Block coord="0.3938271604938272,0.9405684754521964,0.6137566137566137,0.9612403100775193"/>
+                <Block coord="0.08227513227513228,0.8423772609819121,0.7001763668430334,0.9388242894056847"/>
+                <Block coord="0.054673721340388,0.12790697674418605,0.9523809523809523,0.7687338501291989"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_10.jpg" pageNum="9" thumbFile="images/pages/BN_DRP_PAGE_10-thumb.jpg">
+            <Group ePubTarget="page010.article001.xml">
+                <Block coord="0.047619047619047616,0.14857881136950904,0.26102292768959434,0.5180878552971576"/>
+                <Block coord="0.07054673721340388,0.586046511627907,0.4670194003527337,0.9498708010335918"/>
+                <Block coord="0.06490299823633157,0.5271317829457365,0.24409171075837743,0.5746770025839794"/>
+                <Block coord="0.2596119929453263,0.14263565891472868,0.4768959435626102,0.5829457364341086"/>
+                <Block coord="0.4825396825396826,0.0454780361757106,0.7012345679012346,0.7038759689922481"/>
+                <Block coord="0.49029982363315694,0.7131782945736435,0.7037037037037037,0.9483204134366925"/>
+                <Block coord="0.7001763668430335,0.04521963824289406,0.9347442680776015,0.937984496124031"/>
+                <Block coord="0.4797178130511464,0.7182170542635659,0.704320987654321,0.9476313522825149"/>
+                <Block coord="0.7054673721340388,0.04735142118863049,0.9241622574955908,0.3564599483204134"/>
+                <Block coord="0.704320987654321,0.3703488372093023,0.9312169312169313,0.9410852713178293"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_11.jpg" pageNum="10" thumbFile="images/pages/BN_DRP_PAGE_11-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_12.jpg" pageNum="11" thumbFile="images/pages/BN_DRP_PAGE_12-thumb.jpg">
+            <Group ePubTarget="page012.article001.xml">
+                <Block coord="0.059964726631393295,0.7080103359173127,0.5396825396825398,0.9664082687338501"/>
+                <Block coord="0.5555555555555556,0.13953488372093023,0.9153439153439153,0.9305555555555556"/>
+                <Block coord="0.0014109347442680777,0.15607235142118864,0.5291005291005291,0.6956072351421188"/>
+                <Block coord="0.09171075837742504,0.09612403100775196,0.29488536155202816,0.14160206718346255"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_13.jpg" pageNum="12" thumbFile="images/pages/BN_DRP_PAGE_13-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_14.jpg" pageNum="13" thumbFile="images/pages/BN_DRP_PAGE_14-thumb.jpg">
+            <Group ePubTarget="page012.article001.xml">
+                <Block coord="0.27936507936507937,0.07131782945736434,0.4980599647266314,0.8786046511627909"/>
+                <Block coord="0.2835978835978836,0.8909560723514213,0.5022927689594356,0.9633074935400517"/>
+                <Block coord="0.5079365079365079,0.03617571059431524,0.7223985890652558,0.9695607235142112"/>
+                <Block coord="0.7238095238095238,0.041343669250646,0.9552028218694886,0.9674935400516792"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_15.jpg" pageNum="14" thumbFile="images/pages/BN_DRP_PAGE_15-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_16.jpg" pageNum="15" thumbFile="images/pages/BN_DRP_PAGE_16-thumb.jpg">
+            <Group ePubTarget="page016.article001.xml">
+                <Block coord="0.4585537918871252,0.13643410852713178,0.8917107583774251,0.26356589147286824"/>
+                <Block coord="0.3682539682539683,0.27881136950904395,0.6476190476190475,0.9644444444444438"/>
+                <Block coord="0.6532627865961199,0.2749354005167959,0.9340388007054674,0.3958656330749354"/>
+                <Block coord="0.6574955908289242,0.4041343669250646,0.9255731922398588,0.8125064599483199"/>
+                <Block coord="0.654673721340388,0.8103359173126615,0.9410934744268078,0.9684754521963824"/>
+                <Block coord="0.5834215167548501,0.019186046511627905,0.7164902998236331,0.1387596899224806"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_17.jpg" pageNum="16" thumbFile="images/pages/BN_DRP_PAGE_17-thumb.jpg">
+            <Group ePubTarget="page016.article001.xml">
+                <Block coord="0.04797178130511464,0.041343669250646,0.33298059964726634,0.9726614987080097"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_18.jpg" pageNum="17" thumbFile="images/pages/BN_DRP_PAGE_18-thumb.jpg">
+            <Group ePubTarget="page018.article001.xml">
+                <Block coord="0.6313932980599647,0.06201550387596899,0.8853615520282186,0.12919896640826872"/>
+                <Block coord="0.04938271604938271,0.541343669250646,0.5185185185185185,0.6111111111111112"/>
+                <Block coord="0.06172839506172839,0.6162790697674418,0.2751322751322751,0.9651162790697674"/>
+                <Block coord="0.27998236331569665,0.6133720930232558,0.5008818342151675,0.9638242894056848"/>
+                <Block coord="0.5061728395061729,0.6111111111111112,0.7125220458553791,0.9651162790697675"/>
+                <Block coord="0.7283950617283951,0.30103359173126615,0.9541446208112875,0.9599483204134367"/>
+                <Block coord="0.0,0.15762273901808785,0.7142857142857143,0.5352067183462532"/>
+                <Block coord="0.1128747795414462,0.09302325581395347,0.2998236331569665,0.1511627906976744"/>
+                <Block coord="0.7178130511463845,0.9612403100775194,0.9506172839506173,0.9896640826873385"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_19.jpg" pageNum="18" thumbFile="images/pages/BN_DRP_PAGE_19-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_20.jpg" pageNum="19" thumbFile="images/pages/BN_DRP_PAGE_20-thumb.jpg">
+            <Group ePubTarget="page018.article001.xml">
+                <Block coord="0.2786596119929453,0.03875968992248062,0.5044091710758377,0.4689922480620155"/>
+                <Block coord="0.5074955908289241,0.03875968992248062,0.7301587301587301,0.46866925064599485"/>
+                <Block coord="0.7314814814814815,0.03488372093023256,0.9541446208112875,0.46705426356589147"/>
+            </Group>
+            <Group ePubTarget="page020.article001.xml">
+                <Block coord="0.09029982363315696,0.5271317829457365,0.599647266313933,0.5901808785529716"/>
+                <Block coord="0.08888888888888889,0.6129198966408268,0.308994708994709,0.9664082687338501"/>
+                <Block coord="0.31305114638447973,0.6077519379844961,0.527689594356261,0.9684108527131783"/>
+                <Block coord="0.6067019400352733,0.49935400516795864,0.7910052910052909,0.5943152454780362"/>
+                <Block coord="0.5267195767195767,0.6184108527131783,0.7313051146384479,0.7078811369509044"/>
+                <Block coord="0.7349206349206349,0.6096899224806202,0.9522045855379188,0.7087855297157624"/>
+                <Block coord="0.5218694885361551,0.7078811369509044,0.95352733686067,0.9714470284237726"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_21.jpg" pageNum="20" thumbFile="images/pages/BN_DRP_PAGE_21-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_22.jpg" pageNum="21" thumbFile="images/pages/BN_DRP_PAGE_22-thumb.jpg">
+            <Group ePubTarget="page022.article001.xml">
+                <Block coord="0.4138447971781305,0.20239018087855296,0.6254850088183421,0.2532299741602067"/>
+                <Block coord="0.380952380952381,0.27648578811369506,0.6666666666666667,0.9728682170542635"/>
+                <Block coord="0.6723985890652557,0.04037467700258398,0.962962962962963,0.969315245478036"/>
+                <Block coord="0.44638447971781303,0.06718346253229975,0.619753086419753,0.20720745662606127"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_23.jpg" pageNum="22" thumbFile="images/pages/BN_DRP_PAGE_23-thumb.jpg">
+            <Group ePubTarget="page022.article001.xml">
+                <Block coord="0.05361552028218695,0.03927648578811369,0.3513227513227513,0.0764857881136951"/>
+                <Block coord="0.04938271604938271,0.07751937984496124,0.3527336860670194,0.9667312661498708"/>
+                <Block coord="0.3544973544973545,0.029715762273901807,0.654320987654321,0.47932816537467704"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_24.jpg" pageNum="23" thumbFile="images/pages/BN_DRP_PAGE_24-thumb.jpg">
+            <Group ePubTarget="page022.article001.xml">
+                <Block coord="0.04585537918871252,0.03875968992248062,0.3527336860670194,0.47674418604651164"/>
+                <Block coord="0.359347442680776,0.03875968992248062,0.6701940035273368,0.4725452196382429"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_25.jpg" pageNum="24" thumbFile="images/pages/BN_DRP_PAGE_25-thumb.jpg">
+            <Group ePubTarget="page025.article001.xml">
+                <Block coord="0.08641975308641975,0.19767441860465115,0.31746031746031744,0.313953488372093"/>
+                <Block coord="0.04797178130511464,0.32868217054263565,0.3485008818342152,0.9705426356589149"/>
+                <Block coord="0.3527336860670194,0.041343669250646,0.6476190476190475,0.4764857881136951"/>
+                <Block coord="0.6504409171075838,0.03927648578811369,0.9523809523809523,0.4744186046511628"/>
+                <Block coord="0.11596119929453262,0.06660206718346252,0.27821869488536155,0.20148578811369505"/>
+                <Block coord="0.11887125220458555,0.06272609819121447,0.28015873015873016,0.20297157622739018"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_26.jpg" pageNum="25" thumbFile="images/pages/BN_DRP_PAGE_26-thumb.jpg">
+            <Group ePubTarget="page026.article001.xml">
+                <Block coord="0.3950617283950617,0.002583979328165375,0.9982363315696648,0.3023255813953489"/>
+                <Block coord="0.7253968253968254,0.9436692506459948,0.8925925925925924,0.9653746770025841"/>
+                <Block coord="0.09171075837742504,0.14160206718346252,0.37530864197530867,0.2532299741602067"/>
+                <Block coord="0.08888888888888889,0.27906976744186046,0.3611992945326279,0.8144702842377265"/>
+                <Block coord="0.3837742504409171,0.31007751937984496,0.7308641975308642,0.38656330749354006"/>
+                <Block coord="0.38659611992945325,0.38966408268733854,0.9425749559082892,0.9468733850129203"/>
+                <Block coord="0.09171075837742504,0.2883720930232558,0.3611992945326279,0.8124547803617572"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_27.jpg" pageNum="26" thumbFile="images/pages/BN_DRP_PAGE_27-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_28.jpg" pageNum="27" thumbFile="images/pages/BN_DRP_PAGE_28-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_29.jpg" pageNum="28" thumbFile="images/pages/BN_DRP_PAGE_29-thumb.jpg">
+            <Group ePubTarget="page029.article001.xml">
+                <Block coord="0.04938271604938271,0.27906976744186046,0.26278659611992944,0.3281653746770026"/>
+                <Block coord="0.037037037037037035,0.8204134366925064,0.059964726631393295,0.9638242894056848"/>
+                <Block coord="0.3358024691358025,0.6583979328165375,0.6546737213403881,0.958139534883721"/>
+                <Block coord="0.0564373897707231,0.32558139534883723,0.4938271604938271,0.9612919896640829"/>
+                <Block coord="0.4991181657848324,0.3268733850129199,0.947089947089947,0.9638242894056848"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_30.jpg" pageNum="29" thumbFile="images/pages/BN_DRP_PAGE_30-thumb.jpg">
+            <Group ePubTarget="page029.article001.xml">
+                <Block coord="0.7724867724867724,0.5878552971576227,0.9417989417989417,0.624031007751938"/>
+                <Block coord="0.04814814814814815,0.03184754521963824,0.5055555555555555,0.6207795004306634"/>
+                <Block coord="0.505026455026455,0.027583979328165375,0.9592004703115815,0.6017226528854436"/>
+            </Group>
+            <Group ePubTarget="page030.article001.xml">
+                <Block coord="0.05291005291005291,0.6425064599483205,0.2480599647266314,0.6821059431524549"/>
+                <Block coord="0.05626102292768959,0.763953488372093,0.3574074074074074,0.9594315245478037"/>
+                <Block coord="0.06525573192239859,0.6841085271317829,0.26102292768959434,0.7642118863049095"/>
+                <Block coord="0.3567019400352734,0.6407622739018087,0.6519400352733686,0.966343669250646"/>
+                <Block coord="0.6530864197530865,0.6430232558139535,0.9580876795162511,0.9708010335917312"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_31.jpg" pageNum="30" thumbFile="images/pages/BN_DRP_PAGE_31-thumb.jpg">
+            <Group ePubTarget="page030.article001.xml">
+                <Block coord="0.04938271604938271,0.03701550387596899,0.345679012345679,0.23255813953488372"/>
+                <Block coord="0.057583774250440915,0.5184754521963825,0.350352733686067,0.9637596899224807"/>
+                <Block coord="0.3468253968253968,0.03359173126614987,0.6419753086419753,0.5253875968992248"/>
+                <Block coord="0.5361552028218695,0.5193798449612403,0.6384479717813051,0.5417312661498709"/>
+                <Block coord="0.05405643738977072,0.2282299741602067,0.3350970017636684,0.4943798449612402"/>
+                <Block coord="0.05873015873015872,0.4883720930232558,0.32098765432098764,0.5116279069767442"/>
+            </Group>
+            <Group ePubTarget="page031.article001.xml">
+                <Block coord="0.3541446208112875,0.5488372093023256,0.5883597883597884,0.5922480620155038"/>
+                <Block coord="0.3527336860670194,0.6708010335917314,0.6433862433862434,0.9633074935400517"/>
+                <Block coord="0.6504409171075838,0.03501291989664083,0.943915343915344,0.9589922480620142"/>
+                <Block coord="0.35149911816578483,0.5925710594315245,0.5453850676072897,0.6760981912144702"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_32.jpg" pageNum="31" thumbFile="images/pages/BN_DRP_PAGE_32-thumb.jpg">
+            <Group ePubTarget="page031.article001.xml">
+                <Block coord="0.06349206349206349,0.037209302325581395,0.35696649029982364,0.7101291989664079"/>
+                <Block coord="0.20599647266313936,0.7049095607235143,0.35132275132275137,0.7214470284237726"/>
+                <Block coord="0.18765432098765433,0.7049095607235143,0.34991181657848325,0.7245478036175711"/>
+            </Group>
+            <Group ePubTarget="page032.article001.xml">
+                <Block coord="0.06111111111111111,0.7363049095607235,0.21164021164021163,0.7734496124031007"/>
+                <Block coord="0.05291005291005291,0.8568475452196384,0.355026455026455,0.9609173126614988"/>
+                <Block coord="0.3596119929453263,0.031007751937984496,0.6535273368606702,0.9888242894056847"/>
+                <Block coord="0.647883597883598,0.03701550387596899,0.9618165784832452,0.9430232558139537"/>
+                <Block coord="0.8019400352733685,0.9388242894056849,0.9406525573192239,0.9585271317829458"/>
+                <Block coord="0.06084656084656084,0.7797157622739018,0.26895943562610225,0.8578811369509044"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_33.jpg" pageNum="32" thumbFile="images/pages/BN_DRP_PAGE_33-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_34.jpg" pageNum="33" thumbFile="images/pages/BN_DRP_PAGE_34-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_35.jpg" pageNum="34" thumbFile="images/pages/BN_DRP_PAGE_35-thumb.jpg">
+            <Group ePubTarget="page035.article001.xml">
+                <Block coord="0.05114638447971781,0.05167958656330749,0.27336860670194,0.09431524547803617"/>
+                <Block coord="0.0564373897707231,0.1330749354005168,0.4991181657848324,0.953811369509044"/>
+                <Block coord="0.3633156966490299,0.3496770025839793,0.6313932980599646,0.6140826873385014"/>
+                <Block coord="0.8077601410934744,0.9249354005167958,0.9430335097001764,0.9439922480620154"/>
+                <Block coord="0.019400352733686062,0.8604651162790697,0.042328042328042326,0.9612403100775193"/>
+                <Block coord="0.4991181657848324,0.05426356589147287,0.9435626102292769,0.9292635658914729"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_36.jpg" pageNum="35" thumbFile="images/pages/BN_DRP_PAGE_36-thumb.jpg">
+            <Group ePubTarget="page036.article001.xml">
+                <Block coord="0.10978835978835978,0.20297157622739015,0.5874779541446208,0.6415374677002584"/>
+                <Block coord="0.1541446208112875,0.07971576227390181,0.5612874779541446,0.19560723514211886"/>
+                <Block coord="0.051322751322751325,0.6526485788113695,0.35070546737213404,0.9368863049095607"/>
+                <Block coord="0.349647266313933,0.6534237726098191,0.6550264550264551,0.9324935400516796"/>
+                <Block coord="0.6429453262786596,0.027260981912144704,0.9735449735449735,0.9654115909929859"/>
+                <Block coord="0.73668430335097,0.9612403100775194,0.9503527336860671,0.9922480620155039"/>
+                <Block coord="0.05238095238095238,0.9354005167958656,0.6429453262786596,0.9671188630490954"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_37.jpg" pageNum="36" thumbFile="images/pages/BN_DRP_PAGE_37-thumb.jpg">
+            <Group ePubTarget="page036.article001.xml">
+                <Block coord="0.03721340388007055,0.030232558139534883,0.3567019400352734,0.9765503875968993"/>
+                <Block coord="0.345679012345679,0.03242894056847545,0.6509700176366844,0.9682908822443711"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_38.jpg" pageNum="37" thumbFile="images/pages/BN_DRP_PAGE_38-thumb.jpg">
+            <Group ePubTarget="page036.article001.xml">
+                <Block coord="0.04735449735449736,0.02435400516795866,0.35273368606701944,0.968401624215578"/>
+                <Block coord="0.345679012345679,0.03540051679586563,0.6529982363315696,0.24140826873385013"/>
+                <Block coord="0.349647266313933,0.38087855297157625,0.6509700176366844,0.9721114802510149"/>
+                <Block coord="0.650352733686067,0.028746770025839793,0.9641723356009071,0.2502583979328165"/>
+                <Block coord="0.6509700176366844,0.24948320413436692,0.9594356261022928,0.9690660760428202"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_39.jpg" pageNum="38" thumbFile="images/pages/BN_DRP_PAGE_39-thumb.jpg">
+            <Group ePubTarget="page036.article001.xml">
+                <Block coord="0.03721340388007055,0.031007751937984496,0.3577601410934744,0.9669896640826874"/>
+                <Block coord="0.349647266313933,0.03540051679586563,0.65,0.9779900332225913"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_40.jpg" pageNum="39" thumbFile="images/pages/BN_DRP_PAGE_40-thumb.jpg">
+            <Group ePubTarget="page036.article001.xml">
+                <Block coord="0.04735449735449736,0.03391472868217054,0.35273368606701944,0.5848560354374308"/>
+                <Block coord="0.35070546737213404,0.03320413436692506,0.6550264550264551,0.5824197120708748"/>
+                <Block coord="0.6459435626102292,0.02952196382428941,0.960405643738977,0.9742248062015502"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_41.jpg" pageNum="40" thumbFile="images/pages/BN_DRP_PAGE_41-thumb.jpg">
+            <Group ePubTarget="page036.article001.xml">
+                <Block coord="0.04938271604938271,0.025839793281653745,0.35370370370370374,0.9669066076042824"/>
+                <Block coord="0.345679012345679,0.028036175710594316,0.6509700176366844,0.9676448874123293"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_42.jpg" pageNum="41" thumbFile="images/pages/BN_DRP_PAGE_42-thumb.jpg">
+            <Group ePubTarget="page036.article001.xml">
+                <Block coord="0.04938271604938271,0.025839793281653745,0.354673721340388,0.9668789221114802"/>
+                <Block coord="0.349647266313933,0.031007751937984496,0.6520282186948854,0.9676356589147286"/>
+                <Block coord="0.6470017636684304,0.030232558139534883,0.9644620811287479,0.9677279438907345"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_43.jpg" pageNum="42" thumbFile="images/pages/BN_DRP_PAGE_43-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_44.jpg" pageNum="43" thumbFile="images/pages/BN_DRP_PAGE_44-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_45.jpg" pageNum="44" thumbFile="images/pages/BN_DRP_PAGE_45-thumb.jpg">
+            <Group ePubTarget="page045.article001.xml">
+                <Block coord="0.0654320987654321,0.19928940568475453,0.6358906525573192,0.4156330749354005"/>
+                <Block coord="0.2328042328042328,0.08410852713178293,0.4887125220458554,0.18972868217054262"/>
+                <Block coord="0.029188712522045857,0.8934108527131783,0.05740740740740741,0.9619509043927649"/>
+                <Block coord="0.05388007054673721,0.42377260981912146,0.35544217687074825,0.9693798449612403"/>
+                <Block coord="0.35070546737213404,0.42377260981912146,0.6509700176366844,0.9678940568475451"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_46.jpg" pageNum="45" thumbFile="images/pages/BN_DRP_PAGE_46-thumb.jpg">
+            <Group ePubTarget="page046.article001.xml">
+                <Block coord="0.06349206349206349,0.2015503875968992,0.6358906525573192,0.5315245478036175"/>
+                <Block coord="0.9442680776014108,0.8593669250645994,0.9753968253968253,0.9656976744186047"/>
+                <Block coord="0.051322751322751325,0.5352713178294574,0.6459435626102292,0.559625322997416"/>
+                <Block coord="0.1582010582010582,0.08410852713178293,0.5603174603174603,0.19263565891472867"/>
+                <Block coord="0.04938271604938271,0.559625322997416,0.3567019400352734,0.9642118863049094"/>
+                <Block coord="0.35370370370370374,0.5633074935400517,0.6520282186948854,0.9722868217054264"/>
+                <Block coord="0.65,0.03242894056847545,0.9459057697152935,0.9662144702842379"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_47.jpg" pageNum="46" thumbFile="images/pages/BN_DRP_PAGE_47-thumb.jpg">
+            <Group ePubTarget="page046.article001.xml">
+                <Block coord="0.05238095238095238,0.028746770025839793,0.3527336860670194,0.9676356589147286"/>
+                <Block coord="0.35070546737213404,0.03171834625322997,0.6520282186948854,0.9691583610188264"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_48.jpg" pageNum="47" thumbFile="images/pages/BN_DRP_PAGE_48-thumb.jpg">
+            <Group ePubTarget="page046.article001.xml">
+                <Block coord="0.04832451499118166,0.03320413436692506,0.3567019400352734,0.963953488372093"/>
+                <Block coord="0.34867724867724864,0.5448966408268734,0.6529982363315696,0.9612403100775193"/>
+                <Block coord="0.6479717813051146,0.5500645994832042,0.965432098765432,0.9678940568475453"/>
+            </Group>
+            <Group ePubTarget="page048.article001.xml">
+                <Block coord="0.5784832451499118,0.05891472868217054,0.7449735449735448,0.09509043927648578"/>
+                <Block coord="0.7181657848324515,0.5012919896640827,0.8578483245149912,0.5302325581395348"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_49.jpg" pageNum="48" thumbFile="images/pages/BN_DRP_PAGE_49-thumb.jpg">
+            <Group ePubTarget="page046.article001.xml">
+                <Block coord="0.04938271604938271,0.02952196382428941,0.349647266313933,0.9742986341823558"/>
+                <Block coord="0.349647266313933,0.03320413436692506,0.6529982363315696,0.9698597268364708"/>
+                <Block coord="0.6529982363315696,0.03468992248062016,0.9613756613756614,0.9631967515688442"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_50.jpg" pageNum="49" thumbFile="images/pages/BN_DRP_PAGE_50-thumb.jpg">
+            <Group ePubTarget="page046.article001.xml">
+                <Block coord="0.05035273368606702,0.03391472868217054,0.3537037037037037,0.9617294204503509"/>
+                <Block coord="0.349647266313933,0.02952196382428941,0.6550264550264551,0.9624584717607978"/>
+                <Block coord="0.65,0.03468992248062016,0.9503527336860671,0.9661683277962346"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_51.jpg" pageNum="50" thumbFile="images/pages/BN_DRP_PAGE_51-thumb.jpg">
+            <Group ePubTarget="page046.article001.xml">
+                <Block coord="0.05238095238095238,0.027260981912144704,0.354673721340388,0.9716685123661867"/>
+                <Block coord="0.35167548500881834,0.03468992248062016,0.6529982363315696,0.5684754521963824"/>
+                <Block coord="0.6490299823633157,0.03391472868217054,0.9533509700176366,0.5662144702842377"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_52.jpg" pageNum="51" thumbFile="images/pages/BN_DRP_PAGE_52-thumb.jpg">
+            <Group ePubTarget="page046.article001.xml">
+                <Block coord="0.054409171075837745,0.5219638242894057,0.3486772486772487,0.9657622739018088"/>
+                <Block coord="0.349647266313933,0.5352713178294574,0.6529982363315696,0.9671188630490956"/>
+                <Block coord="0.6458553791887125,0.03468992248062016,0.9653565129755606,0.9640365448504984"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_53.jpg" pageNum="52" thumbFile="images/pages/BN_DRP_PAGE_53-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_54.jpg" pageNum="53" thumbFile="images/pages/BN_DRP_PAGE_54-thumb.jpg">
+            <Group ePubTarget="page054.article001.xml">
+                <Block coord="0.07557319223985891,0.08191214470284237,0.9291887125220458,0.19489664082687336"/>
+                <Block coord="0.04426807760141094,0.1801033591731266,0.35370370370370374,0.9639719453672941"/>
+                <Block coord="0.35070546737213404,0.19412144702842377,0.6509700176366844,0.963289036544851"/>
+                <Block coord="0.6540564373897708,0.18604651162790695,0.9553791887125223,0.9699150978220751"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_55.jpg" pageNum="54" thumbFile="images/pages/BN_DRP_PAGE_55-thumb.jpg">
+            <Group ePubTarget="page054.article001.xml">
+                <Block coord="0.0654320987654321,0.047932816537467705,0.9331569664902998,0.9336286452565522"/>
+                <Block coord="0.04329805996472663,0.9657622739018088,0.27001763668430334,0.9885658914728682"/>
+                <Block coord="0.05335097001763668,0.9347545219638242,0.9160493827160493,0.9627260981912144"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_56.jpg" pageNum="55" thumbFile="images/pages/BN_DRP_PAGE_56-thumb.jpg">
+            <Group ePubTarget="page054.article001.xml">
+                <Block coord="0.04426807760141094,0.03242894056847545,0.35167548500881834,0.5514857881136951"/>
+                <Block coord="0.3476190476190476,0.030232558139534883,0.6529982363315696,0.5499999999999999"/>
+                <Block coord="0.6507936507936508,0.03391472868217054,0.9713151927437642,0.9765042451088977"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_57.jpg" pageNum="56" thumbFile="images/pages/BN_DRP_PAGE_57-thumb.jpg">
+            <Group ePubTarget="page054.article001.xml">
+                <Block coord="0.05238095238095238,0.03320413436692506,0.34867724867724864,0.9735972683647106"/>
+                <Block coord="0.349647266313933,0.03688630490956073,0.6509700176366844,0.9661683277962345"/>
+                <Block coord="0.6490299823633157,0.03837209302325581,0.9533509700176366,0.964673311184939"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_58.jpg" pageNum="57" thumbFile="images/pages/BN_DRP_PAGE_58-thumb.jpg">
+            <Group ePubTarget="page054.article001.xml">
+                <Block coord="0.04029982363315697,0.4334625322997416,0.3577601410934744,0.9664174972314503"/>
+                <Block coord="0.345679012345679,0.4378552971576227,0.6490299823633157,0.963501291989664"/>
+                <Block coord="0.6479717813051146,0.03391472868217054,0.9523809523809523,0.9704964931709109"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_59.jpg" pageNum="58" thumbFile="images/pages/BN_DRP_PAGE_59-thumb.jpg">
+            <Group ePubTarget="page054.article001.xml">
+                <Block coord="0.054409171075837745,0.031007751937984496,0.3567019400352734,0.9699150978220745"/>
+                <Block coord="0.3476190476190476,0.03320413436692506,0.6540564373897708,0.5860372831303063"/>
+                <Block coord="0.6490299823633157,0.03320413436692506,0.954320987654321,0.5773255813953488"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_60.jpg" pageNum="59" thumbFile="images/pages/BN_DRP_PAGE_60-thumb.jpg">
+            <Group ePubTarget="page054.article001.xml">
+                <Block coord="0.05035273368606702,0.02435400516795866,0.3537037037037037,0.9640088593576965"/>
+                <Block coord="0.34867724867724864,0.03242894056847545,0.6540564373897708,0.9675895164267259"/>
+                <Block coord="0.6490299823633157,0.030232558139534883,0.954320987654321,0.9677094868955336"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_61.jpg" pageNum="60" thumbFile="images/pages/BN_DRP_PAGE_61-thumb.jpg">
+            <Group ePubTarget="page054.article001.xml">
+                <Block coord="0.045326278659611995,0.025839793281653745,0.35167548500881834,0.975083056478405"/>
+                <Block coord="0.349647266313933,0.34844961240310074,0.65,0.9772609819121449"/>
+                <Block coord="0.6479717813051146,0.34916020671834624,0.954320987654321,0.9633074935400512"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_62.jpg" pageNum="61" thumbFile="images/pages/BN_DRP_PAGE_62-thumb.jpg">
+            <Group ePubTarget="page054.article001.xml">
+                <Block coord="0.04832451499118166,0.028036175710594316,0.35370370370370374,0.9632521225544484"/>
+                <Block coord="0.35370370370370374,0.6408268733850129,0.6490299823633157,0.9715762273901809"/>
+                <Block coord="0.6479717813051146,0.6379198966408268,0.958289241622575,0.9709302325581395"/>
+            </Group>
+            <Group ePubTarget="page062.article001.xml">
+                <Block coord="0.3654320987654321,0.09612403100775196,0.9650793650793652,0.59328165374677"/>
+                <Block coord="0.5361552028218695,0.05684754521963824,0.7887125220458553,0.09612403100775194"/>
+                <Block coord="0.7477954144620811,0.5901808785529716,0.9340388007054674,0.640826873385013"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_63.jpg" pageNum="62" thumbFile="images/pages/BN_DRP_PAGE_63-thumb.jpg">
+            <Group ePubTarget="page054.article001.xml">
+                <Block coord="0.04329805996472663,0.03391472868217054,0.34964726631393295,0.9713547434477665"/>
+                <Block coord="0.349647266313933,0.03688630490956073,0.6550264550264551,0.9728220745662605"/>
+                <Block coord="0.6470017636684304,0.03320413436692506,0.960405643738977,0.9646733111849388"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_64.jpg" pageNum="63" thumbFile="images/pages/BN_DRP_PAGE_64-thumb.jpg">
+            <Group ePubTarget="page054.article001.xml">
+                <Block coord="0.04938271604938271,0.025839793281653745,0.3527336860670194,0.9647194536729422"/>
+                <Block coord="0.35070546737213404,0.03540051679586563,0.6570546737213404,0.96594684385382"/>
+                <Block coord="0.65,0.03171834625322997,0.9513227513227513,0.9653654485049836"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_65.jpg" pageNum="64" thumbFile="images/pages/BN_DRP_PAGE_65-thumb.jpg">
+            <Group ePubTarget="page054.article001.xml">
+                <Block coord="0.05537918871252205,0.023578811369509043,0.354673721340388,0.966961978589885"/>
+                <Block coord="0.349647266313933,0.5175064599483205,0.6540564373897708,0.9686692506459949"/>
+                <Block coord="0.6529982363315696,0.5197674418604651,0.955379188712522,0.9657622739018088"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_66.jpg" pageNum="65" thumbFile="images/pages/BN_DRP_PAGE_66-thumb.jpg">
+            <Group ePubTarget="page066.article001.xml">
+                <Block coord="0.054409171075837745,0.9627260981912144,0.2841269841269842,0.9885658914728681"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_67.jpg" pageNum="66" thumbFile="images/pages/BN_DRP_PAGE_67-thumb.jpg">
+            <Group ePubTarget="page066.article001.xml">
+                <Block coord="0.4524691358024692,0.08191214470284237,0.8646384479717815,0.19412144702842377"/>
+                <Block coord="0.03350970017636684,0.046511627906976744,0.6402116402116402,0.9521963824289406"/>
+                <Block coord="0.345679012345679,0.9169896640826872,0.9432980599647266,0.9635012919896639"/>
+                <Block coord="0.34162257495590825,0.1866925064599483,0.65,0.9159745293466226"/>
+                <Block coord="0.6479717813051146,0.19043927648578812,0.9574074074074075,0.9205703211517169"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_68.jpg" pageNum="67" thumbFile="images/pages/BN_DRP_PAGE_68-thumb.jpg">
+            <Group ePubTarget="page066.article001.xml">
+                <Block coord="0.051322751322751325,0.023578811369509043,0.3476190476190476,0.49166666666666664"/>
+                <Block coord="0.3476190476190476,0.028036175710594316,0.6611111111111112,0.4909560723514212"/>
+                <Block coord="0.6429453262786596,0.030232558139534883,0.9674603174603174,0.9728497600590627"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_69.jpg" pageNum="68" thumbFile="images/pages/BN_DRP_PAGE_69-thumb.jpg">
+            <Group ePubTarget="page066.article001.xml">
+                <Block coord="0.04735449735449736,0.027260981912144704,0.35273368606701944,0.985428202288667"/>
+                <Block coord="0.34867724867724864,0.4525839793281654,0.655026455026455,0.9657622739018088"/>
+                <Block coord="0.6470017636684304,0.456266149870801,0.9503527336860671,0.9664082687338502"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_70.jpg" pageNum="69" thumbFile="images/pages/BN_DRP_PAGE_70-thumb.jpg">
+            <Group ePubTarget="page066.article001.xml">
+                <Block coord="0.046296296296296294,0.027260981912144704,0.35167548500881834,0.9655038759689915"/>
+                <Block coord="0.35070546737213404,0.028036175710594316,0.6540564373897708,0.9742524916943521"/>
+                <Block coord="0.6540564373897708,0.02435400516795866,0.949294532627866,0.9809431524547803"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_71.jpg" pageNum="70" thumbFile="images/pages/BN_DRP_PAGE_71-thumb.jpg">
+            <Group ePubTarget="page066.article001.xml">
+                <Block coord="0.04832451499118166,0.7177002583979328,0.354673721340388,0.9804909560723514"/>
+                <Block coord="0.35370370370370374,0.7169250645994831,0.6509700176366844,0.9753229974160206"/>
+                <Block coord="0.6509700176366844,0.7198320413436692,0.9583774250440917,0.963501291989664"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_72.jpg" pageNum="71" thumbFile="images/pages/BN_DRP_PAGE_72-thumb.jpg">
+            <Group ePubTarget="page066.article001.xml">
+                <Block coord="0.03421516754850088,0.02435400516795866,0.35273368606701944,0.4562015503875969"/>
+                <Block coord="0.35070546737213404,0.03171834625322997,0.6509700176366844,0.46065891472868215"/>
+                <Block coord="0.6479717813051146,0.025839793281653745,0.9594356261022927,0.9647379106681434"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_73.jpg" pageNum="72" thumbFile="images/pages/BN_DRP_PAGE_73-thumb.jpg">
+            <Group ePubTarget="page066.article001.xml">
+                <Block coord="0.04426807760141094,0.03171834625322997,0.35070546737213404,0.9699150978220742"/>
+                <Block coord="0.349647266313933,0.030232558139534883,0.6540564373897708,0.9669066076042823"/>
+                <Block coord="0.6520282186948854,0.02952196382428941,0.9503527336860671,0.9646363971945366"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_74.jpg" pageNum="73" thumbFile="images/pages/BN_DRP_PAGE_74-thumb.jpg">
+            <Group ePubTarget="page066.article001.xml">
+                <Block coord="0.05035273368606702,0.42009043927648576,0.354673721340388,0.9649870801033591"/>
+                <Block coord="0.35370370370370374,0.42377260981912146,0.656084656084656,0.9642118863049095"/>
+                <Block coord="0.6520282186948854,0.027260981912144704,0.9563492063492064,0.967008121077889"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_75.jpg" pageNum="74" thumbFile="images/pages/BN_DRP_PAGE_75-thumb.jpg">
+            <Group ePubTarget="page066.article001.xml">
+                <Block coord="0.045326278659611995,0.025839793281653745,0.354673721340388,0.9911590992986343"/>
+                <Block coord="0.35167548500881834,0.031007751937984496,0.6529982363315696,0.6280823181985973"/>
+                <Block coord="0.65,0.03242894056847545,0.9553791887125221,0.6263473606496864"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_76.jpg" pageNum="75" thumbFile="images/pages/BN_DRP_PAGE_76-thumb.jpg">
+            <Group ePubTarget="page066.article001.xml">
+                <Block coord="0.04126984126984127,0.025839793281653745,0.3567019400352734,0.6099298634182354"/>
+                <Block coord="0.35167548500881834,0.02810077519379845,0.6509700176366844,0.5964747139165744"/>
+                <Block coord="0.643915343915344,0.030232558139534883,0.9643738977072309,0.967737172388336"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_77.jpg" pageNum="76" thumbFile="images/pages/BN_DRP_PAGE_77-thumb.jpg">
+            <Group ePubTarget="page066.article001.xml">
+                <Block coord="0.04938271604938271,0.026550387596899223,0.35573192239858903,0.9713362864525664"/>
+                <Block coord="0.34867724867724864,0.5145994832041344,0.6509700176366844,0.9722868217054264"/>
+                <Block coord="0.6479717813051146,0.5109819121447028,0.9523809523809523,0.9612403100775193"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_78.jpg" pageNum="77" thumbFile="images/pages/BN_DRP_PAGE_78-thumb.jpg">
+            <Group ePubTarget="page078.article001.xml">
+                <Block coord="0.06490299823633157,0.082687338501292,0.9326278659611993,0.9540051679586563"/>
+                <Block coord="0.3075837742504409,0.36175710594315247,0.8846560846560847,0.40620155038759687"/>
+                <Block coord="0.0818342151675485,0.14263565891472868,0.7534391534391535,0.3607235142118863"/>
+                <Block coord="0.7181657848324515,0.958139534883721,0.9481481481481482,0.9953488372093022"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_79.jpg" pageNum="78" thumbFile="images/pages/BN_DRP_PAGE_79-thumb.jpg">
+            <Group ePubTarget="page078.article001.xml">
+                <Block coord="0.04797178130511464,0.029974160206718347,0.3499118165784833,0.9198966408268734"/>
+                <Block coord="0.3541446208112875,0.0351421188630491,0.6546737213403879,0.9684754521963823"/>
+                <Block coord="0.6518518518518519,0.0351421188630491,0.9608465608465608,0.9622739018087855"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_80.jpg" pageNum="79" thumbFile="images/pages/BN_DRP_PAGE_80-thumb.jpg">
+            <Group ePubTarget="page078.article001.xml">
+                <Block coord="0.04656084656084656,0.037209302325581395,0.35273368606701944,0.9684754521963826"/>
+                <Block coord="0.3527336860670194,0.03824289405684755,0.6490299823633157,0.972609819121447"/>
+                <Block coord="0.6476190476190476,0.034108527131782945,0.9608465608465608,0.972609819121447"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_81.jpg" pageNum="80" thumbFile="images/pages/BN_DRP_PAGE_81-thumb.jpg">
+            <Group ePubTarget="page078.article001.xml">
+                <Block coord="0.050793650793650794,0.03617571059431524,0.3527336860670194,0.9777777777777776"/>
+                <Block coord="0.3527336860670194,0.034108527131782945,0.6490299823633157,0.6377260981912145"/>
+                <Block coord="0.6518518518518519,0.03204134366925065,0.953721340388007,0.6294573643410852"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_82.jpg" pageNum="81" thumbFile="images/pages/BN_DRP_PAGE_82-thumb.jpg">
+            <Group ePubTarget="page078.article001.xml">
+                <Block coord="0.05361552028218695,0.4351421188630491,0.3513227513227513,0.9622739018087855"/>
+                <Block coord="0.3513227513227513,0.44031007751937984,0.6504409171075838,0.9664082687338502"/>
+                <Block coord="0.6516754850088183,0.034108527131782945,0.962151675485009,0.9777777777777777"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_83.jpg" pageNum="82" thumbFile="images/pages/BN_DRP_PAGE_83-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_84.jpg" pageNum="83" thumbFile="images/pages/BN_DRP_PAGE_84-thumb.jpg">
+            <Group ePubTarget="page078.article001.xml">
+                <Block coord="0.043915343915343914,0.037209302325581395,0.35100529100529115,0.6801033591731266"/>
+                <Block coord="0.3541446208112875,0.0351421188630491,0.6518518518518519,0.6708010335917313"/>
+                <Block coord="0.6490299823633157,0.031007751937984496,0.962257495590829,0.9705426356589149"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_85.jpg" pageNum="84" thumbFile="images/pages/BN_DRP_PAGE_85-thumb.jpg">
+            <Group ePubTarget="page078.article001.xml">
+                <Block coord="0.05361552028218695,0.037209302325581395,0.3541446208112875,0.978811369509044"/>
+                <Block coord="0.3541446208112875,0.4041343669250646,0.6518518518518519,0.9715762273901809"/>
+                <Block coord="0.656084656084656,0.40620155038759687,0.9707231040564372,0.9622739018087855"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_86.jpg" pageNum="85" thumbFile="images/pages/BN_DRP_PAGE_86-thumb.jpg">
+            <Group ePubTarget="page078.article001.xml">
+                <Block coord="0.045149911816578486,0.031007751937984496,0.35132275132275137,0.9653746770025842"/>
+                <Block coord="0.3541446208112875,0.03617571059431524,0.6532627865961199,0.9684754521963824"/>
+                <Block coord="0.6504409171075838,0.0351421188630491,0.9566137566137566,0.9757105943152454"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_87.jpg" pageNum="86" thumbFile="images/pages/BN_DRP_PAGE_87-thumb.jpg">
+            <Group ePubTarget="page078.article001.xml">
+                <Block coord="0.04797178130511464,0.031007751937984496,0.3541446208112875,0.47441860465116276"/>
+                <Block coord="0.3485008818342152,0.03204134366925065,0.6518518518518519,0.4754521963824289"/>
+                <Block coord="0.654673721340388,0.03617571059431524,0.962257495590829,0.4940568475452196"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_88.jpg" pageNum="87" thumbFile="images/pages/BN_DRP_PAGE_88-thumb.jpg">
+            <Group ePubTarget="page078.article001.xml">
+                <Block coord="0.050793650793650794,0.031007751937984496,0.3527336860670194,0.9643410852713177"/>
+                <Block coord="0.3505291005291005,0.034108527131782945,0.6530335097001763,0.9684754521963825"/>
+                <Block coord="0.654673721340388,0.03617571059431524,0.962257495590829,0.9757105943152456"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_89.jpg" pageNum="88" thumbFile="images/pages/BN_DRP_PAGE_89-thumb.jpg">
+            <Group ePubTarget="page078.article001.xml">
+                <Block coord="0.03950617283950617,0.029974160206718347,0.3541446208112875,0.9829457364341084"/>
+                <Block coord="0.3527336860670194,0.0351421188630491,0.6490299823633155,0.6945736434108527"/>
+                <Block coord="0.6504409171075838,0.034108527131782945,0.9537918871252203,0.6935400516795865"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_90.jpg" pageNum="89" thumbFile="images/pages/BN_DRP_PAGE_90-thumb.jpg">
+            <Group ePubTarget="page078.article001.xml">
+                <Block coord="0.050793650793650794,0.41757105943152456,0.3527336860670194,0.9674418604651163"/>
+                <Block coord="0.3513227513227513,0.4186046511627907,0.6504409171075838,0.9674418604651163"/>
+                <Block coord="0.6504409171075838,0.0330749354005168,0.9693121693121693,0.9684754521963823"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_91.jpg" pageNum="90" thumbFile="images/pages/BN_DRP_PAGE_91-thumb.jpg">
+            <Group ePubTarget="page078.article001.xml">
+                <Block coord="0.043738977072310406,0.031007751937984496,0.3555555555555555,0.9684754521963825"/>
+                <Block coord="0.35696649029982364,0.0330749354005168,0.6603880070546737,0.9643410852713178"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_92.jpg" pageNum="91" thumbFile="images/pages/BN_DRP_PAGE_92-thumb.jpg">
+            <Group ePubTarget="page092.article001.xml">
+                <Block coord="0.3343915343915344,0.05219638242894057,0.9643738977072311,0.6498708010335916"/>
+                <Block coord="0.042328042328042326,0.3400516795865633,0.3527336860670194,0.9643410852713179"/>
+                <Block coord="0.3527336860670194,0.3441860465116279,0.6504409171075838,0.9705426356589147"/>
+                <Block coord="0.6504409171075838,0.6852713178294574,0.9495590828924162,0.9767441860465117"/>
+                <Block coord="0.6574955908289242,0.6501291989664083,1.0,0.6852713178294574"/>
+                <Block coord="0.24691358024691357,0.3121447028423773,0.4486772486772487,0.34625322997416025"/>
+                <Block coord="0.14250440917107585,0.28320413436692504,0.489594356261023,0.31421188630490954"/>
+                <Block coord="0.07760141093474426,0.2366925064599483,0.6264550264550264,0.28527131782945736"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_93.jpg" pageNum="92" thumbFile="images/pages/BN_DRP_PAGE_93-thumb.jpg">
+            <Group ePubTarget="page092.article001.xml">
+                <Block coord="0.0,0.6532299741602068,0.6377425044091711,0.6873385012919897"/>
+                <Block coord="0.043738977072310406,0.9643410852713178,0.29488536155202816,0.9974160206718347"/>
+                <Block coord="0.050793650793650794,0.6852713178294574,0.35132275132275126,0.9684754521963825"/>
+                <Block coord="0.3511463844797178,0.6872739018087856,0.6518518518518519,0.9674418604651163"/>
+                <Block coord="0.6531746031746032,0.6872093023255814,0.9664902998236331,0.9674418604651163"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_94.jpg" pageNum="93" thumbFile="images/pages/BN_DRP_PAGE_94-thumb.jpg">
+            <Group ePubTarget="page092.article001.xml">
+                <Block coord="0.03950617283950617,0.0351421188630491,0.35555555555555557,0.9684754521963823"/>
+                <Block coord="0.34991181657848325,0.02790697674418605,0.6546737213403879,0.9726098191214468"/>
+                <Block coord="0.6462081128747795,0.034108527131782945,0.9693121693121693,0.9839793281653747"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_95.jpg" pageNum="94" thumbFile="images/pages/BN_DRP_PAGE_95-thumb.jpg">
+            <Group ePubTarget="page092.article001.xml">
+                <Block coord="0.04091710758377425,0.026873385012919897,0.3541446208112875,0.9757105943152455"/>
+                <Block coord="0.3485008818342152,0.4496124031007752,0.656084656084656,0.9715762273901809"/>
+                <Block coord="0.6462081128747795,0.4506459948320414,0.963668430335097,0.9664082687338501"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_96.jpg" pageNum="95" thumbFile="images/pages/BN_DRP_PAGE_96-thumb.jpg">
+            <Group ePubTarget="page092.article001.xml">
+                <Block coord="0.04091710758377425,0.031007751937984496,0.35273368606701944,0.9653746770025842"/>
+                <Block coord="0.34991181657848325,0.028940568475452195,0.6532627865961198,0.6377260981912146"/>
+                <Block coord="0.3485008818342152,0.7617571059431525,0.6574955908289242,0.965374677002584"/>
+                <Block coord="0.6530864197530865,0.02990956072351421,0.9594356261022927,0.978811369509044"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_97.jpg" pageNum="96" thumbFile="images/pages/BN_DRP_PAGE_97-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_98.jpg" pageNum="97" thumbFile="images/pages/BN_DRP_PAGE_98-thumb.jpg">
+            <Group ePubTarget="page092.article001.xml">
+                <Block coord="0.042328042328042326,0.026873385012919897,0.35696649029982364,0.6677002583979328"/>
+                <Block coord="0.3527336860670194,0.0103359173126615,0.6476190476190475,0.6635658914728683"/>
+                <Block coord="0.6504409171075838,0.020671834625323,0.9552028218694886,0.9757105943152455"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_99.jpg" pageNum="98" thumbFile="images/pages/BN_DRP_PAGE_99-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_100.jpg" pageNum="99" thumbFile="images/pages/BN_DRP_PAGE_100-thumb.jpg">
+            <Group ePubTarget="page092.article001.xml">
+                <Block coord="0.3513227513227513,0.037209302325581395,0.6574955908289242,0.971576227390181"/>
+                <Block coord="0.6504409171075838,0.031007751937984496,0.9834215167548501,0.9819121447028423"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_101.jpg" pageNum="100" thumbFile="images/pages/BN_DRP_PAGE_101-thumb.jpg">
+            <Group ePubTarget="page092.article001.xml">
+                <Block coord="0.03950617283950617,0.028940568475452195,0.3513227513227513,0.9839793281653748"/>
+                <Block coord="0.3513227513227513,0.034108527131782945,0.6532627865961199,0.9198966408268734"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_102.jpg" pageNum="101" thumbFile="images/pages/BN_DRP_PAGE_102-thumb.jpg">
+            <Group ePubTarget="page102.article001.xml">
+                <Block coord="0.13827160493827162,0.1343669250645995,0.5671957671957673,0.15400516795865635"/>
+                <Block coord="0.050793650793650794,0.9354005167958656,0.6292768959435626,0.9643410852713177"/>
+                <Block coord="0.03668430335097002,0.5746770025839794,0.3527336860670194,0.9322997416020673"/>
+                <Block coord="0.18765432098765433,0.08785529715762273,0.5502645502645503,0.1322997416020672"/>
+                <Block coord="0.21305114638447972,0.1633074935400517,0.5037037037037038,0.1922480620155039"/>
+                <Block coord="0.7125220458553791,0.96640826873385,0.9636684303350969,0.9881136950904391"/>
+                <Block coord="0.34373897707231044,0.5767441860465116,0.6487830687830689,0.9405684754521964"/>
+                <Block coord="0.6518518518518519,0.03824289405684755,0.9608465608465608,0.9695090439276486"/>
+                <Block coord="0.1058201058201058,0.19392764857881137,0.5940035273368607,0.5618346253229977"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_103.jpg" pageNum="102" thumbFile="images/pages/BN_DRP_PAGE_103-thumb.jpg">
+            <Group ePubTarget="page102.article001.xml">
+                <Block coord="0.0380952380952381,0.031007751937984496,0.3527336860670194,0.9839793281653748"/>
+                <Block coord="0.3527336860670194,0.03617571059431524,0.6490299823633157,0.9767441860465116"/>
+                <Block coord="0.6504409171075838,0.037209302325581395,0.9735449735449735,0.9674418604651162"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_104.jpg" pageNum="103" thumbFile="images/pages/BN_DRP_PAGE_104-thumb.jpg">
+            <Group ePubTarget="page102.article001.xml">
+                <Block coord="0.35555555555555557,0.03824289405684755,0.6476190476190476,0.9684754521963823"/>
+                <Block coord="0.6502645502645502,0.03617571059431524,0.9692063492063492,0.9746770025839793"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_105.jpg" pageNum="104" thumbFile="images/pages/BN_DRP_PAGE_105-thumb.jpg">
+            <Group ePubTarget="page102.article001.xml">
+                <Block coord="0.050793650793650794,0.0330749354005168,0.3485008818342151,0.972609819121447"/>
+                <Block coord="0.3527336860670194,0.034108527131782945,0.6546737213403879,0.9736434108527133"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_106.jpg" pageNum="105" thumbFile="images/pages/BN_DRP_PAGE_106-thumb.jpg">
+            <Group ePubTarget="page106.article001.xml">
+                <Block coord="0.22292768959435627,0.1281653746770026,0.5403880070546736,0.15813953488372096"/>
+                <Block coord="0.3047619047619048,0.7028423772609819,0.6941798941798942,0.7359173126614987"/>
+                <Block coord="0.06490299823633157,0.08372093023255814,0.634920634920635,0.12609819121447027"/>
+                <Block coord="0.03668430335097002,0.19347545219638243,0.35287477954144614,0.6531136950904396"/>
+                <Block coord="0.23844797178130508,0.16434108527131783,0.4599647266313933,0.19224806201550387"/>
+                <Block coord="0.7111111111111111,0.9643410852713178,0.9636684303350971,0.9953488372093022"/>
+                <Block coord="0.045149911816578486,0.6563307493540051,0.2977072310405644,0.745219638242894"/>
+                <Block coord="0.052204585537918874,0.7431524547803618,0.34991181657848325,0.9633074935400519"/>
+                <Block coord="0.3541446208112875,0.19328165374677,0.6518518518518519,0.35245478036175715"/>
+                <Block coord="0.3527336860670194,0.7338501291989664,0.6518518518518519,0.9746770025839793"/>
+                <Block coord="0.6476190476190476,0.03204134366925065,0.982010582010582,0.6914728682170543"/>
+                <Block coord="0.6984126984126984,0.6914728682170543,0.9453262786596119,0.7421188630490956"/>
+                <Block coord="0.6462081128747795,0.7400516795865633,0.9580246913580248,0.9653746770025841"/>
+                <Block coord="0.32310405643738976,0.35012919896640826,0.6701940035273368,0.7046511627906976"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_107.jpg" pageNum="106" thumbFile="images/pages/BN_DRP_PAGE_107-thumb.jpg">
+            <Group ePubTarget="page106.article001.xml">
+                <Block coord="0.04797178130511464,0.034108527131782945,0.3499118165784833,0.9808785529715763"/>
+                <Block coord="0.3513227513227513,0.03927648578811369,0.6518518518518519,0.9684754521963825"/>
+                <Block coord="0.6504409171075838,0.03824289405684755,0.9552028218694886,0.9674418604651162"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_108.jpg" pageNum="107" thumbFile="images/pages/BN_DRP_PAGE_108-thumb.jpg">
+            <Group ePubTarget="page106.article001.xml">
+                <Block coord="0.0435626102292769,0.0330749354005168,0.35686067019400364,0.963307493540052"/>
+            </Group>
+            <Group ePubTarget="page108.article001.xml">
+                <Block coord="0.4966490299823634,0.0992248062015504,0.9580246913580248,0.9705426356589149"/>
+                <Block coord="0.49523809523809526,0.050645994832041345,0.890299823633157,0.09405684754521963"/>
+                <Block coord="0.3633156966490299,0.11266149870801034,0.48536155202821857,0.24961240310077518"/>
+                <Block coord="0.49241622574955907,0.10129198966408268,0.9679012345679012,0.9715762273901809"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_109.jpg" pageNum="108" thumbFile="images/pages/BN_DRP_PAGE_109-thumb.jpg">
+            <Group ePubTarget="page108.article001.xml">
+                <Block coord="0.1890652557319224,0.07338501291989663,0.650440917107584,0.978811369509044"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_110.jpg" pageNum="109" thumbFile="images/pages/BN_DRP_PAGE_110-thumb.jpg">
+            <Group ePubTarget="page110.article001.xml">
+                <Block coord="0.15520282186948853,0.2036175710594315,0.547442680776014,0.6408268733850129"/>
+                <Block coord="0.02821869488536155,0.648062015503876,0.3541446208112875,0.9354005167958657"/>
+                <Block coord="0.3541446208112875,0.6594315245478036,0.6532627865961199,0.9374677002583981"/>
+                <Block coord="0.6532627865961199,0.02790697674418605,0.9693121693121693,0.9633074935400496"/>
+                <Block coord="0.03668430335097002,0.937467700258398,0.636331569664903,0.9633074935400517"/>
+                <Block coord="0.708289241622575,0.96640826873385,0.9664902998236331,0.9881136950904391"/>
+                <Block coord="0.2243386243386243,0.08372093023255814,0.48818342151675487,0.12713178294573646"/>
+                <Block coord="0.2144620811287478,0.15943152454780363,0.5008818342151675,0.19121447028423771"/>
+                <Block coord="0.2257495590828924,0.1322997416020672,0.46419753086419746,0.15400516795865635"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_111.jpg" pageNum="110" thumbFile="images/pages/BN_DRP_PAGE_111-thumb.jpg">
+            <Group ePubTarget="page110.article001.xml">
+                <Block coord="0.03668430335097002,0.0227390180878553,0.35414462081128745,0.9757622739018079"/>
+                <Block coord="0.35555555555555557,0.031007751937984496,0.6518518518518519,0.9747286821705425"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_112.jpg" pageNum="111" thumbFile="images/pages/BN_DRP_PAGE_112-thumb.jpg">
+            <Group ePubTarget="page112.article001.xml">
+                <Block coord="0.13968253968253969,0.2036175710594315,0.5601410934744269,0.6428940568475452"/>
+                <Block coord="0.021164021164021163,0.649095607235142,0.3541446208112875,0.9343669250645995"/>
+                <Block coord="0.3541446208112875,0.6428940568475453,0.6532627865961199,0.931266149870801"/>
+                <Block coord="0.654673721340388,0.034108527131782945,0.9467372134038801,0.993333333333333"/>
+                <Block coord="0.03950617283950617,0.9395348837209304,0.5714285714285715,0.9643410852713179"/>
+                <Block coord="0.945326278659612,0.696640826873385,0.9693121693121695,0.9622739018087854"/>
+                <Block coord="0.21164021164021163,0.08785529715762273,0.527689594356261,0.12713178294573643"/>
+                <Block coord="0.2328042328042328,0.16434108527131783,0.4811287477954145,0.19121447028423771"/>
+                <Block coord="0.21296296296296297,0.13016795865633074,0.4811287477954145,0.15813953488372093"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_113.jpg" pageNum="112" thumbFile="images/pages/BN_DRP_PAGE_113-thumb.jpg">
+            <Group ePubTarget="page112.article001.xml">
+                <Block coord="0.05502645502645503,0.029974160206718347,0.3541446208112875,0.9768475452196373"/>
+                <Block coord="0.3513227513227513,0.011563307493540053,0.6490299823633159,0.9698578811369513"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_114.jpg" pageNum="113" thumbFile="images/pages/BN_DRP_PAGE_114-thumb.jpg">
+            <Group ePubTarget="page114.article001.xml">
+                <Block coord="0.07901234567901234,0.21188630490956073,0.6194003527336861,0.47545219638242897"/>
+                <Block coord="0.02821869488536155,0.5198966408268734,0.3513227513227513,0.9643410852713178"/>
+                <Block coord="0.35264550264550265,0.5167312661498707,0.6504409171075838,0.9705426356589149"/>
+                <Block coord="0.6490299823633157,0.026873385012919897,0.9594356261022927,0.9623255813953475"/>
+                <Block coord="0.05361552028218695,0.482687338501292,0.5855379188712523,0.5136950904392765"/>
+                <Block coord="0.6871252204585538,0.965374677002584,0.9566137566137566,0.9850129198966407"/>
+                <Block coord="0.11428571428571428,0.08578811369509044,0.5798941798941799,0.12609819121447027"/>
+                <Block coord="0.2313932980599647,0.1622739018087855,0.45291005291005293,0.18708010335917313"/>
+                <Block coord="0.20317460317460315,0.1281653746770026,0.4980599647266314,0.15813953488372096"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_115.jpg" pageNum="114" thumbFile="images/pages/BN_DRP_PAGE_115-thumb.jpg">
+            <Group ePubTarget="page114.article001.xml">
+                <Block coord="0.026807760141093474,0.0227390180878553,0.3541446208112875,0.7028423772609819"/>
+                <Block coord="0.3541446208112875,0.03617571059431524,0.6546737213403879,0.7049095607235142"/>
+                <Block coord="0.6532627865961199,0.012403100775193798,0.9495590828924162,0.703875968992248"/>
+            </Group>
+        </Page>
+        <Page file="images/pages/BN_DRP_PAGE_116.jpg" pageNum="115" thumbFile="images/pages/BN_DRP_PAGE_116-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_117.jpg" pageNum="116" thumbFile="images/pages/BN_DRP_PAGE_117-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_118.jpg" pageNum="117" thumbFile="images/pages/BN_DRP_PAGE_118-thumb.jpg"/>
+    </Pages>
+    <Articles>
+        <Article file="page009.article001.xml" id="page009.article001">
+            <title ref="headline">GOINGS ON ABOUT TOWN</title>
+            <byline ref="byline"/>
+            <Summary>AL HIRSCHFELD (pictured in a self-portrait from 1980) began his career in motion pictures, but...</Summary>
+        </Article>
+        <Article file="page010.article001.xml" id="page010.article001">
+            <title ref="headline">ART</title>
+            <byline ref="byline"/>
+            <Summary>MUSEUMS AND LIBRARIES Guggenheim Museum “Robert Motherwell: Early Collages” It’s fitting...</Summary>
+        </Article>
+        <Article file="page012.article001.xml" id="page012.article001">
+            <title ref="headline">THE THEATRE</title>
+            <byline ref="byline"/>
+            <Summary>UPTOWN, DOWNTOWN The gap between Broadway and Off Broadway sensibilities. THE NOTION THAT...</Summary>
+        </Article>
+        <Article file="page016.article001.xml" id="page016.article001">
+            <title ref="headline">CLASSICAL MUSIC</title>
+            <byline ref="byline"/>
+            <Summary>OPERA Metropolitan Opera At last it arrives: Nico Muhly’s “Two Boys,” the only opera to...</Summary>
+        </Article>
+        <Article file="page018.article001.xml" id="page018.article001">
+            <title ref="headline">DANCE</title>
+            <byline ref="byline"/>
+            <Summary>TIME EVERLASTING The Brooklyn Academy of Music gets schooled in minimalism. IN THE LATE...</Summary>
+        </Article>
+        <Article file="page020.article001.xml" id="page020.article001">
+            <title ref="headline">ABOVE &amp; BEYOND</title>
+            <byline ref="byline"/>
+            <Summary>Honk NYC! Festival It might seem to some who live in the city that there are too many horns...</Summary>
+        </Article>
+        <Article file="page022.article001.xml" id="page022.article001">
+            <title ref="headline">MOVIES</title>
+            <byline ref="byline"/>
+            <Summary>NOW PLAYING Captain Phillips Paul Greengrass, the director of “United 93” and two chapters...</Summary>
+        </Article>
+        <Article file="page025.article001.xml" id="page025.article001">
+            <title ref="headline">NIGHT LIFE</title>
+            <byline ref="byline"/>
+            <Summary>ROCK AND POP Musicians and night-club proprietors lead complicated lives; it’s advisable to...</Summary>
+        </Article>
+        <Article file="page026.article001.xml" id="page026.article001">
+            <title ref="headline">FOOD &amp; DRINK</title>
+            <byline ref="byline"/>
+            <Summary>TABLES FOR TWO SHALOM JAPAN 310 S. 4th St., Brooklyn (718 -388-4012) JEWISH AND JAPANESE...</Summary>
+        </Article>
+        <Article file="page029.article001.xml" id="page029.article001">
+            <title ref="headline">COMMENT: IMPEACH OBAMA!</title>
+            <byline ref="byline"><p class="no-indent">Hendrik Hertzberg</p></byline>
+            <Summary>The validity of the public debt of the United States, authorized by law, including debts incurred...</Summary>
+        </Article>
+        <Article file="page030.article001.xml" id="page030.article001">
+            <title ref="headline">DEPT. OF HOOPLA: IF THE SHOE FITS</title>
+            <byline ref="byline"><p class="no-indent">Rebecca Mead</p></byline>
+            <Summary>Tamara Mellon, the co-founder of Jimmy Choo, has written a memoir called “In My Shoes,” and a...</Summary>
+        </Article>
+        <Article file="page031.article001.xml" id="page031.article001">
+            <title ref="headline">WIND ON CAPITOL HILL: NAIL-BITER</title>
+            <byline ref="byline"><p class="no-indent">Lizzie Widdicombe</p></byline>
+            <Summary>Last weekend, moviegoers lined up to see Tom Hanks held at gunpoint by Somali pirates, in “Captain...</Summary>
+        </Article>
+        <Article file="page032.article001.xml" id="page032.article001">
+            <title ref="headline">THE PICTURES: VICTORY LAP</title>
+            <byline ref="byline"><p class="no-indent">Michael Schulman</p></byline>
+            <Summary>The filmmaker Nicole Holofcener pulled up to the corner of Eighty-second and Broadway, where,...</Summary>
+        </Article>
+        <Article file="page035.article001.xml" id="page035.article001">
+            <title ref="headline">THE FINANCIAL PAGE: OPEN SEASON</title>
+            <byline ref="byline"><p class="no-indent">James Surowiecki</p></byline>
+            <Summary>In 1965, America’s big companies had a hell of a year. The stock market was booming. Sales were...</Summary>
+        </Article>
+        <Article file="page036.article001.xml" id="page036.article001">
+            <title ref="headline">GONE GIRL</title>
+            <byline ref="byline"><p class="no-indent">BY MARGARET TALBOT</p></byline>
+            <Summary>Elizabeth Smart sat backstage in a ballroom of the Washington Hilton hotel, where, in a few...</Summary>
+        </Article>
+        <Article file="page045.article001.xml" id="page045.article001">
+            <title ref="headline">LUAU</title>
+            <byline ref="byline"><p class="no-indent">BY JACK HANDEY</p></byline>
+            <Summary>One of the worst things I’ve ever been to has to be the Hawaiian luau I went to last month. Or...</Summary>
+        </Article>
+        <Article file="page046.article001.xml" id="page046.article001">
+            <title ref="headline">LYDDA, 1948</title>
+            <byline ref="byline"><p class="no-indent">BY ARI SHAVIT</p></byline>
+            <Summary>The Middle East is imploding, the Arab Spring is a memory, Syria is a surreal nightmare, yet a new...</Summary>
+        </Article>
+        <Article file="page048.article001.xml" id="page048.article001">
+            <title ref="headline">TANAGER</title>
+            <byline ref="byline"><p class="no-indent">Billy Collins</p></byline>
+            <Summary>If only I had not listened to the piece on the morning radio about the former asylum whose...</Summary>
+        </Article>
+        <Article file="page054.article001.xml" id="page054.article001">
+            <title ref="headline">TWO-HIT WONDER</title>
+            <byline ref="byline"><p class="no-indent">BY D. T. MAX</p></byline>
+            <Summary>Jack Dorsey, the tech entrepreneur, takes the No. 1 bus to work, and he likes to catch the 7:06....</Summary>
+        </Article>
+        <Article file="page062.article001.xml" id="page062.article001">
+            <title ref="headline">MOON RIVER</title>
+            <byline ref="byline"><p class="no-indent">Lucie Brock-Broido</p></byline>
+            <Summary>What is it exactly that you mean when you call me Your “huckleberry friend”? What if too soon...</Summary>
+        </Article>
+        <Article file="page066.article001.xml" id="page066.article001">
+            <title ref="headline">PRIVATE EYES</title>
+            <byline ref="byline"><p class="no-indent">BY JON LEE ANDERSON</p></byline>
+            <Summary>A few months ago, the Spanish Embassy in Havana arranged a party to celebrate the state of...</Summary>
+        </Article>
+        <Article file="page078.article001.xml" id="page078.article001">
+            <title ref="headline">ALICE MUNRO</title>
+            <byline ref="byline"/>
+            <Summary>Fiona lived in her parents’ house, in the town where she and Grant went to university. It was a...</Summary>
+        </Article>
+        <Article file="page092.article001.xml" id="page092.article001">
+            <title ref="headline">THE NORMAN INVASION</title>
+            <byline ref="byline"><p class="no-indent">BY LOUIS MENAND</p></byline>
+            <Summary>The world has long since finished having its Norman Mailer conversation, but few writers in their...</Summary>
+        </Article>
+        <Article file="page102.article001.xml" id="page102.article001">
+            <title ref="headline">HEAD COUNT</title>
+            <byline ref="byline"><p class="no-indent">BY ELIZABETH KOLBERT</p></byline>
+            <Summary>On May 12, 1907, toward the end of the annual meeting of the German Bunsen Society, which was held...</Summary>
+        </Article>
+        <Article file="page106.article001.xml" id="page106.article001">
+            <title ref="headline">THE NEW CURIOSITY SHOP</title>
+            <byline ref="byline"><p class="no-indent">BY JAMES WOOD</p></byline>
+            <Summary>Like the rest of us, Donna Tartt ages; but her fiction is going the other way. Her new novel, “The...</Summary>
+        </Article>
+        <Article file="page108.article001.xml" id="page108.article001">
+            <title ref="headline">BRIEFLY NOTED</title>
+            <byline ref="byline"/>
+            <Summary>BRIDGET JONES: MAD ABOUT THE BOY, by Helen Fielding (Knopf). In the weeks leading up to this...</Summary>
+        </Article>
+        <Article file="page110.article001.xml" id="page110.article001">
+            <title ref="headline">ROYALTIES</title>
+            <byline ref="byline"><p class="no-indent">BY SASHA FRERE-JONES</p></byline>
+            <Summary>The New Zealand singer Ella Yelich-O’Connor’s first show in the U.S. was in August, at the small...</Summary>
+        </Article>
+        <Article file="page112.article001.xml" id="page112.article001">
+            <title ref="headline">PLAY TIME</title>
+            <byline ref="byline"><p class="no-indent">BY PETER SCHJELDAHL</p></byline>
+            <Summary>The strikingly thoughtful new edition of the venerable Carnegie International, an exhibition...</Summary>
+        </Article>
+        <Article file="page114.article001.xml" id="page114.article001">
+            <title ref="headline">FIGHTING TO SURVIVE</title>
+            <byline ref="byline"><p class="no-indent">BY DAVID DENBY</p></byline>
+            <Summary>The most striking image in “12 Years a Slave”—a film of many powerful moments and sequences—is of...</Summary>
+        </Article>
+    </Articles>
+    <TOC>
+        <TocEntry title="Cover">
+            <Summary>Cover</Summary>
+            <Page pagenum="0"/>
+        </TocEntry>
+        <TocEntry title="GOINGS ON ABOUT TOWN">
+            <Summary>AL HIRSCHFELD (pictured in a self-portrait from 1980) began his career in motion pictures, but...</Summary>
+            <Page pagenum="8"/>
+            <Article refid="page009.article001"/>
+        </TocEntry>
+        <TocEntry title="ART">
+            <Summary>MUSEUMS AND LIBRARIES Guggenheim Museum “Robert Motherwell: Early Collages” It’s fitting...</Summary>
+            <Page pagenum="9"/>
+            <Article refid="page010.article001"/>
+        </TocEntry>
+        <TocEntry title="THE THEATRE">
+            <Summary>UPTOWN, DOWNTOWN The gap between Broadway and Off Broadway sensibilities. THE NOTION THAT...</Summary>
+            <Page pagenum="11"/>
+            <Article refid="page012.article001"/>
+        </TocEntry>
+        <TocEntry title="CLASSICAL MUSIC">
+            <Summary>OPERA Metropolitan Opera At last it arrives: Nico Muhly’s “Two Boys,” the only opera to...</Summary>
+            <Page pagenum="15"/>
+            <Article refid="page016.article001"/>
+        </TocEntry>
+        <TocEntry title="DANCE">
+            <Summary>TIME EVERLASTING The Brooklyn Academy of Music gets schooled in minimalism. IN THE LATE...</Summary>
+            <Page pagenum="17"/>
+            <Article refid="page018.article001"/>
+        </TocEntry>
+        <TocEntry title="ABOVE &amp; BEYOND">
+            <Summary>Honk NYC! Festival It might seem to some who live in the city that there are too many horns...</Summary>
+            <Page pagenum="19"/>
+            <Article refid="page020.article001"/>
+        </TocEntry>
+        <TocEntry title="MOVIES">
+            <Summary>NOW PLAYING Captain Phillips Paul Greengrass, the director of “United 93” and two chapters...</Summary>
+            <Page pagenum="21"/>
+            <Article refid="page022.article001"/>
+        </TocEntry>
+        <TocEntry title="NIGHT LIFE">
+            <Summary>ROCK AND POP Musicians and night-club proprietors lead complicated lives; it’s advisable to...</Summary>
+            <Page pagenum="24"/>
+            <Article refid="page025.article001"/>
+        </TocEntry>
+        <TocEntry title="FOOD &amp; DRINK">
+            <Summary>TABLES FOR TWO SHALOM JAPAN 310 S. 4th St., Brooklyn (718 -388-4012) JEWISH AND JAPANESE...</Summary>
+            <Page pagenum="25"/>
+            <Article refid="page026.article001"/>
+        </TocEntry>
+        <TocEntry title="COMMENT: IMPEACH OBAMA!">
+            <Summary>The validity of the public debt of the United States, authorized by law, including debts incurred...</Summary>
+            <Page pagenum="28"/>
+            <Article refid="page029.article001"/>
+        </TocEntry>
+        <TocEntry title="DEPT. OF HOOPLA: IF THE SHOE FITS">
+            <Summary>Tamara Mellon, the co-founder of Jimmy Choo, has written a memoir called “In My Shoes,” and a...</Summary>
+            <Page pagenum="29"/>
+            <Article refid="page030.article001"/>
+        </TocEntry>
+        <TocEntry title="WIND ON CAPITOL HILL: NAIL-BITER">
+            <Summary>Last weekend, moviegoers lined up to see Tom Hanks held at gunpoint by Somali pirates, in “Captain...</Summary>
+            <Page pagenum="30"/>
+            <Article refid="page031.article001"/>
+        </TocEntry>
+        <TocEntry title="THE PICTURES: VICTORY LAP">
+            <Summary>The filmmaker Nicole Holofcener pulled up to the corner of Eighty-second and Broadway, where,...</Summary>
+            <Page pagenum="31"/>
+            <Article refid="page032.article001"/>
+        </TocEntry>
+        <TocEntry title="THE FINANCIAL PAGE: OPEN SEASON">
+            <Summary>In 1965, America’s big companies had a hell of a year. The stock market was booming. Sales were...</Summary>
+            <Page pagenum="34"/>
+            <Article refid="page035.article001"/>
+        </TocEntry>
+        <TocEntry title="GONE GIRL">
+            <Summary>Elizabeth Smart sat backstage in a ballroom of the Washington Hilton hotel, where, in a few...</Summary>
+            <Page pagenum="35"/>
+            <Article refid="page036.article001"/>
+        </TocEntry>
+        <TocEntry title="LUAU">
+            <Summary>One of the worst things I’ve ever been to has to be the Hawaiian luau I went to last month. Or...</Summary>
+            <Page pagenum="44"/>
+            <Article refid="page045.article001"/>
+        </TocEntry>
+        <TocEntry title="LYDDA, 1948">
+            <Summary>The Middle East is imploding, the Arab Spring is a memory, Syria is a surreal nightmare, yet a new...</Summary>
+            <Page pagenum="45"/>
+            <Article refid="page046.article001"/>
+        </TocEntry>
+        <TocEntry title="TANAGER">
+            <Summary>If only I had not listened to the piece on the morning radio about the former asylum whose...</Summary>
+            <Page pagenum="47"/>
+            <Article refid="page048.article001"/>
+        </TocEntry>
+        <TocEntry title="TWO-HIT WONDER">
+            <Summary>Jack Dorsey, the tech entrepreneur, takes the No. 1 bus to work, and he likes to catch the 7:06....</Summary>
+            <Page pagenum="53"/>
+            <Article refid="page054.article001"/>
+        </TocEntry>
+        <TocEntry title="MOON RIVER">
+            <Summary>What is it exactly that you mean when you call me Your “huckleberry friend”? What if too soon...</Summary>
+            <Page pagenum="61"/>
+            <Article refid="page062.article001"/>
+        </TocEntry>
+        <TocEntry title="PRIVATE EYES">
+            <Summary>A few months ago, the Spanish Embassy in Havana arranged a party to celebrate the state of...</Summary>
+            <Page pagenum="65"/>
+            <Article refid="page066.article001"/>
+        </TocEntry>
+        <TocEntry title="ALICE MUNRO">
+            <Summary>Fiona lived in her parents’ house, in the town where she and Grant went to university. It was a...</Summary>
+            <Page pagenum="77"/>
+            <Article refid="page078.article001"/>
+        </TocEntry>
+        <TocEntry title="THE NORMAN INVASION">
+            <Summary>The world has long since finished having its Norman Mailer conversation, but few writers in their...</Summary>
+            <Page pagenum="91"/>
+            <Article refid="page092.article001"/>
+        </TocEntry>
+        <TocEntry title="HEAD COUNT">
+            <Summary>On May 12, 1907, toward the end of the annual meeting of the German Bunsen Society, which was held...</Summary>
+            <Page pagenum="101"/>
+            <Article refid="page102.article001"/>
+        </TocEntry>
+        <TocEntry title="THE NEW CURIOSITY SHOP">
+            <Summary>Like the rest of us, Donna Tartt ages; but her fiction is going the other way. Her new novel, “The...</Summary>
+            <Page pagenum="105"/>
+            <Article refid="page106.article001"/>
+        </TocEntry>
+        <TocEntry title="BRIEFLY NOTED">
+            <Summary>BRIDGET JONES: MAD ABOUT THE BOY, by Helen Fielding (Knopf). In the weeks leading up to this...</Summary>
+            <Page pagenum="107"/>
+            <Article refid="page108.article001"/>
+        </TocEntry>
+        <TocEntry title="ROYALTIES">
+            <Summary>The New Zealand singer Ella Yelich-O’Connor’s first show in the U.S. was in August, at the small...</Summary>
+            <Page pagenum="109"/>
+            <Article refid="page110.article001"/>
+        </TocEntry>
+        <TocEntry title="PLAY TIME">
+            <Summary>The strikingly thoughtful new edition of the venerable Carnegie International, an exhibition...</Summary>
+            <Page pagenum="111"/>
+            <Article refid="page112.article001"/>
+        </TocEntry>
+        <TocEntry title="FIGHTING TO SURVIVE">
+            <Summary>The most striking image in “12 Years a Slave”—a film of many powerful moments and sequences—is of...</Summary>
+            <Page pagenum="113"/>
+            <Article refid="page114.article001"/>
+        </TocEntry>
+    </TOC>
+</ReplicaMap>

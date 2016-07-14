@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+<head>
+<meta name="dtb:uid" content="9780802779243" />
+<meta name="dtb:depth" content="1" />
+<meta name="dtb:totalPageCount" content="208" />
+<meta name="dtb:maxPageNumber" content="0" />
+</head>
+<docTitle>
+<text>Dreaming in Chinese</text>
+</docTitle>
+<navMap>
+<navPoint id="navpoint-1" playOrder="1">
+<navLabel>
+<text>Cover</text>
+</navLabel>
+<content src="cover.html" />
+</navPoint>
+<navPoint id="navpoint-2" playOrder="2">
+<navLabel>
+<text>Epigraph</text>
+</navLabel>
+<content src="fm1.html#fm1" />
+</navPoint>
+<navPoint id="navpoint-4" playOrder="3">
+<navLabel>
+<text>Title Page</text>
+</navLabel>
+<content src="fm3.html#fm3" />
+</navPoint>
+<navPoint id="navpoint-6" playOrder="5">
+<navLabel>
+<text>Dedication</text>
+</navLabel>
+<content src="fm5.html#fm5" />
+</navPoint>
+<navPoint id="navpoint-7" playOrder="6">
+<navLabel>
+<text>Contents</text>
+</navLabel>
+<content src="fm6.html#fm6" />
+</navPoint>
+<navPoint id="navpoint-8" playOrder="7">
+<navLabel>
+<text>Introduction</text>
+</navLabel>
+<content src="intro.html#intro" />
+</navPoint>
+<navPoint id="navpoint-9" playOrder="8">
+<navLabel>
+<text>1. The grammar of romance</text>
+</navLabel>
+<content src="chapter1.html#chapter1" />
+</navPoint>
+<navPoint id="navpoint-10" playOrder="9">
+<navLabel>
+<text>2. When rude is polite</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#chapter2_nook_isaSample_9" />
+</navPoint>
+<navPoint id="navpoint-11" playOrder="10">
+<navLabel>
+<text>3. Language play as a national sport</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#chapter3_nook_isaSample_10" />
+</navPoint>
+<navPoint id="navpoint-12" playOrder="11">
+<navLabel>
+<text>4. Why the Chinese hear tones, and we don&#x2019;t</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#chapter4_nook_isaSample_11" />
+</navPoint>
+<navPoint id="navpoint-13" playOrder="12">
+<navLabel>
+<text>5. China&#x2019;s Ordinary Joe</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#chapter5_nook_isaSample_12" />
+</navPoint>
+<navPoint id="navpoint-14" playOrder="13">
+<navLabel>
+<text>6. A brief introduction to Chinese names</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#chapter6_nook_isaSample_13" />
+</navPoint>
+<navPoint id="navpoint-15" playOrder="14">
+<navLabel>
+<text>7. Finding your way in China&#x2014;the semantics of time and place</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#chapter7_nook_isaSample_14" />
+</navPoint>
+<navPoint id="navpoint-16" playOrder="15">
+<navLabel>
+<text>8. Disappearing pronouns and the sense of self</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#chapter8_nook_isaSample_15" />
+</navPoint>
+<navPoint id="navpoint-17" playOrder="16">
+<navLabel>
+<text>9. Think like the Chinese think</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#chapter9_nook_isaSample_16" />
+</navPoint>
+<navPoint id="navpoint-18" playOrder="17">
+<navLabel>
+<text>10. A billion people; countless dialects</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#chapter10_nook_isaSample_17" />
+</navPoint>
+<navPoint id="navpoint-19" playOrder="18">
+<navLabel>
+<text>11. The essence of being Chinese</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#chapter11_nook_isaSample_18" />
+</navPoint>
+<navPoint id="navpoint-20" playOrder="19">
+<navLabel>
+<text>12. Rules to follow and rules to break</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#chapter12_nook_isaSample_19" />
+</navPoint>
+<navPoint id="navpoint-21" playOrder="20">
+<navLabel>
+<text>13. Out of calamity, tenderness</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#chapter13_nook_isaSample_20" />
+</navPoint>
+<navPoint id="navpoint-22" playOrder="21">
+<navLabel>
+<text>14. A little goes a long way</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#chapter14_nook_isaSample_21" />
+</navPoint>
+<navPoint id="navpoint-23" playOrder="22">
+<navLabel>
+<text>Pronunciation guide</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#bm1_nook_isaSample_22" />
+</navPoint>
+<navPoint id="navpoint-24" playOrder="23">
+<navLabel>
+<text>Acknowledgements</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#bm2_nook_isaSample_23" />
+</navPoint>
+<navPoint id="navpoint-25" playOrder="24">
+<navLabel>
+<text>A Note on the Author</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#bm3_nook_isaSample_24" />
+</navPoint>
+<navPoint id="navpoint-5" playOrder="4">
+<navLabel>
+<text>eCopyright</text>
+</navLabel>
+<content src="..%2Fnook%2FisaSample.xhtml#fm4_nook_isaSample_4" />
+</navPoint>
+</navMap>
+</ncx>

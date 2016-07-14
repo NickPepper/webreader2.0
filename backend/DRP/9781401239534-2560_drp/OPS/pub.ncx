@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+    <head>
+        <meta content="nyt/nyt/nyt/20080927/sat_met/674989" name="dtb:uid"/>
+        <meta content="2" name="dtb:depth"/>
+        <meta content="0" name="dtb:totalPageCount"/>
+        <meta content="0" name="dtb:maxPageNumber"/>
+    </head>
+    <docTitle>
+        <text>Wonder Woman: Odyssey Volume 1</text>
+    </docTitle>
+    <docAuthor>
+        <text>Michael J. Straczynski, Don Kramer</text>
+    </docAuthor>
+    <navMap>
+        <navPoint class="introduction" id="cover.xml" playOrder="1">
+            <navLabel>
+                <text>Cover</text>
+            </navLabel>
+            <content src="cover.xml"/>
+        </navPoint>
+    </navMap>
+</ncx>

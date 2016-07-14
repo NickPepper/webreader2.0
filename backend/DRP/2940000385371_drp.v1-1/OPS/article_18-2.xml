@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns:saxon="http://saxon.sf.net/" xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:nitf="http://www.nytimes.com/applicationdata/xml/nitf-3-3.dtd">
+   <head>
+      <title>Swarf</title>
+      <link rel="stylesheet" href="css/TablesAndFloats.css" type="text/css"/>
+   </head>
+   <body>
+      <div id="header_navbar" class="articleMenuWrapper">
+         <span id="header_navbar_previous" class="sectionMenuLeft">
+            <a href="article_15-1.xml">Previous Article</a>
+         </span>
+         <span id="header_navbar_next" class="sectionMenuRight">
+            <a href="article_22-2.xml">Next Article</a>
+         </span>
+      </div>
+      <div class="clean"/>
+      <div id="header" class="masthead">
+         <div class="masthead-text">
+            <div id="header_title" class="masthead-section">
+               <a href="section_2.xml">Books &#x0026; the Arts</a>
+            </div>
+         </div>
+      </div>
+      <h2 id="headline" class="article-full-headline">Swarf</h2>
+      <p id="byline" class="article-full-byline">ERICA FUNKHOUSER</p>
+      <div>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">If you have seen</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">the fine metallic filings</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">flying onto the fellow</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">who crimps copper</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">into flashing and fashions</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">pivot hinges from brass,</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">you have seen it.</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">This is not the late</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">Bronze Age.</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">There are no palace</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">economies, only</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">the economy of one man</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">milling metal to earn</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">the flimsy dollars</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">that keep him fed.</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">When you knock on his door</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">he quiets the grindstone</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">raises his polycarbonate visor</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">and greets you swathed</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">in a swarm of gold—</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">not war gold or altar gold</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">but the metalsmith’s</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">hard-won residue:</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">swarf.</p>
+         <div id="footer_navbar" class="sectionMenuWrapper">
+            <span id="footer_navbar_previous" class="sectionMenuLeft">
+               <a href="article_15-1.xml">Previous Article</a>
+            </span>
+            <span id="footer_navbar_next" class="sectionMenuRight">
+               <a href="article_22-2.xml">Next Article</a>
+            </span>
+         </div>
+      </div>
+   </body>
+</html>

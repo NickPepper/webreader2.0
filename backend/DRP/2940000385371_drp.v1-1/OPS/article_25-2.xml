@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns:saxon="http://saxon.sf.net/" xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:nitf="http://www.nytimes.com/applicationdata/xml/nitf-3-3.dtd">
+   <head>
+      <title>Hordes of trees with unpronounceable names poured down on our suburb</title>
+      <link rel="stylesheet" href="css/TablesAndFloats.css" type="text/css"/>
+   </head>
+   <body>
+      <div id="header_navbar" class="articleMenuWrapper">
+         <span id="header_navbar_previous" class="sectionMenuLeft">
+            <a href="article_23-2.xml">Previous Article</a>
+         </span>
+         <span id="header_navbar_next" class="sectionMenuRight">
+            <a href="article_27-2.xml">Next Article</a>
+         </span>
+      </div>
+      <div class="clean"/>
+      <div id="header" class="masthead">
+         <div class="masthead-text">
+            <div id="header_title" class="masthead-section">
+               <a href="section_2.xml">Books &#x0026; the Arts</a>
+            </div>
+         </div>
+      </div>
+      <h2 id="headline" class="article-full-headline">Hordes of trees with unpronounceable names poured down on our suburb</h2>
+      <p id="byline" class="article-full-byline">V&#xc9;NUS KHOURY-GHATA</p>
+      <div>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">As the seasons waned</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">Collided with our own trees grown grassy with meditation</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">Club-footed humilis draped in a coat borrowed from the wolf</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">Quercus with its tympanums pierced by vindictive birds</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">Oleaster black with the secretions of cemeteries</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">We would wait for them with sticks, hatchets and bark-eating dogs</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">Our widows pursued them howling</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">The moon dumped its overload of stones and sparks on them</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">They left without having parted the love-furrow of a single rose</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">Without having touched the downy neck of a single honeysuckle</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">Or showed their wounded knees to the healing beech tree</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">They retreated to the river where they emptied their pockets full of beetles</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">That they had intended for us</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">We witnessed their rout through the town’s interstices</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">From shafts of light kept for heat waves</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">Hairy</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">Disheveled</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">And their sooty souls left traces on our laundry</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">The mother’s heart went out to plebian trees</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">To the elm that holds dreams back at hell’s gate</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">To the golden-eyed arbutus</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">Their photos on our walls replaced those of ancestors gone to graze on the mountains</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">Of a brother who died for having written a book with the words of the pomegranate</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">tree that splashed the doorstep with blood</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">(Translated from the French by Marilyn Hacker)</p>
+         <div id="footer_navbar" class="sectionMenuWrapper">
+            <span id="footer_navbar_previous" class="sectionMenuLeft">
+               <a href="article_23-2.xml">Previous Article</a>
+            </span>
+            <span id="footer_navbar_next" class="sectionMenuRight">
+               <a href="article_27-2.xml">Next Article</a>
+            </span>
+         </div>
+      </div>
+   </body>
+</html>

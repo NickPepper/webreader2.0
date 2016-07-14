@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="9781414306582" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text />
+  </docTitle>
+  <navMap>
+    <navPoint id="qvl_00" playOrder="1">
+      <navLabel>
+        <text>Quick Verse Lookup</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_1" />
+    </navPoint>
+    <navPoint id="cover_page" playOrder="2">
+      <navLabel>
+        <text>Cover Image</text>
+      </navLabel>
+      <content src="cover_page.html" />
+    </navPoint>
+    <navPoint id="title_page" playOrder="3">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src="title_page.html" />
+    </navPoint>
+    <navPoint id="copyright" playOrder="4">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="copyright.html" />
+    </navPoint>
+    <navPoint id="toc" playOrder="5">
+      <navLabel>
+        <text>Contents</text>
+      </navLabel>
+      <content src="toc.html" />
+    </navPoint>
+    <navPoint id="alphabetical" playOrder="6">
+      <navLabel>
+        <text>Bible Books in Alphabetical Order</text>
+      </navLabel>
+      <content src="alphabetical.html" />
+    </navPoint>
+    <navPoint id="x00tbvf" playOrder="7">
+      <navLabel>
+        <text>Tyndale Bible Verse Finder</text>
+      </navLabel>
+      <content src="x00tbvf.html" />
+    </navPoint>
+    <navPoint id="NLT13-NoteToReaders" playOrder="8">
+      <navLabel>
+        <text>A Note to Readers</text>
+      </navLabel>
+      <content src="NLT13-NoteToReaders.html" />
+    </navPoint>
+    <navPoint id="NLT13-Introduction" playOrder="9">
+      <navLabel>
+        <text>Introduction to the New Living Translation</text>
+      </navLabel>
+      <content src="NLT13-Introduction.html" />
+    </navPoint>
+    <navPoint id="NLT13-TranslationTeam" playOrder="10">
+      <navLabel>
+        <text>Bible Translation Team</text>
+      </navLabel>
+      <content src="NLT13-TranslationTeam.html" />
+    </navPoint>
+    <navPoint id="how_to_use" playOrder="11">
+      <navLabel>
+        <text>How to Use This E-book</text>
+      </navLabel>
+      <content src="how_to_use.html" />
+    </navPoint>
+    <navPoint id="old_testament" playOrder="12">
+      <navLabel>
+        <text>The Old Testament</text>
+      </navLabel>
+      <content src="old_testament.html" />
+    </navPoint>
+    <navPoint id="x1genesis" playOrder="13">
+      <navLabel>
+        <text>Genesis</text>
+      </navLabel>
+      <content src="x1genesis.html" />
+    </navPoint>
+    <navPoint id="x2exodus" playOrder="14">
+      <navLabel>
+        <text>Exodus</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_14" />
+    </navPoint>
+    <navPoint id="x3leviticus" playOrder="15">
+      <navLabel>
+        <text>Leviticus</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_15" />
+    </navPoint>
+    <navPoint id="x4numbers" playOrder="16">
+      <navLabel>
+        <text>Numbers</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_16" />
+    </navPoint>
+    <navPoint id="x5deuteronomy" playOrder="17">
+      <navLabel>
+        <text>Deuteronomy</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_17" />
+    </navPoint>
+    <navPoint id="x6joshua" playOrder="18">
+      <navLabel>
+        <text>Joshua</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_18" />
+    </navPoint>
+    <navPoint id="x7judges" playOrder="19">
+      <navLabel>
+        <text>Judges</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_19" />
+    </navPoint>
+    <navPoint id="x8ruth" playOrder="20">
+      <navLabel>
+        <text>Ruth</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_20" />
+    </navPoint>
+    <navPoint id="x91samuel" playOrder="21">
+      <navLabel>
+        <text>1 Samuel</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_21" />
+    </navPoint>
+    <navPoint id="x102samuel" playOrder="22">
+      <navLabel>
+        <text>2 Samuel</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_22" />
+    </navPoint>
+    <navPoint id="x111kings" playOrder="23">
+      <navLabel>
+        <text>1 Kings</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_23" />
+    </navPoint>
+    <navPoint id="x122kings" playOrder="24">
+      <navLabel>
+        <text>2 Kings</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_24" />
+    </navPoint>
+    <navPoint id="x131chronicles" playOrder="25">
+      <navLabel>
+        <text>1 Chronicles</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_25" />
+    </navPoint>
+    <navPoint id="x142chronicles" playOrder="26">
+      <navLabel>
+        <text>2 Chronicles</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_26" />
+    </navPoint>
+    <navPoint id="x15ezra" playOrder="27">
+      <navLabel>
+        <text>Ezra</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_27" />
+    </navPoint>
+    <navPoint id="x16nehemiah" playOrder="28">
+      <navLabel>
+        <text>Nehemiah</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_28" />
+    </navPoint>
+    <navPoint id="x17esther" playOrder="29">
+      <navLabel>
+        <text>Esther</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_29" />
+    </navPoint>
+    <navPoint id="x18job" playOrder="30">
+      <navLabel>
+        <text>Job</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_30" />
+    </navPoint>
+    <navPoint id="x19psalms" playOrder="31">
+      <navLabel>
+        <text>Psalms</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_31" />
+    </navPoint>
+    <navPoint id="x20proverbs" playOrder="32">
+      <navLabel>
+        <text>Proverbs</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_32" />
+    </navPoint>
+    <navPoint id="x21ecclesiastes" playOrder="33">
+      <navLabel>
+        <text>Ecclesiastes</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_33" />
+    </navPoint>
+    <navPoint id="x22songofsongs" playOrder="34">
+      <navLabel>
+        <text>Song of Songs</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_34" />
+    </navPoint>
+    <navPoint id="x23isaiah" playOrder="35">
+      <navLabel>
+        <text>Isaiah</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_35" />
+    </navPoint>
+    <navPoint id="x24jeremiah" playOrder="36">
+      <navLabel>
+        <text>Jeremiah</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_36" />
+    </navPoint>
+    <navPoint id="x25lamentations" playOrder="37">
+      <navLabel>
+        <text>Lamentations</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_37" />
+    </navPoint>
+    <navPoint id="x26ezekiel" playOrder="38">
+      <navLabel>
+        <text>Ezekiel</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_38" />
+    </navPoint>
+    <navPoint id="x27daniel" playOrder="39">
+      <navLabel>
+        <text>Daniel</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_39" />
+    </navPoint>
+    <navPoint id="x28hosea" playOrder="40">
+      <navLabel>
+        <text>Hosea</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_40" />
+    </navPoint>
+    <navPoint id="x29joel" playOrder="41">
+      <navLabel>
+        <text>Joel</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_41" />
+    </navPoint>
+    <navPoint id="x30amos" playOrder="42">
+      <navLabel>
+        <text>Amos</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_42" />
+    </navPoint>
+    <navPoint id="x31obadiah" playOrder="43">
+      <navLabel>
+        <text>Obadiah</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_43" />
+    </navPoint>
+    <navPoint id="x32jonah" playOrder="44">
+      <navLabel>
+        <text>Jonah</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_44" />
+    </navPoint>
+    <navPoint id="x33micah" playOrder="45">
+      <navLabel>
+        <text>Micah</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_45" />
+    </navPoint>
+    <navPoint id="x34nahum" playOrder="46">
+      <navLabel>
+        <text>Nahum</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_46" />
+    </navPoint>
+    <navPoint id="x35habakkuk" playOrder="47">
+      <navLabel>
+        <text>Habakkuk</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_47" />
+    </navPoint>
+    <navPoint id="x36zephaniah" playOrder="48">
+      <navLabel>
+        <text>Zephaniah</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_48" />
+    </navPoint>
+    <navPoint id="x37haggai" playOrder="49">
+      <navLabel>
+        <text>Haggai</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_49" />
+    </navPoint>
+    <navPoint id="x38zechariah" playOrder="50">
+      <navLabel>
+        <text>Zechariah</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_50" />
+    </navPoint>
+    <navPoint id="x39malachi" playOrder="51">
+      <navLabel>
+        <text>Malachi</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_51" />
+    </navPoint>
+    <navPoint id="x40matthew" playOrder="52">
+      <navLabel>
+        <text>Matthew</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_52" />
+    </navPoint>
+    <navPoint id="x41mark" playOrder="53">
+      <navLabel>
+        <text>Mark</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_53" />
+    </navPoint>
+    <navPoint id="x42luke" playOrder="54">
+      <navLabel>
+        <text>Luke</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_54" />
+    </navPoint>
+    <navPoint id="x43john" playOrder="55">
+      <navLabel>
+        <text>John</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_55" />
+    </navPoint>
+    <navPoint id="x44acts" playOrder="56">
+      <navLabel>
+        <text>Acts of the Apostles</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_56" />
+    </navPoint>
+    <navPoint id="x45romans" playOrder="57">
+      <navLabel>
+        <text>Romans</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_57" />
+    </navPoint>
+    <navPoint id="x461corinthians" playOrder="58">
+      <navLabel>
+        <text>1 Corinthians</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_58" />
+    </navPoint>
+    <navPoint id="x472corinthians" playOrder="59">
+      <navLabel>
+        <text>2 Corinthians</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_59" />
+    </navPoint>
+    <navPoint id="x48galatians" playOrder="60">
+      <navLabel>
+        <text>Galatians</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_60" />
+    </navPoint>
+    <navPoint id="x49ephesians" playOrder="61">
+      <navLabel>
+        <text>Ephesians</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_61" />
+    </navPoint>
+    <navPoint id="x50philippians" playOrder="62">
+      <navLabel>
+        <text>Philippians</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_62" />
+    </navPoint>
+    <navPoint id="x51colossians" playOrder="63">
+      <navLabel>
+        <text>Colossians</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_63" />
+    </navPoint>
+    <navPoint id="x521thessalonians" playOrder="64">
+      <navLabel>
+        <text>1 Thessalonians</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_64" />
+    </navPoint>
+    <navPoint id="x532thessalonians" playOrder="65">
+      <navLabel>
+        <text>2 Thessalonians</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_65" />
+    </navPoint>
+    <navPoint id="x541timothy" playOrder="66">
+      <navLabel>
+        <text>1 Timothy</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_66" />
+    </navPoint>
+    <navPoint id="x552timothy" playOrder="67">
+      <navLabel>
+        <text>2 Timothy</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_67" />
+    </navPoint>
+    <navPoint id="x56titus" playOrder="68">
+      <navLabel>
+        <text>Titus</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_68" />
+    </navPoint>
+    <navPoint id="x57philemon" playOrder="69">
+      <navLabel>
+        <text>Philemon</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_69" />
+    </navPoint>
+    <navPoint id="x58hebrews" playOrder="70">
+      <navLabel>
+        <text>Hebrews</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_70" />
+    </navPoint>
+    <navPoint id="x59james" playOrder="71">
+      <navLabel>
+        <text>James</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_71" />
+    </navPoint>
+    <navPoint id="x601peter" playOrder="72">
+      <navLabel>
+        <text>1 Peter</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_72" />
+    </navPoint>
+    <navPoint id="x612peter" playOrder="73">
+      <navLabel>
+        <text>2 Peter</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_73" />
+    </navPoint>
+    <navPoint id="x621john" playOrder="74">
+      <navLabel>
+        <text>1 John</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_74" />
+    </navPoint>
+    <navPoint id="x632john" playOrder="75">
+      <navLabel>
+        <text>2 John</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_75" />
+    </navPoint>
+    <navPoint id="x643john" playOrder="76">
+      <navLabel>
+        <text>3 John</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_76" />
+    </navPoint>
+    <navPoint id="x65jude" playOrder="77">
+      <navLabel>
+        <text>Jude</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_77" />
+    </navPoint>
+    <navPoint id="x66revelation" playOrder="78">
+      <navLabel>
+        <text>Revelation</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_78" />
+    </navPoint>
+    <navPoint id="maps" playOrder="79">
+      <navLabel>
+        <text>Maps</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_79" />
+    </navPoint>
+    <navPoint id="notes_1" playOrder="80">
+      <navLabel>
+        <text>Notes</text>
+      </navLabel>
+      <content src="..%2Fnook%2FisaSample.xhtml#_nook_isaSample_80" />
+    </navPoint>
+  </navMap>
+</ncx>

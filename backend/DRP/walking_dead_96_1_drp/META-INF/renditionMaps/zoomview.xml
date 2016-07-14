@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map xmlns="http://www.bn.com/schemas/BNFF" mapID="guidedView" source-full-path="/OPS/pages.opf">
+  <targetMaps/>
+  <threads>
+    <thread>
+      <view sourceID="BN_DRP_PAGE_1" index="0">
+        <rect x="0.0" y="0.0" width="1.0" height="1.0"/>
+      </view>
+    </thread>
+    <thread>
+      <view sourceID="BN_DRP_PAGE_2" index="0">
+        <rect x="0.0" y="0.0" width="1.0" height="1.0"/>
+      </view>
+    </thread>
+    <thread>
+      <view sourceID="BN_DRP_PAGE_3" index="0">
+        <rect x="0.02081165452653486" y="0.024" width="0.9505723204994797" height="0.238"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_3" index="1">
+        <rect x="0.02809573361082206" y="0.277" width="0.9432882414151925" height="0.23033333333333333"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_3" index="2">
+        <rect x="0.02809573361082206" y="0.515" width="0.9479708636836629" height="0.22266666666666668"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_3" index="3">
+        <rect x="0.02809573361082206" y="0.7466666666666667" width="0.945369406867846" height="0.21966666666666668"/>
+      </view>
+    </thread>
+    <thread>
+      <view sourceID="BN_DRP_PAGE_4" index="0">
+        <rect x="0.030176899063475548" y="0.034333333333333334" width="0.9479708636836629" height="0.23166666666666666"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_4" index="1">
+        <rect x="0.025494276795005204" y="0.2723333333333333" width="0.9552549427679501" height="0.6986666666666667"/>
+      </view>
+    </thread>
+    <thread>
+      <view sourceID="BN_DRP_PAGE_5" index="0">
+        <rect x="0.018730489073881373" y="0.022333333333333334" width="0.9646201873048907" height="0.3453333333333333"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_5" index="1">
+        <rect x="0.016129032258064516" y="0.36333333333333334" width="0.9526534859521332" height="0.30466666666666664"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_5" index="2">
+        <rect x="0.02081165452653486" y="0.6696666666666666" width="0.9505723204994797" height="0.297"/>
+      </view>
+    </thread>
+    <thread>
+      <view sourceID="BN_DRP_PAGE_6" index="0">
+        <rect x="0.02809573361082206" y="0.033" width="0.9479708636836629" height="0.18066666666666667"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_6" index="1">
+        <rect x="0.018730489073881373" y="0.214" width="0.9573361082206036" height="0.23966666666666667"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_6" index="2">
+        <rect x="0.023413111342351717" y="0.45366666666666666" width="0.9526534859521332" height="0.199"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_6" index="3">
+        <rect x="0.02809573361082206" y="0.664" width="0.9526534859521332" height="0.30866666666666664"/>
+      </view>
+    </thread>
+    <thread>
+      <view sourceID="BN_DRP_PAGE_7" index="0">
+        <rect x="0.032778355879292405" y="0.03766666666666667" width="0.931321540062435" height="0.19"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_7" index="1">
+        <rect x="0.02809573361082206" y="0.24366666666666667" width="0.9526534859521332" height="0.31466666666666665"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_7" index="2">
+        <rect x="0.025494276795005204" y="0.5563333333333333" width="0.9479708636836629" height="0.41"/>
+      </view>
+    </thread>
+    <thread>
+      <view sourceID="BN_DRP_PAGE_8" index="0">
+        <rect x="0.025494276795005204" y="0.028333333333333332" width="0.9505723204994797" height="0.6"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_8" index="1">
+        <rect x="0.03485952133194589" y="0.6353333333333333" width="0.9406867845993756" height="0.3343333333333333"/>
+      </view>
+    </thread>
+    <thread>
+      <view sourceID="BN_DRP_PAGE_9" index="0">
+        <rect x="0.030176899063475548" y="0.036" width="0.9479708636836629" height="0.26033333333333336"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_9" index="1">
+        <rect x="0.02081165452653486" y="0.294" width="0.9646201873048907" height="0.3333333333333333"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_9" index="2">
+        <rect x="0.016129032258064516" y="0.6316666666666667" width="0.9667013527575442" height="0.3393333333333333"/>
+      </view>
+    </thread>
+    <thread>
+      <view sourceID="BN_DRP_PAGE_10" index="0">
+        <rect x="0.032778355879292405" y="0.036" width="0.9360041623309053" height="0.23066666666666666"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_10" index="1">
+        <rect x="0.030176899063475548" y="0.2803333333333333" width="0.9432882414151925" height="0.146"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_10" index="2">
+        <rect x="0.025494276795005204" y="0.43133333333333335" width="0.9526534859521332" height="0.238"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_10" index="3">
+        <rect x="0.030176899063475548" y="0.685" width="0.9693028095733611" height="0.28733333333333333"/>
+      </view>
+    </thread>
+    <thread>
+      <view sourceID="BN_DRP_PAGE_11" index="0">
+        <rect x="0.02809573361082206" y="0.03166666666666667" width="0.9479708636836629" height="0.2833333333333333"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_11" index="1">
+        <rect x="0.025494276795005204" y="0.318" width="0.9479708636836629" height="0.217"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_11" index="2">
+        <rect x="0.032778355879292405" y="0.545" width="0.9479708636836629" height="0.19266666666666668"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_11" index="3">
+        <rect x="0.03485952133194589" y="0.745" width="0.9386056191467221" height="0.217"/>
+      </view>
+    </thread>
+    <thread>
+      <view sourceID="BN_DRP_PAGE_12" index="0">
+        <rect x="0.032778355879292405" y="0.036" width="0.9432882414151925" height="0.15633333333333332"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_12" index="1">
+        <rect x="0.02809573361082206" y="0.19866666666666666" width="0.9479708636836629" height="0.22266666666666668"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_12" index="2">
+        <rect x="0.023413111342351717" y="0.419" width="0.9599375650364204" height="0.31066666666666665"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_12" index="3">
+        <rect x="0.01404786680541103" y="0.7283333333333334" width="0.9620187304890739" height="0.24566666666666667"/>
+      </view>
+    </thread>
+    <thread>
+      <view sourceID="BN_DRP_PAGE_13" index="0">
+        <rect x="0.03485952133194589" y="0.034333333333333334" width="0.9526534859521332" height="0.197"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_13" index="1">
+        <rect x="0.023413111342351717" y="0.22766666666666666" width="0.9505723204994797" height="0.279"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_13" index="2">
+        <rect x="0.02809573361082206" y="0.5193333333333333" width="0.9552549427679501" height="0.179"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_13" index="3">
+        <rect x="0.02081165452653486" y="0.7026666666666667" width="0.9479708636836629" height="0.2683333333333333"/>
+      </view>
+    </thread>
+    <thread>
+      <view sourceID="BN_DRP_PAGE_14" index="0">
+        <rect x="0.030176899063475548" y="0.033" width="0.9479708636836629" height="0.17"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_14" index="1">
+        <rect x="0.032778355879292405" y="0.20766666666666667" width="0.945369406867846" height="0.3596666666666667"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_14" index="2">
+        <rect x="0.023413111342351717" y="0.567" width="0.9479708636836629" height="0.16266666666666665"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_14" index="3">
+        <rect x="0.03485952133194589" y="0.7376666666666667" width="0.9406867845993756" height="0.23033333333333333"/>
+      </view>
+    </thread>
+    <thread>
+      <view sourceID="BN_DRP_PAGE_15" index="0">
+        <rect x="0.01404786680541103" y="0.03166666666666667" width="0.9573361082206036" height="0.4493333333333333"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_15" index="1">
+        <rect x="0.02809573361082206" y="0.49233333333333335" width="0.945369406867846" height="0.20933333333333334"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_15" index="2">
+        <rect x="0.02809573361082206" y="0.706" width="0.9432882414151925" height="0.2633333333333333"/>
+      </view>
+    </thread>
+    <thread>
+      <view sourceID="BN_DRP_PAGE_16" index="0">
+        <rect x="0.03954214360041623" y="0.039" width="0.9432882414151925" height="0.3403333333333333"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_16" index="1">
+        <rect x="0.02081165452653486" y="0.37233333333333335" width="0.9505723204994797" height="0.324"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_16" index="2">
+        <rect x="0.02809573361082206" y="0.6966666666666667" width="0.9505723204994797" height="0.2743333333333333"/>
+      </view>
+    </thread>
+    <thread>
+      <view sourceID="BN_DRP_PAGE_17" index="0">
+        <rect x="0.02081165452653486" y="0.024" width="0.9573361082206036" height="0.2743333333333333"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_17" index="1">
+        <rect x="0.01404786680541103" y="0.294" width="0.9646201873048907" height="0.199"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_17" index="2">
+        <rect x="0.025494276795005204" y="0.5" width="0.9620187304890739" height="0.20166666666666666"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_17" index="3">
+        <rect x="0.011446409989594173" y="0.6966666666666667" width="0.9667013527575442" height="0.279"/>
+      </view>
+    </thread>
+    <thread>
+      <view sourceID="BN_DRP_PAGE_18" index="0">
+        <rect x="0.030176899063475548" y="0.033" width="0.9526534859521332" height="0.2633333333333333"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_18" index="1">
+        <rect x="0.02081165452653486" y="0.288" width="0.9406867845993756" height="0.23666666666666666"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_18" index="2">
+        <rect x="0.018730489073881373" y="0.5323333333333333" width="0.9599375650364204" height="0.25933333333333336"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_18" index="3">
+        <rect x="0.02809573361082206" y="0.7976666666666666" width="0.945369406867846" height="0.17033333333333334"/>
+      </view>
+    </thread>
+    <thread>
+      <view sourceID="BN_DRP_PAGE_19" index="0">
+        <rect x="0.016129032258064516" y="0.027" width="0.9526534859521332" height="0.466"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_19" index="1">
+        <rect x="0.009365244536940686" y="0.49466666666666664" width="0.9599375650364204" height="0.17333333333333334"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_19" index="2">
+        <rect x="0.016129032258064516" y="0.671" width="0.9620187304890739" height="0.30133333333333334"/>
+      </view>
+    </thread>
+    <thread>
+      <view sourceID="BN_DRP_PAGE_20" index="0">
+        <rect x="0.03485952133194589" y="0.03" width="0.9646201873048907" height="0.4623333333333333"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_20" index="1">
+        <rect x="0.0" y="0.0013333333333333333" width="1.0" height="0.9983333333333333"/>
+      </view>
+    </thread>
+    <thread>
+      <view sourceID="BN_DRP_PAGE_21" index="0">
+        <rect x="0.0" y="0.10966666666666666" width="0.5317377731529657" height="0.24533333333333332"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_21" index="1">
+        <rect x="0.0" y="0.0" width="1.0" height="1.0"/>
+      </view>
+    </thread>
+    <thread>
+      <view sourceID="BN_DRP_PAGE_22" index="0">
+        <rect x="0.037460978147762745" y="0.024" width="0.9620187304890739" height="0.265"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_22" index="1">
+        <rect x="0.0" y="0.003" width="1.0" height="0.9966666666666667"/>
+      </view>
+    </thread>
+    <thread>
+      <view sourceID="BN_DRP_PAGE_23" index="0">
+        <rect x="0.0" y="0.048" width="0.9646201873048907" height="0.4653333333333333"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_23" index="1">
+        <rect x="0.0" y="0.0" width="1.0" height="1.0"/>
+      </view>
+    </thread>
+    <thread>
+      <view sourceID="BN_DRP_PAGE_24" index="0">
+        <rect x="0.0" y="0.0" width="0.3267429760665973" height="0.4033333333333333"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_24" index="1">
+        <rect x="0.0" y="0.0" width="1.0" height="1.0"/>
+      </view>
+    </thread>
+    <thread>
+      <view sourceID="BN_DRP_PAGE_25" index="0">
+        <rect x="0.058792924037460975" y="0.0" width="0.8751300728407908" height="0.23633333333333334"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_25" index="1">
+        <rect x="0.037460978147762745" y="0.25" width="0.4656607700312175" height="0.271"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_25" index="2">
+        <rect x="0.04214360041623309" y="0.536" width="0.4630593132154006" height="0.44266666666666665"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_25" index="3">
+        <rect x="0.5078043704474505" y="0.25733333333333336" width="0.46774193548387094" height="0.301"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_25" index="4">
+        <rect x="0.5124869927159209" y="0.56" width="0.4583766909469303" height="0.414"/>
+      </view>
+    </thread>
+    <thread>
+      <view sourceID="BN_DRP_PAGE_26" index="0">
+        <rect x="0.030176899063475548" y="0.024" width="0.48231009365244537" height="0.405"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_26" index="1">
+        <rect x="0.023413111342351717" y="0.43666666666666665" width="0.49375650364203955" height="0.274"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_26" index="2">
+        <rect x="0.023413111342351717" y="0.7196666666666667" width="0.48439125910509884" height="0.268"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_26" index="3">
+        <rect x="0.5124869927159209" y="0.033" width="0.46097814776274715" height="0.131"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_26" index="4">
+        <rect x="0.5104058272632674" y="0.167" width="0.4724245577523413" height="0.4003333333333333"/>
+      </view>
+      <view sourceID="BN_DRP_PAGE_26" index="5">
+        <rect x="0.5031217481789803" y="0.5706666666666667" width="0.4750260145681582" height="0.402"/>
+      </view>
+    </thread>
+    <thread>
+      <view sourceID="BN_DRP_PAGE_27" index="0">
+        <rect x="0.0" y="0.003" width="1.0" height="0.9966666666666667"/>
+      </view>
+    </thread>
+    <thread>
+      <view sourceID="BN_DRP_PAGE_28" index="0">
+        <rect x="0.0" y="0.0" width="1.0" height="1.0"/>
+      </view>
+    </thread>
+    <thread>
+      <view sourceID="BN_DRP_PAGE_29" index="0">
+        <rect x="0.004682622268470343" y="0.0" width="0.9947970863683663" height="1.0"/>
+      </view>
+    </thread>
+    <thread>
+      <view sourceID="BN_DRP_PAGE_30" index="0">
+        <rect x="0.0" y="0.0" width="1.0" height="1.0"/>
+      </view>
+    </thread>
+    <thread>
+      <view sourceID="BN_DRP_PAGE_31" index="0">
+        <rect x="0.004682622268470343" y="0.0" width="0.9947970863683663" height="1.0"/>
+      </view>
+    </thread>
+    <thread>
+      <view sourceID="BN_DRP_PAGE_32" index="0">
+        <rect x="0.0" y="0.0" width="1.0" height="1.0"/>
+      </view>
+    </thread>
+  </threads>
+</map>

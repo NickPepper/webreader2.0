@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Cooking with Paula Deen</title>
+<link href="css/test1.css" rel="stylesheet" type="text/css" />
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    </head>
+<body class="left">
+        <div class="before">
+            <div class="articleMenuWrapper" id="header_navbar">
+                <div class="sectionMenuLeft" id="header_navbar_previous">
+                    <a href="page030.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="header_navbar_next">
+                    <a href="page033.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+            <div class="masthead" id="header">
+                <div class="masthead-text">
+                    <div class="masthead-section" id="header_title">
+                        <a href="section.xml">Contents</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="article-headline" id="Headline">DAY 4</div>
+<div class="article-subhead" id="SubHeadline">Cheesy Manicotti│Quick Italian Salad│Easy Garlic Bread</div>
+
+
+<div class="article-in-image" id="image1"><img src="images/page032.article001.image1.jpg" class="article-in-image" alt=""/></div>
+<div id="separatorLine"> <div class="invisible">empty</div> </div>
+
+<div class="articleImageCredit" id="ImageCredit">PHOTOGRAPHY BY WILLIAM DICKEY</div>
+<div class="article-body" id="Body"><p class="no-indent">Cheesy Mancotti</p><p class="no-indent">Makes 6 servings </p><br/><p class="no-indent">1 (8-ounce) package manicotti </p><p class="no-indent">1 (15-ounce) container ricotta cheese </p><p class="no-indent">1 (10-ounce) package frozen chopped spinach, thawed and squeezed dry </p><p class="no-indent">3 cups shredded mozzarella cheese, divided </p><p class="no-indent">1 cup shredded provolone cheese </p><p class="no-indent">½ cup shredded Parmesan cheese </p><p class="no-indent">2 large eggs</p><p class="no-indent">1 tablespoon dried parsley </p><p class="no-indent">1 teaspoon dried Italian seasoning </p><p class="no-indent">1 (25-ounce) jar tomato and basil pasta sauce </p><br/><p class="no-indent">1. Preheat oven to 350°. Spray a 13x9-inch baking dish with nonstick cooking spray. </p><br/><p class="no-indent">2. Cook manicotti according to package directions; drain and set aside. </p><br/><p class="no-indent">3. In a large bowl, stir together ricotta, spinach, 1½ cups mozzarella cheese, and next 5 ingredients. Spoon cheese mixture into manicotti. Pour half of pasta sauce into prepared pan. Place stuffed manicotti over sauce. Pour remaining sauce over manicotti. Sprinkle with remaining 1½ cups mozzarella cheese. </p><br/><p class="no-indent">4. Bake for 30 to 45 minutes or until hot and bubbly. Serve with Quick Italian Salad and Easy Garlic Bread.</p><br/><p>______________________________</p><br/><p class="no-indent">Quick Italian Salad </p><p class="no-indent">Makes 6 servings </p><br/><p class="no-indent">1 (6-ounce) bag fresh Italian salad mix </p><p class="no-indent">1 cup halved cherry tomatoes </p><p class="no-indent">1 (0.6-ounce) envelope zesty Italian dressing mix </p><p class="no-indent">¼ cup olive oil </p><p class="no-indent">¼ cup balsamic vinegar </p><p class="no-indent">3 tablespoons prepared ranch dressing </p><br/><p class="no-indent">1. In a large bowl, combine salad mix and tomatoes. </p><br/><p class="no-indent">2. In a small bowl, whisk together dressing mix, olive oil, vinegar, and ranch dressing until smooth. Drizzle desired amount dressing over salad. Cover and refrigerate any remaining dressing for up to 2 weeks.</p><br/><p>______________________________</p><br/><p class="no-indent">Easy Garlic Bread </p><p class="no-indent">Makes 6 servings </p><br/><p class="no-indent">¼ cup butter, softened </p><p class="no-indent">2 teaspoons dried parsley </p><p class="no-indent">½ teaspoon garlic powder </p><p class="no-indent">1 (12-ounce) loaf French bread, halved lengthwise </p><br/><p class="no-indent">1. Preheat oven to Broil. Line a rimmed baking sheet with aluminum foil. </p><br/><p class="no-indent">2. In a small bowl, stir together butter, parsley, and garlic powder. Spread mixture over cut sides of bread. </p><br/><p class="no-indent">3. Broil 5 inches from heat until toasted. Slice before serving.</p></div>
+<div class="after">
+            <div class="articleMenuWrapper" id="footer_navbar">
+                <div class="sectionMenuLeft" id="footer_navbar_previous">
+                    <a href="page030.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="footer_navbar_next">
+                    <a href="page033.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+        </div>
+    </body>
+</html>

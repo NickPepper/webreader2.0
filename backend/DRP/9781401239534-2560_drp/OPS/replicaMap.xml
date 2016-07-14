@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReplicaMap xmlns="http://www.hp.com/schemas/imaging/ereader/hff">
+    <Title>Wonder Woman: Odyssey Volume 1</Title>
+    <Pages>
+        <Page file="images/pages/snapshot1.jpg" pageNum="0" thumbFile="images/pages/snapshot1-thumb.jpg"/>
+        <Page file="images/pages/snapshot2.jpg" pageNum="1" thumbFile="images/pages/snapshot2-thumb.jpg"/>
+        <Page file="images/pages/snapshot3.jpg" pageNum="2" thumbFile="images/pages/snapshot3-thumb.jpg"/>
+        <Page file="images/pages/snapshot4.jpg" pageNum="3" thumbFile="images/pages/snapshot4-thumb.jpg"/>
+        <Page file="images/pages/snapshot5.jpg" pageNum="4" thumbFile="images/pages/snapshot5-thumb.jpg"/>
+        <Page file="images/pages/snapshot6.jpg" pageNum="5" thumbFile="images/pages/snapshot6-thumb.jpg"/>
+        <Page file="images/pages/snapshot7.jpg" pageNum="6" thumbFile="images/pages/snapshot7-thumb.jpg"/>
+        <Page file="images/pages/snapshot8.jpg" pageNum="7" thumbFile="images/pages/snapshot8-thumb.jpg"/>
+        <Page file="images/pages/snapshot9.jpg" pageNum="8" thumbFile="images/pages/snapshot9-thumb.jpg"/>
+        <Page file="images/pages/snapshot10.jpg" pageNum="9" thumbFile="images/pages/snapshot10-thumb.jpg"/>
+        <Page file="images/pages/snapshot11.jpg" pageNum="10" thumbFile="images/pages/snapshot11-thumb.jpg"/>
+        <Page file="images/pages/snapshot12.jpg" pageNum="11" thumbFile="images/pages/snapshot12-thumb.jpg"/>
+        <Page file="images/pages/snapshot13.jpg" pageNum="12" thumbFile="images/pages/snapshot13-thumb.jpg"/>
+        <Page file="images/pages/snapshot14.jpg" pageNum="13" thumbFile="images/pages/snapshot14-thumb.jpg"/>
+        <Page file="images/pages/snapshot15.jpg" pageNum="14" thumbFile="images/pages/snapshot15-thumb.jpg"/>
+        <Page file="images/pages/snapshot16.jpg" pageNum="15" thumbFile="images/pages/snapshot16-thumb.jpg"/>
+        <Page file="images/pages/snapshot17.jpg" pageNum="16" thumbFile="images/pages/snapshot17-thumb.jpg"/>
+        <Page file="images/pages/snapshot18.jpg" pageNum="17" thumbFile="images/pages/snapshot18-thumb.jpg"/>
+        <Page file="images/pages/snapshot19.jpg" pageNum="18" thumbFile="images/pages/snapshot19-thumb.jpg"/>
+        <Page file="images/pages/snapshot20.jpg" pageNum="19" thumbFile="images/pages/snapshot20-thumb.jpg"/>
+        <Page file="images/pages/snapshot21.jpg" pageNum="20" thumbFile="images/pages/snapshot21-thumb.jpg"/>
+        <Page file="images/pages/snapshot22.jpg" pageNum="21" thumbFile="images/pages/snapshot22-thumb.jpg"/>
+        <Page file="images/pages/snapshot23.jpg" pageNum="22" thumbFile="images/pages/snapshot23-thumb.jpg"/>
+        <Page file="images/pages/snapshot24.jpg" pageNum="23" thumbFile="images/pages/snapshot24-thumb.jpg"/>
+        <Page file="images/pages/snapshot25.jpg" pageNum="24" thumbFile="images/pages/snapshot25-thumb.jpg"/>
+        <Page file="images/pages/snapshot26.jpg" pageNum="25" thumbFile="images/pages/snapshot26-thumb.jpg"/>
+        <Page file="images/pages/snapshot27.jpg" pageNum="26" thumbFile="images/pages/snapshot27-thumb.jpg"/>
+        <Page file="images/pages/snapshot28.jpg" pageNum="27" thumbFile="images/pages/snapshot28-thumb.jpg"/>
+        <Page file="images/pages/snapshot29.jpg" pageNum="28" thumbFile="images/pages/snapshot29-thumb.jpg"/>
+        <Page file="images/pages/snapshot30.jpg" pageNum="29" thumbFile="images/pages/snapshot30-thumb.jpg"/>
+        <Page file="images/pages/snapshot31.jpg" pageNum="30" thumbFile="images/pages/snapshot31-thumb.jpg"/>
+        <Page file="images/pages/snapshot32.jpg" pageNum="31" thumbFile="images/pages/snapshot32-thumb.jpg"/>
+        <Page file="images/pages/snapshot33.jpg" pageNum="32" thumbFile="images/pages/snapshot33-thumb.jpg"/>
+        <Page file="images/pages/snapshot34.jpg" pageNum="33" thumbFile="images/pages/snapshot34-thumb.jpg"/>
+        <Page file="images/pages/snapshot35.jpg" pageNum="34" thumbFile="images/pages/snapshot35-thumb.jpg"/>
+        <Page file="images/pages/snapshot36.jpg" pageNum="35" thumbFile="images/pages/snapshot36-thumb.jpg"/>
+        <Page file="images/pages/snapshot37.jpg" pageNum="36" thumbFile="images/pages/snapshot37-thumb.jpg"/>
+        <Page file="images/pages/snapshot38.jpg" pageNum="37" thumbFile="images/pages/snapshot38-thumb.jpg"/>
+        <Page file="images/pages/snapshot39.jpg" pageNum="38" thumbFile="images/pages/snapshot39-thumb.jpg"/>
+        <Page file="images/pages/snapshot40.jpg" pageNum="39" thumbFile="images/pages/snapshot40-thumb.jpg"/>
+        <Page file="images/pages/snapshot41.jpg" pageNum="40" thumbFile="images/pages/snapshot41-thumb.jpg"/>
+        <Page file="images/pages/snapshot42.jpg" pageNum="41" thumbFile="images/pages/snapshot42-thumb.jpg"/>
+        <Page file="images/pages/snapshot43.jpg" pageNum="42" thumbFile="images/pages/snapshot43-thumb.jpg"/>
+        <Page file="images/pages/snapshot44.jpg" pageNum="43" thumbFile="images/pages/snapshot44-thumb.jpg"/>
+        <Page file="images/pages/snapshot45.jpg" pageNum="44" thumbFile="images/pages/snapshot45-thumb.jpg"/>
+        <Page file="images/pages/snapshot46.jpg" pageNum="45" thumbFile="images/pages/snapshot46-thumb.jpg"/>
+        <Page file="images/pages/snapshot47.jpg" pageNum="46" thumbFile="images/pages/snapshot47-thumb.jpg"/>
+        <Page file="images/pages/snapshot48.jpg" pageNum="47" thumbFile="images/pages/snapshot48-thumb.jpg"/>
+        <Page file="images/pages/snapshot49.jpg" pageNum="48" thumbFile="images/pages/snapshot49-thumb.jpg"/>
+        <Page file="images/pages/snapshot50.jpg" pageNum="49" thumbFile="images/pages/snapshot50-thumb.jpg"/>
+        <Page file="images/pages/snapshot51.jpg" pageNum="50" thumbFile="images/pages/snapshot51-thumb.jpg"/>
+        <Page file="images/pages/snapshot52.jpg" pageNum="51" thumbFile="images/pages/snapshot52-thumb.jpg"/>
+        <Page file="images/pages/snapshot53.jpg" pageNum="52" thumbFile="images/pages/snapshot53-thumb.jpg"/>
+        <Page file="images/pages/snapshot54.jpg" pageNum="53" thumbFile="images/pages/snapshot54-thumb.jpg"/>
+        <Page file="images/pages/snapshot55.jpg" pageNum="54" thumbFile="images/pages/snapshot55-thumb.jpg"/>
+        <Page file="images/pages/snapshot56.jpg" pageNum="55" thumbFile="images/pages/snapshot56-thumb.jpg"/>
+        <Page file="images/pages/snapshot57.jpg" pageNum="56" thumbFile="images/pages/snapshot57-thumb.jpg"/>
+        <Page file="images/pages/snapshot58.jpg" pageNum="57" thumbFile="images/pages/snapshot58-thumb.jpg"/>
+        <Page file="images/pages/snapshot59.jpg" pageNum="58" thumbFile="images/pages/snapshot59-thumb.jpg"/>
+        <Page file="images/pages/snapshot60.jpg" pageNum="59" thumbFile="images/pages/snapshot60-thumb.jpg"/>
+        <Page file="images/pages/snapshot61.jpg" pageNum="60" thumbFile="images/pages/snapshot61-thumb.jpg"/>
+        <Page file="images/pages/snapshot62.jpg" pageNum="61" thumbFile="images/pages/snapshot62-thumb.jpg"/>
+        <Page file="images/pages/snapshot63.jpg" pageNum="62" thumbFile="images/pages/snapshot63-thumb.jpg"/>
+        <Page file="images/pages/snapshot64.jpg" pageNum="63" thumbFile="images/pages/snapshot64-thumb.jpg"/>
+        <Page file="images/pages/snapshot65.jpg" pageNum="64" thumbFile="images/pages/snapshot65-thumb.jpg"/>
+        <Page file="images/pages/snapshot66.jpg" pageNum="65" thumbFile="images/pages/snapshot66-thumb.jpg"/>
+        <Page file="images/pages/snapshot67.jpg" pageNum="66" thumbFile="images/pages/snapshot67-thumb.jpg"/>
+        <Page file="images/pages/snapshot68.jpg" pageNum="67" thumbFile="images/pages/snapshot68-thumb.jpg"/>
+        <Page file="images/pages/snapshot69.jpg" pageNum="68" thumbFile="images/pages/snapshot69-thumb.jpg"/>
+        <Page file="images/pages/snapshot70.jpg" pageNum="69" thumbFile="images/pages/snapshot70-thumb.jpg"/>
+        <Page file="images/pages/snapshot71.jpg" pageNum="70" thumbFile="images/pages/snapshot71-thumb.jpg"/>
+        <Page file="images/pages/snapshot72.jpg" pageNum="71" thumbFile="images/pages/snapshot72-thumb.jpg"/>
+        <Page file="images/pages/snapshot73.jpg" pageNum="72" thumbFile="images/pages/snapshot73-thumb.jpg"/>
+        <Page file="images/pages/snapshot74.jpg" pageNum="73" thumbFile="images/pages/snapshot74-thumb.jpg"/>
+        <Page file="images/pages/snapshot75.jpg" pageNum="74" thumbFile="images/pages/snapshot75-thumb.jpg"/>
+        <Page file="images/pages/snapshot76.jpg" pageNum="75" thumbFile="images/pages/snapshot76-thumb.jpg"/>
+        <Page file="images/pages/snapshot77.jpg" pageNum="76" thumbFile="images/pages/snapshot77-thumb.jpg"/>
+        <Page file="images/pages/snapshot78.jpg" pageNum="77" thumbFile="images/pages/snapshot78-thumb.jpg"/>
+        <Page file="images/pages/snapshot79.jpg" pageNum="78" thumbFile="images/pages/snapshot79-thumb.jpg"/>
+        <Page file="images/pages/snapshot80.jpg" pageNum="79" thumbFile="images/pages/snapshot80-thumb.jpg"/>
+        <Page file="images/pages/snapshot81.jpg" pageNum="80" thumbFile="images/pages/snapshot81-thumb.jpg"/>
+        <Page file="images/pages/snapshot82.jpg" pageNum="81" thumbFile="images/pages/snapshot82-thumb.jpg"/>
+        <Page file="images/pages/snapshot83.jpg" pageNum="82" thumbFile="images/pages/snapshot83-thumb.jpg"/>
+        <Page file="images/pages/snapshot84.jpg" pageNum="83" thumbFile="images/pages/snapshot84-thumb.jpg"/>
+        <Page file="images/pages/snapshot85.jpg" pageNum="84" thumbFile="images/pages/snapshot85-thumb.jpg"/>
+        <Page file="images/pages/snapshot86.jpg" pageNum="85" thumbFile="images/pages/snapshot86-thumb.jpg"/>
+        <Page file="images/pages/snapshot87.jpg" pageNum="86" thumbFile="images/pages/snapshot87-thumb.jpg"/>
+        <Page file="images/pages/snapshot88.jpg" pageNum="87" thumbFile="images/pages/snapshot88-thumb.jpg"/>
+        <Page file="images/pages/snapshot89.jpg" pageNum="88" thumbFile="images/pages/snapshot89-thumb.jpg"/>
+        <Page file="images/pages/snapshot90.jpg" pageNum="89" thumbFile="images/pages/snapshot90-thumb.jpg"/>
+        <Page file="images/pages/snapshot91.jpg" pageNum="90" thumbFile="images/pages/snapshot91-thumb.jpg"/>
+        <Page file="images/pages/snapshot92.jpg" pageNum="91" thumbFile="images/pages/snapshot92-thumb.jpg"/>
+        <Page file="images/pages/snapshot93.jpg" pageNum="92" thumbFile="images/pages/snapshot93-thumb.jpg"/>
+        <Page file="images/pages/snapshot94.jpg" pageNum="93" thumbFile="images/pages/snapshot94-thumb.jpg"/>
+        <Page file="images/pages/snapshot95.jpg" pageNum="94" thumbFile="images/pages/snapshot95-thumb.jpg"/>
+        <Page file="images/pages/snapshot96.jpg" pageNum="95" thumbFile="images/pages/snapshot96-thumb.jpg"/>
+        <Page file="images/pages/snapshot97.jpg" pageNum="96" thumbFile="images/pages/snapshot97-thumb.jpg"/>
+        <Page file="images/pages/snapshot98.jpg" pageNum="97" thumbFile="images/pages/snapshot98-thumb.jpg"/>
+        <Page file="images/pages/snapshot99.jpg" pageNum="98" thumbFile="images/pages/snapshot99-thumb.jpg"/>
+        <Page file="images/pages/snapshot100.jpg" pageNum="99" thumbFile="images/pages/snapshot100-thumb.jpg"/>
+        <Page file="images/pages/snapshot101.jpg" pageNum="100" thumbFile="images/pages/snapshot101-thumb.jpg"/>
+        <Page file="images/pages/snapshot102.jpg" pageNum="101" thumbFile="images/pages/snapshot102-thumb.jpg"/>
+        <Page file="images/pages/snapshot103.jpg" pageNum="102" thumbFile="images/pages/snapshot103-thumb.jpg"/>
+        <Page file="images/pages/snapshot104.jpg" pageNum="103" thumbFile="images/pages/snapshot104-thumb.jpg"/>
+        <Page file="images/pages/snapshot105.jpg" pageNum="104" thumbFile="images/pages/snapshot105-thumb.jpg"/>
+        <Page file="images/pages/snapshot106.jpg" pageNum="105" thumbFile="images/pages/snapshot106-thumb.jpg"/>
+        <Page file="images/pages/snapshot107.jpg" pageNum="106" thumbFile="images/pages/snapshot107-thumb.jpg"/>
+        <Page file="images/pages/snapshot108.jpg" pageNum="107" thumbFile="images/pages/snapshot108-thumb.jpg"/>
+        <Page file="images/pages/snapshot109.jpg" pageNum="108" thumbFile="images/pages/snapshot109-thumb.jpg"/>
+        <Page file="images/pages/snapshot110.jpg" pageNum="109" thumbFile="images/pages/snapshot110-thumb.jpg"/>
+        <Page file="images/pages/snapshot111.jpg" pageNum="110" thumbFile="images/pages/snapshot111-thumb.jpg"/>
+        <Page file="images/pages/snapshot112.jpg" pageNum="111" thumbFile="images/pages/snapshot112-thumb.jpg"/>
+        <Page file="images/pages/snapshot113.jpg" pageNum="112" thumbFile="images/pages/snapshot113-thumb.jpg"/>
+        <Page file="images/pages/snapshot114.jpg" pageNum="113" thumbFile="images/pages/snapshot114-thumb.jpg"/>
+        <Page file="images/pages/snapshot115.jpg" pageNum="114" thumbFile="images/pages/snapshot115-thumb.jpg"/>
+        <Page file="images/pages/snapshot116.jpg" pageNum="115" thumbFile="images/pages/snapshot116-thumb.jpg"/>
+        <Page file="images/pages/snapshot117.jpg" pageNum="116" thumbFile="images/pages/snapshot117-thumb.jpg"/>
+        <Page file="images/pages/snapshot118.jpg" pageNum="117" thumbFile="images/pages/snapshot118-thumb.jpg"/>
+        <Page file="images/pages/snapshot119.jpg" pageNum="118" thumbFile="images/pages/snapshot119-thumb.jpg"/>
+        <Page file="images/pages/snapshot120.jpg" pageNum="119" thumbFile="images/pages/snapshot120-thumb.jpg"/>
+        <Page file="images/pages/snapshot121.jpg" pageNum="120" thumbFile="images/pages/snapshot121-thumb.jpg"/>
+        <Page file="images/pages/snapshot122.jpg" pageNum="121" thumbFile="images/pages/snapshot122-thumb.jpg"/>
+        <Page file="images/pages/snapshot123.jpg" pageNum="122" thumbFile="images/pages/snapshot123-thumb.jpg"/>
+        <Page file="images/pages/snapshot124.jpg" pageNum="123" thumbFile="images/pages/snapshot124-thumb.jpg"/>
+        <Page file="images/pages/snapshot125.jpg" pageNum="124" thumbFile="images/pages/snapshot125-thumb.jpg"/>
+        <Page file="images/pages/snapshot126.jpg" pageNum="125" thumbFile="images/pages/snapshot126-thumb.jpg"/>
+        <Page file="images/pages/snapshot127.jpg" pageNum="126" thumbFile="images/pages/snapshot127-thumb.jpg"/>
+        <Page file="images/pages/snapshot128.jpg" pageNum="127" thumbFile="images/pages/snapshot128-thumb.jpg"/>
+        <Page file="images/pages/snapshot129.jpg" pageNum="128" thumbFile="images/pages/snapshot129-thumb.jpg"/>
+        <Page file="images/pages/snapshot130.jpg" pageNum="129" thumbFile="images/pages/snapshot130-thumb.jpg"/>
+        <Page file="images/pages/snapshot131.jpg" pageNum="130" thumbFile="images/pages/snapshot131-thumb.jpg"/>
+        <Page file="images/pages/snapshot132.jpg" pageNum="131" thumbFile="images/pages/snapshot132-thumb.jpg"/>
+        <Page file="images/pages/snapshot133.jpg" pageNum="132" thumbFile="images/pages/snapshot133-thumb.jpg"/>
+        <Page file="images/pages/snapshot134.jpg" pageNum="133" thumbFile="images/pages/snapshot134-thumb.jpg"/>
+        <Page file="images/pages/snapshot135.jpg" pageNum="134" thumbFile="images/pages/snapshot135-thumb.jpg"/>
+        <Page file="images/pages/snapshot136.jpg" pageNum="135" thumbFile="images/pages/snapshot136-thumb.jpg"/>
+        <Page file="images/pages/snapshot137.jpg" pageNum="136" thumbFile="images/pages/snapshot137-thumb.jpg"/>
+        <Page file="images/pages/snapshot138.jpg" pageNum="137" thumbFile="images/pages/snapshot138-thumb.jpg"/>
+        <Page file="images/pages/snapshot139.jpg" pageNum="138" thumbFile="images/pages/snapshot139-thumb.jpg"/>
+        <Page file="images/pages/snapshot140.jpg" pageNum="139" thumbFile="images/pages/snapshot140-thumb.jpg"/>
+        <Page file="images/pages/snapshot141.jpg" pageNum="140" thumbFile="images/pages/snapshot141-thumb.jpg"/>
+        <Page file="images/pages/snapshot142.jpg" pageNum="141" thumbFile="images/pages/snapshot142-thumb.jpg"/>
+        <Page file="images/pages/snapshot143.jpg" pageNum="142" thumbFile="images/pages/snapshot143-thumb.jpg"/>
+        <Page file="images/pages/snapshot144.jpg" pageNum="143" thumbFile="images/pages/snapshot144-thumb.jpg"/>
+        <Page file="images/pages/snapshot145.jpg" pageNum="144" thumbFile="images/pages/snapshot145-thumb.jpg"/>
+        <Page file="images/pages/snapshot146.jpg" pageNum="145" thumbFile="images/pages/snapshot146-thumb.jpg"/>
+        <Page file="images/pages/snapshot147.jpg" pageNum="146" thumbFile="images/pages/snapshot147-thumb.jpg"/>
+        <Page file="images/pages/snapshot148.jpg" pageNum="147" thumbFile="images/pages/snapshot148-thumb.jpg"/>
+        <Page file="images/pages/snapshot149.jpg" pageNum="148" thumbFile="images/pages/snapshot149-thumb.jpg"/>
+        <Page file="images/pages/snapshot150.jpg" pageNum="149" thumbFile="images/pages/snapshot150-thumb.jpg"/>
+        <Page file="images/pages/snapshot151.jpg" pageNum="150" thumbFile="images/pages/snapshot151-thumb.jpg"/>
+        <Page file="images/pages/snapshot152.jpg" pageNum="151" thumbFile="images/pages/snapshot152-thumb.jpg"/>
+        <Page file="images/pages/snapshot153.jpg" pageNum="152" thumbFile="images/pages/snapshot153-thumb.jpg"/>
+        <Page file="images/pages/snapshot154.jpg" pageNum="153" thumbFile="images/pages/snapshot154-thumb.jpg"/>
+        <Page file="images/pages/snapshot155.jpg" pageNum="154" thumbFile="images/pages/snapshot155-thumb.jpg"/>
+        <Page file="images/pages/snapshot156.jpg" pageNum="155" thumbFile="images/pages/snapshot156-thumb.jpg"/>
+        <Page file="images/pages/snapshot157.jpg" pageNum="156" thumbFile="images/pages/snapshot157-thumb.jpg"/>
+        <Page file="images/pages/snapshot158.jpg" pageNum="157" thumbFile="images/pages/snapshot158-thumb.jpg"/>
+        <Page file="images/pages/snapshot159.jpg" pageNum="158" thumbFile="images/pages/snapshot159-thumb.jpg"/>
+        <Page file="images/pages/snapshot160.jpg" pageNum="159" thumbFile="images/pages/snapshot160-thumb.jpg"/>
+        <Page file="images/pages/snapshot161.jpg" pageNum="160" thumbFile="images/pages/snapshot161-thumb.jpg"/>
+        <Page file="images/pages/snapshot162.jpg" pageNum="161" thumbFile="images/pages/snapshot162-thumb.jpg"/>
+        <Page file="images/pages/snapshot163.jpg" pageNum="162" thumbFile="images/pages/snapshot163-thumb.jpg"/>
+        <Page file="images/pages/snapshot164.jpg" pageNum="163" thumbFile="images/pages/snapshot164-thumb.jpg"/>
+        <Page file="images/pages/snapshot165.jpg" pageNum="164" thumbFile="images/pages/snapshot165-thumb.jpg"/>
+        <Page file="images/pages/snapshot166.jpg" pageNum="165" thumbFile="images/pages/snapshot166-thumb.jpg"/>
+        <Page file="images/pages/snapshot167.jpg" pageNum="166" thumbFile="images/pages/snapshot167-thumb.jpg"/>
+    </Pages>
+    <Articles/>
+    <TOC>  
+        <TocEntry title="Cover">
+            <Summary/>
+            <Page pagenum="0"/>
+        </TocEntry>	   
+        <TocEntry title="Title">
+            <Summary/>
+            <Page pagenum="2"/>
+        </TocEntry>	   
+        <TocEntry title="Credits">
+            <Summary/>
+            <Page pagenum="3"/>
+        </TocEntry>	   
+        <TocEntry title="Copyright">
+            <Summary/>
+            <Page pagenum="5"/>
+        </TocEntry>	   
+        <TocEntry title="Odyssey Prologue: Couture Shock">
+            <Summary/>
+            <Page pagenum="6"/>
+        </TocEntry>	   
+        <TocEntry title="Odyssey, Part One: Past Imperfect, Present Tense">
+            <Summary/>
+            <Page pagenum="18"/>
+        </TocEntry>	   
+        <TocEntry title="Odyssey, Part Two: Whispering Gods">
+            <Summary/>
+            <Page pagenum="42"/>
+        </TocEntry>	   
+        <TocEntry title="Odyssey, Part Three: Keres">
+            <Summary/>
+            <Page pagenum="66"/>
+        </TocEntry>	   
+        <TocEntry title="Odyssey: Part Four">
+            <Summary/>
+            <Page pagenum="90"/>
+        </TocEntry>	   
+        <TocEntry title="Odyssey, Part Five: Runaway Fate">
+            <Summary/>
+            <Page pagenum="114"/>
+        </TocEntry>	   
+        <TocEntry title="Odyssey, Part Six: The Huntsman">
+            <Summary/>
+            <Page pagenum="137"/>
+        </TocEntry>	   
+        <TocEntry title="Variant Cover Gallery">
+            <Summary/>
+            <Page pagenum="159"/>
+        </TocEntry>	 
+        </TOC>
+</ReplicaMap>

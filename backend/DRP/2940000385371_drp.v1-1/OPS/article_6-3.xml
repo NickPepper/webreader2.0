@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns:saxon="http://saxon.sf.net/" xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:nitf="http://www.nytimes.com/applicationdata/xml/nitf-3-3.dtd">
+   <head>
+      <title>Strauss-Kahn Lightens Gingrich&#x2019;s Baggage</title>
+      <link rel="stylesheet" href="css/TablesAndFloats.css" type="text/css"/>
+   </head>
+   <body>
+      <div id="header_navbar" class="articleMenuWrapper">
+         <span id="header_navbar_previous" class="sectionMenuLeft">
+            <a href="article_6-2.xml">Previous Article</a>
+         </span>
+         <span id="header_navbar_next" class="sectionMenuRight"/>
+      </div>
+      <div class="clean"/>
+      <div id="header" class="masthead">
+         <div class="masthead-text">
+            <div id="header_title" class="masthead-section">
+               <a href="section_3.xml">Editorial</a>
+            </div>
+         </div>
+      </div>
+      <h2 id="headline" class="article-full-headline">Strauss-Kahn Lightens Gingrich&#x2019;s Baggage</h2>
+      <p id="byline" class="article-full-byline">Calvin Trillin, Deadline Poet</p>
+      <div>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">Yes, Gingrich, our yard-sale Don Juan,</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">Perked up at the news of Strauss-Kahn:</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">Compared with a rape charge, some feel,</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">Philandering’s not a big deal:</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">Affairs, for which Newt has repented,</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">Involved only those who’d consented.</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">But still his campaign’s going south:</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">His foot still gets stuck in his mouth.</p>
+         <div id="footer_navbar" class="sectionMenuWrapper">
+            <span id="footer_navbar_previous" class="sectionMenuLeft">
+               <a href="article_6-2.xml">Previous Article</a>
+            </span>
+            <span id="footer_navbar_next" class="sectionMenuRight">
+               <a href="section_4.xml">Columns</a>
+            </span>
+         </div>
+      </div>
+   </body>
+</html>

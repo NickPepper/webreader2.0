@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:ncr="http://www.nytimes.com/NewsClientReader#" xmlns:nitf="http://www.nytimes.com/applicationdata/xml/nitf-3-3.dtd">
+    <head>
+        <title>Contents</title>
+        <link href="css/test1.css" rel="stylesheet" type="text/css"/>
+    </head>
+    <body>
+        <div class="clean"> </div>
+        <div class="masthead" id="header">
+            <div>Contents</div>
+            <div class="masthead-date" id="header_date">Sunday, October 13, 2013</div>
+        </div>
+        <div class="sectionArticleBlockOdd" id="preview_0">
+            <div class="sectionArticleThumbBlock" id="preview_0_image_0">
+                <img alt="" class="sectionArticleImage" id="preview_0_image_0_img" src="images/page009.article001.image1.jpg-thumb.jpg"/>
+            </div>
+            <div class="sectionArticleTextBlock">
+                <div class="sectionArticleTitle">
+                    <a class="sectionArticleLink" href="page009.article001.xml">
+                        <span class="sectionArticleHeadline" id="preview_0_headline">GOINGS ON ABOUT TOWN</span>
+                    </a>
+                </div>
+                <div class="sectionArticleByline" id="preview_0_byline"> </div>
+                <div class="sectionArticleBody" id="preview_0_snippet">AL HIRSCHFELD (pictured in a self-portrait from 1980) began his career in motion pictures, but soon turned to Broadway, and, over the next eight decades, became an icon with his trademark...</div>
+            </div>
+        </div>
+        <div class="article-spacer"> </div>
+        <div class="sectionArticleBlock" id="preview_1">
+            <div class="sectionArticleThumbBlock" id="preview_1_image_0">
+                <img alt="" class="sectionArticleImage" id="preview_1_image_0_img" src="images/page010.article001.image1.jpg-thumb.jpg"/>
+            </div>
+            <div class="sectionArticleTextBlock">
+                <div class="sectionArticleTitle">
+                    <a class="sectionArticleLink" href="page010.article001.xml">
+                        <span class="sectionArticleHeadline" id="preview_1_headline">ART</span>
+                    </a>
+                </div>
+                <div class="sectionArticleByline" id="preview_1_byline"> </div>
+                <div class="sectionArticleBody" id="preview_1_snippet">MUSEUMS AND LIBRARIES Guggenheim Museum “Robert Motherwell: Early Collages” It’s fitting that this exhibition was first seen at the Peggy Guggenheim Collection, in Venice: the bohemian heiress...</div>
+            </div>
+        </div>
+        <div class="article-spacer"> </div>
+        <div class="sectionArticleBlockOdd" id="preview_2">
+            <div class="sectionArticleThumbBlock" id="preview_2_image_0">
+                <img alt="" class="sectionArticleImage" id="preview_2_image_0_img" src="images/page012.article001.image1.jpg-thumb.jpg"/>
+            </div>
+            <div class="sectionArticleTextBlock">
+                <div class="sectionArticleTitle">
+                    <a class="sectionArticleLink" href="page012.article001.xml">
+                        <span class="sectionArticleHeadline" id="preview_2_headline">THE THEATRE</span>
+                    </a>
+                </div>
+                <div class="sectionArticleByline" id="preview_2_byline"> </div>
+                <div class="sectionArticleBody" id="preview_2_snippet">UPTOWN, DOWNTOWN The gap between Broadway and Off Broadway sensibilities. THE NOTION THAT THEATRE is universal is specious, given the world of difference that can separate the productions in...</div>
+            </div>
+        </div>
+        <div class="article-spacer"> </div>
+        <div class="sectionArticleBlock" id="preview_3">
+            <div class="sectionArticleThumbBlock" id="preview_3_image_0">
+                <img alt="" class="sectionArticleImage" id="preview_3_image_0_img" src="images/page016.article001.image1.jpg-thumb.jpg"/>
+            </div>
+            <div class="sectionArticleTextBlock">
+                <div class="sectionArticleTitle">
+                    <a class="sectionArticleLink" href="page016.article001.xml">
+                        <span class="sectionArticleHeadline" id="preview_3_headline">CLASSICAL MUSIC</span>
+                    </a>
+                </div>
+                <div class="sectionArticleByline" id="preview_3_byline"> </div>
+                <div class="sectionArticleBody" id="preview_3_snippet">OPERA Metropolitan Opera At last it arrives: Nico Muhly’s “Two Boys,” the only opera to appear on the Met’s stage from the new-works initiative that Peter Gelb (with André Bishop) spearheaded...</div>
+            </div>
+        </div>
+        <div class="article-spacer"> </div>
+        <div class="sectionArticleBlockOdd" id="preview_4">
+            <div class="sectionArticleThumbBlock" id="preview_4_image_0">
+                <img alt="" class="sectionArticleImage" id="preview_4_image_0_img" src="images/page018.article001.image1.jpg-thumb.jpg"/>
+            </div>
+            <div class="sectionArticleTextBlock">
+                <div class="sectionArticleTitle">
+                    <a class="sectionArticleLink" href="page018.article001.xml">
+                        <span class="sectionArticleHeadline" id="preview_4_headline">DANCE</span>
+                    </a>
+                </div>
+                <div class="sectionArticleByline" id="preview_4_byline"> </div>
+                <div class="sectionArticleBody" id="preview_4_snippet">TIME EVERLASTING The Brooklyn Academy of Music gets schooled in minimalism. IN THE LATE twentieth century, a lot of avant-garde performance work was very long. The Philip Glass/Robert...</div>
+            </div>
+        </div>
+        <div class="article-spacer"> </div>
+        <div class="sectionArticleBlock" id="preview_5">
+            <div class="sectionArticleThumbBlock" id="preview_5_image_0">
+                <img alt="" class="sectionArticleImage" id="preview_5_image_0_img" src="images/page020.article001.image1.jpg-thumb.jpg"/>
+            </div>
+            <div class="sectionArticleTextBlock">
+                <div class="sectionArticleTitle">
+                    <a class="sectionArticleLink" href="page020.article001.xml">
+                        <span class="sectionArticleHeadline" id="preview_5_headline">ABOVE &amp; BEYOND</span>
+                    </a>
+                </div>
+                <div class="sectionArticleByline" id="preview_5_byline"> </div>
+                <div class="sectionArticleBody" id="preview_5_snippet">Honk NYC! Festival It might seem to some who live in the city that there are too many horns blaring too often. But not to the folks behind this gathering, though they take a decidedly more festive...</div>
+            </div>
+        </div>
+        <div class="article-spacer"> </div>
+        <div class="sectionArticleBlockOdd" id="preview_6">
+            <div class="sectionArticleThumbBlock" id="preview_6_image_0">
+                <img alt="" class="sectionArticleImage" id="preview_6_image_0_img" src="images/page022.article001.image1.jpg-thumb.jpg"/>
+            </div>
+            <div class="sectionArticleTextBlock">
+                <div class="sectionArticleTitle">
+                    <a class="sectionArticleLink" href="page022.article001.xml">
+                        <span class="sectionArticleHeadline" id="preview_6_headline">MOVIES</span>
+                    </a>
+                </div>
+                <div class="sectionArticleByline" id="preview_6_byline"> </div>
+                <div class="sectionArticleBody" id="preview_6_snippet">NOW PLAYING Captain Phillips Paul Greengrass, the director of “United 93” and two chapters from the peaceful life of Jason Bourne, brings us yet another exercise in almost intolerable...</div>
+            </div>
+        </div>
+        <div class="article-spacer"> </div>
+        <div class="sectionArticleBlock" id="preview_7">
+            <div class="sectionArticleThumbBlock" id="preview_7_image_0">
+                <img alt="" class="sectionArticleImage" id="preview_7_image_0_img" src="images/page025.article001.image1.jpg-thumb.jpg"/>
+            </div>
+            <div class="sectionArticleTextBlock">
+                <div class="sectionArticleTitle">
+                    <a class="sectionArticleLink" href="page025.article001.xml">
+                        <span class="sectionArticleHeadline" id="preview_7_headline">NIGHT LIFE</span>
+                    </a>
+                </div>
+                <div class="sectionArticleByline" id="preview_7_byline"> </div>
+                <div class="sectionArticleBody" id="preview_7_snippet">ROCK AND POP Musicians and night-club proprietors lead complicated lives; it’s advisable to check in advance to confirm engagements. Fiona Apple and Blake Mills Traditionally, the woman is...</div>
+            </div>
+        </div>
+        <div class="article-spacer"> </div>
+        <div class="sectionArticleBlockOdd" id="preview_8">
+            <div class="sectionArticleThumbBlock" id="preview_8_image_0">
+                <img alt="" class="sectionArticleImage" id="preview_8_image_0_img" src="images/page026.article001.image1.jpg-thumb.jpg"/>
+            </div>
+            <div class="sectionArticleTextBlock">
+                <div class="sectionArticleTitle">
+                    <a class="sectionArticleLink" href="page026.article001.xml">
+                        <span class="sectionArticleHeadline" id="preview_8_headline">FOOD &amp; DRINK</span>
+                    </a>
+                </div>
+                <div class="sectionArticleByline" id="preview_8_byline"> </div>
+                <div class="sectionArticleBody" id="preview_8_snippet">TABLES FOR TWO SHALOM JAPAN 310 S. 4th St., Brooklyn (718 -388-4012) JEWISH AND JAPANESE are not words or cuisines usually associated with each other. Shalom Japan, the name of a new...</div>
+            </div>
+        </div>
+        <div class="article-spacer"> </div>
+        <div class="sectionArticleBlock" id="preview_9">
+            <div class="sectionArticleThumbBlock" id="preview_9_image_0">
+                <img alt="" class="sectionArticleImage" id="preview_9_image_0_img" src="images/page029.article001.image1.jpg-thumb.jpg"/>
+            </div>
+            <div class="sectionArticleTextBlock">
+                <div class="sectionArticleTitle">
+                    <a class="sectionArticleLink" href="page029.article001.xml">
+                        <span class="sectionArticleHeadline" id="preview_9_headline">COMMENT: IMPEACH OBAMA!</span>
+                    </a>
+                </div>
+                <div class="sectionArticleByline" id="preview_9_byline">Hendrik Hertzberg</div>
+                <div class="sectionArticleBody" id="preview_9_snippet">The validity of the public debt of the United States, authorized by law, including debts incurred for payment of pensions and bounties for services in suppressing insurrection or rebellion, shall...</div>
+            </div>
+        </div>
+        <div class="article-spacer"> </div>
+        <div class="sectionArticleBlockOdd" id="preview_10">
+            <div class="sectionArticleThumbBlock" id="preview_10_image_0">
+                <img alt="" class="sectionArticleImage" id="preview_10_image_0_img" src="images/page030.article001.image1.jpg-thumb.jpg"/>
+            </div>
+            <div class="sectionArticleTextBlock">
+                <div class="sectionArticleTitle">
+                    <a class="sectionArticleLink" href="page030.article001.xml">
+                        <span class="sectionArticleHeadline" id="preview_10_headline">DEPT. OF HOOPLA: IF THE SHOE FITS</span>
+                    </a>
+                </div>
+                <div class="sectionArticleByline" id="preview_10_byline">Rebecca Mead</div>
+                <div class="sectionArticleBody" id="preview_10_snippet">Tamara Mellon, the co-founder of Jimmy Choo, has written a memoir called “In My Shoes,” and a party was held in the Grill Room at the Four Seasons the other week to celebrate its publication. The...</div>
+            </div>
+        </div>
+        <div class="article-spacer"> </div>
+        <div class="sectionArticleBlock" id="preview_11">
+            <div class="sectionArticleThumbBlock" id="preview_11_image_0">
+                <img alt="" class="sectionArticleImage" id="preview_11_image_0_img" src="images/page031.article001.image1.jpg-thumb.jpg"/>
+            </div>
+            <div class="sectionArticleTextBlock">
+                <div class="sectionArticleTitle">
+                    <a class="sectionArticleLink" href="page031.article001.xml">
+                        <span class="sectionArticleHeadline" id="preview_11_headline">WIND ON CAPITOL HILL: NAIL-BITER</span>
+                    </a>
+                </div>
+                <div class="sectionArticleByline" id="preview_11_byline">Lizzie Widdicombe</div>
+                <div class="sectionArticleBody" id="preview_11_snippet">Last weekend, moviegoers lined up to see Tom Hanks held at gunpoint by Somali pirates, in “Captain Phillips.” As the pirates boarded the ship and alarm bells clanged, viewers could be forgiven for...</div>
+            </div>
+        </div>
+        <div class="article-spacer"> </div>
+        <div class="sectionArticleBlockOdd" id="preview_12">
+            <div class="sectionArticleThumbBlock" id="preview_12_image_0">
+                <img alt="" class="sectionArticleImage" id="preview_12_image_0_img" src="images/page032.article001.image1.jpg-thumb.jpg"/>
+            </div>
+            <div class="sectionArticleTextBlock">
+                <div class="sectionArticleTitle">
+                    <a class="sectionArticleLink" href="page032.article001.xml">
+                        <span class="sectionArticleHeadline" id="preview_12_headline">THE PICTURES: VICTORY LAP</span>
+                    </a>
+                </div>
+                <div class="sectionArticleByline" id="preview_12_byline">Michael Schulman</div>
+                <div class="sectionArticleBody" id="preview_12_snippet">The filmmaker Nicole Holofcener pulled up to the corner of Eighty-second and Broadway, where, seconds earlier, Tony Kushner had been walking his dog. Holofcener, who lives in Los Angeles, was in...</div>
+            </div>
+        </div>
+        <div class="article-spacer"> </div>
+        <div class="sectionArticleBlock" id="preview_13">
+            <div class="sectionArticleThumbBlock" id="preview_13_image_0">
+                <img alt="" class="sectionArticleImage" id="preview_13_image_0_img" src="images/page035.article001.image1.jpg-thumb.jpg"/>
+            </div>
+            <div class="sectionArticleTextBlock">
+                <div class="sectionArticleTitle">
+                    <a class="sectionArticleLink" href="page035.article001.xml">
+                        <span class="sectionArticleHeadline" id="preview_13_headline">THE FINANCIAL PAGE: OPEN SEASON</span>
+                    </a>
+                </div>
+                <div class="sectionArticleByline" id="preview_13_byline">James Surowiecki</div>
+                <div class="sectionArticleBody" id="preview_13_snippet">In 1965, America’s big companies had a hell of a year. The stock market was booming. Sales were rising briskly, profit margins were fat, and corporate profits as a percentage of G.D.P. were at an...</div>
+            </div>
+        </div>
+        <div class="article-spacer"> </div>
+        <div class="sectionArticleBlockOdd" id="preview_14">
+            <div class="sectionArticleThumbBlock" id="preview_14_image_0">
+                <img alt="" class="sectionArticleImage" id="preview_14_image_0_img" src="images/page036.article001.image1.jpg-thumb.jpg"/>
+            </div>
+            <div class="sectionArticleTextBlock">
+                <div class="sectionArticleTitle">
+                    <a class="sectionArticleLink" href="page036.article001.xml">
+                        <span class="sectionArticleHeadline" id="preview_14_headline">GONE GIRL</span>
+                    </a>
+                </div>
+                <div class="sectionArticleByline" id="preview_14_byline">BY MARGARET TALBOT</div>
+                <div class="sectionArticleBody" id="preview_14_snippet">Elizabeth Smart sat backstage in a ballroom of the Washington Hilton hotel, where, in a few minutes, she would be telling an audience of sixteen hundred teen-agers her story of survival. It has been...</div>
+            </div>
+        </div>
+        <div class="article-spacer"> </div>
+        <div class="sectionArticleBlock" id="preview_15">
+            <div class="sectionArticleThumbBlock" id="preview_15_image_0">
+                <img alt="" class="sectionArticleImage" id="preview_15_image_0_img" src="images/page045.article001.image1.jpg-thumb.jpg"/>
+            </div>
+            <div class="sectionArticleTextBlock">
+                <div class="sectionArticleTitle">
+                    <a class="sectionArticleLink" href="page045.article001.xml">
+                        <span class="sectionArticleHeadline" id="preview_15_headline">LUAU</span>
+                    </a>
+                </div>
+                <div class="sectionArticleByline" id="preview_15_byline">BY JACK HANDEY</div>
+                <div class="sectionArticleBody" id="preview_15_snippet">One of the worst things I’ve ever been to has to be the Hawaiian luau I went to last month. Or should I say “so-called” Hawaiian luau? First of all, when I went to the pickup point, where we...</div>
+            </div>
+        </div>
+        <div class="article-spacer"> </div>
+        <div class="sectionArticleBlockOdd" id="preview_16">
+            <div class="sectionArticleThumbBlock" id="preview_16_image_0">
+                <img alt="" class="sectionArticleImage" id="preview_16_image_0_img" src="images/page046.article001.image1.jpg-thumb.jpg"/>
+            </div>
+            <div class="sectionArticleTextBlock">
+                <div class="sectionArticleTitle">
+                    <a class="sectionArticleLink" href="page046.article001.xml">
+                        <span class="sectionArticleHeadline" id="preview_16_headline">LYDDA, 1948</span>
+                    </a>
+                </div>
+                <div class="sectionArticleByline" id="preview_16_byline">BY ARI SHAVIT</div>
+                <div class="sectionArticleBody" id="preview_16_snippet">The Middle East is imploding, the Arab Spring is a memory, Syria is a surreal nightmare, yet a new attempt, brokered by the Obama Administration, is under way to achieve peace between Israel and the...</div>
+            </div>
+        </div>
+        <div class="article-spacer"> </div>
+        <div class="sectionArticleBlock" id="preview_17">
+            <div class="sectionArticleThumbBlock" id="preview_17_image_0"/>
+            <div class="sectionArticleTextBlock">
+                <div class="sectionArticleTitle">
+                    <a class="sectionArticleLink" href="page048.article001.xml">
+                        <span class="sectionArticleHeadline" id="preview_17_headline">TANAGER</span>
+                    </a>
+                </div>
+                <div class="sectionArticleByline" id="preview_17_byline">Billy Collins</div>
+                <div class="sectionArticleBody" id="preview_17_snippet">If only I had not listened to the piece on the morning radio about the former asylum whose inmates were kept busy at wooden benches in a workshop making leather collars and wristbands that...</div>
+            </div>
+        </div>
+        <div class="article-spacer"> </div>
+        <div class="sectionArticleBlockOdd" id="preview_18">
+            <div class="sectionArticleThumbBlock" id="preview_18_image_0">
+                <img alt="" class="sectionArticleImage" id="preview_18_image_0_img" src="images/page054.article001.image1.jpg-thumb.jpg"/>
+            </div>
+            <div class="sectionArticleTextBlock">
+                <div class="sectionArticleTitle">
+                    <a class="sectionArticleLink" href="page054.article001.xml">
+                        <span class="sectionArticleHeadline" id="preview_18_headline">TWO-HIT WONDER</span>
+                    </a>
+                </div>
+                <div class="sectionArticleByline" id="preview_18_byline">BY D. T. MAX</div>
+                <div class="sectionArticleBody" id="preview_18_snippet">Jack Dorsey, the tech entrepreneur, takes the No. 1 bus to work, and he likes to catch the 7:06. It carries him nearly from one side of San Francisco to the other—down California Street almost to...</div>
+            </div>
+        </div>
+        <div class="article-spacer"> </div>
+        <div class="sectionArticleBlock" id="preview_19">
+            <div class="sectionArticleThumbBlock" id="preview_19_image_0"/>
+            <div class="sectionArticleTextBlock">
+                <div class="sectionArticleTitle">
+                    <a class="sectionArticleLink" href="page062.article001.xml">
+                        <span class="sectionArticleHeadline" id="preview_19_headline">MOON RIVER</span>
+                    </a>
+                </div>
+                <div class="sectionArticleByline" id="preview_19_byline">Lucie Brock-Broido</div>
+                <div class="sectionArticleBody" id="preview_19_snippet">What is it exactly that you mean when you call me Your “huckleberry friend”? What if too soon you will go down Like a sheepdog who has tasted blood on a gentleman’s farm Far outside the...</div>
+            </div>
+        </div>
+        <div class="article-spacer"> </div>
+        <div class="sectionArticleBlockOdd" id="preview_20">
+            <div class="sectionArticleThumbBlock" id="preview_20_image_0">
+                <img alt="" class="sectionArticleImage" id="preview_20_image_0_img" src="images/page066.article001.image1.jpg-thumb.jpg"/>
+            </div>
+            <div class="sectionArticleTextBlock">
+                <div class="sectionArticleTitle">
+                    <a class="sectionArticleLink" href="page066.article001.xml">
+                        <span class="sectionArticleHeadline" id="preview_20_headline">PRIVATE EYES</span>
+                    </a>
+                </div>
+                <div class="sectionArticleByline" id="preview_20_byline">BY JON LEE ANDERSON</div>
+                <div class="sectionArticleBody" id="preview_20_snippet">A few months ago, the Spanish Embassy in Havana arranged a party to celebrate the state of literature in Cuba. The event, held in the Palacio Velasco Sarra, a neocolonial building at the edge of the...</div>
+            </div>
+        </div>
+        <div class="article-spacer"> </div>
+        <div class="sectionArticleBlock" id="preview_21">
+            <div class="sectionArticleThumbBlock" id="preview_21_image_0">
+                <img alt="" class="sectionArticleImage" id="preview_21_image_0_img" src="images/page078.article001.image1.jpg-thumb.jpg"/>
+            </div>
+            <div class="sectionArticleTextBlock">
+                <div class="sectionArticleTitle">
+                    <a class="sectionArticleLink" href="page078.article001.xml">
+                        <span class="sectionArticleHeadline" id="preview_21_headline">ALICE MUNRO</span>
+                    </a>
+                </div>
+                <div class="sectionArticleByline" id="preview_21_byline"> </div>
+                <div class="sectionArticleBody" id="preview_21_snippet">Fiona lived in her parents’ house, in the town where she and Grant went to university. It was a big, bay-windowed house that seemed to Grant both luxurious and disorderly, with rugs crooked on the...</div>
+            </div>
+        </div>
+        <div class="article-spacer"> </div>
+        <div class="sectionArticleBlockOdd" id="preview_22">
+            <div class="sectionArticleThumbBlock" id="preview_22_image_0">
+                <img alt="" class="sectionArticleImage" id="preview_22_image_0_img" src="images/page092.article001.image1.jpg-thumb.jpg"/>
+            </div>
+            <div class="sectionArticleTextBlock">
+                <div class="sectionArticleTitle">
+                    <a class="sectionArticleLink" href="page092.article001.xml">
+                        <span class="sectionArticleHeadline" id="preview_22_headline">THE NORMAN INVASION</span>
+                    </a>
+                </div>
+                <div class="sectionArticleByline" id="preview_22_byline">BY LOUIS MENAND</div>
+                <div class="sectionArticleBody" id="preview_22_snippet">The world has long since finished having its Norman Mailer conversation, but few writers in their day received as much attention. Mailer made himself into a figure about whom everyone felt the need...</div>
+            </div>
+        </div>
+        <div class="article-spacer"> </div>
+        <div class="sectionArticleBlock" id="preview_23">
+            <div class="sectionArticleThumbBlock" id="preview_23_image_0">
+                <img alt="" class="sectionArticleImage" id="preview_23_image_0_img" src="images/page102.article001.image1.jpg-thumb.jpg"/>
+            </div>
+            <div class="sectionArticleTextBlock">
+                <div class="sectionArticleTitle">
+                    <a class="sectionArticleLink" href="page102.article001.xml">
+                        <span class="sectionArticleHeadline" id="preview_23_headline">HEAD COUNT</span>
+                    </a>
+                </div>
+                <div class="sectionArticleByline" id="preview_23_byline">BY ELIZABETH KOLBERT</div>
+                <div class="sectionArticleBody" id="preview_23_snippet">On May 12, 1907, toward the end of the annual meeting of the German Bunsen Society, which was held that year in Hamburg, a distinguished chemist named Walther Nernst insulted a not so distinguished...</div>
+            </div>
+        </div>
+        <div class="article-spacer"> </div>
+        <div class="sectionArticleBlockOdd" id="preview_24">
+            <div class="sectionArticleThumbBlock" id="preview_24_image_0">
+                <img alt="" class="sectionArticleImage" id="preview_24_image_0_img" src="images/page106.article001.image1.jpg-thumb.jpg"/>
+            </div>
+            <div class="sectionArticleTextBlock">
+                <div class="sectionArticleTitle">
+                    <a class="sectionArticleLink" href="page106.article001.xml">
+                        <span class="sectionArticleHeadline" id="preview_24_headline">THE NEW CURIOSITY SHOP</span>
+                    </a>
+                </div>
+                <div class="sectionArticleByline" id="preview_24_byline">BY JAMES WOOD</div>
+                <div class="sectionArticleBody" id="preview_24_snippet">Like the rest of us, Donna Tartt ages; but her fiction is going the other way. Her new novel, “The Goldfinch” (Little, Brown), is a virtual baby: it clutches and releases the most fantastical toys....</div>
+            </div>
+        </div>
+        <div class="article-spacer"> </div>
+        <div class="sectionArticleBlock" id="preview_25">
+            <div class="sectionArticleThumbBlock" id="preview_25_image_0">
+                <img alt="" class="sectionArticleImage" id="preview_25_image_0_img" src="images/page108.article001.image1.jpg-thumb.jpg"/>
+            </div>
+            <div class="sectionArticleTextBlock">
+                <div class="sectionArticleTitle">
+                    <a class="sectionArticleLink" href="page108.article001.xml">
+                        <span class="sectionArticleHeadline" id="preview_25_headline">BRIEFLY NOTED</span>
+                    </a>
+                </div>
+                <div class="sectionArticleByline" id="preview_25_byline"> </div>
+                <div class="sectionArticleBody" id="preview_25_snippet">BRIDGET JONES: MAD ABOUT THE BOY, by Helen Fielding (Knopf). In the weeks leading up to this book’s publication, fans were treated to some distressing revelations: Mark Darcy has been killed by a...</div>
+            </div>
+        </div>
+        <div class="article-spacer"> </div>
+        <div class="sectionArticleBlockOdd" id="preview_26">
+            <div class="sectionArticleThumbBlock" id="preview_26_image_0">
+                <img alt="" class="sectionArticleImage" id="preview_26_image_0_img" src="images/page110.article001.image1.jpg-thumb.jpg"/>
+            </div>
+            <div class="sectionArticleTextBlock">
+                <div class="sectionArticleTitle">
+                    <a class="sectionArticleLink" href="page110.article001.xml">
+                        <span class="sectionArticleHeadline" id="preview_26_headline">ROYALTIES</span>
+                    </a>
+                </div>
+                <div class="sectionArticleByline" id="preview_26_byline">BY SASHA FRERE-JONES</div>
+                <div class="sectionArticleBody" id="preview_26_snippet">The New Zealand singer Ella Yelich-O’Connor’s first show in the U.S. was in August, at the small Greenwich Village night club (Le) Poisson Rouge. Yelich-O’Connor, who is sixteen, performs and...</div>
+            </div>
+        </div>
+        <div class="article-spacer"> </div>
+        <div class="sectionArticleBlock" id="preview_27">
+            <div class="sectionArticleThumbBlock" id="preview_27_image_0">
+                <img alt="" class="sectionArticleImage" id="preview_27_image_0_img" src="images/page112.article001.image1.jpg-thumb.jpg"/>
+            </div>
+            <div class="sectionArticleTextBlock">
+                <div class="sectionArticleTitle">
+                    <a class="sectionArticleLink" href="page112.article001.xml">
+                        <span class="sectionArticleHeadline" id="preview_27_headline">PLAY TIME</span>
+                    </a>
+                </div>
+                <div class="sectionArticleByline" id="preview_27_byline">BY PETER SCHJELDAHL</div>
+                <div class="sectionArticleBody" id="preview_27_snippet">The strikingly thoughtful new edition of the venerable Carnegie International, an exhibition staged every few years at the Carnegie Art Museum, in Pittsburgh, starts outdoors, with two smart bangs....</div>
+            </div>
+        </div>
+        <div class="article-spacer"> </div>
+        <div class="sectionArticleBlockOdd" id="preview_28">
+            <div class="sectionArticleThumbBlock" id="preview_28_image_0">
+                <img alt="" class="sectionArticleImage" id="preview_28_image_0_img" src="images/page114.article001.image1.jpg-thumb.jpg"/>
+            </div>
+            <div class="sectionArticleTextBlock">
+                <div class="sectionArticleTitle">
+                    <a class="sectionArticleLink" href="page114.article001.xml">
+                        <span class="sectionArticleHeadline" id="preview_28_headline">FIGHTING TO SURVIVE</span>
+                    </a>
+                </div>
+                <div class="sectionArticleByline" id="preview_28_byline">BY DAVID DENBY</div>
+                <div class="sectionArticleBody" id="preview_28_snippet">The most striking image in “12 Years a Slave”—a film of many powerful moments and sequences—is of Solomon Northup (Chiwetel Ejiofor), a freeborn African-American kidnapped into slavery, hanging from...</div>
+            </div>
+        </div>
+        <div class="sectionMenuWrapper" id="footer_navbar">
+            <div class="sectionNameGoTo" id="footer_navbar_title">
+                <a class="sectionNameGoTo" href="section.xml">Top of Contents</a>
+            </div>
+            <span class="sectionMenuLeft" id="footer_navbar_previous"/>
+            <span class="sectionMenuRight" id="footer_navbar_next"/>
+        </div>
+    </body>
+</html>

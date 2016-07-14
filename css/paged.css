@@ -1,0 +1,22 @@
+html, body {
+	margin:0;
+	height:100%;
+}
+
+.webpager-inner {
+	min-width: inherit;
+	min-height: inherit;
+	position: relative;
+	overflow: hidden;
+	width:100%;
+	height:100%;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}
+
+.webpager-frame {
+	border: 0;
+	position: absolute;
+	top: 0;
+	z-index: 1;
+}

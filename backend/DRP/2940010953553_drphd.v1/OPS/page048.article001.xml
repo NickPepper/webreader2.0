@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>The New Yorker</title>
+<link href="css/test1.css" rel="stylesheet" type="text/css" />
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    </head>
+<body class="left">
+        <div class="before">
+            <div class="articleMenuWrapper" id="header_navbar">
+                <div class="sectionMenuLeft" id="header_navbar_previous">
+                    <a href="page046.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="header_navbar_next">
+                    <a href="page054.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+            <div class="masthead" id="header">
+                <div class="masthead-text">
+                    <div class="masthead-section" id="header_title">
+                        <a href="section.xml">Contents</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="article-headline" id="Headline">TANAGER</div>
+
+<div class="article-byline" id="ByLine">Billy Collins</div>
+
+
+<div id="separatorLine"> <div class="invisible">empty</div> </div>
+
+
+<div class="article-body" id="Body"><p class="no-indent">If only I had not listened to the piece</p><p class="no-indent">on the morning radio about the former asylum</p><p class="no-indent">whose inmates were kept busy</p><p class="no-indent">at wooden benches in a workshop</p><p class="no-indent">making leather collars and wristbands</p><p class="no-indent">that would later be used to restrain them.</p><p class="no-indent">And if only that had not reminded me,</p><p class="no-indent">as I stood facing the bathroom mirror,</p><p class="no-indent">of the new state prison whose bricks had been set</p><p class="no-indent">by prisoners trucked in from the old prison,</p><p class="no-indent">how sweet and free of static my walk</p><p class="no-indent">would have been along the upland trail.</p><br/><p class="no-indent">Nothing to spoil the purity of the ascent—</p><p class="no-indent">the early sun, wafer-white,</p><p class="no-indent">breaking over the jagged crest of that ridge,</p><p class="no-indent">a bird with a bright-orange chest</p><p class="no-indent">flitting from branch to branch with its mate,</p><p class="no-indent">and a solitary coyote that stopped in its tracks</p><p class="no-indent">to regard me, then moved on.</p><p class="no-indent">Plus the cottonwood fluff snowing sideways</p><p class="no-indent">and after I stood still for a while,</p><p class="no-indent">the coyote appearing again in the distance</p><p class="no-indent">before vanishing in the scrub for good.</p><p class="no-indent">That’s the kind of walk it might have been.</p></div>
+<div class="after">
+            <div class="articleMenuWrapper" id="footer_navbar">
+                <div class="sectionMenuLeft" id="footer_navbar_previous">
+                    <a href="page046.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="footer_navbar_next">
+                    <a href="page054.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+        </div>
+    </body>
+</html>

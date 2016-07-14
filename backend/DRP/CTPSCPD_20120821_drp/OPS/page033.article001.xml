@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Cooking with Paula Deen</title>
+<link href="css/test1.css" rel="stylesheet" type="text/css" />
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    </head>
+<body class="left">
+        <div class="before">
+            <div class="articleMenuWrapper" id="header_navbar">
+                <div class="sectionMenuLeft" id="header_navbar_previous">
+                    <a href="page032.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="header_navbar_next">
+                    <a href="page033.article002.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+            <div class="masthead" id="header">
+                <div class="masthead-text">
+                    <div class="masthead-section" id="header_title">
+                        <a href="section.xml">Contents</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="article-headline" id="Headline">DAY 5</div>
+<div class="article-subhead" id="SubHeadline">Pork Cutlets with Rosemary Dijon Sauce│Balsamic-roasted Potatoes│Steamed Asparagus</div>
+
+
+<div class="article-in-image" id="image1"><img src="images/page033.article001.image1.jpg" class="article-in-image" alt=""/></div>
+<div id="separatorLine"> <div class="invisible">empty</div> </div>
+
+<div class="articleImageCredit" id="ImageCredit">PHOTOGRAPHY BY WILLIAM DICKEY</div>
+<div class="article-body" id="Body"><p class="no-indent">Pork Cutlets with Rosemary Dijon Sauce </p><p class="no-indent">Makes 6 servings </p><br/><p class="no-indent">1½ pounds pork tenderloin, trimmed </p><p class="no-indent">½ teaspoon salt </p><p class="no-indent">½ teaspoon ground black pepper </p><p class="no-indent">1 tablespoon vegetable oil </p><p class="no-indent">1½ cups heavy whipping cream </p><p class="no-indent">2 tablespoons whole-grain Dijon mustard </p><p class="no-indent">1 tablespoon minced fresh rosemary </p><br/><p class="no-indent">1. Cut pork into 1-inch-thick slices. Place pork between 2 sheets of heavy-duty plastic wrap, and flatten to ½-inch thickness using a rolling pin or a meat mallet. Sprinkle pork with salt and pepper. </p><br/><p class="no-indent">2. In a large skillet, heat oil over medium-high heat. Add pork, in batches if necessary, and cook for 3 to 4 minutes per side or until browned. Remove from skillet, and set aside. </p><br/><p class="no-indent">3. Add cream, mustard, and rosemary to skillet, scraping browned bits from bottom of pan with a wooden spoon. Bring mixture to a boil; reduce heat and simmer. Return pork to skillet, turning to coat. Cook for 5 to 6 minutes or until sauce thickens. Serve immediately with Balsamic-roasted Potatoes and Steamed Asparagus.</p><br/><p>______________________________</p><br/><p class="no-indent">Balsamic-roasted Potatoes </p><p class="no-indent">Makes 6 servings </p><br/><p class="no-indent">2 pounds red potatoes, cut into 1-inch pieces </p><p class="no-indent">½ onion, quartered </p><p class="no-indent">2 tablespoons olive oil </p><p class="no-indent">1 teaspoon kosher salt </p><p class="no-indent">½ teaspoon ground black pepper </p><p class="no-indent">2 tablespoons balsamic vinegar </p><br/><p class="no-indent">1. Preheat oven to 450°. Line a rimmed baking sheet with aluminum foil. </p><br/><p class="no-indent">2. In a large bowl toss potatoes and onion with olive oil. Sprinkle with salt and pepper. Place in a single layer on prepared baking sheet. </p><br/><p class="no-indent">3. Bake for 20 minutes. Drizzle with vinegar, and bake for 4 more minutes.</p><br/><p>______________________________</p><br/><p class="no-indent">Steamed Asparagus </p><p class="no-indent">Makes 6 servings </p><br/><p class="no-indent">1 pound asparagus, trimmed </p><p class="no-indent">¼ cup water </p><p class="no-indent">3 tablespoons butter </p><p class="no-indent">1 teaspoon bottled minced garlic </p><p class="no-indent">½ teaspoon salt </p><br/><p class="no-indent">1. Place asparagus and ¼ cup water in a microwave-safe 11x7-inch baking dish. Cover with plastic wrap, and microwave on High for 3 minutes or until crisp-tender. Drain well, and place on serving platter. </p><br/><p class="no-indent">2. In a small saucepan, melt butter over medium heat. Add garlic, and cook, stirring frequently, for 3 minutes. Stir in salt. Drizzle butter mixture over asparagus.</p></div>
+<div class="after">
+            <div class="articleMenuWrapper" id="footer_navbar">
+                <div class="sectionMenuLeft" id="footer_navbar_previous">
+                    <a href="page032.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="footer_navbar_next">
+                    <a href="page033.article002.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReplicaMap xmlns="http://www.hp.com/schemas/imaging/ereader/hff">
+  <Title>Ice Age: Playing Favorites</Title>
+  <Pages>
+    <Page pageNum="0" file="images/pages/001.jpg" thumbFile="images/pages/001-thumb.jpg"/>
+    <Page pageNum="1" file="images/pages/002.jpg" thumbFile="images/pages/002-thumb.jpg"/>
+    <Page pageNum="2" file="images/pages/003.jpg" thumbFile="images/pages/003-thumb.jpg"/>
+    <Page pageNum="3" file="images/pages/004.jpg" thumbFile="images/pages/004-thumb.jpg"/>
+    <Page pageNum="4" file="images/pages/005.jpg" thumbFile="images/pages/005-thumb.jpg"/>
+    <Page pageNum="5" file="images/pages/006.jpg" thumbFile="images/pages/006-thumb.jpg"/>
+    <Page pageNum="6" file="images/pages/007.jpg" thumbFile="images/pages/007-thumb.jpg"/>
+    <Page pageNum="7" file="images/pages/008.jpg" thumbFile="images/pages/008-thumb.jpg"/>
+    <Page pageNum="8" file="images/pages/009.jpg" thumbFile="images/pages/009-thumb.jpg"/>
+    <Page pageNum="9" file="images/pages/010.jpg" thumbFile="images/pages/010-thumb.jpg"/>
+    <Page pageNum="10" file="images/pages/011.jpg" thumbFile="images/pages/011-thumb.jpg"/>
+    <Page pageNum="11" file="images/pages/012.jpg" thumbFile="images/pages/012-thumb.jpg"/>
+    <Page pageNum="12" file="images/pages/013.jpg" thumbFile="images/pages/013-thumb.jpg"/>
+    <Page pageNum="13" file="images/pages/014.jpg" thumbFile="images/pages/014-thumb.jpg"/>
+    <Page pageNum="14" file="images/pages/015.jpg" thumbFile="images/pages/015-thumb.jpg"/>
+    <Page pageNum="15" file="images/pages/016.jpg" thumbFile="images/pages/016-thumb.jpg"/>
+    <Page pageNum="16" file="images/pages/017.jpg" thumbFile="images/pages/017-thumb.jpg"/>
+    <Page pageNum="17" file="images/pages/018.jpg" thumbFile="images/pages/018-thumb.jpg"/>
+    <Page pageNum="18" file="images/pages/019.jpg" thumbFile="images/pages/019-thumb.jpg"/>
+    <Page pageNum="19" file="images/pages/020.jpg" thumbFile="images/pages/020-thumb.jpg"/>
+    <Page pageNum="20" file="images/pages/021.jpg" thumbFile="images/pages/021-thumb.jpg"/>
+    <Page pageNum="21" file="images/pages/022.jpg" thumbFile="images/pages/022-thumb.jpg"/>
+    <Page pageNum="22" file="images/pages/023.jpg" thumbFile="images/pages/023-thumb.jpg"/>
+    <Page pageNum="23" file="images/pages/024.jpg" thumbFile="images/pages/024-thumb.jpg"/>
+    <Page pageNum="24" file="images/pages/025.jpg" thumbFile="images/pages/025-thumb.jpg"/>
+    <Page pageNum="25" file="images/pages/026.jpg" thumbFile="images/pages/026-thumb.jpg"/>
+  </Pages>
+  <Articles/>
+  <TOC>
+    <TocEntry title="Cover">
+      <Summary></Summary>
+      <Page pagenum="0"/>
+    </TocEntry>
+    <TocEntry title="Begin Reading">
+      <Summary></Summary>
+      <Page pagenum="1"/>
+    </TocEntry>
+  </TOC>
+</ReplicaMap>

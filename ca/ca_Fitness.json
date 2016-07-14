@@ -1,0 +1,1829 @@
+{
+  "request": "http://pnjanalyticsm01:6100/m/snack/contentStream?channel=Sports+%26+Fitness&snack_type=book&layout=list&rf=json&fields=title,ean,id,file_order,epub_path,publisher,epub_title,images,snack_type,id,startCfi,endCfi,pageshots", 
+  "response": {
+    "docs": [
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780203889268_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780203889268_p0_v1_s114x166.JPG", 
+        "ean": "9780203889268", 
+        "endCfi": "/6/48!/4/84/3", 
+        "epub_path": "/Taylor and Francis/68/9780203889268/9780203889268-ePub.v2.epub", 
+        "epub_title": "Sportscasters//Sportscasting: Principles and Practices", 
+        "file_order": [
+          "OEBPS/Text/20014dfav06_split_22.html"
+        ], 
+        "id": "9780203889268.19", 
+        "publisher": "TAYLOR & FRANCIS PUB.", 
+        "snack_type": "article", 
+        "startCfi": "/6/48!", 
+        "title": "U.S. SPORTS SPECTATORS"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781400842070_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781400842070_p0_v1_s114x166.JPG", 
+        "ean": "9781400842070", 
+        "endCfi": "/6/126!/4/2/66/3", 
+        "epub_path": "/Princeton University Press/70/9781400842070/9781400842070_epub.v2.epub", 
+        "epub_title": "Mathletics: How Gamblers, Managers, and Sports Enthusiasts Use Mathematics in Baseball, Basketball, and Football", 
+        "file_order": [
+          "OEBPS/chap51.xhtml"
+        ], 
+        "id": "9781400842070.57", 
+        "publisher": "PRINCETON UNIVERSITY PRESS - EBKS", 
+        "snack_type": "article", 
+        "startCfi": "/6/126!", 
+        "title": "51. Conclusions"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781101545171_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781101545171_p0_v1_s114x166.JPG", 
+        "ean": "9781101545171", 
+        "endCfi": "/6/56!/4/124/1", 
+        "epub_path": "/Penguin/71/9781101545171/9781101545171_epub.v2.epub", 
+        "epub_title": "Death to the BCS: Totally Revised and Updated: The Definitive Case Against the Bowl Championship Series", 
+        "file_order": [
+          "OEBPS/wetz_9781101545171_oeb_c20_r1.xhtml"
+        ], 
+        "id": "9781101545171.25", 
+        "publisher": "Penguin Group", 
+        "snack_type": "article", 
+        "startCfi": "/6/56!", 
+        "title": "20 - Death to the BCS"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780203889268_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780203889268_p0_v1_s114x166.JPG", 
+        "ean": "9780203889268", 
+        "endCfi": "/6/50!/4/24/1", 
+        "epub_path": "/Taylor and Francis/68/9780203889268/9780203889268-ePub.v2.epub", 
+        "epub_title": "Sportscasters//Sportscasting: Principles and Practices", 
+        "file_order": [
+          "OEBPS/Text/20014dfav06_split_23.html"
+        ], 
+        "id": "9780203889268.20", 
+        "publisher": "TAYLOR & FRANCIS PUB.", 
+        "snack_type": "article", 
+        "startCfi": "/6/50!", 
+        "title": "SPORTS SPECTATORS AROUND THE WORLD"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781443429603_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781443429603_p0_v1_s114x166.JPG", 
+        "ean": "9781443429603", 
+        "endCfi": "/6/54!/4/2/20/64/3", 
+        "epub_path": "/Harper Collins/03/9781443429603/9781443429603_epub.v2.epub", 
+        "epub_title": "The Best of Down Goes Brown: Greatest Hits and Brand New Classics-to-Be from Hockey's Most Hilarious Blog", 
+        "file_order": [
+          "OEBPS/9781118358436c21.xhtml"
+        ], 
+        "id": "9781443429603.25", 
+        "publisher": "HARPERCOLLINS", 
+        "snack_type": "article", 
+        "startCfi": "/6/54!", 
+        "title": "Chapter 21: Know Your Sports: The NHL vs. Soccer"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781409363583_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781409363583_p0_v1_s114x166.JPG", 
+        "ean": "9781409363583", 
+        "endCfi": "/6/26!/4/2[idh441161515_0051]/24/5", 
+        "epub_path": "/DKPublishing/83/9781409363583/9781409363583_epub.v2.epub", 
+        "epub_title": "The Great Lakes Rough Guides Snapshot USA (includes Ohio, Michigan, Indiana, Illinois, Chicago, Wisconsin and Minnesota)", 
+        "file_order": [
+          "OEBPS/idh441161515_0051.html"
+        ], 
+        "id": "9781409363583.24", 
+        "publisher": "DK", 
+        "snack_type": "article", 
+        "startCfi": "/6/26!", 
+        "title": "Sports"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781409363552_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781409363552_p0_v1_s114x166.JPG", 
+        "ean": "9781409363552", 
+        "endCfi": "/6/24!/4/2[idh441161515_0051]/24/5", 
+        "epub_path": "/DKPublishing/52/9781409363552/9781409363552_epub.v2.epub", 
+        "epub_title": "The Great Plains Rough Guides Snapshot USA (includes Missouri, Oklahoma, Kansas, Nebraska, Iowa, South Dakota and North Dakota)", 
+        "file_order": [
+          "OEBPS/idh441161515_0051.html"
+        ], 
+        "id": "9781409363552.23", 
+        "publisher": "DK", 
+        "snack_type": "article", 
+        "startCfi": "/6/24!", 
+        "title": "Sports"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781118012659_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781118012659_p0_v1_s114x166.JPG", 
+        "ean": "9781118012659", 
+        "endCfi": "/6/12!/4/2[x05-9781118012611-ch01]/2/134/6/2/1", 
+        "epub_path": "/Wiley/59/9781118012659/9781118012659_epub.v4.epub", 
+        "epub_title": "Football For Dummies", 
+        "file_order": [
+          "OEBPS/05_9781118012611-ch01.xhtml"
+        ], 
+        "id": "9781118012659.3", 
+        "images": [
+          "OEBPS/images/halloffame_fmt.jpeg,48.0,48.0", 
+          "OEBPS/images/howiesays_fmt.jpeg,48.0,48.0", 
+          "OEBPS/images/remember_fmt.jpeg,48.0,48.0", 
+          "OEBPS/images/tip_fmt.jpeg,48.0,50.0", 
+          "OEBPS/images/9781118012611-fg0101_fmt.jpeg,751.0,1050.0", 
+          "OEBPS/images/check.png,20.0,21.0", 
+          "OEBPS/images/arrow.png,17.0,18.0"
+        ], 
+        "publisher": "JOHN WILEY & SONS", 
+        "snack_type": "article", 
+        "startCfi": "/6/12!", 
+        "title": "Chapter 1 America's Greatest Game"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781101458785_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781101458785_p0_v1_s114x166.JPG", 
+        "ean": "9781101458785", 
+        "endCfi": "/6/72!/4/182/4/10/1", 
+        "epub_path": "/DKPublishing/85/9781101458785/9781101458785_epub.v2.epub", 
+        "epub_title": "The Complete Idiot's Guide to Understanding Football", 
+        "file_order": [
+          "OEBPS/beac_9781101458785_oeb_c26_r1.xhtml"
+        ], 
+        "id": "9781101458785.28", 
+        "images": [
+          "OEBPS/beac_9781101458785_oeb_221_r1.jpg,51.0,81.0", 
+          "OEBPS/beac_9781101458785_oeb_222_r1.jpg,81.0,70.0", 
+          "OEBPS/beac_9781101458785_oeb_223_r1.jpg,82.0,68.0", 
+          "OEBPS/beac_9781101458785_oeb_224_r1.jpg,81.0,57.0", 
+          "OEBPS/beac_9781101458785_oeb_225_r1.jpg,88.0,59.0", 
+          "OEBPS/beac_9781101458785_oeb_226_r1.jpg,84.0,58.0", 
+          "OEBPS/beac_9781101458785_oeb_227_r1.jpg,84.0,75.0"
+        ], 
+        "publisher": "DK", 
+        "snack_type": "article", 
+        "startCfi": "/6/72!", 
+        "title": "Chapter 26 - College Football"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780307565747_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780307565747_p0_v1_s114x166.JPG", 
+        "ean": "9780307565747", 
+        "endCfi": "/6/30!/4/192/5", 
+        "epub_path": "/Random House/47/9780307565747/9780307565747_epub.v3.epub", 
+        "epub_title": "Forty Million Dollar Slaves: The Rise, Fall, and Redemption of the Black Athlete", 
+        "file_order": [
+          "OEBPS/Rhod_9780307565747_epub_c06_r1.htm"
+        ], 
+        "id": "9780307565747.12", 
+        "images": [
+          "OEBPS/images/Rhod_9780307565747_epub_001_r1.jpg,88.0,7.0"
+        ], 
+        "publisher": "Random House", 
+        "snack_type": "article", 
+        "startCfi": "/6/30!", 
+        "title": "Chapter 6 - Style: The Dilemma of Appropriation"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780316095495_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780316095495_p0_v1_s114x166.JPG", 
+        "ean": "9780316095495", 
+        "endCfi": "/6/40!/4/8/2/1", 
+        "epub_path": "/Hachette Fiction/95/9780316095495/9780316095495-ePub.v1.epub", 
+        "epub_title": "Challenge at Second Base", 
+        "file_order": [
+          "OEBPS/ChallengeatSec_appe-1.html"
+        ], 
+        "id": "9780316095495.19", 
+        "images": [
+          "OEBPS/images/Art_ball.jpg,20.0,20.0", 
+          "OEBPS/images/Art_kite.jpg,23.0,27.0", 
+          "OEBPS/images/Art_rose.jpg,20.0,25.0", 
+          "OEBPS/images/Art_ovel.jpg,20.0,16.0", 
+          "OEBPS/images/Art_right.jpg,19.0,20.0", 
+          "OEBPS/images/Art_round.jpg,20.0,22.0", 
+          "OEBPS/images/Art_eye.jpg,22.0,14.0", 
+          "OEBPS/images/Art_basketball.jpg,21.0,20.0", 
+          "OEBPS/images/Art_wheel.jpg,20.0,21.0", 
+          "OEBPS/images/Art_horse.jpg,20.0,14.0", 
+          "OEBPS/images/Art_knief.jpg,27.0,20.0", 
+          "OEBPS/images/Art_spoon.jpg,18.0,18.0", 
+          "OEBPS/images/Art_shooe.jpg,20.0,18.0", 
+          "OEBPS/images/Art_axe.jpg,22.0,16.0"
+        ], 
+        "publisher": "Hachette Digital, Inc.", 
+        "snack_type": "article", 
+        "startCfi": "/6/40!", 
+        "title": "The #1 Sports Series for Kids: MATT CHRISTOPHER\u00ae"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780307591814_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780307591814_p0_v1_s114x166.JPG", 
+        "ean": "9780307591814", 
+        "endCfi": "/6/30!/4/196/10[c09-ftn17]/3", 
+        "epub_path": "/Random House/14/9780307591814/9780307591814_epub.v4.epub", 
+        "epub_title": "Scorecasting: The Hidden Influences Behind How Sports Are Played and Games Are Won", 
+        "file_order": [
+          "OEBPS/Mosk_9780307591814_epub_c09_r1.htm"
+        ], 
+        "id": "9780307591814.12", 
+        "images": [
+          "OEBPS/images/Mosk_9780307591814_epub_011_r1.gif,450.0,624.0", 
+          "OEBPS/images/Mosk_9780307591814_epub_L02_r1.jpg,127.0,3.0", 
+          "OEBPS/images/Mosk_9780307591814_epub_L03_r1.jpg,30.0,6.0"
+        ], 
+        "publisher": "Random House", 
+        "snack_type": "article", 
+        "startCfi": "/6/30!", 
+        "title": "Comforts of Home: How do conventional explanations for the home field advantage stack up?"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781101545171_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781101545171_p0_v1_s114x166.JPG", 
+        "ean": "9781101545171", 
+        "endCfi": "/6/16!/4/90/1", 
+        "epub_path": "/Penguin/71/9781101545171/9781101545171_epub.v2.epub", 
+        "epub_title": "Death to the BCS: Totally Revised and Updated: The Definitive Case Against the Bowl Championship Series", 
+        "file_order": [
+          "OEBPS/wetz_9781101545171_oeb_itr_r1.xhtml"
+        ], 
+        "id": "9781101545171.5", 
+        "publisher": "Penguin Group", 
+        "snack_type": "article", 
+        "startCfi": "/6/16!", 
+        "title": "Introduction"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781101545171_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781101545171_p0_v1_s114x166.JPG", 
+        "ean": "9781101545171", 
+        "endCfi": "/6/38!/4/90/1", 
+        "epub_path": "/Penguin/71/9781101545171/9781101545171_epub.v2.epub", 
+        "epub_title": "Death to the BCS: Totally Revised and Updated: The Definitive Case Against the Bowl Championship Series", 
+        "file_order": [
+          "OEBPS/wetz_9781101545171_oeb_c11_r1.xhtml"
+        ], 
+        "id": "9781101545171.16", 
+        "publisher": "Penguin Group", 
+        "snack_type": "article", 
+        "startCfi": "/6/38!", 
+        "title": "11 - Diluting the Regular Season"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781118012659_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781118012659_p0_v1_s114x166.JPG", 
+        "ean": "9781118012659", 
+        "endCfi": "/6/50!/4/2[x24-9781118012611-ch16]/2/228/6/1", 
+        "epub_path": "/Wiley/59/9781118012659/9781118012659_epub.v4.epub", 
+        "epub_title": "Football For Dummies", 
+        "file_order": [
+          "OEBPS/24_9781118012611-ch16.xhtml"
+        ], 
+        "id": "9781118012659.18", 
+        "images": [
+          "OEBPS/images/halloffame_fmt.jpeg,48.0,48.0", 
+          "OEBPS/images/howiesays_fmt.jpeg,48.0,48.0", 
+          "OEBPS/images/remember_fmt.jpeg,48.0,48.0", 
+          "OEBPS/images/tip_fmt.jpeg,48.0,50.0", 
+          "OEBPS/images/9781118012611-fg1601_fmt.jpeg,728.0,1050.0", 
+          "OEBPS/images/check.png,20.0,21.0", 
+          "OEBPS/images/arrow.png,17.0,18.0"
+        ], 
+        "publisher": "JOHN WILEY & SONS", 
+        "snack_type": "article", 
+        "startCfi": "/6/50!", 
+        "title": "Chapter 16 College Football - Where It All Started"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781101545171_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781101545171_p0_v1_s114x166.JPG", 
+        "ean": "9781101545171", 
+        "endCfi": "/6/48!/4/86/1", 
+        "epub_path": "/Penguin/71/9781101545171/9781101545171_epub.v2.epub", 
+        "epub_title": "Death to the BCS: Totally Revised and Updated: The Definitive Case Against the Bowl Championship Series", 
+        "file_order": [
+          "OEBPS/wetz_9781101545171_oeb_c16_r1.xhtml"
+        ], 
+        "id": "9781101545171.21", 
+        "publisher": "Penguin Group", 
+        "snack_type": "article", 
+        "startCfi": "/6/48!", 
+        "title": "16 - All in a GameDay\u2019s Work"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780345517487_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780345517487_p0_v1_s114x166.JPG", 
+        "ean": "9780345517487", 
+        "endCfi": "/6/42!/4/2[epl]/172/1", 
+        "epub_path": "/Random House/87/9780345517487/9780345517487-ePub.v1.epub", 
+        "epub_title": "Game On: How the Pressure to Win at All Costs Endangers Youth Sports, and What Parents Can Do About It", 
+        "file_order": [
+          "OEBPS/Farr_9780345517487_epub_epl_r1.htm"
+        ], 
+        "id": "9780345517487.19", 
+        "publisher": "Random House", 
+        "snack_type": "article", 
+        "startCfi": "/6/42!", 
+        "title": "Epilogue: Next: Palo Alto, California"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781623683177_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781623683177_p0_v1_s114x166.JPG", 
+        "ean": "9781623683177", 
+        "endCfi": "/6/48!/4[Let_Me_Be_Frank_ebook]/2/230/1", 
+        "epub_path": "/Independent Publishers Group EPUB/77/9781623683177/9781623683177_epub.v2.epub", 
+        "epub_title": "Let Me Be Frank: My Life at Virginia Tech", 
+        "file_order": [
+          "OEBPS/Let_Me_Be_Frank_ebook-22.xhtml"
+        ], 
+        "id": "9781623683177.22", 
+        "publisher": "INDEPENDENT PUB GROUP - EPUB - EBKS", 
+        "snack_type": "article", 
+        "startCfi": "/6/48!/4/2/2", 
+        "title": "20. College Football: The Game I Love"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780345517487_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780345517487_p0_v1_s114x166.JPG", 
+        "ean": "9780345517487", 
+        "endCfi": "/6/26!/4/164/1", 
+        "epub_path": "/Random House/87/9780345517487/9780345517487-ePub.v1.epub", 
+        "epub_title": "Game On: How the Pressure to Win at All Costs Endangers Youth Sports, and What Parents Can Do About It", 
+        "file_order": [
+          "OEBPS/Farr_9780345517487_epub_c07_r1.htm"
+        ], 
+        "id": "9780345517487.11", 
+        "publisher": "Random House", 
+        "snack_type": "article", 
+        "startCfi": "/6/26!", 
+        "title": "Chapter 7 - Follow the Money, Too: Concord, Massachusetts"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781935274261_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781935274261_p0_v1_s114x166.JPG", 
+        "ean": "9781935274261", 
+        "endCfi": "/6/20!/4/64", 
+        "epub_path": "/CD Baby/61/9781935274261/9781935274261_epub.v2.epub", 
+        "epub_title": "1001 Great Ideas for Teaching and Raising Children with Autism or Asperger's, Revised and Expanded 2nd Edition", 
+        "file_order": [
+          "OEBPS/10-page2.xhtml"
+        ], 
+        "id": "9781935274261.9", 
+        "publisher": "BOOK BABY - EBKS", 
+        "snack_type": "article", 
+        "startCfi": "/6/20!/4/44", 
+        "title": "To activity and beyond! Fifty ways to get them moving"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781620405086_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781620405086_p0_v1_s114x166.JPG", 
+        "ean": "9781620405086", 
+        "endCfi": "/6/12!/4/50/6/1", 
+        "epub_path": "/Bloomsbury USA Trade/86/9781620405086/9781620405086_epub.v2.epub", 
+        "epub_title": "Scribe: My Life in Sports", 
+        "file_order": [
+          "OPF/chapter_2.html"
+        ], 
+        "id": "9781620405086.3", 
+        "publisher": "BLOOMSBURY USA TRADE - EBKS", 
+        "snack_type": "article", 
+        "startCfi": "/6/12!", 
+        "title": "Chapter 2 \u201cThe Sportster\u201d"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780786748686_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780786748686_p0_v1_s114x166.JPG", 
+        "ean": "9780786748686", 
+        "endCfi": "/6/52!/4/156/2", 
+        "epub_path": "/Perseus/86/9780786748686/9780786748686-ePub.v1.epub", 
+        "epub_title": "The Men They Will Become: The Nature And Nurture Of Male Character", 
+        "file_order": [
+          "OEBPS/bano_9780786748686_oeb_c20_r1.html"
+        ], 
+        "id": "9780786748686.127", 
+        "publisher": "PERSEUS", 
+        "snack_type": "article", 
+        "startCfi": "/6/52!/4/134/2", 
+        "title": "The Decline of Play"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781250011725_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781250011725_p0_v1_s114x166.JPG", 
+        "ean": "9781250011725", 
+        "endCfi": "/6/14!/4/66/5", 
+        "epub_path": "/Macmillan/25/9781250011725/9781250011725_epub.v2.epub", 
+        "epub_title": "The King of Sports: Football's Impact on America", 
+        "file_order": [
+          "OEBPS/xhtml/preface.html"
+        ], 
+        "id": "9781250011725.5", 
+        "publisher": "Macmillan", 
+        "snack_type": "article", 
+        "startCfi": "/6/14!", 
+        "title": "Preface"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781628870466_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781628870466_p0_v1_s114x166.JPG", 
+        "ean": "9781628870466", 
+        "endCfi": "/6/30!/4/220/2/17", 
+        "epub_path": "/Perseus/66/9781628870466/9781628870466_epub.v2.epub", 
+        "epub_title": "Frommer's EasyGuide to Washington, D.C. 2014", 
+        "file_order": [
+          "OEBPS/Chapter08.html"
+        ], 
+        "id": "9781628870466.48", 
+        "images": [
+          "OEBPS/images/tel.jpg,12.0,15.0", 
+          "OEBPS/images/telb.jpg,12.0,15.0"
+        ], 
+        "publisher": "PERSEUS", 
+        "snack_type": "article", 
+        "startCfi": "/6/30!/4/198", 
+        "title": "Spectator Sports"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780252090288_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780252090288_p0_v1_s114x166.JPG", 
+        "ean": "9780252090288", 
+        "endCfi": "/6/60!/4/804/1", 
+        "epub_path": "/Ingram Digital EBKS 52/88/9780252090288/9780252090288_epub.v2.epub", 
+        "epub_title": "Pay for Play: A History of Big-Time College Athletic Reform", 
+        "file_order": [
+          "OPS/xhtml/backmatter02.html"
+        ], 
+        "id": "9780252090288.28", 
+        "publisher": "INGRAM DIGITAL 52.5 - EBKS", 
+        "snack_type": "article", 
+        "startCfi": "/6/60!", 
+        "title": "Intercollegiate Athletic Reform Timeline"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780544301979_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780544301979_p0_v1_s114x166.JPG", 
+        "ean": "9780544301979", 
+        "endCfi": "/6/20!/4/138/1", 
+        "epub_path": "/Houghton Mifflin Harcourt/79/9780544301979/9780544301979_epub.v2.epub", 
+        "epub_title": "The Best American Sports Writing 2014", 
+        "file_order": [
+          "OPS/c05.xml"
+        ], 
+        "id": "9780544301979.8", 
+        "publisher": "HOUGHTON MIFFLIN", 
+        "snack_type": "article", 
+        "startCfi": "/6/20!", 
+        "title": "AMANDA RIPLEY\n  The Case Against High School Sports"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781586486174_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781586486174_p0_v1_s114x166.JPG", 
+        "ean": "9781586486174", 
+        "endCfi": "/6/110!/4/30/1", 
+        "epub_path": "/Perseus/74/9781586486174/9781586486174_epub.v4.epub", 
+        "epub_title": "Common Nonsense", 
+        "file_order": [
+          "OEBPS/andy_9781586486174_oeb_c46_r1.html"
+        ], 
+        "id": "9781586486174.48", 
+        "publisher": "PERSEUS", 
+        "snack_type": "article", 
+        "startCfi": "/6/110!", 
+        "title": "SPORTS RULES"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781743218266_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781743218266_p0_v1_s114x166.JPG", 
+        "ean": "9781743218266", 
+        "endCfi": "/6/144!/4/2/58[ref-259]/10/5", 
+        "epub_path": "/LonelyPlanet/66/9781743218266/9781743218266_epub.v2.epub", 
+        "epub_title": "Lonely Planet Chicago", 
+        "file_order": [
+          "content/34-sports-chg7.html"
+        ], 
+        "id": "9781743218266.54", 
+        "images": [
+          "content/images/icon-phone.gif,18.0,15.0"
+        ], 
+        "publisher": "LONELY PLANET", 
+        "snack_type": "article", 
+        "startCfi": "/6/144!", 
+        "title": "Sports"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780991275687_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780991275687_p0_v1_s114x166.JPG", 
+        "ean": "9780991275687", 
+        "endCfi": "/6/42!/4/2/182/3", 
+        "epub_path": "/Book Masters/87/9780991275687/9780991275687_epub.v2.epub", 
+        "epub_title": "Passing The Torch: Building Winning Football Programs... with a Dose of Swagger Along the Way", 
+        "file_order": [
+          "OEBPS/20_Chapter13.xhtml"
+        ], 
+        "id": "9780991275687.19", 
+        "publisher": "BOOKMASTERS DISTRIBUTION SERVICES", 
+        "snack_type": "article", 
+        "startCfi": "/6/42!", 
+        "title": "Chapter 13: My Last Press Conference (Maybe)"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781250011725_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781250011725_p0_v1_s114x166.JPG", 
+        "ean": "9781250011725", 
+        "endCfi": "/6/16!/4/120/2/1", 
+        "epub_path": "/Macmillan/25/9781250011725/9781250011725_epub.v2.epub", 
+        "epub_title": "The King of Sports: Football's Impact on America", 
+        "file_order": [
+          "OEBPS/xhtml/chapter1.html"
+        ], 
+        "id": "9781250011725.6", 
+        "publisher": "Macmillan", 
+        "snack_type": "article", 
+        "startCfi": "/6/16!", 
+        "title": "1. The View from Fancy Gap"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780807097564_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780807097564_p0_v1_s114x166.JPG", 
+        "ean": "9780807097564", 
+        "endCfi": "/6/18!/4/94/1:411", 
+        "epub_path": "/Beacon Press/64/9780807097564/9780807097564-ePub.v2.epub", 
+        "epub_title": "Until It Hurts: America's Obsession with Youth Sports and How It Harms Our Kids", 
+        "file_order": [
+          "OEBPS/9780807021187_chap-3.html"
+        ], 
+        "id": "9780807097564.6", 
+        "publisher": "RANDOM HOUSE DISTR. CLIENTS - EBKS", 
+        "snack_type": "article", 
+        "startCfi": "/6/18!", 
+        "title": "Chapter 3 - Parental Payoff"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781250024848_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781250024848_p0_v1_s114x166.JPG", 
+        "ean": "9781250024848", 
+        "endCfi": "/6/42!/4/100/1", 
+        "epub_path": "/Macmillan/48/9781250024848/9781250024848_epub.v2.epub", 
+        "epub_title": "Unbeatable: Notre Dame's 1988 Championship and the Last Great College Football Season", 
+        "file_order": [
+          "OEBPS/xhtml/chapter16.html"
+        ], 
+        "id": "9781250024848.18", 
+        "publisher": "Macmillan", 
+        "snack_type": "article", 
+        "startCfi": "/6/42!", 
+        "title": "Chapter 16. TV Revolution and the Renegade Bowl"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781626369689_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781626369689_p0_v1_s114x166.JPG", 
+        "ean": "9781626369689", 
+        "endCfi": "/6/28!/4/2/14/2", 
+        "epub_path": "/Perseus/89/9781626369689/9781626369689_epub.v2.epub", 
+        "epub_title": "Surf Survival: The Surfer's Health Handbook", 
+        "file_order": [
+          "OEBPS/e9781616083182_c04.html"
+        ], 
+        "id": "9781626369689.26", 
+        "images": [
+          "OEBPS/images/e9781616083182_i0079.jpg,176.0,176.0", 
+          "OEBPS/images/e9781616083182_i0081.jpg,1721.0,1148.0"
+        ], 
+        "publisher": "PERSEUS", 
+        "snack_type": "article", 
+        "startCfi": "/6/28!/4/2/12/2", 
+        "title": "HOW DANGEROUS IS SURFING?"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781449424725_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781449424725_p0_v1_s114x166.JPG", 
+        "ean": "9781449424725", 
+        "endCfi": "/6/12!/4/112/1", 
+        "epub_path": "/AMUniversal/25/9781449424725/9781449424725_epub.v2.epub", 
+        "epub_title": "Lamar Hunt: A Life in Sports", 
+        "file_order": [
+          "OEBPS/prologue.xhtml"
+        ], 
+        "id": "9781449424725.4", 
+        "publisher": "ANDREWS MCMEEL PUBLISHING - EBKS", 
+        "snack_type": "article", 
+        "startCfi": "/6/12!", 
+        "title": "Prologue"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780062257352_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780062257352_p0_v1_s114x166.JPG", 
+        "ean": "9780062257352", 
+        "endCfi": "/6/24!/4/2/212/1", 
+        "epub_path": "/Harper Collins/52/9780062257352/9780062257352_epub.v2.epub", 
+        "epub_title": "You Are Not Special", 
+        "file_order": [
+          "OEBPS/text/9780062257352_Chapter_6.xhtml"
+        ], 
+        "id": "9780062257352.9", 
+        "publisher": "HARPERCOLLINS", 
+        "snack_type": "article", 
+        "startCfi": "/6/24!/4/2/2", 
+        "title": "6 Rah, Rah"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781101545171_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781101545171_p0_v1_s114x166.JPG", 
+        "ean": "9781101545171", 
+        "endCfi": "/6/18!/4/64/1", 
+        "epub_path": "/Penguin/71/9781101545171/9781101545171_epub.v2.epub", 
+        "epub_title": "Death to the BCS: Totally Revised and Updated: The Definitive Case Against the Bowl Championship Series", 
+        "file_order": [
+          "OEBPS/wetz_9781101545171_oeb_c01_r1.xhtml"
+        ], 
+        "id": "9781101545171.6", 
+        "publisher": "Penguin Group", 
+        "snack_type": "article", 
+        "startCfi": "/6/18!", 
+        "title": "1 - The Plan"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781614520139_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781614520139_p0_v1_s114x166.JPG", 
+        "ean": "9781614520139", 
+        "endCfi": "/6/20!/4/24/1", 
+        "epub_path": "/Vook Inc/39/9781614520139/9781614520139_epub.v2.epub", 
+        "epub_title": "The Cartel: Inside the Rise and Imminent Fall of the NCAA", 
+        "file_order": [
+          "OPS/section_body_06.html"
+        ], 
+        "id": "9781614520139.8", 
+        "images": [
+          "OPS/image004.png,600.0,485.0"
+        ], 
+        "publisher": "VOOK - EBKS", 
+        "snack_type": "article", 
+        "startCfi": "/6/20!", 
+        "title": "Chapter Six: \u201cWe\u2019re the Whoremasters\u201d: Coaches and Scapegoats"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780812209129_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780812209129_p0_v1_s114x166.JPG", 
+        "ean": "9780812209129", 
+        "endCfi": "/6/24!/4/152/1", 
+        "epub_path": "/Ingram Digital Trade/29/9780812209129/9780812209129_epub.v6.epub", 
+        "epub_title": "The Sabermetric Revolution: Assessing the Growth of Analytics in Baseball", 
+        "file_order": [
+          "OPS/xhtml/chapter05.html"
+        ], 
+        "id": "9780812209129.10", 
+        "images": [
+          "OPS/images/f0096-01.jpg,561.0,388.0", 
+          "OPS/images/line.jpg,107.0,1.0"
+        ], 
+        "publisher": "INGRAM DIGITAL TRADE - EBKS", 
+        "snack_type": "article", 
+        "startCfi": "/6/24!/4/2/4", 
+        "title": "5. The Moneyball Diaspora"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780062083548_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780062083548_p0_v1_s114x166.JPG", 
+        "ean": "9780062083548", 
+        "endCfi": "/6/44!/4/108/1", 
+        "epub_path": "/Harper Collins/48/9780062083548/9780062083548_epub.v2.epub", 
+        "epub_title": "The Seventeen Solutions: New Ideas for Our American Future", 
+        "file_order": [
+          "OEBPS/Text/9780062083548_Chapter17.xhtml"
+        ], 
+        "id": "9780062083548.21", 
+        "images": [
+          "OEBPS/Images/9780062083548_Line.png,100.0,1.0"
+        ], 
+        "publisher": "HARPERCOLLINS", 
+        "snack_type": "article", 
+        "startCfi": "/6/44!", 
+        "title": "17. Get Back on the Field\u2014Literally"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781250011725_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781250011725_p0_v1_s114x166.JPG", 
+        "ean": "9781250011725", 
+        "endCfi": "/6/30!/4/344/2/1", 
+        "epub_path": "/Macmillan/25/9781250011725/9781250011725_epub.v2.epub", 
+        "epub_title": "The King of Sports: Football's Impact on America", 
+        "file_order": [
+          "OEBPS/xhtml/chapter8.html"
+        ], 
+        "id": "9781250011725.13", 
+        "publisher": "Macmillan", 
+        "snack_type": "article", 
+        "startCfi": "/6/30!", 
+        "title": "8. The 5-Star Invitation-Only Elite Showcase"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780203889268_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780203889268_p0_v1_s114x166.JPG", 
+        "ean": "9780203889268", 
+        "endCfi": "/6/118!/4/22/1", 
+        "epub_path": "/Taylor and Francis/68/9780203889268/9780203889268-ePub.v2.epub", 
+        "epub_title": "Sportscasters//Sportscasting: Principles and Practices", 
+        "file_order": [
+          "OEBPS/Text/20014dfav06_split_57.html"
+        ], 
+        "id": "9780203889268.86", 
+        "publisher": "TAYLOR & FRANCIS PUB.", 
+        "snack_type": "article", 
+        "startCfi": "/6/118!", 
+        "title": "YOU AND THE FUTURE OF SPORTSCASTERS/SPORTSCASTING"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781612194165_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781612194165_p0_v1_s114x166.JPG", 
+        "ean": "9781612194165", 
+        "endCfi": "/6/34!/4/140/1", 
+        "epub_path": "/Random House Distribution/65/9781612194165/9781612194165_epub.v2.epub", 
+        "epub_title": "Against Football: One Fan's Reluctant Manifesto", 
+        "file_order": [
+          "OEBPS/Almo_9781612194165_epub_c08_r1.htm"
+        ], 
+        "id": "9781612194165.14", 
+        "publisher": "RANDOM HOUSE DISTR. CLIENTS - EBKS", 
+        "snack_type": "article", 
+        "startCfi": "/6/34!", 
+        "title": "8. Their Sons Grow Suicidally Beautiful"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781136066771_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781136066771_p0_v1_s114x166.JPG", 
+        "ean": "9781136066771", 
+        "endCfi": "/6/36!/4/92", 
+        "epub_path": "/Taylor and Francis/71/9781136066771/9781136066771_epub.v2.epub", 
+        "epub_title": "Television Sports Production", 
+        "file_order": [
+          "ops/xhtml/ch07.xhtml"
+        ], 
+        "id": "9781136066771.71", 
+        "publisher": "TAYLOR & FRANCIS PUB.", 
+        "snack_type": "article", 
+        "startCfi": "/6/36!/4/76", 
+        "title": "Continuous Action Sports "
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781568584805_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781568584805_p0_v1_s114x166.JPG", 
+        "ean": "9781568584805", 
+        "endCfi": "/6/64!/4/50/2/1", 
+        "epub_path": "/Perseus/05/9781568584805/9781568584805_epub.v2.epub", 
+        "epub_title": "Soccernomics: Why England Loses, Why Spain, Germany, and Brazil Win, and Why the U.S., Japan, Australia--and Even Iraq--Are Destined to Become the Kings of the World's Most Popular Sport", 
+        "file_order": [
+          "OEBPS/Chapter021.html"
+        ], 
+        "id": "9781568584805.27", 
+        "publisher": "PERSEUS", 
+        "snack_type": "article", 
+        "startCfi": "/6/64!/4/2", 
+        "title": "21: Afterword: The Best of Times"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780203889268_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780203889268_p0_v1_s114x166.JPG", 
+        "ean": "9780203889268", 
+        "endCfi": "/6/34!/4/48/1", 
+        "epub_path": "/Taylor and Francis/68/9780203889268/9780203889268-ePub.v2.epub", 
+        "epub_title": "Sportscasters//Sportscasting: Principles and Practices", 
+        "file_order": [
+          "OEBPS/Text/20014dfav06_split_15.html"
+        ], 
+        "id": "9780203889268.12", 
+        "publisher": "TAYLOR & FRANCIS PUB.", 
+        "snack_type": "article", 
+        "startCfi": "/6/34!/4/2/2", 
+        "title": "SPORTS ADVERTISERS AND ADVERTISING"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781450468053_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781450468053_p0_v1_s114x166.JPG", 
+        "ean": "9781450468053", 
+        "endCfi": "/6/58!/4/582", 
+        "epub_path": "/Human Kinetics/53/9781450468053/9781450468053_epub.v2.epub", 
+        "epub_title": "Foundations of Sport and Exercise Psychology, Fifth Edition", 
+        "file_order": [
+          "OEBPS/ch16.htm"
+        ], 
+        "id": "9781450468053.136", 
+        "images": [
+          "OEBPS/images/386-1.png,309.0,53.0", 
+          "OEBPS/images/387-2.png,309.0,70.0", 
+          "OEBPS/images/388-1.png,345.0,58.0", 
+          "OEBPS/images/388-2.png,623.0,454.0", 
+          "OEBPS/images/390-1.png,640.0,410.0", 
+          "OEBPS/images/391-1.png,346.0,75.0", 
+          "OEBPS/images/391-2.png,400.0,242.0", 
+          "OEBPS/images/square.png,7.0,7.0"
+        ], 
+        "publisher": "HUMAN KINETICS", 
+        "snack_type": "article", 
+        "startCfi": "/6/58!/4/442", 
+        "title": "Improving Concentration"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781250011725_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781250011725_p0_v1_s114x166.JPG", 
+        "ean": "9781250011725", 
+        "endCfi": "/6/36!/4/374/2/1", 
+        "epub_path": "/Macmillan/25/9781250011725/9781250011725_epub.v2.epub", 
+        "epub_title": "The King of Sports: Football's Impact on America", 
+        "file_order": [
+          "OEBPS/xhtml/chapter11.html"
+        ], 
+        "id": "9781250011725.16", 
+        "publisher": "Macmillan", 
+        "snack_type": "article", 
+        "startCfi": "/6/36!", 
+        "title": "11. Inside a Football Game"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781451627848_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781451627848_p0_v1_s114x166.JPG", 
+        "ean": "9781451627848", 
+        "endCfi": "/6/34!/4/106/3", 
+        "epub_path": "/SimonAndSchuster/48/9781451627848/9781451627848_epub.v8.epub", 
+        "epub_title": "Season of Saturdays: A History of College Football in 14 Games", 
+        "file_order": [
+          "ops/xhtml/ch11.html"
+        ], 
+        "id": "9781451627848.15", 
+        "images": [
+          "ops/images/f0169-01.jpg,400.0,212.0"
+        ], 
+        "publisher": "SIMON & SCHUSTER", 
+        "snack_type": "article", 
+        "startCfi": "/6/34!", 
+        "title": "Boise State 43, Oklahoma 42 (Fiesta Bowl): January 1, 2007"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780062046529_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780062046529_p0_v1_s114x166.JPG", 
+        "ean": "9780062046529", 
+        "endCfi": "/6/30!/4/284/5", 
+        "epub_path": "/Harper Collins/29/9780062046529/9780062046529_epub.v4.epub", 
+        "epub_title": "The Egoscue Method of Health Through Motion: Revolutionary Program of Stretching and", 
+        "file_order": [
+          "OEBPS/9780062046529_epub_c07_r1.htm"
+        ], 
+        "id": "9780062046529.13", 
+        "publisher": "HARPERCOLLINS", 
+        "snack_type": "article", 
+        "startCfi": "/6/30!", 
+        "title": "7 - The Games We Play"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781401305468_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781401305468_p0_v1_s114x166.JPG", 
+        "ean": "9781401305468", 
+        "endCfi": "/6/64!/4/164/1", 
+        "epub_path": "/Hachette Non-Fiction/68/9781401305468/9781401305468_epub.v3.epub", 
+        "epub_title": "Going Deep: How Wide Receivers Became the Most Compelling Figures in Pro Sports", 
+        "file_order": [
+          "OEBPS/chapter006.html"
+        ], 
+        "id": "9781401305468.29", 
+        "publisher": "Hachette Digital, Inc.", 
+        "snack_type": "article", 
+        "startCfi": "/6/64!", 
+        "title": "Chapter 6: From Hardwoods to a Hard Game"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780804137904_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780804137904_p0_v1_s114x166.JPG", 
+        "ean": "9780804137904", 
+        "endCfi": "/6/28!/4/72/1", 
+        "epub_path": "/Random House/04/9780804137904/9780804137904_epub.v2.epub", 
+        "epub_title": "You Herd Me!: I'll Say It If Nobody Else Will", 
+        "file_order": [
+          "OEBPS/Cowh_9780804137904_epub_c04_r1.htm"
+        ], 
+        "id": "9780804137904.7", 
+        "publisher": "Random House", 
+        "snack_type": "article", 
+        "startCfi": "/6/28!", 
+        "title": "The Cult of (Bad) Personality"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780786731046_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780786731046_p0_v1_s114x166.JPG", 
+        "ean": "9780786731046", 
+        "endCfi": "/6/26!/4/64/3:2", 
+        "epub_path": "/Perseus/46/9780786731046/9780786731046-ePub.v1.epub", 
+        "epub_title": "The Odds: One Season, Three Gamblers And The Death Of Their Las Vegas", 
+        "file_order": [
+          "OEBPS/bano_9780786731046_oeb_c06_r1.html"
+        ], 
+        "id": "9780786731046.11", 
+        "publisher": "PERSEUS", 
+        "snack_type": "article", 
+        "startCfi": "/6/26!", 
+        "title": "Chapter 6 - Hi Mom! My Bookie Called, Send Money"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780061877681_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780061877681_p0_v1_s114x166.JPG", 
+        "ean": "9780061877681", 
+        "endCfi": "/6/12!/4/2[ch02]/6/94/5", 
+        "epub_path": "/Harper Collins/81/9780061877681/9780061877681_epub.v1.epub", 
+        "epub_title": "The Girls Of Summer", 
+        "file_order": [
+          "OEBPS/chapter2.xhtml"
+        ], 
+        "id": "9780061877681.4", 
+        "publisher": "Harpercollins", 
+        "snack_type": "article", 
+        "startCfi": "/6/12!", 
+        "title": "Chapter 2"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780465021567_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780465021567_p0_v1_s114x166.JPG", 
+        "ean": "9780465021567", 
+        "endCfi": "/6/26!/4/94/2", 
+        "epub_path": "/Perseus/67/9780465021567/9780465021567-ePub.v2.epub", 
+        "epub_title": "Girls on the Edge: The Four Factors Driving the New Crisis for Girls--Sexual Identity, the Cyberbubble, Obsessions, Envi", 
+        "file_order": [
+          "OEBPS/leon_9780465021567_oeb_c06_r1.html"
+        ], 
+        "id": "9780465021567.47", 
+        "images": [
+          "OEBPS/leon_9780465021567_oeb_025_r1.jpg,416.0,622.0"
+        ], 
+        "publisher": "PERSEUS", 
+        "snack_type": "article", 
+        "startCfi": "/6/26!/4/48/2", 
+        "title": "which are the most dangerous sports?"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781250011725_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781250011725_p0_v1_s114x166.JPG", 
+        "ean": "9781250011725", 
+        "endCfi": "/6/38!/4/96/1", 
+        "epub_path": "/Macmillan/25/9781250011725/9781250011725_epub.v2.epub", 
+        "epub_title": "The King of Sports: Football's Impact on America", 
+        "file_order": [
+          "OEBPS/xhtml/chapter12.html"
+        ], 
+        "id": "9781250011725.17", 
+        "publisher": "Macmillan", 
+        "snack_type": "article", 
+        "startCfi": "/6/38!", 
+        "title": "12. The Future of Football"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781620405086_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781620405086_p0_v1_s114x166.JPG", 
+        "ean": "9781620405086", 
+        "endCfi": "/6/56!/4/118/2/1", 
+        "epub_path": "/Bloomsbury USA Trade/86/9781620405086/9781620405086_epub.v2.epub", 
+        "epub_title": "Scribe: My Life in Sports", 
+        "file_order": [
+          "OPF/chapter_24.html"
+        ], 
+        "id": "9781620405086.25", 
+        "publisher": "BLOOMSBURY USA TRADE - EBKS", 
+        "snack_type": "article", 
+        "startCfi": "/6/56!", 
+        "title": "Chapter 24 Violence Mixed with Chivalry"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780465028184_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780465028184_p0_v1_s114x166.JPG", 
+        "ean": "9780465028184", 
+        "endCfi": "/6/28!/4/88/2", 
+        "epub_path": "/Perseus/84/9780465028184/9780465028184_epub.v2.epub", 
+        "epub_title": "Girls on the Edge: The Four Factors Driving the New Crisis for Girls--Sexual Identity, the Cyberbubble, Obsessions, Envi", 
+        "file_order": [
+          "OEBPS/leon_9780465028184_oeb_c06_r1.html"
+        ], 
+        "id": "9780465028184.48", 
+        "images": [
+          "OEBPS/leon_9780465028184_oeb_024_r1.jpg,376.0,556.0"
+        ], 
+        "publisher": "PERSEUS", 
+        "snack_type": "article", 
+        "startCfi": "/6/28!/4/42/2", 
+        "title": "which are the most dangerous sports?"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780807097564_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780807097564_p0_v1_s114x166.JPG", 
+        "ean": "9780807097564", 
+        "endCfi": "/6/30!/4/94/1:818", 
+        "epub_path": "/Beacon Press/64/9780807097564/9780807097564-ePub.v2.epub", 
+        "epub_title": "Until It Hurts: America's Obsession with Youth Sports and How It Harms Our Kids", 
+        "file_order": [
+          "OEBPS/9780807021187_chap-9.html"
+        ], 
+        "id": "9780807097564.12", 
+        "publisher": "RANDOM HOUSE DISTR. CLIENTS - EBKS", 
+        "snack_type": "article", 
+        "startCfi": "/6/30!", 
+        "title": "Chapter 9 - A Return to Fundamentals"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781614520139_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781614520139_p0_v1_s114x166.JPG", 
+        "ean": "9781614520139", 
+        "endCfi": "/6/28!/4/24/1", 
+        "epub_path": "/Vook Inc/39/9781614520139/9781614520139_epub.v2.epub", 
+        "epub_title": "The Cartel: Inside the Rise and Imminent Fall of the NCAA", 
+        "file_order": [
+          "OPS/section_body_10.html"
+        ], 
+        "id": "9781614520139.12", 
+        "publisher": "VOOK - EBKS", 
+        "snack_type": "article", 
+        "startCfi": "/6/28!", 
+        "title": "Chapter Ten: Gender Wars"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781118376492_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781118376492_p0_v1_s114x166.JPG", 
+        "ean": "9781118376492", 
+        "endCfi": "/6/10!/4/2[x04_9781118376508-ch01.html]/2/202/1", 
+        "epub_path": "/Wiley/92/9781118376492/9781118376492_epub.v4.epub", 
+        "epub_title": "Football Rules & Positions In A Day For Dummies", 
+        "file_order": [
+          "OEBPS/04_9781118376508-ch01.html"
+        ], 
+        "id": "9781118376492.3", 
+        "images": [
+          "OEBPS/images/5minuteexercise_fmt.png,83.0,83.0", 
+          "OEBPS/images/exploresomemore_fmt.png,83.0,83.0", 
+          "OEBPS/images/remember_4c_fmt.png,83.0,83.0", 
+          "OEBPS/images/9781118376508-fg0101_fmt.png,534.0,637.0", 
+          "OEBPS/images/9781118376508-fg0102_fmt.png,348.0,327.0", 
+          "OEBPS/images/9781118376508-fg0103_fmt.png,237.0,339.0", 
+          "OEBPS/images/check.png,20.0,21.0", 
+          "OEBPS/images/arrow.png,17.0,18.0"
+        ], 
+        "publisher": "JOHN WILEY & SONS", 
+        "snack_type": "article", 
+        "startCfi": "/6/10!", 
+        "title": "Chapter 1: America's Greatest Game"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781623686987_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781623686987_p0_v1_s114x166.JPG", 
+        "ean": "9781623686987", 
+        "endCfi": "/6/32!/4/240/1", 
+        "epub_path": "/Independent Publishers Group EPUB/87/9781623686987/9781623686987_epub.v2.epub", 
+        "epub_title": "The Game: 30th Anniversary Edition", 
+        "file_order": [
+          "OEBPS/015_Chapter07.html"
+        ], 
+        "id": "9781623686987.11", 
+        "images": [
+          "OEBPS/images/line2.jpg,98.0,1.0"
+        ], 
+        "publisher": "INDEPENDENT PUB GROUP - EPUB - EBKS", 
+        "snack_type": "article", 
+        "startCfi": "/6/32!/4/2", 
+        "title": "Sunday"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781568584805_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781568584805_p0_v1_s114x166.JPG", 
+        "ean": "9781568584805", 
+        "endCfi": "/6/40!/4/192/2/1", 
+        "epub_path": "/Perseus/05/9781568584805/9781568584805_epub.v2.epub", 
+        "epub_title": "Soccernomics: Why England Loses, Why Spain, Germany, and Brazil Win, and Why the U.S., Japan, Australia--and Even Iraq--Are Destined to Become the Kings of the World's Most Popular Sport", 
+        "file_order": [
+          "OEBPS/Chapter011.html"
+        ], 
+        "id": "9781568584805.17", 
+        "images": [
+          "OEBPS/images/f0202-01.jpg,696.0,336.0"
+        ], 
+        "publisher": "PERSEUS", 
+        "snack_type": "article", 
+        "startCfi": "/6/40!/4/2", 
+        "title": "11: Football Versus Football"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780062007759_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780062007759_p0_v1_s114x166.JPG", 
+        "ean": "9780062007759", 
+        "endCfi": "/6/12!/4/2[itr]/154/8/1", 
+        "epub_path": "/Harper Collins/59/9780062007759/9780062007759_epub.v6.epub", 
+        "epub_title": "Men at Work: The Craft of Baseball", 
+        "file_order": [
+          "OEBPS/006_itr.htm"
+        ], 
+        "id": "9780062007759.3", 
+        "images": [
+          "OEBPS/images/9780062007759_L01.png,90.0,10.0"
+        ], 
+        "publisher": "HARPERCOLLINS", 
+        "snack_type": "article", 
+        "startCfi": "/6/12!", 
+        "title": "INTRODUCTION"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781451627848_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781451627848_p0_v1_s114x166.JPG", 
+        "ean": "9781451627848", 
+        "endCfi": "/6/20!/4/172/5", 
+        "epub_path": "/SimonAndSchuster/48/9781451627848/9781451627848_epub.v8.epub", 
+        "epub_title": "Season of Saturdays: A History of College Football in 14 Games", 
+        "file_order": [
+          "ops/xhtml/ch04.html"
+        ], 
+        "id": "9781451627848.8", 
+        "images": [
+          "ops/images/f0055-01.jpg,400.0,212.0"
+        ], 
+        "publisher": "SIMON & SCHUSTER", 
+        "snack_type": "article", 
+        "startCfi": "/6/20!", 
+        "title": "Notre Dame 10, Michigan State 10: November 11, 1966"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781118092675_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781118092675_p0_v1_s114x166.JPG", 
+        "ean": "9781118092675", 
+        "endCfi": "/6/40!/4/2[x19_9781118073742-ch12.html]/2/306/1", 
+        "epub_path": "/Wiley/75/9781118092675/9781118092675_epub.v2.epub", 
+        "epub_title": "Basketball For Dummies", 
+        "file_order": [
+          "OEBPS/19_9781118073742-ch12.html"
+        ], 
+        "id": "9781118092675.15", 
+        "images": [
+          "OEBPS/images/diggersays_fmt.jpeg,102.0,100.0", 
+          "OEBPS/images/fantip_fmt.jpeg,102.0,100.0", 
+          "OEBPS/images/halloffame_fmt.jpeg,102.0,100.0", 
+          "OEBPS/images/officialspeak_fmt.jpeg,102.0,100.0", 
+          "OEBPS/images/9781118073742-fg1201_fmt.jpeg,1400.0,2100.0", 
+          "OEBPS/images/check.png,20.0,21.0", 
+          "OEBPS/images/arrow.png,17.0,18.0", 
+          "OEBPS/images/9781118073742-tb1201.jpg,1400.0,451.0", 
+          "OEBPS/images/9781118073742-tb1202.jpg,1400.0,637.0", 
+          "OEBPS/images/9781118073742-untb1201.jpg,1272.0,579.0"
+        ], 
+        "publisher": "JOHN WILEY & SONS", 
+        "snack_type": "article", 
+        "startCfi": "/6/40!", 
+        "title": "Chapter 12: College Basketball"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781312053588_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781312053588_p0_v1_s114x166.JPG", 
+        "ean": "9781312053588", 
+        "endCfi": "/6/10!/4/446/1", 
+        "epub_path": "/Lulu Press/88/9781312053588/9781312053588_epub.v1.epub", 
+        "epub_title": "Basketball Primer: The Essential Basketball Handbook", 
+        "file_order": [
+          "Ops/005.html"
+        ], 
+        "id": "9781312053588.5", 
+        "publisher": "LULU PRESS", 
+        "snack_type": "article", 
+        "startCfi": "/6/10!", 
+        "title": "at organized sports or are spending their time inside watching TV or being on the computer, it is a good idea to have some sort of activity for them to play outside."
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780061872358_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780061872358_p0_v1_s114x166.JPG", 
+        "ean": "9780061872358", 
+        "endCfi": "/6/26!/4[text]/2[ch08]/4/46/1", 
+        "epub_path": "/Harper Collins/58/9780061872358/9780061872358_epub.v5.epub", 
+        "epub_title": "We Are Our Mothers' Daughters: Revised and Expanded Edition", 
+        "file_order": [
+          "OEBPS/weareourmothersdaughters_ch08.html"
+        ], 
+        "id": "9780061872358.10", 
+        "publisher": "HARPERCOLLINS", 
+        "snack_type": "article", 
+        "startCfi": "/6/26!/4/2", 
+        "title": "Athlete"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781592138869_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781592138869_p0_v1_s114x166.JPG", 
+        "ean": "9781592138869", 
+        "endCfi": "/6/28!/4/214/1:137", 
+        "epub_path": "/Temple University Press SHORT/69/9781592138869/9781592138869-ePub.v1.epub", 
+        "epub_title": "Soccer in a Football World: The Story of America's Forgotten Game", 
+        "file_order": [
+          "OEBPS/bano_9781592138869_oeb_c04_r1.html"
+        ], 
+        "id": "9781592138869.10", 
+        "publisher": "TEMPLE UNIVERSITY PRESS SHORT - EBK", 
+        "snack_type": "article", 
+        "startCfi": "/6/28!", 
+        "title": "4. \u2018We will become phenomenal\u2019 - Ambition and folly in the Sixties"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781607746034_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781607746034_p0_v1_s114x166.JPG", 
+        "ean": "9781607746034", 
+        "endCfi": "/6/28!/4/100/12/1", 
+        "epub_path": "/Random House/34/9781607746034/9781607746034_epub.v2.epub", 
+        "epub_title": "Raising Boys, Third Edition: Why Boys Are Different--and How to Help Them Become Happy and Well-Balanced Men", 
+        "file_order": [
+          "OEBPS/Bidd_9781607746034_epub_c09_r1.htm"
+        ], 
+        "id": "9781607746034.11", 
+        "images": [
+          "OEBPS/images/Bidd_9781607746034_epub_040_r1.jpg,339.0,311.0", 
+          "OEBPS/images/Bidd_9781607746034_epub_041_r1.jpg,271.0,380.0", 
+          "OEBPS/images/Bidd_9781607746034_epub_042_r1.jpg,394.0,312.0", 
+          "OEBPS/images/Bidd_9781607746034_epub_043_r1.jpg,512.0,330.0"
+        ], 
+        "publisher": "Random House", 
+        "snack_type": "article", 
+        "startCfi": "/6/28!", 
+        "title": "Chapter Nine: Boys and Sports"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780307834041_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780307834041_p0_v1_s114x166.JPG", 
+        "ean": "9780307834041", 
+        "endCfi": "/6/28!/4/100/12/1", 
+        "epub_path": "/Random House/41/9780307834041/9780307834041_epub.v4.epub", 
+        "epub_title": "Raising Boys: Why Boys Are Different - and How to Help Them Become Happy and Well-Balanced Men", 
+        "file_order": [
+          "OEBPS/Bidd_9780307834041_epub_c09_r1.htm"
+        ], 
+        "id": "9780307834041.11", 
+        "images": [
+          "OEBPS/images/Bidd_9780307834041_epub_043_r1.jpg,308.0,283.0", 
+          "OEBPS/images/Bidd_9780307834041_epub_044_r1.jpg,252.0,329.0", 
+          "OEBPS/images/Bidd_9780307834041_epub_045_r1.jpg,358.0,284.0", 
+          "OEBPS/images/Bidd_9780307834041_epub_046_r1.jpg,465.0,326.0", 
+          "OEBPS/images/Bidd_9780307834041_epub_L02_r1.jpg,23.0,23.0"
+        ], 
+        "publisher": "Random House", 
+        "snack_type": "article", 
+        "startCfi": "/6/28!", 
+        "title": "9  Boys and Sports"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780345517487_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780345517487_p0_v1_s114x166.JPG", 
+        "ean": "9780345517487", 
+        "endCfi": "/6/12!/4/2[itr]/88/1", 
+        "epub_path": "/Random House/87/9780345517487/9780345517487-ePub.v1.epub", 
+        "epub_title": "Game On: How the Pressure to Win at All Costs Endangers Youth Sports, and What Parents Can Do About It", 
+        "file_order": [
+          "OEBPS/Farr_9780345517487_epub_itr_r1.htm"
+        ], 
+        "id": "9780345517487.4", 
+        "images": [
+          "OEBPS/images/Farr_9780345517487_epub_003_r1.jpg,385.0,127.0"
+        ], 
+        "publisher": "Random House", 
+        "snack_type": "article", 
+        "startCfi": "/6/12!", 
+        "title": "Introduction: A Race to the Bottom"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780804137904_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780804137904_p0_v1_s114x166.JPG", 
+        "ean": "9780804137904", 
+        "endCfi": "/6/128!/4/92/1", 
+        "epub_path": "/Random House/04/9780804137904/9780804137904_epub.v2.epub", 
+        "epub_title": "You Herd Me!: I'll Say It If Nobody Else Will", 
+        "file_order": [
+          "OEBPS/Cowh_9780804137904_epub_c29_r1.htm"
+        ], 
+        "id": "9780804137904.32", 
+        "publisher": "Random House", 
+        "snack_type": "article", 
+        "startCfi": "/6/128!", 
+        "title": "The Long Invasion"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781429935036_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781429935036_p0_v1_s114x166.JPG", 
+        "ean": "9781429935036", 
+        "endCfi": "/6/48!/4/362/1", 
+        "epub_path": "/Macmillan/36/9781429935036/9781429935036-ePub.v3.epub", 
+        "epub_title": "Real Boys: Rescuing Our Sons from the Myths of Boyhood", 
+        "file_order": [
+          "OPS/xhtml/chapter011.html"
+        ], 
+        "id": "9781429935036.20", 
+        "publisher": "Macmillan", 
+        "snack_type": "article", 
+        "startCfi": "/6/48!", 
+        "title": "11. Sports: Play and Transformation"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781101458785_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781101458785_p0_v1_s114x166.JPG", 
+        "ean": "9781101458785", 
+        "endCfi": "/6/14!/4/142/4/8/1", 
+        "epub_path": "/DKPublishing/85/9781101458785/9781101458785_epub.v2.epub", 
+        "epub_title": "The Complete Idiot's Guide to Understanding Football", 
+        "file_order": [
+          "OEBPS/beac_9781101458785_oeb_c01_r1.xhtml"
+        ], 
+        "id": "9781101458785.3", 
+        "images": [
+          "OEBPS/beac_9781101458785_oeb_007_r1.jpg,75.0,55.0", 
+          "OEBPS/beac_9781101458785_oeb_008_r1.jpg,66.0,66.0", 
+          "OEBPS/beac_9781101458785_oeb_009_r1.jpg,79.0,55.0", 
+          "OEBPS/beac_9781101458785_oeb_010_r1.jpg,79.0,51.0", 
+          "OEBPS/beac_9781101458785_oeb_011_r1.jpg,48.0,84.0", 
+          "OEBPS/beac_9781101458785_oeb_012_r1.jpg,77.0,57.0", 
+          "OEBPS/beac_9781101458785_oeb_013_r1.jpg,80.0,79.0", 
+          "OEBPS/beac_9781101458785_oeb_014_r1.jpg,48.0,81.0"
+        ], 
+        "publisher": "DK", 
+        "snack_type": "article", 
+        "startCfi": "/6/14!", 
+        "title": "Chapter 1 - A Game for the Masses"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780736092555_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780736092555_p0_v1_s114x166.JPG", 
+        "ean": "9780736092555", 
+        "endCfi": "/6/22!/4/2/52", 
+        "epub_path": "/Human Kinetics/55/9780736092555/9780736092555-ePub.v1.epub", 
+        "epub_title": "Daniels' Running Formula, 2E", 
+        "file_order": [
+          "ch008.xhtml"
+        ], 
+        "id": "9780736092555.10", 
+        "publisher": "HUMAN KINETICS", 
+        "snack_type": "article", 
+        "startCfi": "/6/22!/4/2/36", 
+        "title": "Opportunity"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781250011725_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781250011725_p0_v1_s114x166.JPG", 
+        "ean": "9781250011725", 
+        "endCfi": "/6/24!/4/324/2/1", 
+        "epub_path": "/Macmillan/25/9781250011725/9781250011725_epub.v2.epub", 
+        "epub_title": "The King of Sports: Football's Impact on America", 
+        "file_order": [
+          "OEBPS/xhtml/chapter5.html"
+        ], 
+        "id": "9781250011725.10", 
+        "publisher": "Macmillan", 
+        "snack_type": "article", 
+        "startCfi": "/6/24!", 
+        "title": "5. Are College Football Players Exploited"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781118510520_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781118510520_p0_v1_s114x166.JPG", 
+        "ean": "9781118510520", 
+        "endCfi": "/6/40!/4/2[x19_9781118510544-ch12.xhtml]/2/2/126/4[sb1]/4/3", 
+        "epub_path": "/Wiley/20/9781118510520/9781118510520_epub.v2.epub", 
+        "epub_title": "Baseball For Dummies", 
+        "file_order": [
+          "ops/xhtml/19_9781118510544-ch12.xhtml"
+        ], 
+        "id": "9781118510520.27", 
+        "images": [
+          "ops/images/arrow.png,15.0,15.0", 
+          "ops/images/baseballbookshelf.png,60.0,55.0", 
+          "ops/images/baseballspeak.png,60.0,59.0", 
+          "ops/images/remember_fmt.png,59.0,61.0"
+        ], 
+        "publisher": "JOHN WILEY & SONS", 
+        "snack_type": "article", 
+        "startCfi": "/6/40!/4/2/2/2/4", 
+        "title": "Chapter 12: T-Ball to College Baseball and Everything in Between"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780203889268_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780203889268_p0_v1_s114x166.JPG", 
+        "ean": "9780203889268", 
+        "endCfi": "/6/36!/4/14/3", 
+        "epub_path": "/Taylor and Francis/68/9780203889268/9780203889268-ePub.v2.epub", 
+        "epub_title": "Sportscasters//Sportscasting: Principles and Practices", 
+        "file_order": [
+          "OEBPS/Text/20014dfav06_split_16.html"
+        ], 
+        "id": "9780203889268.13", 
+        "publisher": "TAYLOR & FRANCIS PUB.", 
+        "snack_type": "article", 
+        "startCfi": "/6/36!", 
+        "title": "SPORT TOURISM"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781118012659_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781118012659_p0_v1_s114x166.JPG", 
+        "ean": "9781118012659", 
+        "endCfi": "/6/48!/4/2[x23-9781118012611-ch15]/2/142/6/1", 
+        "epub_path": "/Wiley/59/9781118012659/9781118012659_epub.v4.epub", 
+        "epub_title": "Football For Dummies", 
+        "file_order": [
+          "OEBPS/23_9781118012611-ch15.xhtml"
+        ], 
+        "id": "9781118012659.17", 
+        "images": [
+          "OEBPS/images/howiesays_fmt.jpeg,48.0,48.0", 
+          "OEBPS/images/remember_fmt.jpeg,48.0,48.0", 
+          "OEBPS/images/tip_fmt.jpeg,48.0,50.0", 
+          "OEBPS/images/check.png,20.0,21.0", 
+          "OEBPS/images/arrow.png,17.0,18.0"
+        ], 
+        "publisher": "JOHN WILEY & SONS", 
+        "snack_type": "article", 
+        "startCfi": "/6/48!", 
+        "title": "Chapter 15 Youth Leagues and High School Football"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781743213537_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781743213537_p0_v1_s114x166.JPG", 
+        "ean": "9781743213537", 
+        "endCfi": "/6/40!/4/2[ref-1FE2C40C-1A64-2247-B1F5-B00F0AA9D5B4]/28/88/3:13", 
+        "epub_path": "/LonelyPlanet/37/9781743213537/9781743213537_epub.v2.epub", 
+        "epub_title": "Lonely Planet Washington, DC", 
+        "file_order": [
+          "content/14-sports-overview-wdc5.html"
+        ], 
+        "id": "9781743213537.15", 
+        "images": [
+          "content/images/category-sport-lge.png,67.0,80.0"
+        ], 
+        "publisher": "LONELY PLANET", 
+        "snack_type": "article", 
+        "startCfi": "/6/40!", 
+        "title": "Sports & Activities"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781312053588_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781312053588_p0_v1_s114x166.JPG", 
+        "ean": "9781312053588", 
+        "endCfi": "/6/12!/4/136/3", 
+        "epub_path": "/Lulu Press/88/9781312053588/9781312053588_epub.v1.epub", 
+        "epub_title": "Basketball Primer: The Essential Basketball Handbook", 
+        "file_order": [
+          "Ops/006.html"
+        ], 
+        "id": "9781312053588.6", 
+        "publisher": "LULU PRESS", 
+        "snack_type": "article", 
+        "startCfi": "/6/12!", 
+        "title": "prefer to watch college sports because the athletes are younger and are not"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780767930192_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780767930192_p0_v1_s114x166.JPG", 
+        "ean": "9780767930192", 
+        "endCfi": "/6/16!/4/2[c01]/72/1", 
+        "epub_path": "/Random House/92/9780767930192/9780767930192-ePub.v2.epub", 
+        "epub_title": "Bloody Confused!: A Clueless American Sportswriter Seeks Solace in English Soccer", 
+        "file_order": [
+          "OPS/Culp_9780767930192_epub_c01_r1.htm"
+        ], 
+        "id": "9780767930192.4", 
+        "publisher": "Random House", 
+        "snack_type": "article", 
+        "startCfi": "/6/16!", 
+        "title": "Chapter 1"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781592138869_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781592138869_p0_v1_s114x166.JPG", 
+        "ean": "9781592138869", 
+        "endCfi": "/6/22!/4/200/1", 
+        "epub_path": "/Temple University Press SHORT/69/9781592138869/9781592138869-ePub.v1.epub", 
+        "epub_title": "Soccer in a Football World: The Story of America's Forgotten Game", 
+        "file_order": [
+          "OEBPS/bano_9781592138869_oeb_c01_r1.html"
+        ], 
+        "id": "9781592138869.7", 
+        "publisher": "TEMPLE UNIVERSITY PRESS SHORT - EBK", 
+        "snack_type": "article", 
+        "startCfi": "/6/22!", 
+        "title": "1 A Game of its Own - America\u2019s path to football isolation"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780345502124_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780345502124_p0_v1_s114x166.JPG", 
+        "ean": "9780345502124", 
+        "endCfi": "/6/40!/4/2[c15]/62/1", 
+        "epub_path": "/Random House/24/9780345502124/9780345502124-ePub.v2.epub", 
+        "epub_title": "Personal Stand: Observations and Opinions from a Freethinking Roughneck", 
+        "file_order": [
+          "OPS/Adki_9780345502124_epub_c15_r1.htm"
+        ], 
+        "id": "9780345502124.16", 
+        "publisher": "Random House", 
+        "snack_type": "article", 
+        "startCfi": "/6/40!", 
+        "title": "Chapter Fifteen"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780307591814_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780307591814_p0_v1_s114x166.JPG", 
+        "ean": "9780307591814", 
+        "endCfi": "/6/34!/4/38/11", 
+        "epub_path": "/Random House/14/9780307591814/9780307591814_epub.v4.epub", 
+        "epub_title": "Scorecasting: The Hidden Influences Behind How Sports Are Played and Games Are Won", 
+        "file_order": [
+          "OEBPS/Mosk_9780307591814_epub_c11_r1.htm"
+        ], 
+        "id": "9780307591814.14", 
+        "images": [
+          "OEBPS/images/Mosk_9780307591814_epub_016_r1.gif,550.0,347.0", 
+          "OEBPS/images/Mosk_9780307591814_epub_L02_r1.jpg,127.0,3.0", 
+          "OEBPS/images/Mosk_9780307591814_epub_L03_r1.jpg,30.0,6.0"
+        ], 
+        "publisher": "Random House", 
+        "snack_type": "article", 
+        "startCfi": "/6/34!", 
+        "title": "There\u2019s No I in Team: But there is an m and an e"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781449424725_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781449424725_p0_v1_s114x166.JPG", 
+        "ean": "9781449424725", 
+        "endCfi": "/6/32!/4/214/1", 
+        "epub_path": "/AMUniversal/25/9781449424725/9781449424725_epub.v2.epub", 
+        "epub_title": "Lamar Hunt: A Life in Sports", 
+        "file_order": [
+          "OEBPS/chapter10.xhtml"
+        ], 
+        "id": "9781449424725.14", 
+        "publisher": "ANDREWS MCMEEL PUBLISHING - EBKS", 
+        "snack_type": "article", 
+        "startCfi": "/6/32!", 
+        "title": "10 New Frontiers"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781459706354_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781459706354_p0_v1_s114x166.JPG", 
+        "ean": "9781459706354", 
+        "endCfi": "/6/40!/4[Promo]/2/56/14/1", 
+        "epub_path": "/Ingram Digital Trade/54/9781459706354/9781459706354_epub.v9.epub", 
+        "epub_title": "Canada's Other Game: Basketball from Naismith to Nash", 
+        "file_order": [
+          "OEBPS/Text/Promo.xhtml"
+        ], 
+        "id": "9781459706354.17", 
+        "images": [
+          "OEBPS/Images/9781459704480_fmt.jpeg,196.0,302.0", 
+          "OEBPS/Images/9781459706835_fmt.jpeg,202.0,302.0", 
+          "OEBPS/Images/9781554884544_fmt.jpeg,209.0,301.0", 
+          "OEBPS/Images/Dundurn_Full_Logo_Blac_fmt.jpeg,300.0,47.0"
+        ], 
+        "publisher": "INGRAM DIGITAL TRADE - EBKS", 
+        "snack_type": "article", 
+        "startCfi": "/6/40!", 
+        "title": "OF RELATED INTEREST"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781465409539_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781465409539_p0_v1_s114x166.JPG", 
+        "ean": "9781465409539", 
+        "endCfi": "/6/14!/4/44[EWFG_FLORID018SPOOUT_013]/16[EWFG_FLORID018LOWDOW_033]/4/2/1", 
+        "epub_path": "/DKPublishing/39/9781465409539/9781465409539_epub.v2.epub", 
+        "epub_title": "Eyewitness Travel Family Guide Florida", 
+        "file_order": [
+          "OEBPS/EWFG_FLORID018SPOOUT.html"
+        ], 
+        "id": "9781465409539.4", 
+        "images": [
+          "OEBPS/images/ewfg_florid018spoout_012.jpg,400.0,154.0", 
+          "OEBPS/images/ewfg_florid018spoout_010.jpg,335.0,400.0", 
+          "OEBPS/images/ewfg_florid018spoout_015.jpg,400.0,226.0"
+        ], 
+        "publisher": "DK", 
+        "snack_type": "article", 
+        "startCfi": "/6/14!", 
+        "title": "Sports and Outdoor Activities"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780807097564_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780807097564_p0_v1_s114x166.JPG", 
+        "ean": "9780807097564", 
+        "endCfi": "/6/16!/4/120/3:401", 
+        "epub_path": "/Beacon Press/64/9780807097564/9780807097564-ePub.v2.epub", 
+        "epub_title": "Until It Hurts: America's Obsession with Youth Sports and How It Harms Our Kids", 
+        "file_order": [
+          "OEBPS/9780807021187_chap-2.html"
+        ], 
+        "id": "9780807097564.5", 
+        "publisher": "RANDOM HOUSE DISTR. CLIENTS - EBKS", 
+        "snack_type": "article", 
+        "startCfi": "/6/16!", 
+        "title": "Chapter 2 - Tiger Tracks"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781440527999_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781440527999_p0_v1_s114x166.JPG", 
+        "ean": "9781440527999", 
+        "endCfi": "/6/16!/4/38", 
+        "epub_path": "/FW/99/9781440527999/9781440527999_epub.v4.epub", 
+        "epub_title": "Pregnancy Sucks for Men: What to do when your miracle makes you both miserable", 
+        "file_order": [
+          "OEBPS/9781440526787_epub_Prelude.htm"
+        ], 
+        "id": "9781440527999.7", 
+        "publisher": "F & W PUBLICATIONS", 
+        "snack_type": "article", 
+        "startCfi": "/6/16!/4/28", 
+        "title": "If I\u2019m So Good in Bed, Why Is My Aim So Bad?"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781623686567_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781623686567_p0_v1_s114x166.JPG", 
+        "ean": "9781623686567", 
+        "endCfi": "/6/14!/4/168/1", 
+        "epub_path": "/Independent Publishers Group EPUB/67/9781623686567/9781623686567_epub.v2.epub", 
+        "epub_title": "The Instigator: How Gary Bettman Remade the NHL and Changed the Game Forever", 
+        "file_order": [
+          "OEBPS/006_Chapter01.html"
+        ], 
+        "id": "9781623686567.3", 
+        "publisher": "INDEPENDENT PUB GROUP - EPUB - EBKS", 
+        "snack_type": "article", 
+        "startCfi": "/6/14!/4/2", 
+        "title": "1 Sticks and Stones"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780807097564_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780807097564_p0_v1_s114x166.JPG", 
+        "ean": "9780807097564", 
+        "endCfi": "/6/26!/4/106/1:407", 
+        "epub_path": "/Beacon Press/64/9780807097564/9780807097564-ePub.v2.epub", 
+        "epub_title": "Until It Hurts: America's Obsession with Youth Sports and How It Harms Our Kids", 
+        "file_order": [
+          "OEBPS/9780807021187_chap-7.html"
+        ], 
+        "id": "9780807097564.10", 
+        "publisher": "RANDOM HOUSE DISTR. CLIENTS - EBKS", 
+        "snack_type": "article", 
+        "startCfi": "/6/26!", 
+        "title": "Chapter 7 - Risking Everything"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780803240360_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780803240360_p0_v1_s114x166.JPG", 
+        "ean": "9780803240360", 
+        "endCfi": "/6/26!/4/64/3", 
+        "epub_path": "/University of Nebraska Press/60/9780803240360/9780803240360_epub.v2.epub", 
+        "epub_title": "Beyond Bend It Like Beckham: The Global Phenomenon of Women's Soccer", 
+        "file_order": [
+          "OEBPS/Chapter01.html"
+        ], 
+        "id": "9780803240360.7", 
+        "images": [
+          "OEBPS/images/f0009-01.jpg,579.0,381.0"
+        ], 
+        "publisher": "UNIVERSITY OF NEBRASKA PRESS -EBKS", 
+        "snack_type": "article", 
+        "startCfi": "/6/26!/4/2", 
+        "title": "1 Title IX, Soccer Moms, and Pioneering Players"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781617490095_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781617490095_p0_v1_s114x166.JPG", 
+        "ean": "9781617490095", 
+        "endCfi": "/6/2!/4/2/34/4", 
+        "epub_path": "/Triumph Books/95/9781617490095/9781617490095-ePub.v2.epub", 
+        "epub_title": "The Code: The Unwritten Rules of Fighting and Retaliation in the NHL", 
+        "file_order": [
+          "OEBPS/HockeyCode_ebook.xhtml"
+        ], 
+        "id": "9781617490095.5", 
+        "publisher": "INDEPENDENT PUB GROUP - EPUB - EBKS", 
+        "snack_type": "article", 
+        "startCfi": "/6/2!/4/2/32/4", 
+        "title": "2. Why Is There Fighting in Pro Hockey?"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781400842070_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781400842070_p0_v1_s114x166.JPG", 
+        "ean": "9781400842070", 
+        "endCfi": "/6/12!/4/2/12/3", 
+        "epub_path": "/Princeton University Press/70/9781400842070/9781400842070_epub.v2.epub", 
+        "epub_title": "Mathletics: How Gamblers, Managers, and Sports Enthusiasts Use Mathematics in Baseball, Basketball, and Football", 
+        "file_order": [
+          "OEBPS/preface.xhtml"
+        ], 
+        "id": "9781400842070.4", 
+        "publisher": "PRINCETON UNIVERSITY PRESS - EBKS", 
+        "snack_type": "article", 
+        "startCfi": "/6/12!", 
+        "title": "Preface"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781443429603_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781443429603_p0_v1_s114x166.JPG", 
+        "ean": "9781443429603", 
+        "endCfi": "/6/20!/4/2/18/70/3", 
+        "epub_path": "/Harper Collins/03/9781443429603/9781443429603_epub.v2.epub", 
+        "epub_title": "The Best of Down Goes Brown: Greatest Hits and Brand New Classics-to-Be from Hockey's Most Hilarious Blog", 
+        "file_order": [
+          "OEBPS/9781118358436c04.xhtml"
+        ], 
+        "id": "9781443429603.8", 
+        "publisher": "HARPERCOLLINS", 
+        "snack_type": "article", 
+        "startCfi": "/6/20!", 
+        "title": "Chapter 4: Know Your Sports"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781592138869_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781592138869_p0_v1_s114x166.JPG", 
+        "ean": "9781592138869", 
+        "endCfi": "/6/30!/4/388/1", 
+        "epub_path": "/Temple University Press SHORT/69/9781592138869/9781592138869-ePub.v1.epub", 
+        "epub_title": "Soccer in a Football World: The Story of America's Forgotten Game", 
+        "file_order": [
+          "OEBPS/bano_9781592138869_oeb_c05_r1.html"
+        ], 
+        "id": "9781592138869.11", 
+        "images": [
+          "OEBPS/bano_9781592138869_oeb_004_r1.jpg,707.0,493.0", 
+          "OEBPS/bano_9781592138869_oeb_005_r1.jpg,347.0,399.0", 
+          "OEBPS/bano_9781592138869_oeb_006_r1.jpg,349.0,566.0", 
+          "OEBPS/bano_9781592138869_oeb_007_r1.jpg,713.0,487.0", 
+          "OEBPS/bano_9781592138869_oeb_008_r1.jpg,707.0,465.0", 
+          "OEBPS/bano_9781592138869_oeb_009_r1.jpg,715.0,495.0", 
+          "OEBPS/bano_9781592138869_oeb_010_r1.jpg,715.0,515.0", 
+          "OEBPS/bano_9781592138869_oeb_011_r1.jpg,711.0,467.0", 
+          "OEBPS/bano_9781592138869_oeb_012_r1.jpg,351.0,469.0", 
+          "OEBPS/bano_9781592138869_oeb_013_r1.jpg,362.0,474.0", 
+          "OEBPS/bano_9781592138869_oeb_014_r1.jpg,709.0,465.0", 
+          "OEBPS/bano_9781592138869_oeb_015_r1.jpg,704.0,495.0", 
+          "OEBPS/bano_9781592138869_oeb_016_r1.jpg,700.0,491.0", 
+          "OEBPS/bano_9781592138869_oeb_017_r1.jpg,709.0,494.0", 
+          "OEBPS/bano_9781592138869_oeb_018_r1.jpg,713.0,508.0", 
+          "OEBPS/bano_9781592138869_oeb_019_r1.jpg,368.0,474.0", 
+          "OEBPS/bano_9781592138869_oeb_020_r1.jpg,355.0,476.0", 
+          "OEBPS/bano_9781592138869_oeb_021_r1.jpg,728.0,493.0", 
+          "OEBPS/bano_9781592138869_oeb_003_r1.gif,468.0,329.0"
+        ], 
+        "publisher": "TEMPLE UNIVERSITY PRESS SHORT - EBK", 
+        "snack_type": "article", 
+        "startCfi": "/6/30!", 
+        "title": "5. Moving the Goalposts - Pele and the Cosmos"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781493012923_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781493012923_p0_v1_s114x166.JPG", 
+        "ean": "9781493012923", 
+        "endCfi": "/6/24!/4[OpeningKickoff_ebook]/2/98/3", 
+        "epub_path": "/Rowman and Littlefield/23/9781493012923/9781493012923_epub.v4.epub", 
+        "epub_title": "The Opening Kickoff: The Tumultuous Birth of a Football Nation", 
+        "file_order": [
+          "OEBPS/OpeningKickoff_ebook-10.xhtml"
+        ], 
+        "id": "9781493012923.10", 
+        "publisher": "ROWMAN & LITTLEFIELD PUBLISHING GRO", 
+        "snack_type": "article", 
+        "startCfi": "/6/24!/4/2/2", 
+        "title": "Chapter Three: From Scrummage to Scrimmage"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781101635520_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781101635520_p0_v1_s114x166.JPG", 
+        "ean": "9781101635520", 
+        "endCfi": "/6/34!/4[x9781101635520_EPUB]/2/186/1", 
+        "epub_path": "/Penguin/20/9781101635520/9781101635520_epub.v2.epub", 
+        "epub_title": "Players First: Coaching from the Inside Out", 
+        "file_order": [
+          "OEBPS/9781101635520_EPUB-15.xhtml"
+        ], 
+        "id": "9781101635520.14", 
+        "publisher": "Penguin Group", 
+        "snack_type": "article", 
+        "startCfi": "/6/34!", 
+        "title": "CHAPTER 11 | AT WAR? COMMON SENSE VERSUS THE NCAA"
+      }, 
+      {
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781493012916_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781493012916_p0_v1_s114x166.JPG", 
+        "ean": "9781493012916", 
+        "endCfi": "/6/24!/4[OpeningKickoff_ebook]/2/98/3", 
+        "epub_path": "/Globe Pequot Press/16/9781493012916/9781493012916_epub.v1.epub", 
+        "epub_title": "The Opening Kickoff: The Tumultuous Birth of a Football Nation", 
+        "file_order": [
+          "OEBPS/OpeningKickoff_ebook-10.xhtml"
+        ], 
+        "id": "9781493012916.10", 
+        "publisher": "NATIONAL BOOK NETWORK", 
+        "snack_type": "article", 
+        "startCfi": "/6/24!/4/2/2", 
+        "title": "Chapter Three: From Scrummage to Scrimmage"
+      }
+    ], 
+    "maxScore": 0.24630263, 
+    "numFound": 457267, 
+    "start": 0
+  }, 
+  "responseHeader": {
+    "QTime": 248, 
+    "params": {
+      "defType": "edismax", 
+      "fl": "title,ean,id,file_order,epub_path,publisher,epub_title,images,snack_type,id,startCfi,endCfi,pageshots", 
+      "q": "(wiki_topic:25778403^20 wiki_topic:10568^5 wiki_topic:23976719^4 wiki_topic:6771^4 wiki_topic:60706^3 wiki_topic:19568112^3 wiki_topic:13981^3 wiki_topic:3921^3 wiki_topic:18723138^3 wiki_topic:3850^3 wiki_topic:29773^3 wiki_topic:21114^3 wiki_topic:80381^2 wiki_topic:28478^2 wiki_topic:28789240^2 wiki_topic:36581^2 wiki_topic:28198^2 wiki_topic:38776^2 wiki_topic:768856^2 wiki_topic:18894197^2 wiki_topic:19725260^2 wiki_topic:21211^2 wiki_topic:8151082^2 wiki_topic:41395970^2 wiki_topic:27718^2 wiki_topic:75358^2 wiki_topic:226788^2 wiki_topic:22093^2 wiki_topic:82726^2 wiki_topic:38957^2 wiki_topic:38950^2 wiki_topic:147733^2 wiki_topic:44332^2 wiki_topic:28748^2 wiki_topic:1022^2 wiki_topic:21809^2 wiki_topic:996378^2 wiki_topic:471518^2 wiki_topic:156423^2 wiki_topic:38791^2 wiki_topic:155526^2 wiki_topic:335282^1 wiki_topic:4149152^1 wiki_topic:140801^1 wiki_topic:368262^1 wiki_topic:297972^1 wiki_topic:3025998^1 wiki_topic:583875^1 wiki_topic:26537^1 wiki_topic:8991329^1 wiki_topic:305^1 wiki_topic:396436^1 wiki_topic:16831^1 wiki_topic:28191^1 wiki_topic:26032^1 wiki_topic:182265^1 wiki_topic:679878^1 wiki_topic:55029^1 wiki_topic:176725^1 wiki_topic:3049^1 wiki_topic:3749918^1 wiki_topic:78358^1 wiki_topic:399231^1 wiki_topic:177223^1 wiki_topic:3819713^1 wiki_topic:82916^1 wiki_topic:7837^1 wiki_topic:7593^1 wiki_topic:656548^1 wiki_topic:27340647^1 wiki_topic:191863^1 wiki_topic:18360639^1 wiki_topic:92729^1 wiki_topic:17383^1 wiki_topic:428681^1 wiki_topic:14148^1 wiki_topic:240844^1 wiki_topic:37754^1 wiki_topic:351305^1 wiki_topic:839621^1 wiki_topic:4173^1 wiki_topic:40630^1 wiki_topic:33623^1 wiki_topic:87009^1 wiki_topic:288191^1 wiki_topic:29368^1 wiki_topic:109820^1 wiki_topic:5931^1 wiki_topic:5689^1 wiki_topic:24691219^1 wiki_topic:270703^1 wiki_topic:36753^1 wiki_topic:20455^1 wiki_topic:714871^1 wiki_topic:23676858^1 wiki_topic:146996^1 wiki_topic:86314^1 wiki_topic:13270^1 wiki_topic:968099^1 wiki_topic:250675^1 wiki_topic:8402^1 wiki_topic:34242^1 wiki_topic:181592^1 wiki_topic:2150129^1 wiki_topic:23538713^1 wiki_topic:14946^1 wiki_topic:929786^1 wiki_topic:1106501^1 wiki_topic:38103^1 wiki_topic:7432332^1 wiki_topic:17379274^1 wiki_topic:63904^1 wiki_topic:2724704^1 wiki_topic:228012^1 wiki_topic:16193^1 wiki_topic:3884434^1 wiki_topic:400470^1 wiki_topic:8378967^1 wiki_topic:429897^1 wiki_topic:232495^1 wiki_topic:33516^1 wiki_topic:185604^1 wiki_topic:515534^1 wiki_topic:5776^1 wiki_topic:51668^1 wiki_topic:35645448^1 wiki_topic:1231580^1 wiki_topic:74678^1 wiki_topic:66968^1 wiki_topic:18842431^1 wiki_topic:15146^1 wiki_topic:9933^1 wiki_topic:52664^1 wiki_topic:771067^1 wiki_topic:21525^1 wiki_topic:66728^1 wiki_topic:66733^1) AND title_fbm_i:[0 TO 1] AND wordcount:[175 TO *] AND (epub_type:BA OR epub_type:B7)", 
+      "rows": "100", 
+      "start": "0", 
+      "wt": "json"
+    }, 
+    "status": 0
+  }
+}

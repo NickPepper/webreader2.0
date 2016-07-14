@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Cooking with Paula Deen</title>
+<link href="css/test1.css" rel="stylesheet" type="text/css" />
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    </head>
+<body class="left">
+        <div class="before">
+            <div class="articleMenuWrapper" id="header_navbar">
+                <div class="sectionMenuLeft" id="header_navbar_previous">
+                    <a href="page026.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="header_navbar_next">
+                    <a href="page030.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+            <div class="masthead" id="header">
+                <div class="masthead-text">
+                    <div class="masthead-section" id="header_title">
+                        <a href="section.xml">Contents</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="article-headline" id="Headline">DAY 2</div>
+<div class="article-subhead" id="SubHeadline">Asian Sirloin and Vegetable Kabobs│ Sautéed Bok Choy│egg rolls</div>
+
+
+<div class="article-in-image" id="image1"><img src="images/page028.article001.image1.jpg" class="article-in-image" alt=""/></div>
+<div class="separator-line" id="separatorLine"> <div class="invisible">empty</div> </div>
+<div class="articleImageCaption" id="ImageCaption">The meat and vegetables need to marinate for at least 8 hours. You can also chop the bok choy ahead of time and store in the refrigerator.</div>
+<div class="articleImageCredit" id="ImageCredit">PHOTOGRAPHY BY WILLIAM DICKEY</div>
+<div class="article-body" id="Body"><p class="no-indent">Asian Sirloin and Vegetable Kabobs</p><p class="no-indent">Makes 4 to 6 servings</p><br/><p class="no-indent">2½ pounds boneless top sirloin, cut into 1½-inch pieces </p><p class="no-indent">1 (8-ounce) package button mushrooms </p><p class="no-indent">2 red bell peppers, seeded and cut into 1-inch pieces </p><p class="no-indent">1 onion, cut into wedges </p><p class="no-indent">⅓ cup soy sauce </p><p class="no-indent">¼ cup vegetable oil </p><p class="no-indent">3 tablespoons rice vinegar </p><p class="no-indent">1 tablespoon orange zest </p><p class="no-indent">3 tablespoons fresh orange juice </p><p class="no-indent">1 tablespoon bottled minced garlic </p><p class="no-indent">1 teaspoon ground ginger </p><p class="no-indent">½ teaspoon crushed red pepper </p><p class="no-indent">8 (12-inch) wooden skewers </p><p class="no-indent">1 (15-ounce) package frozen egg rolls </p><br/><p class="no-indent">1. In a large resealable plastic bag, combine sirloin, mushrooms, bell peppers, onion, and next 8 ingredients. Seal bag, and chill for at least 8 hours or up to 24 hours. </p><br/><p class="no-indent">2. Soak skewers in water to cover for 30 minutes. Spray a grill rack with nonstick nonflammable cooking spray. Preheat grill to medium-high heat (350° to 400°). Prepare eggrolls according to package directions, and keep warm. </p><br/><p class="no-indent">3. Remove meat and vegetables from bag, discarding marinade. Thread meat alternately with vegetables onto skewers. Grill, covered with grill lid, for 7 to 9 minutes or until beef reaches desired degree of doneness. Serve with Sautéed Bok Choy and egg rolls.</p><br/><p>______________________________</p><br/><p class="no-indent">Sautéed Bok Choy </p><p class="no-indent">Makes 4 to 6 servings </p><br/><p class="no-indent">1 tablespoon vegetable oil </p><p class="no-indent">1 teaspoon bottled minced garlic </p><p class="no-indent">10 cups chopped fresh bok choy </p><p class="no-indent">3 tablespoons soy sauce </p><p class="no-indent">¼ teaspoon crushed red pepper </p><br/><p class="no-indent">1. In a large skillet, heat oil over medium-high heat. Add garlic, and cook, stirring frequently, for 1 minute. Add bok choy, and cook, stirring frequently, for 3 to 4 minutes. Stir in soy sauce and crushed red pepper.</p></div>
+<div class="after">
+            <div class="articleMenuWrapper" id="footer_navbar">
+                <div class="sectionMenuLeft" id="footer_navbar_previous">
+                    <a href="page026.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="footer_navbar_next">
+                    <a href="page030.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+        </div>
+    </body>
+</html>

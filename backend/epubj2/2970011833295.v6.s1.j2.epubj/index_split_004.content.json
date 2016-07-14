@@ -1,0 +1,1014 @@
+{  
+    "E":{  
+        "v":"0",
+        "b":"index",
+        "T":"index_split_004",
+        "K":".html",
+        "X":"q6",
+        "O":"index_split_004.content.json",
+        "A":[  
+            {  
+                "T":"xmlns",
+                "d":"http://www.w3.org/1999/xhtml"
+            }
+        ],
+        "I":[  
+            {  
+                "H":"stylesheet.css"
+            }
+        ],
+        "L":[  
+            {  
+                "B":"bookbody",
+                "C":"/4",
+                "A":[  
+                    {  
+                        "T":"class",
+                        "d":"calibre"
+                    }
+                ],
+                "D":[  
+                    {  
+                        "B":"#text",
+                        "C":"/4/1",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/2",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"I am amazed with mat\u00ADter. "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/3",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/4",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"<b class=\"calibre2\">First Lord</b>  "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/5",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/6",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"Good my liege, "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/7",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/8",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"Your prep\u00ADa\u00ADra\u00ADtion can af\u00ADfront no less "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/9",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/10",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"Than what you hear of: come more, for more "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/11",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/12",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"you're ready: "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/13",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/14",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"The want is but to put those pow\u00ADers in mo\u00ADtion "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/15",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/16",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"That long to move. "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/17",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/18",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"<b class=\"calibre2\">CYM\u00ADBE\u00ADLINE</b>  "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/19",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/20",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"I thank you. Let's with\u00ADdraw; "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/21",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/22",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"And meet the time as it seeks us. We fear not "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/23",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/24",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"What can from It\u00ADa\u00ADly an\u00ADnoy us; but "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/25",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/26",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"We grieve at chances here. Away! "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/27",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/28",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":" <i class=\"calibre4\">Ex\u00ADe\u00ADunt all but PISANIO</i> "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/29",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/30",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"<b class=\"calibre2\">PISANIO</b>  "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/31",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/32",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"I heard no let\u00ADter from my mas\u00ADter since "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/33",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/34",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"I wrote him Im\u00ADo\u00ADgen was slain: 'tis strange: "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/35",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/36",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"Nor hear I from my mis\u00ADtress who did prom\u00ADise "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/37",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/38",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"To yield me of\u00ADten tid\u00ADings: nei\u00ADther know I "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/39",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/40",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"What is betid to Cloten; but re\u00ADmain "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/41",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/42",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"Perplex'd in all. The heav\u00ADens still must work. "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/43",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/44",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"Where\u00ADin I am false I am hon\u00ADest; not true, to be true. "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/45",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/46",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"These pre\u00ADsent wars shall find I love my coun\u00ADtry, "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/47",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/48",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"Even to the note o' the king, or I'll fall in them. "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/49",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/50",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"All oth\u00ADer doubts, by time let them be clear'd: "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/51",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/52",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"For\u00ADtune brings in some boats that are not steer'd. "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/53",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/54",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":" <i class=\"calibre4\">Exit</i> "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/55",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/56",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"SCENE IV. Wales: be\u00ADfore the cave of Belarius. "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/57",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/58",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":""
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/59",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/60",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":" <i class=\"calibre4\">En\u00ADter BELARIUS, GUIDERIUS, and ARVIRAGUS. </i>  "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/61",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/62",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"<b class=\"calibre2\">GUIDERIUS</b>  "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/63",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/64",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"The noise is round about us. "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/65",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/66",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"<b class=\"calibre2\">BELARIUS</b>  "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/67",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/68",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"Let us from it. "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/69",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/70",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"<b class=\"calibre2\">ARVIRAGUS</b>  "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/71",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/72",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"What pleas\u00ADure, sir, find we in life, to lock it "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/73",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/74",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"From ac\u00ADtion and ad\u00ADven\u00ADture? "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/75",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/76",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"<b class=\"calibre2\">GUIDERIUS</b>  "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/77",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/78",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"Nay, what hope "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/79",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/80",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"Have we in hid\u00ADing us? This way, the Ro\u00ADmans "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/81",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/82",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"Must or for Brit\u00ADons slay us, or re\u00ADceive us "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/83",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/84",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"For bar\u00ADba\u00ADrous and un\u00ADnat\u00ADu\u00ADral re\u00ADvolts "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/85",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/86",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"Dur\u00ADing their use, and slay us af\u00ADter. "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/87",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/88",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"<b class=\"calibre2\">BELARIUS</b>  "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/89",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/90",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"Sons, "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/91",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/92",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"We'll higher to the moun\u00ADtains; there se\u00ADcure us. "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/93",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/94",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"To the king's par\u00ADty there's no go\u00ADing: new\u00ADness "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/95",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/96",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"Of Cloten's death--we be\u00ADing not known, not muster'd Among the bands--may drive us to a ren\u00ADder "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/97",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/98",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"Where we have lived, and so ex\u00ADtort from's that "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/99",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/100",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"Which we have done, whose an\u00ADswer would be death "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/101",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/102",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"Drawn on with tor\u00ADture. "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/103",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/104",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"<b class=\"calibre2\">GUIDERIUS</b>  "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/105",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/106",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"This is, sir, a doubt "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/107",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/108",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"In such a time noth\u00ADing be\u00ADcom\u00ADing you, "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/109",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/110",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"Nor sat\u00ADis\u00ADfy\u00ADing us. "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/111",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/112",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"<b class=\"calibre2\">ARVIRAGUS</b>  "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/113",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/114",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"It is not like\u00ADly "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/115",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/116",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"That when they hear the Ro\u00ADman hors\u00ADes neigh, "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/117",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/118",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"Be\u00ADhold their quarter'd fires, have both their eyes "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/119",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/120",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"And ears so cloy'd im\u00ADpor\u00ADtant\u00ADly as now, "
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/121",
+                        "J":" "
+                    },
+                    {  
+                        "B":"p",
+                        "C":"/4/122",
+                        "A":[  
+                            {  
+                                "T":"class",
+                                "d":"calibre3"
+                            }
+                        ],
+                        "J":"That they will waste their time <b>[End of Sam\u00ADple]</b>"
+                    }
+                ]
+            }
+        ],
+        "script":[  
+
+        ]
+    }
+}

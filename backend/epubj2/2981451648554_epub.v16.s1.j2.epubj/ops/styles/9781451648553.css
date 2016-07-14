@@ -1,0 +1,994 @@
+@font-face
+{
+	font-family: "HelveticaNeueLTStd";
+	src: url(../fonts/HelveticaNeueLTStd-Roman.otf);
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face
+{
+	font-family: "HelveticaNeueLTStd";
+	src: url(../fonts/HelveticaNeueLTStd-It.otf);
+	font-style: italic;
+	font-weight: normal;
+}
+@font-face
+{
+	font-family: "HelveticaNeueLTStd-Hv";
+	src: url(../fonts/HelveticaNeueLTStd-Hv.otf);
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face
+{
+	font-family: "TradeGothicLTStd-Cn18";
+	src: url(../fonts/TradeGothicLTStd-Cn18.otf);
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face
+{
+	font-family: "TradeGothicLTStd-BdCn20";
+	src: url(../fonts/TradeGothicLTStd-BdCn20.otf);
+	font-style: normal;
+	font-weight: bold;
+}
+@font-face
+{
+	font-family: "ACaslonPro";
+	src: url(../fonts/ACaslonPro-Regular.otf);
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face
+{
+	font-family: "ACaslonPro";
+	src: url(../fonts/ACaslonPro-Italic.otf);
+	font-style: italic;
+	font-weight: normal;
+}
+@font-face
+{
+	font-family: "ACaslonPro";
+	src: url(../fonts/ACaslonPro-Semibold.otf);
+	font-style: normal;
+	font-weight: bold;
+}
+@font-face
+{
+	font-family: "DidotLTStd";
+	src: url(../fonts/DidotLTStd-Roman.otf);
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face
+{
+	font-family: "DidotLTStd";
+	src: url(../fonts/DidotLTStd-Italic.otf);
+	font-style: italic;
+	font-weight: normal;
+}
+@font-face
+{
+	font-family: "GoudyReg";
+	src: url(../fonts/GoudySansStd-Book.otf);
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face
+{
+	font-family: "GoudyReg";
+	src: url(../fonts/GoudySansStd-Medium.otf);
+	font-style: normal;
+	font-weight: bold;
+}
+body
+{
+	/*margin:0.0px;*/
+	text-align: justify;
+	orphans: 2;
+	widows: 2;
+}
+@page
+{
+	margin:18.0px;
+}
+.h2
+{
+	font-family: "ACaslonPro";
+	letter-spacing: .1em;
+	font-size: 0.9em;
+	margin-top: 15%;
+	margin-bottom:6.0px;
+	text-align: center;
+	font-weight: normal;
+}
+.h2a
+{
+	font-family: "DidotLTStd";
+	letter-spacing: .04em;
+	font-size: 1.4em;
+	margin-top:0.0px;
+	margin-bottom:4.5px;
+	text-align: center;
+	font-weight: normal;
+}
+.h2b
+{
+	font-family: "DidotLTStd";
+	font-size: 1.4em;
+	margin-top: 15%;
+	margin-bottom:6.0px;
+	text-align: center;
+	font-weight: normal;
+}
+.h3b
+{
+	font-family: "DidotLTStd";
+	letter-spacing: .1em;
+	font-size: 0.9em;
+	margin-top:18.0px;
+	margin-bottom:0.0px;
+	text-indent:0.0px;
+        text-align: justify;
+	font-weight: normal;
+}
+.h3a
+{
+	font-family: "DidotLTStd";
+	font-size: 1.1em;
+	margin-top:18.0px;
+	margin-bottom:7.5px;
+	text-align: center;
+	font-weight: normal;
+}
+.h3
+{
+	font-family: "ACaslonPro";
+	font-size: 1.1em;
+	margin-top:22.5px;
+	margin-bottom:11.25px;
+	text-indent:0.0px;
+        text-align: justify;
+	font-weight: normal;
+}
+.toc-fronta
+{
+	font-family: "ACaslonPro";
+	margin-top:52.5px;
+	margin-bottom:0.0px;
+	text-align: center;
+}
+.toc-front
+{
+	font-family: "ACaslonPro";
+	margin-top:9.0px;
+	margin-bottom:0.0px;
+	text-align: center;
+}
+.toc-chap
+{
+	font-family: "ACaslonPro";
+	margin-top:9.0px;
+	margin-bottom:0.0px;
+	text-align: center;
+}
+.toc-chap1
+{
+	font-family: "ACaslonPro";
+	margin-top:0.0px;
+	margin-bottom:0.0px;
+	text-align: center;
+}
+.toc-back
+{
+	font-family: "ACaslonPro";
+	margin-top:9.0px;
+	margin-bottom:0.0px;
+	text-align: center;
+}
+.copya
+{
+	margin-top: 10%;
+	margin-bottom:3.0px;
+	text-align: center;
+}
+.copy
+{
+	font-family: "ACaslonPro";
+	font-size: 0.8em;
+	margin-top:0.0px;
+	margin-bottom:0.0px;
+	text-align: center;
+}
+.copy1
+{
+	font-family: "ACaslonPro";
+	font-size: 0.8em;
+	margin-top:9.0px;
+	margin-bottom:0.0px;
+	text-align: center;
+}
+.noindentp
+{
+	font-family: "ACaslonPro";
+	font-size: 0.9em;
+	margin-top:0.0px;
+	margin-bottom:0.0px;
+	text-indent:0.0px;
+}
+.att
+{
+	font-family: "ACaslonPro";
+	font-size: 0.9em;
+	margin-top:0.0px;
+	margin-bottom:21.0px;
+	text-align: right;
+}
+.noindent2
+{
+	font-family: "ACaslonPro";
+	font-size: 0.9em;
+	margin-top:0.0px;
+	margin-bottom:3.0px;
+	text-align: justify;
+	margin-left:18.0px;
+	text-indent:0.0px;
+}
+.noindent
+{
+	font-family: "ACaslonPro";
+	margin-top:0.0px;
+	margin-bottom:0.0px;
+	text-indent:0.0px;
+}
+.noindentb
+{
+	font-family: "ACaslonPro";
+	margin-top:0.0px;
+	margin-bottom:18.0px;
+	text-indent:0.0px;
+}
+.noindenta
+{
+	font-family: "ACaslonPro";
+	margin-top:18.0px;
+	margin-bottom:0.0px;
+	text-indent:0.0px;
+}
+.noindent1
+{
+	font-family: "ACaslonPro";
+	margin-top:30.0px;
+	margin-bottom:0.0px;
+	text-indent:0.0px;
+}
+.indent
+{
+	font-family: "ACaslonPro";
+	margin-top:0.0px;
+	margin-bottom:0.0px;
+	text-indent:18.0px;
+}
+.indenta
+{
+	font-family: "ACaslonPro";
+	margin-top:18.0px;
+	margin-bottom:0.0px;
+	text-indent:18.0px;
+}
+.indentb
+{
+	font-family: "ACaslonPro";
+	margin-top:0.0px;
+	margin-bottom:18.0px;
+	text-indent:18.0px;
+}
+.block
+{
+	font-family: "ACaslonPro";
+	font-size: 0.9em;
+	margin-top:0.0px;
+	margin-bottom:0.0px;
+	margin-left:21.0px;
+	margin-right:21.0px;
+	text-indent:0.0px;
+}
+.blocki
+{
+	font-family: "ACaslonPro";
+	font-size: 0.9em;
+	margin-top:0.0px;
+	margin-bottom:0.0px;
+	margin-left:21.0px;
+	margin-right:21.0px;
+	text-indent:18.0px;
+}
+.block1
+{
+	font-family: "ACaslonPro";
+	margin-top:0.0px;
+	margin-bottom:0.0px;
+	margin-left:18.0px;
+	margin-right:18.0px;
+	text-align: justify;
+	text-indent:0.0px;
+}
+.block1i
+{
+	font-family: "ACaslonPro";
+	margin-top:0.0px;
+	margin-bottom:0.0px;
+	margin-left:18.0px;
+	margin-right:18.0px;
+	text-align: justify;
+	text-indent:18.0px;
+}
+.block1r
+{
+	font-family: "ACaslonPro";
+	margin-top:10.5px;
+	margin-bottom:10.5px;
+	margin-right:18.0px;
+	text-align: right;
+}
+.notes
+{
+	font-family: "ACaslonPro";
+	font-size: 0.9em;
+	margin-top:0.0px;
+	margin-bottom:0.0px;
+	text-indent:18.0px;
+}
+.group
+{
+	height: 80%;
+	page-break-inside: avoid;
+	page-break-before: auto;
+	page-break-after: always;
+}
+.group1
+{
+	height: 80%;
+	page-break-inside: avoid;
+	page-break-after: always;
+}
+.group2
+{
+	height: 80%;
+	page-break-inside: avoid;
+	page-break-before: auto;
+}
+.caption
+{
+	font-family: "ACaslonPro";
+	font-size: 0.9em;
+	margin-top:0.0px;
+	margin-bottom:7.5px;
+	text-indent:0.0px;
+    margin-left:30.0px;
+	margin-right:30.0px;
+	text-align: center;
+}
+.caption1
+{
+	font-family: "ACaslonPro";
+	text-align: center;
+	font-size: 0.9em;
+	margin-top:0.0px;
+	margin-bottom:0.0px;
+	margin-left:30.0px;
+	margin-right:30.0px;
+	text-indent:0.0px;
+}
+.bull
+{
+	font-family: "ACaslonPro";
+	margin-top:0.0px;
+	text-align: justify;
+	margin-bottom:0.0px;
+	padding-left: 2.4em;
+	text-indent:-12.0px;
+}
+.centerc1
+{
+	font-family: "DidotLTStd";
+	font-size: 1.1em;
+	margin-top:18.0px;
+	margin-bottom:52.5px;
+	text-align: center;
+}
+.centerc
+{
+	font-family: "DidotLTStd";
+	margin-top:12.0px;
+	font-size: .96em;
+	margin-bottom:48.0px;
+	text-align: center;
+}
+.centerc2
+{
+	font-family: "DidotLTStd";
+	margin-top:12.0px;
+	font-size: .96em;
+	margin-bottom:27.0px;
+	text-align: center;
+}
+.centerda
+{
+	font-family: "DidotLTStd";
+	font-size: 1.2em;
+	margin-top: 8%;
+	margin-bottom:13.8px;
+	text-align: center;
+}
+.centerd1
+{
+	font-family: "DidotLTStd";
+	font-size: 1.2em;
+	margin-top: 8%;
+	margin-bottom:13.8px;
+	text-align: center;
+}
+.centerd
+{
+	font-family: "DidotLTStd";
+	padding: 0 2em;
+	font-size: 0.9em;
+	margin-top:0.0px;
+	margin-bottom:30.0px;
+	text-align: center;
+}
+.centerd2
+{
+	font-family: "DidotLTStd";
+	font-size: 0.9em;
+	margin-top:0.0px;
+	margin-bottom:30.0px;
+	text-align: center;
+}
+.centerea
+{
+	font-family: "ACaslonPro";
+	padding: 0 2em;
+	font-size: 1.1em;
+	margin-top: 15%;
+	margin-bottom:0.0px;
+	text-align: center;
+}
+.centere
+{
+	font-family: "ACaslonPro";
+	font-size: 1.1em;
+	margin-top:0.0px;
+	margin-bottom:0.0px;
+	text-align: center;
+}
+.atte
+{
+	font-family: "ACaslonPro";
+	font-size: 0.9em;
+	margin-top:18.0px;
+	margin-bottom:0.0px;
+	text-align: center;
+}
+.centerpa
+{
+	font-family: "ACaslonPro";
+	font-size: 0.9em;
+	letter-spacing: .1em;
+	margin-top: 7%;
+	margin-bottom:0.0px;
+	text-align: center;
+}
+.centerp1a
+{
+	font-family: "ACaslonPro";
+	letter-spacing: .12em;
+	font-size: 1.1em;
+	margin-top: 15%;
+	margin-bottom:22.5px;
+	text-align: center;
+}
+.centerp
+{
+	font-family: "ACaslonPro";
+	margin-top:0.0px;
+	margin-bottom:7.7999997px;
+	text-align: center;
+}
+.centerp1
+{
+	font-family: "ACaslonPro";
+	margin-top:0.0px;
+	margin-bottom:0.0px;
+	text-align: center;
+}
+.hang
+{
+	font-family: "ACaslonPro";
+	font-size: 0.9em;
+	margin-top:0.0px;
+	margin-bottom:0.0px;
+	padding-left: 2em;
+	text-indent:-25.5px;
+}
+.secbreak
+{
+	font-family: "ACaslonPro";
+	margin-top:7.5px;
+	margin-bottom:7.5px;
+	text-align: center;
+}
+.hr1
+{
+	margin-top:6.0px;
+	margin-bottom:15.0px;
+	margin-left: 30%;
+	margin-right: 30%;
+}
+.hr2
+{
+	margin-top:6.0px;
+	margin-bottom:52.5px;
+	margin-left: 30%;
+	margin-right: 30%;
+}
+.hr3
+{
+	margin-top:30.0px;
+	margin-bottom:15.0px;
+	margin-left: 30%;
+	margin-right: 30%;
+}
+.hrc
+{
+	margin-top:6.0px;
+	margin-bottom:19.5px;
+	margin-left: 30%;
+	margin-right: 30%;
+	color: black;
+}
+.bib
+{
+	font-family: "ACaslonPro";
+	font-size: 0.9em;
+	margin-top:0.0px;
+	margin-bottom:0.0px;
+	padding-left: 1.5em;
+	text-indent:-19.5px;
+}
+.hr
+{
+	margin-top:22.5px;
+	margin-bottom:0.0px;
+}
+.footnote
+{
+    font-family: "ACaslonPro";
+	font-size: .8em;
+	margin-top:12.0px;
+	margin-bottom:0.0px;
+	text-indent:0.0px;
+}
+.indexmain
+{
+	font-family: "ACaslonPro";
+	font-size: .8em;
+	margin-top:0.0px;
+	margin-bottom:0.0px;
+	padding-left: .8em;
+	text-indent:-12.0px;
+	text-align: justify;
+}
+.indexmainb
+{
+	font-family: "ACaslonPro";
+	font-size: .8em;
+	margin-top:0.0px;
+	margin-bottom:15.0px;
+	padding-left: .8em;
+	text-indent:-12.0px;
+	text-align: justify;
+}
+.indexsub
+{
+	font-family: "ACaslonPro";
+	font-size: .8em;
+	margin-top:0.0px;
+	margin-bottom:0.0px;
+	margin-left:36.0px;
+	text-indent:-12.0px;
+	text-align: justify;
+}
+.indexsubb
+{
+	font-family: "ACaslonPro";
+	font-size: .8em;
+	margin-top:0.0px;
+	margin-bottom:15.0px;
+	margin-left:36.0px;
+	text-indent:-12.0px;
+	text-align: justify;
+}
+.image1
+{
+	margin-top:0.0px;
+	margin-bottom:7.3500004px;
+	text-align: center;
+	page-break-after: avoid;
+}
+.image
+{
+	margin-top:0.0px;
+	margin-bottom:7.3500004px;
+	text-align: center;
+}
+.imageq
+{
+	margin-top:12.0px;
+	margin-bottom:12.0px;
+	text-align: center;
+}
+.bimage
+{
+	margin-top: 10%;
+	margin-bottom:18.0px;
+	text-align: center;
+}
+.btexta
+{
+	font-family: "HelveticaNeueLTStd";
+	font-size: 0.68em;
+	margin-top:0.0px;
+	margin-bottom:22.5px;
+	text-align: center;
+}
+.btext
+{
+	font-family: "HelveticaNeueLTStd";
+	margin-top:0.0px;
+	margin-bottom:30.0px;
+	text-indent:0.0px;
+}
+.btext1
+{
+	font-family: "TradeGothicLTStd-BdCn20";
+	font-size: 0.8em;
+	margin-top:0.0px;
+	margin-bottom:0.0px;
+	text-align: center;
+}
+.btext2
+{
+	font-family: "TradeGothicLTStd-BdCn20";
+	font-size: 1.3em;
+	margin-top:2.1px;
+	margin-bottom:0.0px;
+	text-align: center;
+}
+div.registration
+{
+	font-family: "GoudyReg";
+	font-size: .9em;
+	background-color: #e30e0e;
+	border-radius: .2em;
+	border: .1em black solid;
+	margin-top:0.0px;
+	margin-bottom:0.0px;
+	padding: .3em 1.2em;
+}
+div.registrationtop
+{
+	font-size: .9em;
+	border-radius: 1em 1em 0em 0em;
+	box-shadow: 0em -.5em .5em 0em #888888 inset;
+	padding: .49em .49em 1em .49em;
+	border-top: .1em black solid;
+	border-left: .1em black solid;
+	border-right: .1em black solid;
+	margin: 1em .49em 0 .49em;
+}
+div.registrationbottom
+{
+	font-size: .9em;
+	border-radius: 0em 0em 1em 1em;
+	box-shadow: 0em .7em .7em 0em #888888 inset;
+	padding: 1.2em .49em .49em .49em;
+	border-bottom: .1em black solid;
+	border-left: .1em black solid;
+	border-right: .1em black solid;
+	margin: 0em .49em 0 .49em;
+}
+.reg1
+{
+	font-family: "GoudyReg";
+	text-align: center;
+	font-size: 1.3em;
+	font-weight: bold;
+	margin-top:3.0px;
+	margin-bottom:9.0px;
+	margin-left:3.0px;
+	margin-right:3.0px;
+}
+.reg2
+{
+	font-family: "GoudyReg";
+	text-align: center;
+	line-height: 1.4em;
+	margin-top:15.0px;
+	margin-bottom:0.0px;
+}
+.reg3
+{
+	font-family: "GoudyReg";
+	text-align: center;
+	line-height: 1.4em;
+	margin:0.0px;
+}
+.promo
+{
+	font-family: "GoudyReg";
+	text-align: center;
+	margin:0.0px;
+	padding: .2em 0 0 0;
+	font-weight: bold;
+}
+.promo1
+{
+	font-family: "GoudyReg";
+	text-align: center;
+	margin:7.5px;
+	padding: .42em .3em .3em .3em;
+	border: .2em double black;
+	background-color: white;
+	box-shadow: 0em 0em .8em black;
+}
+.promo2
+{
+	font-size: .849em;
+}
+.hrpro
+{
+	margin-top:0.0px;
+	margin-bottom:7.3500004px;
+	margin-left: 30%;
+	margin-right: 30%;
+	font-size: .2em;
+}
+.imagefp
+{
+	margin:0.0px;
+	height: 99%;
+	text-align: center;
+}
+a
+{
+	text-decoration: none;
+}
+.sup
+{
+	font-size: .75em;
+	vertical-align: text-top;
+}
+.sub
+{
+	font-size: .75em;
+	vertical-align: text-bottom;
+}
+span.underline
+{
+	text-decoration: underline;
+}
+span.font
+{
+	font-family: "HelveticaNeueLTStd-Hv";
+	font-size: 1.1em;
+	line-height: .8;
+	color: #9D9FA2;
+}
+span.small
+{
+	font-size: 0.74em;
+}
+span.txit
+{
+	font-style: italic;
+}
+span.txbf
+{
+	font-weight: bold;
+}
+.breaker
+{
+    margin: 0;
+    line-height: .1;
+    font-size: .1em;
+}
+
+/* Buy Link CSS Begin */
+@font-face
+{
+    font-family: "BuyLinkTrade20";
+    src: url(../fonts/BuyLinkTGBd20.otf);
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face
+{
+    font-family: "BuyLinkTrade20";
+    src: url(../fonts/BuyLinkTGBd20Obl.otf);
+    font-style: italic;
+    font-weight: normal;
+}
+@font-face
+{
+    font-family: "BuyLinkTrade18";
+    src: url(../fonts/BuyLinkTGBd18.otf);
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face
+{
+    font-family: "BuyLinkTrade18";
+    src: url(../fonts/BuyLinkTGBd18Obl.otf);
+    font-style: italic;
+    font-weight: normal;
+}
+div.buylinkborder
+{
+    margin-top:15.0px;
+    margin-bottom:15.0px;
+    border: 3px double black;
+    padding: .74em 1em .42em 1em;
+}
+.buylinkgen
+{
+    font-family: "BuyLinkTrade20";
+    font-size: 1.2em;
+    margin-top:0.0px;
+    margin-bottom:0.0px;
+    text-align: center;
+}
+.buylinkgen1
+{
+    font-family: "BuyLinkTrade20";
+    font-size: .95em;
+    margin-top:0.0px;
+    margin-bottom:0.0px;
+    text-align: center;
+}
+.buylinkcover
+{
+    margin-top:7.5px;
+    margin-bottom:7.5px;
+    text-align: center;
+}
+.buylinkcopy
+{
+    font-family: "BuyLinkTrade18";
+    margin-top:7.5px;
+    margin-bottom:7.5px;
+    margin-left:15.0px;
+    margin-right:15.0px;
+    text-align: center;
+}
+.buylinktitle
+{
+    font-family: "BuyLinkTrade20";
+    margin-top:7.3500004px;
+    margin-bottom:9.0px;
+    margin-left:15.0px;
+    margin-right:15.0px;
+    text-align: center;
+}
+.buylinktable
+{
+    margin-top:0.0px;
+    margin-bottom: 0;
+    display: inline-block;
+}
+.buylinktd
+{
+    margin-right:7.5px;
+    margin-left:7.5px;
+    margin-top:0.0px;
+    margin-bottom:0.0px;
+    text-align: center;
+    border: 2px solid darkred;
+    padding: .45em .4em .15em .4em;
+    box-shadow: .15em .25em .15em #888888;
+}
+.buylinktd1
+{
+    margin-right:7.5px;
+    margin-left:7.5px;
+    margin-top:0.0px;
+    margin-bottom:0.0px;
+    text-align: center;
+    padding: .45em .4em .15em .4em;
+    font-size: .6em;
+}
+.buylinktd11
+{
+    margin-right:7.5px;
+    margin-left:7.5px;
+    margin-top:0.0px;
+    margin-bottom:0.0px;
+    text-align: center;
+    font-size: .5em;
+}
+.buylinkbutton
+{
+    font-family: "BuyLinkTrade20";
+    color: darkred;
+    font-size: .9em;
+    margin-top:9.0px;
+    margin-bottom:15.0px;
+    margin-left:15.0px;
+    margin-right:15.0px;
+    text-align: center;
+}
+.buylinktablebutton
+{
+    font-family: "BuyLinkTrade20";
+    color: darkred;
+    font-size: .9em;
+    margin-top:0.0px;
+    margin-bottom:0.0px;
+    text-align: center;
+}
+.buylinkspanborder
+{
+    margin-top:0.0px;
+    margin-bottom:0.0px;
+    border: 3px double black;
+    padding: .45em .4em .15em .4em;
+    box-shadow: .15em .25em .15em #888888;
+}
+.buylinkfinal1
+{
+    font-family: "BuyLinkTrade20";
+    font-size: 1.3em;
+    margin-top:12.0px;
+    margin-bottom:0.0px;
+    text-align: center;
+}
+.buylinkfinal2
+{
+    margin-top:7.5px;
+    margin-bottom:0.0px;
+    text-align: center;
+}
+.buylinkhr
+{
+    margin-top:0.0px;
+    margin-bottom:15.0px;
+    margin-left:12.0px;
+    margin-right:12.0px;
+}
+div.buylinkgroup
+{
+    page-break-inside: avoid;
+}
+.buylinkitalic
+{
+    font-style: italic;
+}
+.buylinkbold
+{
+    font-family: "BuyLinkTrade20";
+    font-weight: bold;
+}
+.buylinkunderline
+{
+    text-decoration: underline;
+}
+.buylinkwhite
+{
+    color: darkred;
+}
+/* Buy Link CSS End */
+
+@page { margin-top: 30px; margin-bottom: 20px; margin-left: 30px; margin-right: 30px; }
+body { text-align: justify; }

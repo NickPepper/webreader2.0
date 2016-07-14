@@ -1,0 +1,1722 @@
+{
+  "request": "http://pnjanalyticsm01:6100/m/snack/contentStream?channel=Romance&snack_type=book&layout=list&rf=json&fields=title,ean,id,file_order,epub_path,publisher,epub_title,images,snack_type,id,startCfi,endCfi,pageshots", 
+  "response": {
+    "docs": [
+      {
+        "cfi": [
+          "/6/118"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781466844087_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781466844087_p0_v1_s114x166.JPG", 
+        "description": "chapter 4\nfor the third night in a row, sleep was a hard time coming. For the past months, Tuesday night was one of the three reserved for Casey. At any other time she would be in his bed.\nSheila rolled over to her back with a groan and stared up at the darkened ceiling morosely. What was he doing now? Was he alone in his bed or had he found someone else to share it with? Had she made a mistake? Had she let him go too quickly, before he could have realized she could mean something to him?\nWas she letting the past influence the present in such a way that she could be harming the hopes she had for her future? Of course she was, wasn\u2019t that what she was good at? She had already proved it.\nSeven years before, she hadn\u2019t demanded the commitment, or the words of love. She hadn\u2019t pressed the issue and she had learned the error of it. She\u2019d been used by the man she\u2019d thought she loved. Ross Mason had used her and her heart to get close to her father and to secure a military position that only Douglas Rutledge could assign.\n", 
+        "ean": "9781466844087", 
+        "endCfi": "/6/118!/4/214/1", 
+        "epub_title": "Taken", 
+        "id": "9781466844087.54", 
+        "pub_date": "2014-07-22T04:00:00Z", 
+        "publisher": "Macmillan", 
+        "startCfi": "/6/118!", 
+        "title": "chapter 4", 
+        "wordcount": 3089
+      }, 
+      {
+        "cfi": [
+          "/6/112"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781466844087_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781466844087_p0_v1_s114x166.JPG", 
+        "description": "chapter 1\nsheila was stretched on a rack of such torturous pleasure she was certain she couldn\u2019t survive it. There was no way she would come out on the other end intact.\nShe always thought that at some point during the hours she spent in Nick Casey\u2019s bed, however, that something other than her orgasm would be found.\nEach time, she swore she wouldn\u2019t allow herself to be seduced, and each time he touched her, each time that sensual dominance swirled in his dark chocolate eyes, she found herself seduced. Seduced. Ready. Willing. He mesmerized her with his kiss and made her more than willing to beg for more. To plead.\nBreathless. Devoured. Fucked until she was screaming mindlessly in a pleasure so intense she was certain she would die from it. That was how she felt. And the pleasure became the center of her universe.\n\u201cOh God, Casey.\u201d She arched to him, her tone so rough and hoarse she didn\u2019t recognize it as her own.\nBut oh God, his touch was so good. Everything he did to her, every kiss, every stroke, every caress was ecstasy.\n", 
+        "ean": "9781466844087", 
+        "endCfi": "/6/112!/4/200/1", 
+        "epub_title": "Taken", 
+        "id": "9781466844087.51", 
+        "pub_date": "2014-07-22T04:00:00Z", 
+        "publisher": "Macmillan", 
+        "startCfi": "/6/112!", 
+        "title": "chapter 1", 
+        "wordcount": 2652
+      }, 
+      {
+        "cfi": [
+          "/6/274"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940015112009_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940015112009_p0_v1_s114x166.JPG", 
+        "description": "Obeying Duke\u2019s gentle command, Faith turned her back to him. He slid the bodice of her dress off her shoulders and down her arms, tugged the sleeves over her hands then draped the soft fabric across the dressing table. Then his warm lips touched the nape of her neck, and flutter-birds circled her stomach like dandelion puffs caught on a hard swirl of wind.\n\u201cDon\u2019t move,\u201d he whispered, his breath soft and warm against her bare skin.\nShe felt a gentle tug in her hair, as he removed the spray of wildflowers she\u2019d worn. When he laid the tiny cluster of white and orange trillium and yellow snapdragons down, his eyes met hers in the mirror. Pin by pin, he freed her upswept locks, dropping the pins onto the table until she felt her mass of hair tumble down her back.\n\u201cDo you have a brush in your bag?\u201d\nShe nodded.\nHe stepped away to retrieve her bag from beside the chamber door. When he set it down, she reached inside the small, worn valise and found the brush Adam had stolen.\n\u201cSit,\u201d he said, taking the brush from her.", 
+        "ean": "2940015112009", 
+        "endCfi": "/6/274!/4/2/170/1", 
+        "epub_title": "Grayson Brothers Series Boxed Set (4 books in 1)", 
+        "id": "2940015112009.128", 
+        "pub_date": "2012-09-03T04:00:00Z", 
+        "publisher": "Wendy Lindstrom", 
+        "startCfi": "/6/274!", 
+        "title": "Chapter Twenty-six", 
+        "wordcount": 2811
+      }, 
+      {
+        "cfi": [
+          "/6/44"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781101626641_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781101626641_p0_v1_s114x166.JPG", 
+        "description": "FOURTEEN\nMoving into his bedroom, Graham fully expected to find Lyrica stretched out in his bed. Furious, but in his bed where she belonged. Instead, he found her in the sitting room, the lights extinguished as she stood at the window and stared out into the early morning fog blanketing the land.\n\u201cYou know you\u2019re not protected just because the room\u2019s dark,\u201d he reminded her as he moved slowly to the window.\nTurning, she watched silently as he closed the heavy curtains before staring back at her.\n\u201cHow long will this take?\u201d she asked, pulling the robe Kye had brought to the room earlier tighter around her body. \u201cHow long will I be here, Graham?\u201d\nThe thin silk did nothing to hide the tempting curves it covered or the matching violet silk gown she wore beneath.\n\u201cIn a hurry to leave?\u201d he asked, feeling a hint of anger at the thought.\n\u201cIn a hurry to no longer feel as though I\u2019m a danger to everyone I care for,\u201d she retorted rather than answering his question.\nThe fear that she would be the reason someone she loved was hurt, or killed, weighed on her.", 
+        "ean": "9781101626641", 
+        "endCfi": "/6/44!/4[x9781101626641_EPUB]/2/230/1", 
+        "epub_title": "Nauti Enchantress", 
+        "id": "9781101626641.19", 
+        "pub_date": "2014-06-03T04:00:00Z", 
+        "publisher": "Penguin Group", 
+        "startCfi": "/6/44!", 
+        "title": "CHAPTER FOURTEEN", 
+        "wordcount": 3672
+      }, 
+      {
+        "cfi": [
+          "/6/76"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780062231307_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780062231307_p0_v1_s114x166.JPG", 
+        "description": "Though he\u2019d spent a good deal of time tonight trying to see through it, Patrick\u2019s affair de coeur with Julianne\u2019s wrapper was at an end.\nThe damned thing had to go.\nHe stood up from the tub, his wife in his arms, water streaming off them both. The towel was now soaked, but he found he did not care. The air in the room was languorous and warm, thanks to the fire blazing in the grate. Neither of them risked being felled by pneumonia as a consequence of what he was about to do.\nBecause while the next sensible step might have been to cover up her wet body as quickly as possible, he wasn\u2019t feeling entirely sensible at the moment.\nHe carried her, soaking wet, to the bed and set about peeling the wet, transparent wrapper from her skin. The fabric stymied him at every turn, clinging to her shoulders, sticking to her arms. Slowly, slowly he tugged, until it bunched about her waist and the pale perfection of her breasts tipped into his greedy view.\nA word took a claw-hold in his mind. Mine. A simple enough sentiment, one that even a fool like himself could understand.", 
+        "ean": "9780062231307", 
+        "endCfi": "/6/76!/4/2[chapter-33]/2/94/1", 
+        "epub_title": "Moonlight on My Mind (Second Sons Series #3)", 
+        "id": "9780062231307.35", 
+        "pub_date": "2014-03-25T04:00:00Z", 
+        "publisher": "HARPERCOLLINS", 
+        "startCfi": "/6/76!", 
+        "title": "Chapter 33", 
+        "wordcount": 1595
+      }, 
+      {
+        "cfi": [
+          "/6/22"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780062380296_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780062380296_p0_v1_s114x166.JPG", 
+        "description": "LATE INTO THE EVENING, the air had turned cool. Cold enough, actually, to send shivers down Faith\u2019s arms as she waved good-\u00adbye to the last guest, then walked from the barn to the lodge house. When she lit the fire in the hearth, the heat from the whoosh of flames felt good against her palms as she held them out in front of her.\nJust as she\u2019d hoped, the event tonight had gone smooth. Her organization had profited well, which meant she\u2019d have more funds to buy Christmas gifts for the kids and to open the doors to the ranch for several more children. Last summer, she\u2019d had an idea to turn custom-\u00adbuilt covered wagons and teepees into sleeping quarters for her young campers. The extra cash the silent and live auctions had brought in would go toward making that concept a reality.\nShe had Chase to thank for all the efforts he\u2019d put in behind the scenes. Even so, he\u2019d refused to let her publicly acknowledge his help. So many questions about him filtered through her mind. What were his plans? Where would he go and what would he do after he left the ranch?", 
+        "ean": "9780062380296", 
+        "endCfi": "/6/22!/4[Chapter]/2/158/1", 
+        "epub_title": "Sweet Cowboy Christmas: A Sweet, Texas Novella", 
+        "id": "9780062380296.8", 
+        "pub_date": "2014-11-25T05:00:00Z", 
+        "publisher": "HARPERCOLLINS", 
+        "startCfi": "/6/22!", 
+        "title": "Chapter Seven", 
+        "wordcount": 2792
+      }, 
+      {
+        "cfi": [
+          "/6/36"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780062231154_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780062231154_p0_v1_s114x166.JPG", 
+        "description": "Can you hear that rustling? It\u2019s the sound of the haute ton frantically opening their invitations to the unexpected wedding between the Duke of Ashbrooke and Lady \u201cBuxom Bluestocking\u201d Emma Avery. While the duke and his intended vie for Lady Grey\u2019s fortune at her annual games, the bride\u2019s mother has begun planning the wedding of the season.\n\u2014\u00ad\u201cFASHIONABLE INTELLIGENCE,\u201d\nTHE LONDON WEEKLY\nThe last night of the Fortune Games\nTHE COLLECTIONS FROM the day\u2019s romantically themed scavenger hunt were artfully displayed on tables lining the drawing room. For beauty, there were Lady Grey roses, mirrors, and paintings portraying the beautiful Sussex landscape. Blake and Emma\u2019s collection of butterflies in a jar fluttered as love at first sight. Candles flickered. Blake\u2019s matches were dismissed as \u201cmore newfangled trouble.\u201d\nAgatha had slowly examined them all, with her Angus offering his arm for support. At her direction, he made notes in that red leather book he carried everywhere. To everyone\u2019s surprise, she did not send anyone home.", 
+        "ean": "9780062231154", 
+        "endCfi": "/6/36!/4[Chapter]/2/298/1", 
+        "epub_title": "The Wicked Wallflower", 
+        "id": "9780062231154.15", 
+        "pub_date": "2013-10-29T04:00:00Z", 
+        "publisher": "HARPERCOLLINS", 
+        "startCfi": "/6/36!", 
+        "title": "Chapter 12", 
+        "wordcount": 4953
+      }, 
+      {
+        "cfi": [
+          "/6/56"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940046120868_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940046120868_p0_v1_s114x166.JPG", 
+        "description": "He\u2019s here.\nI turn, searching the darkness, but I can only make out a shadow by the door. \u201cThat doesn\u2019t make any sense,\u201d I tell him, feeling stubborn. \u201cI want to see your face this time.\u201d\n\u201cAnd you will, I promise. But first, I need you to trust me. Can you do that, darling?\u201d His voice is silky and seductive, and I feel a shiver of lust.\nI remember his other rules, his harsh commands.\nAnd how hard I came once I submitted completely.\n\u201cI promise you,\u201d he continues, voice soothing me though he\u2019s still hidden from view. \u201cWhen that lush body breaks apart and you come screaming for more, you\u2019ll be looking me in the eyes. You have my word on that.\u201d\nHis promise is all I have to go on.\nHe hasn\u2019t let me down yet.\nI decide.\n\u201cOK,\u201d I whisper, lifting the mask to my face. \u201cI\u2019ll do it.\u201d\nI settle the silk over my eyes. Darkness falls. In an instant, I hear him cross the room towards me, and feel his body press close against mine.\nHard. Lean. Hot.\n\u201cI won\u2019t disappoint.\u201d His voice is a growl in my ear, flooding me with warmth.", 
+        "ean": "2940046120868", 
+        "endCfi": "/6/56!/4/220/1", 
+        "epub_title": "The Invitation 2", 
+        "id": "2940046120868.24", 
+        "pub_date": "2014-09-28T04:00:00Z", 
+        "publisher": "Smashwords", 
+        "startCfi": "/6/56!/4/2/2", 
+        "title": "CHAPTER TWENTY-THREE", 
+        "wordcount": 2393
+      }, 
+      {
+        "cfi": [
+          "/6/8"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940149798711_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940149798711_p0_v1_s114x166.JPG", 
+        "description": "20.\nALICIA\nDex sits there, shoulders hunched, his heart clearly breaking wide open in his chest at the dark memories that have dragged him down for so long.\nAll this time, hes been holding it inside.\nI watch him, my heart aching for his silent grief. But its more than loss, carved deep on his face. Its guilt too. Self-loathing, a bitter regret. And thats when I realize the reason for it all: quitting music, his self-imposed exile, pushing everyone away.\nHe thinks hes the one to blame for Connors death. He thinks this is all his fault.\nOh, Dex, I murmur, my heart filling with sorrow for him. It wasnt your fault.\nHe shakes his head. You dont understand.\nYou couldnt have stopped him, even if you tried. I take his hand again, shifting so Im on my knees beside him. I tug on his hand, trying to make him look at me. He was an addict, Dex. He didnt want helping. No matter what you could have done, it wouldnt have made a difference.\nWe could have quit the tour. Dex turns now, his face harsh with self-loathing.", 
+        "ean": "2940149798711", 
+        "endCfi": "/6/8!/4/2916/2", 
+        "epub_title": "Uninhibited", 
+        "id": "2940149798711.23", 
+        "pub_date": "2014-07-21T04:00:00Z", 
+        "publisher": "Melody Grace Books", 
+        "startCfi": "/6/8!/4/2748/2", 
+        "title": "20. Alicia", 
+        "wordcount": 3713
+      }, 
+      {
+        "cfi": [
+          "/6/38"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781101625927_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781101625927_p0_v1_s114x166.JPG", 
+        "description": "8\nFen was very happy to get away from the four walls of the living, breathing house. He never had spotted Andre, the ghost among Carpathian warriors, but was satisfied that he knew his old friend was there. He inhaled the night air. Tatijana and he had to return quickly to their resting place, but before they did, he needed to breathe the fresh air once again.\nTatijana slipped her hand into his as they turned up a trail to climb higher into the mountains. \u201cI guess that went as well as could be expected.\u201d\n\u201cBetween the two of us, you with the information on weapons and me with what I know about Lycans and rogues, I think we gave them enough to protect themselves,\u201d Fen said. Already the surrounding trees cut them off from all civilization, making him feel as if it were just the two of them, alone in the night.\n\u201cYou were very uncomfortable,\u201d she observed.\n\u201cIt is long since I\u2019ve been inside a house for any length of time,\u201d he conceded. \u201cI felt the more time I was in the company of the prince, the more danger I exposed him to.", 
+        "ean": "9781101625927", 
+        "endCfi": "/6/38!/4[x9781101625927_EPUB]/2/292/7", 
+        "epub_title": "Dark Lycan (Dark Series #24)", 
+        "id": "9781101625927.14", 
+        "pub_date": "2013-09-03T04:00:00Z", 
+        "publisher": "Penguin Group", 
+        "startCfi": "/6/38!", 
+        "title": "Chapter 8", 
+        "wordcount": 7491
+      }, 
+      {
+        "cfi": [
+          "/6/28"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780345525321_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780345525321_p0_v1_s114x166.JPG", 
+        "description": "Sometime during the night, they moved closer to each other. As dawn broke, Skye came slowly awake to feel Hawkhurst\u2019s arm encircling her waist, his face very near to hers. For a long moment she lay there luxuriating in his warmth. When she opened her eyes, she found him watching her.\nIn turn, her gaze lingered on his beautifully chiseled features. The proud bones and angles were softer now; the contentment in his eyes unmistakable.\nShe relished that peaceful look. He was a man who had been in pain far too long. Alone, isolated, severed from any sort of pleasure in life. He wasn\u2019t alone any longer, though, and it was time she made him realize it. They had comforted each other through the night, but she yearned for so much more.\nThe nearness of his mouth made her long to thread her fingers in his hair and pull him close enough to kiss her, but she settled for reaching out silently to brush his bare chest with her fingertips, feeling sleek skin over hard muscle.\nHis body tightened at that simple contact.\n", 
+        "ean": "9780345525321", 
+        "endCfi": "/6/28!/4/268/1", 
+        "epub_title": "Secrets of Seduction (Legendary Lovers Series #3)", 
+        "id": "9780345525321.11", 
+        "pub_date": "2014-04-29T04:00:00Z", 
+        "publisher": "Random House", 
+        "startCfi": "/6/28!", 
+        "title": "Chapter Ten", 
+        "wordcount": 3634
+      }, 
+      {
+        "cfi": [
+          "/6/36"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940015806120_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940015806120_p0_v1_s114x166.JPG", 
+        "description": "Valentina looked down to find Smith staring up at her, his eyes even darker than normal, and so intense that her heart skipped a beat in her chest.\nShe could see the desire on his face, knew hers matched it in equal measure, and yet past the desire was something that tore at her heart...a longing, a need she\u2019d worked so long and hard to hold at bay in herself. One that went far beyond making love.\nIt went to cold nights wrapped up together under a blanket on the couch.\nTo tears dried by someone you knew you could trust with your deepest, darkest secrets.\nTo afternoons on rocking chairs holding hands while grandchildren played at your feet.\nTenderness rose up in her just as swiftly as pleasure had and she pulled him back up over her to give him a kiss that was even sweeter than any that had come before. Just as sweet was the next warm rush of pleasure as his hands explored her naked skin from curve to curve while his tongue teased hers. She could taste herself on him and shivered at the incredibly potent memory of Smith between her legs, lapping at her as though she was the sweetest treat he\u2019d ever been given.\n", 
+        "ean": "2940015806120", 
+        "endCfi": "/6/36!/4/178/1", 
+        "epub_title": "Come a Little Bit Closer (The Sullivans Series #7)", 
+        "id": "2940015806120.16", 
+        "pub_date": "2012-11-28T05:00:00Z", 
+        "publisher": "Oak Press, LLC", 
+        "startCfi": "/6/36!", 
+        "title": "Chapter Fourteen", 
+        "wordcount": 2746
+      }, 
+      {
+        "cfi": [
+          "/6/30"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940016235325_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940016235325_p0_v1_s114x166.JPG", 
+        "description": "Grayson took Diablo\u2019s saddle off and brushed him down, then gathered up wood from the pile in the rack under the roof overhang and carried the heavy load inside.\nAnd all the while he refused to let himself remember how Lori\u2019s tongue had felt against his skin.\nOr the way her lithe curves had fit against his while her toned legs were wrapped around his waist and her strong arms were locked around his neck.\nNor would he let himself remember that she\u2019d looked like a beautiful witch who couldn\u2019t have been more pleased by the storm she\u2019d brewed up.\nAnd while he was at it, he would also force himself to forget how beautiful the sound of her laughter had been...and that even in the middle of the rain, that sound had warmed him better than the sun ever had.\nIt was the first time he\u2019d seen her laugh like that, with her whole body, her entire heart and soul behind the happy sound. When she\u2019d opened up her arms to the storm and tilted up her face to let the rain wash over her, she not only looked like she belonged on his land, she looked so beautiful that he\u2019d felt as if something inside of him had been struck by lightning.\n", 
+        "ean": "2940016235325", 
+        "endCfi": "/6/30!/4/196/1", 
+        "epub_title": "Always On My Mind: The Sullivans (Contemporary Romance)", 
+        "id": "2940016235325.13", 
+        "pub_date": "2013-03-04T05:00:00Z", 
+        "publisher": "Oak Press, LLC", 
+        "startCfi": "/6/30!", 
+        "title": "Chapter Eleven", 
+        "wordcount": 3588
+      }, 
+      {
+        "cfi": [
+          "/6/2"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940015736847_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940015736847_p0_v1_s114x166.JPG", 
+        "description": "Damien rode the elevator back to the top floor. On one hand he hoped Sierra had gone to bed, giving both of them a chance to cool off, think first before they did something impulsive. On the other hand, he wanted her awake, standing by the front door while holding out a glass of wine and a seductive come-hither expression on her face.\nShelby hadn\u2019t been happy about being dumped, not even a little. The first ten minutes of their date had consisted of him telling her why it wasn\u2019t ever going to work. The next hour had been torture listening to her rant about what a jerk he was.\nIf he hadn\u2019t been feeling so guilty about his ever-growing desire for Sierra he would\u2019ve never allowed Shelby to vent that long. He would\u2019ve coolly gotten to his feet and walked out the door. After an hour that\u2019s exactly what he\u2019d done.\nShe was too embarrassed over public displays to chase him down and slap him in the middle of the restaurant, but he had a feeling she wasn\u2019t through. The look of utter disbelief in her eyes as he stood up had convinced him of that.\n", 
+        "ean": "2940015736847", 
+        "endCfi": "/6/2!/4/2/2026", 
+        "epub_title": "The Tycoon's Secret", 
+        "id": "2940015736847.15", 
+        "pub_date": "2012-12-13T05:00:00Z", 
+        "publisher": "Melody Null", 
+        "startCfi": "/6/2!/4/2/1794", 
+        "title": "Chapter Twelve", 
+        "wordcount": 3669
+      }, 
+      {
+        "cfi": [
+          "/6/40"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781619219960_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781619219960_p0_v1_s114x166.JPG", 
+        "description": "Chapter Sixteen\n\u201cOutside the bedroom, a man is expected to claim control time after time. But behind closed doors, many like it when a woman exerts herself. And many a woman has discovered she likes it just as much.\u201d\u2014The Ladies Book of Pleasures\nSeth paced the short length of the main room of the gatehouse. Once again, he was waiting for Isabel, but this time she was over half an hour late to their tryst. He found himself nervous and anxious.\nAs a man of power and influence, these weren\u2019t feelings which troubled him often. He was always in control, so he wasn\u2019t certain how to properly react when faced with uncertainty.\nSuddenly the door to the cottage opened a fraction and Isabel\u2019s face appeared in the gap she had created. She looked around the room slowly and when her gaze fell on him, she drew back with a gasp of surprise.\n\u201cY-you\u2019re here,\u201d she whispered as she stepped into the room and closed the door behind her. She didn\u2019t advance into the chamber, but leaned back against the door as she continued to stare at him with an expression filled with nervousness equal to his own.\n", 
+        "ean": "9781619219960", 
+        "endCfi": "/6/40!/4[MatterOfSin-AEPUB]/2/296/1", 
+        "epub_title": "A Matter of Sin", 
+        "id": "9781619219960.19", 
+        "pub_date": "2014-07-15T04:00:00Z", 
+        "publisher": "SAMHAIN PUBLISHING - EBKS", 
+        "startCfi": "/6/40!", 
+        "title": "Chapter Sixteen", 
+        "wordcount": 4713
+      }, 
+      {
+        "cfi": [
+          "/6/46"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780062065407_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780062065407_p0_v1_s114x166.JPG", 
+        "description": "She\u2019d never felt so valued as she did at his bedside, draped in silk, still warm from his touch and the promise of what was to come. His fingers trailed over her cheek and jaw, down the column of her throat, and over her racing pulse.\nHe traced the line of her collarbone and then the curve of her breast, lingering when she drew in a heavy, ragged breath. His black eyes met hers. \u201cDo you wish me to stop?\u201d\n\u201cNo,\u201d she said instantly. Wishing he would start again. Wishing he would keep going. Forever.\n\u201cI won\u2019t hurt you,\u201d he said.\nShe stilled at the words, at the way the promise came from deep inside him. She wondered how many times he\u2019d had to make that same promise to other women. To calm them as they stood an arm\u2019s length\u2014closer\u2014to the Killer Duke.\n\u201cI know,\u201d she said, capturing his bad hand in one of hers, pressing his fingers against her skin, holding his touch to her. She reached her other hand up, threading her fingers through his hair, pulling his lips down to her. \u201cYou\u2019ll never hurt me,\u201d she whispered against his lips.\n", 
+        "ean": "9780062065407", 
+        "endCfi": "/6/46!/4/2[chapter-18]/2/430/1", 
+        "epub_title": "No Good Duke Goes Unpunished (Rules of Scoundrels Series #3)", 
+        "id": "9780062065407.20", 
+        "pub_date": "2013-11-26T05:00:00Z", 
+        "publisher": "HARPERCOLLINS", 
+        "startCfi": "/6/46!", 
+        "title": "Chapter 18", 
+        "wordcount": 4986
+      }, 
+      {
+        "cfi": [
+          "/6/24"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781420137088_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781420137088_p0_v1_s114x166.JPG", 
+        "description": "Angela was impressed.\nSo this was what a kitchen was supposed to look like, she wryly acknowledged.\nIt was more than the hand-carved cabinets, granite countertops, and stainless steel appliances. It was the heavy oak dining table in the center of the ceramic tiled floor and the matching china cabinet that displayed the prized dishware.\nThis was a place where families gathered to share meals and laugh away the troubles of the day.\nIt wasn\u2019t a makeshift lab for a distracted scientist. Or a place for a child to sit alone with dinner from the microwave while her mother was flirting with her fellow drunks at the nearest bar.\nShe squashed the ridiculous pang. She wasn\u2019t that lonely ten-year-old girl anymore and she was perfectly happy with her private apartment and her kitchen filled with microscopes.\nPulling a water bottle from the fully loaded fridge, she was debating between a salad and a tuna sandwich when a husky voice whispered in her ear.\n\u201cDid you find anything to tempt your appetite?\u201d\n", 
+        "ean": "9781420137088", 
+        "endCfi": "/6/24!/4/2/506/1", 
+        "epub_title": "Out of Control", 
+        "id": "9781420137088.10", 
+        "pub_date": "2014-10-28T04:00:00Z", 
+        "publisher": "KENSINGTON PUBLISHING CORP.- EBKS", 
+        "startCfi": "/6/24!", 
+        "title": "Chapter Six", 
+        "wordcount": 4271
+      }, 
+      {
+        "cfi": [
+          "/6/36"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940149506750_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940149506750_p0_v1_s114x166.JPG", 
+        "description": "As Ian kissed her, for the first time in her life Tatiana knew\u2014really knew\u2014what passion was. \nThis was the kind of passion that people wrote songs and books and movies about. \nThis was the kind of moment that people waited an entire lifetime for. \nShe\u2019d acted out passion a dozen times on screen to the best of her professional ability, but she\u2019d never truly felt it before. No one but Ian had ever kissed her like this, touched her like this. Touching not just her body, but her heart and soul, too.\nShe hadn\u2019t meant to leap into his arms to kiss him like that, but she\u2019d been so excited about being an Oscar nominee that it had been pure instinct to share her joy with him any way she could. They\u2019d hugged, they\u2019d danced, and then, before she knew it, she was kissing him.\nJust a few moments of her lips against his\u2014and yet it had been unlike any kiss she\u2019d ever had, with warmth and arousal instantly swamping her system.\nFeeling as if she\u2019d just been struck by lightning, she\u2019d drawn back, but before she could do more than exclaim her surprise at what she\u2019d done, Ian was crushing her against him, his mouth devouring hers.", 
+        "ean": "2940149506750", 
+        "endCfi": "/6/36!/4/164/1", 
+        "epub_title": "Just To Be With You: The Sullivans (Contemporary Romance)", 
+        "id": "2940149506750.14", 
+        "pub_date": "2014-03-04T05:00:00Z", 
+        "publisher": "Oak Press, LLC", 
+        "startCfi": "/6/36!/4/4", 
+        "title": "CHAPTER FOURTEEN", 
+        "wordcount": 3175
+      }, 
+      {
+        "cfi": [
+          "/6/28"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781466844087_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781466844087_p0_v1_s114x166.JPG", 
+        "description": "chapter 7\nthe expression on his face was like none she had seen before. Powerful, dominant, the hard planes and angles tightened into sharp relief as he moved.\n\u201cReno.\u201d The protest was halted by the simple means of his lips covering hers again as his hands gripped the rounded curves of her buttocks, pulling her up and flush against the thick cock ridged behind the fly of his jeans.\nHeat flared instantly, spreading from her pussy through the rest of her body as her hands gripped his shoulders and she arched closer. She couldn\u2019t imagine never knowing this again, never being held by him, loved by him.\nTwisting in his grip, she fought him for the kiss, as desperately hungry for him as he seemed to be for her. His hands clenched the flesh of her rear, pulling at the curves until an erotic, sharp little tingle pierced the small entrance of her anus at the separation of the flesh.\n\u201cFeel it, Raven. Feel how sweet and hot it is. That doesn\u2019t just go away, baby; it haunts and eats at the soul and makes you so fucking hungry for it, you think you\u2019ll go crazy without it.", 
+        "ean": "9781466844087", 
+        "endCfi": "/6/28!/4/136/1", 
+        "epub_title": "Taken", 
+        "id": "9781466844087.11", 
+        "pub_date": "2014-07-22T04:00:00Z", 
+        "publisher": "Macmillan", 
+        "startCfi": "/6/28!", 
+        "title": "chapter 7", 
+        "wordcount": 2894
+      }, 
+      {
+        "cfi": [
+          "/6/40"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781402296246_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781402296246_p0_v1_s114x166.JPG", 
+        "description": "SLOW AND GENTLE\nFun and happy times end once we hit the parking lot. Jake has an agenda, and he is adamant that we follow it to the letter.\nFirst, kissing in the parking lot. The minute we clear the front door, he pushes me up against the brick wall and kisses me so long and deep I forget we\u2019re outside. In a frenzy of lust, I try to tear off his clothes. Jake gives me an admonishing \u201ctsk tsk\u201d and gently disengages my hands from his shirt. Clothes tearing is further down the agenda. Definitely after we reach my house.\nSecond, Jake removes Amanda\u2019s panties. Also in the parking lot. This is accomplished with him on his knees in front of me while I try not to moan too loudly.\nThird, a quick check to see how much Amanda enjoys exhibitionism. Jake\u2019s finger glistens under the streetlamp. Apparently Amanda enjoys it a lot.\nFourth, Jake drives Amanda\u2019s car since he planned ahead and arrived in a taxi. This allows Amanda to recline the passenger seat while Jake tests his driving-with-one-hand-and-finger-fucking-Amanda-with-the-other skills.", 
+        "ean": "9781402296246", 
+        "endCfi": "/6/40!/4[InYourCorner]/2/210/1", 
+        "epub_title": "In Your Corner (Redemption Series #2)", 
+        "id": "9781402296246.17", 
+        "pub_date": "2014-07-01T04:00:00Z", 
+        "publisher": "SOURCEBOOKS, INC.", 
+        "startCfi": "/6/40!/4/2/2", 
+        "title": "Chapter 15", 
+        "wordcount": 3389
+      }, 
+      {
+        "cfi": [
+          "/6/4"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940015736847_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940015736847_p0_v1_s114x166.JPG", 
+        "description": "Damien pulled back as he tried to regain control over his body. He was frustrated. He\u2019d just told her everything of his past, something he\u2019d never shared. He was angry at his mother, his relatives, and the pain he\u2019d gone through. He didn\u2019t know any other way to reign in the pain other than by taking control. He had to get control, needed it more than he needed air. He had to push away the vulnerability.\nAs he pushed her, he noticed the flush to her skin, that her eyes were dilated. She wanted him and he had to take her, had to push away the past.\nAs he focused on desire, he was able to push the ill feelings away, forget about the Andersons and revenge. Everything in him pushed him to move forward, claim her as his own and ease the pain inside.\nWith reckless abandonment, he swooped down and captured her lips, holding nothing back as his tongue filled her mouth, taking immediate advantage of her gaped lips to dip inside, taste her softness, ease his desire.\nThe flames of his desire stoked out of control, soon reaching the point of no return.", 
+        "ean": "2940015736847", 
+        "endCfi": "/6/4!/4/2/1040", 
+        "epub_title": "The Tycoon's Secret", 
+        "id": "2940015736847.25", 
+        "pub_date": "2012-12-13T05:00:00Z", 
+        "publisher": "Melody Null", 
+        "startCfi": "/6/4!/4/2/934", 
+        "title": "Chapter Twenty-One", 
+        "wordcount": 1826
+      }, 
+      {
+        "cfi": [
+          "/6/18"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780758290663_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780758290663_p0_v1_s114x166.JPG", 
+        "description": "\u201cYou do not look happy, Isabel,\u201d John, the Earl of Hargreaves, whispered in her ear. \u201cPerhaps you would care to hear a bawdy joke? Or move along to another party? This one is dreadfully boring.\u201d\nIsabel sighed inwardly and offered a bright smile. \u201cIf you wish to leave, I have no objections.\u201d\nHargreaves set his gloved hand at the small of her back and gave a soft caress. \u201cI did not say I wanted to leave. I suggested it as a cure for your ennui.\u201d\nAt the moment, she almost wished she were bored. To have her head filled with nothing of import would be infinitely better than having it filled with thoughts of Gray. Who was the man who had moved into her home today? She truly had no notion. She knew only that he was very dark, shadowed with torments she could not understand, because he would not share. He was also very dangerous. As her husband, he could demand anything of her that he desired and she would be helpless to deny him.\nDeep in her heart, Isabel could not help but long for the Marquess of Grayson she had once known.", 
+        "ean": "9780758290663", 
+        "endCfi": "/6/18!/4/2/290/2/1", 
+        "epub_title": "The Stranger I Married", 
+        "id": "9780758290663.7", 
+        "pub_date": "2014-06-24T04:00:00Z", 
+        "publisher": "KENSINGTON PUBLISHING CORP.- EBKS", 
+        "startCfi": "/6/18!", 
+        "title": "Chapter 2", 
+        "wordcount": 3978
+      }, 
+      {
+        "cfi": [
+          "/6/40"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780345532640_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780345532640_p0_v1_s114x166.JPG", 
+        "description": "HER EVERY NERVE ENDING WAS CHARGED AND THRUMMING WITH a current unlike anything she\u2019d ever experienced. Her skin felt seared, her limbs trembling, boneless.\nDeep inside, the very core of her being had gone molten, all of her thought and logic\u2014every last inhibition and fear\u2014obliterated by the shattering intensity of her release.\nAnd Nathan\u2019s scorching gaze promised even more.\nBreath racing short and shallow, Jordana lay back on the bed and watched, mesmerized, as he began to strip out of his combat boots and clothing in an economy of movement. Just the sight of his muscles bunching and flexing as he tore off his black patrol shirt and bared his arms and chest to her made more wet heat surge between her legs.\nDermaglyphs tracked all over his light olive-hued chest and shoulders, then lower, along the ridged planes of his abdomen and down below the waistband of his black fatigues. There could be no mistaking he was Gen One Breed. Jordana had seen precious few glyphs on other males, but nothing compared to the complicated pattern of interlocking swirls and elegant flourishes of Nathan\u2019s otherworldly skin markings.\n", 
+        "ean": "9780345532640", 
+        "endCfi": "/6/40!/4/306/1", 
+        "epub_title": "Crave the Night (Midnight Breed Series #12)", 
+        "id": "9780345532640.17", 
+        "pub_date": "2014-08-05T04:00:00Z", 
+        "publisher": "Random House", 
+        "startCfi": "/6/40!", 
+        "title": "Chapter 16", 
+        "wordcount": 4468
+      }, 
+      {
+        "cfi": [
+          "/6/54"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781101612491_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781101612491_p0_v1_s114x166.JPG", 
+        "description": "They arrived at the Navajo Suites without incident and pulled into the valet parking, where a Breed Enforcer stepped forward as Rule moved around the Dragoon to open her door. She stepped from the vehicle mutinously, glaring at him, full female fury gleaming in her eyes.\nThe moment the threat of danger had passed, she had sat back in her seat silently and completely refused to speak to him.\nJust what the hell he needed. His mate angrier than ever at a time when he needed her cooperation the most. And he couldn\u2019t blame anyone but himself.\nIf he hadn\u2019t been too damned stupid to realize exactly what had been going on over the past few months . . .\nIf he hadn\u2019t been too damned stubborn to claim what was his when he\u2019d first suspected who she was to him, and offered instead to trade his helpless, vulnerable mate for Lawe\u2019s warrior mate . . .\nNo wonder his brother doubted they were actually kin.\nHell, Rule was beginning to wonder why Lawe had even claimed him after that ridiculous offer. Because no woman could fit him more perfectly than his Gypsy.\n", 
+        "ean": "9781101612491", 
+        "endCfi": "/6/54!/4[x9781101612491_EPUB]/2/314/1", 
+        "epub_title": "Rule Breaker (Breeds Series #29)", 
+        "id": "9781101612491.25", 
+        "pub_date": "2014-02-04T05:00:00Z", 
+        "publisher": "Penguin Group", 
+        "startCfi": "/6/54!", 
+        "title": "Chapter 19", 
+        "wordcount": 3999
+      }, 
+      {
+        "cfi": [
+          "/6/60"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940148864660_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940148864660_p0_v1_s114x166.JPG", 
+        "description": "CHAPTER TWENTY-SIX\nShe only stared. \u201cA box?\u201d\n\u201cFour corners,\u201d Jared said slowly. \u201cNo windows. No door. Food shoved in once a day\u2014if you can call it food.\u201d\nMaggie froze with the terrible weight of comprehension. \u201cThey held you in a box? But why would the Thai government\u2014\u201d\nHis laugh was bitter.\u201d Not the Thais, though they were glad enough to see me gone. The police were from Burma\u2014excuse me, the Union of Myanmar. By all means let\u2019s be correct in our terms. It would hardly do to get the name of your jailer wrong.\u201d His hands opened and closed, as if with a will of their own. \u201cAny more questions before we call it a night?\u201d\nOnly a thousand, she thought, feeling as if they stood on opposite sides of a cold, stormy sea. And she knew she had to hear the rest\u2014for Jared as well as for herself. \u201cWhy, Jared? What good were you to them?\u201d\n\u201cA fair question. But that part, too, had been carefully arranged. You see, that building on the mountain wasn\u2019t a drug lab at all. According to the official reports, it was a nice little village school and we had just incinerated several hundred innocent Burmese children.", 
+        "ean": "2940148864660", 
+        "endCfi": "/6/60!/4/300/2/1", 
+        "epub_title": "A Highlander for Christmas (with Bonus Mini Tale)", 
+        "id": "2940148864660.28", 
+        "pub_date": "2013-12-07T05:00:00Z", 
+        "publisher": "Steel Magnolia Press", 
+        "startCfi": "/6/60!", 
+        "title": "CHAPTER TWENTY-SIX", 
+        "wordcount": 3389
+      }, 
+      {
+        "cfi": [
+          "/6/38"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940016653440_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940016653440_p0_v1_s114x166.JPG", 
+        "description": "Rafe was amazed to realize that Brooke\u2019s sensuality was just as fresh and innocently seductive as the rest of her. In the same way that he\u2019d thought he could eat just one of her chocolates last night at the bonfire and then had devoured nearly the whole box, still hungry for more, Rafe now realized that one more perfect climax beneath his tongue wasn\u2019t anywhere close enough to filling the deep well of need he had for Brooke.\nHe\u2019d never wanted like this.\nEvery moment with her was a sensual revelation. Hot. Effortless.\nPerfect.\nPulling her into his arms, he kissed her mouth. \"You taste good everywhere.\"\nHe felt her smile right in the center of his chest as she said, \"So do you\u2014at least, where you\u2019ve let me taste.\"\nThe bright spark of fire in her eyes told him he wasn\u2019t going to be able to hold her off any longer, so when she reached for the hem of his T-shirt, he helped her get it off over his head.\nHer eyes were wide with clear delight as she ran her hands slowly over his shoulders. \"You\u2019re so big,\" she said in an awed voice that resonated straight to his groin, just like every other damned thing she\u2019d said and done tonight.", 
+        "ean": "2940016653440", 
+        "endCfi": "/6/38!/4/132/1", 
+        "epub_title": "The Way You Look Tonight (The Sullivans Series #9)", 
+        "id": "2940016653440.17", 
+        "pub_date": "2013-06-18T04:00:00Z", 
+        "publisher": "Oak Press, LLC", 
+        "startCfi": "/6/38!", 
+        "title": "Chapter Fifteen", 
+        "wordcount": 2281
+      }, 
+      {
+        "cfi": [
+          "/6/22"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940150573048_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940150573048_p0_v1_s114x166.JPG", 
+        "description": "Chapter 7\nJulian\nBending down, I hook my arm under her knees and pick her up. She barely weighs anything, her small frame impossibly light as I carry her to the bathroom, where Ana prepared the jacuzzi for us.\nMy wife. Nora is now my wife. The fierce satisfaction I feel at the thought makes no sense, but I don\u2019t intend to dwell on it. She\u2019s mine, and that\u2019s all that matters. I will fuck her and pamper her, and she will fulfill my every need, no matter how dark and twisted. She will give me all of herself, and I will take it.\nI will take it all, and then I\u2019ll demand more.\nTonight, though, I will give her what she wants. I will be sweet and gentle, as tender as any husband with his new bride. The sadist inside me is quiescent for now, content. There will be plenty of time later to punish her for her reluctance at the church. At this moment, I have no desire to hurt her\u2014I just want to hold her, to stroke her silky skin and feel her shuddering with pleasure in my arms. My cock is hard, throbbing with need, but the hunger is different now, more controlled.\n", 
+        "ean": "2940150573048", 
+        "endCfi": "/6/22!/4/2/78/1", 
+        "epub_title": "Keep Me (Twist Me #2)", 
+        "id": "2940150573048.10", 
+        "pub_date": "2014-09-28T04:00:00Z", 
+        "publisher": "Mozaika Publications", 
+        "startCfi": "/6/22!", 
+        "title": "Chapter 7", 
+        "wordcount": 2105
+      }, 
+      {
+        "cfi": [
+          "/6/44"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780553394160_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780553394160_p0_v1_s114x166.JPG", 
+        "description": "It was done. Louisa glanced down at the large sapphire that adorned her slender finger. The stone seemed to weigh her down, capturing something she had not realized was free.\nThe wedding had been lovely: His family had welcomed her warmly, the duke embracing her and giving no hint of his doubts of the night before. Bliss had looked very young and sweet in a gown of palest yellow, giving no indication of the spirited girl about whom rumors abounded. The rest of his family had also been there, though she had to confess that it would be weeks before she\u2019d be able to keep them straight.\nThere had been one moment of worry as they left the church, when one of Swanston\u2019s brothers\u2014she wasn\u2019t quite sure which\u2014had released hundreds of doves. It sounded romantic, but the actuality of feathers and mess had been something else again. Swanston\u2019s ears had turned red and she\u2019d thought he was about to release a torrent of curses, but instead he\u2019d simply stepped with care to the carriage and held out his hand to her, brushing what she prayed was only a feather from her hair.\n", 
+        "ean": "9780553394160", 
+        "endCfi": "/6/44!/4/226/1", 
+        "epub_title": "Mastering the Marquess", 
+        "id": "9780553394160.17", 
+        "pub_date": "2014-07-29T04:00:00Z", 
+        "publisher": "Random House", 
+        "startCfi": "/6/44!", 
+        "title": "Chapter Sixteen", 
+        "wordcount": 3254
+      }, 
+      {
+        "cfi": [
+          "/6/136"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940015518030_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940015518030_p0_v1_s114x166.JPG", 
+        "description": "SIXTY\n\"WELL,\" GRIFFIN said. \"That's it.\" Upstairs in the Berkeley Square town house, he shut the master bedroom door and leaned his hands against it. \"Corinna is on her way to Hampstead, to a house I've never even seen.\"\n\"You'll see it soon,\" Rachael said behind him, where he knew she was slipping off her shoes.\nHe heard the soft give of the mattress as she sat on the bed across the room, and he imagined her rolling down her stockings. To torture himself just a bit, he remained facing away, the sound of swishing silk making his body stir, making his blood heat.\n\"And I'm sure it's a fine house,\" she continued, her sultry voice sliding into him. \"Deirdre told me it's enormous, and set in acres of gardens and woodland, and it was built by Robert Adams. She said her brother has more money than a pot of gold at the end of a rainbow.\"\n\"That man could eat a pot of gold for breakfast and never notice it was missing. I swear, Rachael, I didn't know it was possible for one man to have so much. It boggles the mind.", 
+        "ean": "2940015518030", 
+        "endCfi": "/6/136!/4/190/1", 
+        "epub_title": "The Art of Temptation (Regency Chase Family Series, Book 3)", 
+        "id": "2940015518030.67", 
+        "pub_date": "2012-10-18T04:00:00Z", 
+        "publisher": "Novelty Books", 
+        "startCfi": "/6/136!", 
+        "title": "60: \"Well,\" Griffin said. \"That's it.\" Upstairs in the Berkeley Square town house...", 
+        "wordcount": 2968
+      }, 
+      {
+        "cfi": [
+          "/6/52"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780062231239_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780062231239_p0_v1_s114x166.JPG", 
+        "description": "The Mad Baron Strikes Again\nThe notorious Lord Radcliffe was seen carrying the unconscious form of his new wife through the lobby of Mivart\u2019s Hotel, where they are residing. We fear the worst. \n\u2014THE LONDON WEEKLY\nOlivia\u2019s bedchamber\nSpecifically, her bed\nAfter the dramatic turn of events that left Olivia bedridden, she found herself ... well, bedridden. And after the initial flurry of visits from the doctor (who declared her ankle broken), and her parents (who fussed excessively), and the wallflowers (who amused her with society gossip), she was left alone to rest.\nThis morning, Phinn had returned to his workplace to oversee the reconstruction of the Difference Engine, which she knew he would. It was important work he\u2019d come to London to do. But he\u2019d also come for a wife, who lay bedridden and alone. Who had broken the engine.\nOlivia sighed. When he left earlier, she hadn\u2019t protested, as visitors surrounded her bedside. But they were long gone now and he hadn\u2019t returned. The light from her windows had faded from the bright yellow of midday to the violet of dusk.\n", 
+        "ean": "9780062231239", 
+        "endCfi": "/6/52!/4/2[chapter-21]/2/204/3", 
+        "epub_title": "Wallflower Gone Wild", 
+        "id": "9780062231239.23", 
+        "pub_date": "2014-03-25T04:00:00Z", 
+        "publisher": "HARPERCOLLINS", 
+        "startCfi": "/6/52!", 
+        "title": "Chapter 21", 
+        "wordcount": 2905
+      }, 
+      {
+        "cfi": [
+          "/6/50"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940149525140_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940149525140_p0_v1_s114x166.JPG", 
+        "description": "Chase grabbed the remote and flipped off the television, causing the room to go dark, the only light source coming from the rays of moonlight shining through the thin fabric of the sheer curtains that hung in the living room. Krista lay sound asleep beside him, her head resting in his lap. Chase softly ran his hands through her silky hair, his fingers grazing her scalp with each pass. He\u2019d been stroking her hair for the last hour or so. She\u2019d closed her eyes somewhere during the last half of the movie and had been sleeping ever since.\nShe was exhausted. Chase hadn\u2019t been letting her get much sleep the past week\u2014he couldn\u2019t keep his hands off of her! On top of that, she worked long, arduous hours as a physical therapist. Then today, she\u2019d gotten up early to say goodbye to her sister before the parade and worked a double shift at the women\u2019s shelter booth in record-high temperatures.\nDuring the last hour of her shift, while he waited for her, he\u2019d hung out with Alex and Jason in Haley\u2019s lingerie shop.", 
+        "ean": "2940149525140", 
+        "endCfi": "/6/50!/4/146/1", 
+        "epub_title": "Crazy Love - Krista & Chase", 
+        "id": "2940149525140.23", 
+        "pub_date": "2014-05-11T04:00:00Z", 
+        "publisher": "Red Hot Reads Publishing", 
+        "startCfi": "/6/50!/4/2", 
+        "title": "Chapter Twenty-One", 
+        "wordcount": 3171
+      }, 
+      {
+        "cfi": [
+          "/6/38"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781426897948_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781426897948_p0_v1_s114x166.JPG", 
+        "description": "An honor. Those words shook Carter\u2019s foundation. It was a good thing Rock had pulled him into the kiss because he doubted he could\u2019ve kept the shock from his face. An honor. He tried to keep the words from meaning anything. They were just words, after all. But there was no way he could ignore the tender passion that was in every touch and action Rock made.\nHe couldn\u2019t process it all, so instead he lost himself in the hard length of the man beneath him. Rock\u2019s hot mouth claimed his so thoroughly, his tongue playing with his, plunging, retreating, sucking in a way that had him wishing he could do nothing but this for hours. The full flavor that spoke of excitement and desire every time he pressed his tongue into Rock\u2019s mouth was like an addicting drug.\nHe was so lost in the feel of Rock, in how much he craved this, that he was unprepared when Rock rolled them over, never breaking their kiss. He went willingly, wanting the weight of the man on him\u2014something he usually hated. It was a vulnerable position that left him claustrophobic.", 
+        "ean": "9781426897948", 
+        "endCfi": "/6/38!/4/2/118/1", 
+        "epub_title": "Bonds of Denial (Wicked Play Series #5)", 
+        "id": "9781426897948.17", 
+        "pub_date": "2014-02-03T05:00:00Z", 
+        "publisher": "HARLEQUIN", 
+        "startCfi": "/6/38!", 
+        "title": "Chapter Fourteen", 
+        "wordcount": 2489
+      }, 
+      {
+        "cfi": [
+          "/6/46"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781466844087_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781466844087_p0_v1_s114x166.JPG", 
+        "description": "chapter 6\nshe was so weak. Maggie cursed her weakness even as she let Joe bear her to her back on the bed. He was her weakness. His lips on hers, the sharp, fierce kisses that left her drugged as his hands pulled at her shirt. He lifted only enough to drag the material over her head and toss it aside before he was back.\nCool air rippled over the tender, aching tips of her breasts only a second before Joe\u2019s heat enveloped her once again. He had that power, the power to warm her, to fuel a fire inside her so hot, so desperate that nothing mattered but his touch.\nMaggie opened to him, her hands clutching at his back as the rasp of his chest hair stimulated her sensitive nipples and stole her breath with the pleasure. So good. It had been so long. Too long without him, without his touch. She had sworn she wouldn\u2019t let this happen, but her own dreams and hunger had stolen her will.\nShe had dreamed of him every night that they had been apart. Aching dreams. Dreams of anger or of lust. Dreams of reunion or of parting.", 
+        "ean": "9781466844087", 
+        "endCfi": "/6/46!/4/124/1", 
+        "epub_title": "Taken", 
+        "id": "9781466844087.20", 
+        "pub_date": "2014-07-22T04:00:00Z", 
+        "publisher": "Macmillan", 
+        "startCfi": "/6/46!", 
+        "title": "chapter 6", 
+        "wordcount": 2220
+      }, 
+      {
+        "cfi": [
+          "/6/22"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780062219305_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780062219305_p0_v1_s114x166.JPG", 
+        "description": "The doors were driving Mac to madness. He jogged through the cavernous tunnels, opening one glowing white door after another. His gram was no longer here. She\u2019d left him. While he\u2019d been talking to her, she had disappeared, her image growing fainter as she listened to his story.\nShe was gone. They were all gone, just as in life\u2014his brother, his mother, Moira. And now, when he opened the cavern\u2019s glowing doors, he returned to his cell at the Old Tolbooth, the Condemned Man\u2019s Cell, with its foul smell and the rickety cot.\nHe\u2019d slam one door shut and run to the next, then the next.\nSometimes, he heard the voices of his brother and Moira. She had been known for her laughter almost as much as her fresh-cheeked beauty. Beautiful Moira. The woman he had loved . . . and lost.\nOccasionally, as he tore through the tunnels, Mac thought he could hear the sound of children. He knew without being told they were Lorcan and Moira\u2019s. He\u2019d never met them.\nGone. All gone.\nOverwhelming sadness settled upon him, and his only salvation was her voice.", 
+        "ean": "9780062219305", 
+        "endCfi": "/6/22!/4/2[rch_07]/288/1", 
+        "epub_title": "The Groom Says Yes", 
+        "id": "9780062219305.8", 
+        "pub_date": "2014-09-30T04:00:00Z", 
+        "publisher": "HARPERCOLLINS", 
+        "startCfi": "/6/22!", 
+        "title": "Chapter Seven", 
+        "wordcount": 3455
+      }, 
+      {
+        "cfi": [
+          "/6/34"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940013980570_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940013980570_p0_v1_s114x166.JPG", 
+        "description": "Sophie felt so safe, so warm, as she floated in that in-between space between sleep and coming completely awake. She knew exactly where she was, knew precisely why she felt so good. Jake was holding her, his arms curled protectively around her shoulders, with one of his hands splayed flat over her stomach beneath the T-shirt as if he were trying to protect more than just her.\nAnd he was completely naked.\nShe could feel the rigid flesh of his erection against the small of her back, the hairs on his thighs against the smooth skin of her legs, and as desire swiftly stole through her, she couldn\u2019t stop her half-asleep body from wanting to get even closer.\nShe\u2019d assumed night would be her enemy, those dark hours during the seven days she\u2019d promised. But now she knew it didn\u2019t matter whether it was day or night, light or dark.\nShe was her own worst enemy.\nJake wouldn\u2019t have to ask her for a darn thing. Just to be near him like this, if only to know the sweetness of his touch for a few seconds, she\u2019d give up everything.\n", 
+        "ean": "2940013980570", 
+        "endCfi": "/6/34!/4/140/1", 
+        "epub_title": "I Only Have Eyes for You (The Sullivans Series #4)", 
+        "id": "2940013980570.15", 
+        "pub_date": "2012-02-21T05:00:00Z", 
+        "publisher": "Oak Press, LLC", 
+        "startCfi": "/6/34!", 
+        "title": "Twelve", 
+        "wordcount": 2719
+      }, 
+      {
+        "cfi": [
+          "/6/46"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780307426970_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780307426970_p0_v1_s114x166.JPG", 
+        "description": "CHAPTER 16\n\u201cWHY DID YOU DO THAT?\u201d SHE GASPED WHEN SHE WAS ABLE to speak.\nHawk placed a finger beneath her chin and tilted her head back, forcing her to meet his flinty gaze.\n\u201cI will tear from you anything Adam gives you. Remember that. If I find his body draped over yours, he will suffer the same fate.\u201d His eyes drifted meaningfully over a scrap of crimson silk stuck on the bark of tree, flapping like a dead thing in the breeze.\n\u201cWhy?\u201d\n\u201cBecause I want you.\u201d\n\u201cYou don\u2019t even know me!\u201d\nHis mouth curved in a beautiful smile. \u201cOh, sweet lass, I know everything about you. I know you\u2019re a complex woman, full of dualities; you\u2019re innocent, yet tough; intelligent\u201d\u2014He cocked a teasing brow\u2014\u201cbut lacking a smidge of common sense.\u201d\n\u201cI am not!\u201d Adrienne scowled her protest.\nHe laughed huskily. \u201cYou have a wonderful sense of humor and you laugh often, but sometimes you\u2019re melancholy.\u201d He crowded her with his body and gazed down at her with heavy, hooded eyes. Adrienne tossed her head, trying vainly to dislodge his finger from beneath her chin and escape his penetrating gaze.\n", 
+        "ean": "9780307426970", 
+        "endCfi": "/6/46!/4/288/3", 
+        "epub_title": "Beyond the Highland Mist (Highlander Series #1)", 
+        "id": "9780307426970.19", 
+        "pub_date": "2009-11-04T05:00:00Z", 
+        "publisher": "Random House", 
+        "startCfi": "/6/46!", 
+        "title": "Chapter 16", 
+        "wordcount": 4922
+      }, 
+      {
+        "cfi": [
+          "/6/26"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940013082090_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940013082090_p0_v1_s114x166.JPG", 
+        "description": "Chapter Eleven\n\"Damn him.\" Angelique strode from the great hall toward her rooms. She'd barely held up her fa\u00e7ade before the clan during midday meal while her heart splintered. She should've killed Lachlan last night while she had him tied up instead of bedding him. Now that he'd had her, he would pursue someone else. But not Eleanor; she'd made sure of that. Angelique was certain any woman would do, so long as she was still breathing. The selfish, lascivious whoremonger.\nIt should be a crime, what he did\u2014forcing her to relish the shocking things he'd done to her with his mouth last night. But she was the imbecile for taking him into her body. She feared that act alone had caused her to take him into her heart as well. Or maybe it was the things that came before, the kissing, the sweet murmured words, his hands caressing. Even now, she burned for all those things, no matter that he would never be true.\n\"Mademoiselle,\" whispered a male voice in the darkened alcove between the great hall and solar.\n", 
+        "ean": "2940013082090", 
+        "endCfi": "/6/26!/4/2/418/6/1", 
+        "epub_title": "My Wild Highlander", 
+        "id": "2940013082090.13", 
+        "pub_date": "2011-08-26T04:00:00Z", 
+        "publisher": "Vonda Sinclair", 
+        "startCfi": "/6/26!", 
+        "title": "My Wild Highlander BN format UPDATED-12", 
+        "wordcount": 4592
+      }, 
+      {
+        "cfi": [
+          "/6/24"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940016152233_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940016152233_p0_v1_s114x166.JPG", 
+        "description": "Slut. Tramp. Bitch. Whore.\nA distinct chill slithered through Mia. The vile, cruel words that someone had written all over the windows on her Celica in a thick white paste swam before her eyes, and her legs felt weak, as though they were going to give out on her if she tried to take a step in any direction. She folded her arms around her middle, but it was Cameron\u2019s strength that held her upright as he wrapped his arms around her in a secure embrace.\n\u201cYou\u2019re trembling,\u201d he said gruffly, and rubbed his big hands up and down her bare back in an attempt to soothe her.\nClosing her eyes, she leaned into him and buried her face against his neck, wishing she could make all this ugliness go away. She inhaled the scent of his cologne and the warmth of his skin, taking comfort in the fact that Cameron was there and she didn\u2019t have to deal with this latest assault alone.\nShe wasn\u2019t used to relying on anyone for anything and had spent years striving to prove to her family that she was an independent woman who didn\u2019t need protecting or sheltering.", 
+        "ean": "2940016152233", 
+        "endCfi": "/6/24!/4/240/1", 
+        "epub_title": "WILDE SERIES: Boxed Set of 3 Full Length Novels", 
+        "id": "2940016152233.7", 
+        "pub_date": "2013-01-01T05:00:00Z", 
+        "publisher": "Janelle Denison", 
+        "startCfi": "/6/24!", 
+        "title": "CHAPTER SEVEN", 
+        "wordcount": 5138
+      }, 
+      {
+        "cfi": [
+          "/6/52"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780553394160_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780553394160_p0_v1_s114x166.JPG", 
+        "description": "Louisa was speechless\u2014and a little frightened. This was not what she\u2019d expected when she\u2019d entered Swanston\u2019s chamber, although perhaps she should have thought it through. She\u2019d somehow imagined that the night would end with him on his knees apologizing.\nShe couldn\u2019t even begin to understand why she\u2019d considered that a possibility.\nSwanston ground himself against her behind, sending shivers of desire through her. An ache grew between her legs. She had to remember that he\u2019d come from Madame\u2019s. She was certainly not going to bed him when he\u2019d just been with another.\nHe thrust again, pushing her legs apart, pressing his sex against her most sensitive spots. Even her breasts were afire as they rubbed against the mattress, causing the thin silk of her gown to chafe in a most delicious manner.\nIt should not have felt so good. Her anger should have been enough to shield her, but instead it fanned the flames hotter. There was something about lying beneath him, feeling his weight above her, his commanding presence, his domination.\n", 
+        "ean": "9780553394160", 
+        "endCfi": "/6/52!/4/364/3", 
+        "epub_title": "Mastering the Marquess", 
+        "id": "9780553394160.21", 
+        "pub_date": "2014-07-29T04:00:00Z", 
+        "publisher": "Random House", 
+        "startCfi": "/6/52!", 
+        "title": "Chapter Twenty", 
+        "wordcount": 3819
+      }, 
+      {
+        "cfi": [
+          "/6/48"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940013597389_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940013597389_p0_v1_s114x166.JPG", 
+        "description": "Chloe stopped dead at the threshold of the bedroom they\u2019d been sharing, and Chase turned to her, his eyes taking in her expression, the tight hold she had on his hands.\n\u201cChloe?\u201d\nKnowing she needed to be strong\u2014wanting to be strong not just for him, but for herself, too\u2014she said, \u201cI trust you,\u201d as her heart whispered, I love you.\nShe felt his large, warm hands cupping her face, stroking across her cheeks. His mouth dipped down to hers, sipping at her lips like she was the finest wine. \u201cSo sweet.\u201d He licked across her lower lip, and she was shivering with the pleasure of it as he said, \u201cSo brave.\u201d\nShe didn\u2019t feel brave. She felt like an actress trying to assume a role she had no prayer of nailing.\nBut she wasn\u2019t on the set of some movie. This wasn\u2019t a TV show she could watch from a safe distance. This was her life.\nA life she needed to reclaim, every single piece of it.\n\u201cShow me how good it can be, Chase. Show me how good it should be.\u201d\nHe lifted her in his arms, so swiftly the breath whooshed from her lungs as her feet left the floor.", 
+        "ean": "2940013597389", 
+        "endCfi": "/6/48!/4/240/1", 
+        "epub_title": "The Look of Love (The Sullivans Series #1)", 
+        "id": "2940013597389.22", 
+        "pub_date": "2011-09-01T04:00:00Z", 
+        "publisher": "Nyree Belleville", 
+        "startCfi": "/6/48!", 
+        "title": "Chapter Twenty", 
+        "wordcount": 3391
+      }, 
+      {
+        "cfi": [
+          "/6/36"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940149331475_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940149331475_p0_v1_s114x166.JPG", 
+        "description": "As her mouth crashed against his, he moved his hands to her hips to drag her even closer. Instead of pulling away, she wrapped her legs around his waist and bucked against him as she moaned into his mouth.\nLayers. There were too many layers of clothes between them. He didn\u2019t stop to think before he found the hem of her long-sleeved Stanford Football shirt and yanked it up over her torso. Clearly as desperate as he was to get rid of at least one of the cotton barriers between them, she helped him get it over her head and toss it onto the bench.\nHe stroked her nearly bare back, only her bra left on her upper body now. She was so warm, and when she arched into his touch, he finally saw what he\u2019d uncovered.\n\u201cYou\u2019re\u2014\u201d Beautiful didn\u2019t even come close. Gorgeous was just a word. \u201cA miracle.\u201d\nApart from that night at the frat party, she\u2019d always worn baggy clothes. He\u2019d been careful tonight to make sure that the shirt he\u2019d bought for her to wear at the game hadn\u2019t been too fitted, either. But now, with her breasts swelling over the top of the surprisingly sexy silk bra, he wanted to touch, wanted to stroke, wanted to taste.\n", 
+        "ean": "2940149331475", 
+        "endCfi": "/6/36!/4/96/1", 
+        "epub_title": "Kiss Me Like This: The Morrisons, Book 1 (New Adult Contemporary Romance)", 
+        "id": "2940149331475.15", 
+        "pub_date": "2014-06-10T04:00:00Z", 
+        "publisher": "Oak Press, LLC", 
+        "startCfi": "/6/36!/4/2", 
+        "title": "CHAPTER FIFTEEN", 
+        "wordcount": 1794
+      }, 
+      {
+        "cfi": [
+          "/6/14"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940149679027_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940149679027_p0_v1_s114x166.JPG", 
+        "description": "Chapter Three\nLauren froze, the unfamiliar whisper echoing in her ears. The pounding of her heart almost drowned the sound out. Almost\u2026but she could still hear him breathing. Hard.\nAs he leaned against her, she could tell that his breathing wasn\u2019t the only thing hard.\nOh. My. God. The stranger was in her house. In her bed. Suddenly, she was terrified. She tried to remember everything she\u2019d ever read about serial killers and rapists. But she was blank, rushed by a dousing of cold panic.\nHalf his body lay over hers. Judging from the fact her feet tangled with his calves and his wide chest enveloped her in solid heat, he was built tall, at least six feet, and like a wall of iron. While he didn\u2019t exactly pin her to the mattress, he made moving a challenge. Well, him and the handcuffs encircling her wrists.\nShe wasn\u2019t going anywhere, and he was making sure she understood that without a single word.\nFresh fear zipped up her spine. Holy cow, Mr. Mysterious hadn\u2019t failed to show up after all.\nBe careful what you wish for\u2026\n", 
+        "ean": "2940149679027", 
+        "endCfi": "/6/14!/4/2/550/1", 
+        "epub_title": "Naughty Little Secret", 
+        "id": "2940149679027.3", 
+        "pub_date": "2014-07-14T04:00:00Z", 
+        "publisher": "Shayla Black", 
+        "startCfi": "/6/14!", 
+        "title": "Chapter Three", 
+        "wordcount": 7871
+      }, 
+      {
+        "cfi": [
+          "/6/30"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780062245106_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780062245106_p0_v1_s114x166.JPG", 
+        "description": "When Daniel returned to Roselyn Castle the following evening, it was with renewed determination. Tonight he would make another effort at convincing her to place her trust in him. He knew that she had reasons to be apprehensive, not only because of his past but also because of what would probably happen to her should they get caught before they were married. The Griftons were not forgiving people and would likely punish her severely for thwarting their wishes yet again. It was imperative that he prevent such an outcome, not only because of his own pride but also because of a deep need to make her happy. He couldn\u2019t say precisely when he\u2019d started to care so much about her well-being. In all likelihood, he\u2019d fallen for her the moment they\u2019d met, drawn to her company by her spark. But the emotions that now shot through him at the thought of her in the arms of any other man were intense\u2014a need to both protect and possess that had developed gradually since the night of the ball. Since then, his longing for her had not diminished but grown, until he found himself tossing and turning at night, restless with thoughts of loving her the way she deserved to be loved.\n", 
+        "ean": "9780062245106", 
+        "endCfi": "/6/30!/4/2[chapter-9]/2/86/1", 
+        "epub_title": "The Scandal in Kissing an Heir (At the Kingsborough Ball Series #2)", 
+        "id": "9780062245106.12", 
+        "pub_date": "2013-12-31T05:00:00Z", 
+        "publisher": "HARPERCOLLINS", 
+        "startCfi": "/6/30!", 
+        "title": "Chapter 9", 
+        "wordcount": 1961
+      }, 
+      {
+        "cfi": [
+          "/6/36"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940148438595_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940148438595_p0_v1_s114x166.JPG", 
+        "description": "Mary\u2019s lips were so soft, her breath a whisper of warmth across Jack\u2019s mouth. Every kiss they\u2019d shared had been spectacular, but nothing could have prepared him for this. He\u2019d been stealing passion from her before, but now she was giving him her boundless sensuality freely\u2026and so damned sweetly that his hands were shaking as he cradled her hips.\nShe drew back just far enough to murmur, \u201cYou taste so good, like lemons and sugar and you,\u201d and then she was kissing him again, slicking her tongue over his lower lip. Meeting her halfway, his tongue found hers, and she gave up a gasp of pleasure.\nThe small tastes of her that he\u2019d had this past week had made him ravenous for more than just a few fleeting moments of heaven. He wanted to learn every inch of the incredible woman in his arms. What made her pant. What made her plead. What made her eyes flutter closed as she came apart in his arms.\nSlowly, he slid his hands up her curves, from her hips to her back and shoulders. She was trembling by the time he threaded his fingers into her silky hair, and as he took their kiss deeper, her hands clasped his shoulders as if she needed to hold on to him to keep her balance.\n", 
+        "ean": "2940148438595", 
+        "endCfi": "/6/36!/4/156/1", 
+        "epub_title": "Kissing Under The Mistletoe: The Sullivans (Contemporary Romance)", 
+        "id": "2940148438595.16", 
+        "pub_date": "2013-09-24T04:00:00Z", 
+        "publisher": "Oak Press, LLC", 
+        "startCfi": "/6/36!", 
+        "title": "Chapter Twelve", 
+        "wordcount": 3414
+      }, 
+      {
+        "cfi": [
+          "/6/36"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781440585838_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781440585838_p0_v1_s114x166.JPG", 
+        "description": "CHAPTER TEN\nHe all but pushed her into the room and slammed the door behind her, not giving her the chance to say yes, no, or maybe. From inside the room, she heard the front door slam shut. She couldn\ufffd\ufffd\ufffdt see outside toward the front of the house but the scream of his tires peeling out of the drive was unmistakable.\nWhere was he going? The image of his housekeeper flooded her thoughts. No way. Besides she was married. And marriage seemed to mean a lot to the McClemores. Charmers all of them and heaven help the women in this town from Matt and his single brothers. Even his sister seemed hell bent. She\u2019d passed the local bar on her way to the ranch. The town was small but wouldn\u2019t you know they\u2019d have a large bar and dance club for the local ranches. He was probably the stud about Annona. Hadn\u2019t she already seen him in action? He could do a meet and greet in five and then sweet-talk his way into any woman\u2019s bed. Or heart. There had to be a line a mile long of breathless cowgirls wanting his attention.\n", 
+        "ean": "9781440585838", 
+        "endCfi": "/6/36!/4/202/1", 
+        "epub_title": "Crazy for Cowboys: Eight Sexy Romances to Jangle Your Spurs", 
+        "id": "9781440585838.14", 
+        "pub_date": "2014-09-08T04:00:00Z", 
+        "publisher": "F & W PUBLICATIONS", 
+        "startCfi": "/6/36!", 
+        "title": "CHAPTER TEN", 
+        "wordcount": 4372
+      }, 
+      {
+        "cfi": [
+          "/6/38"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780440338451_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780440338451_p0_v1_s114x166.JPG", 
+        "description": "LOGAN'S WORDS muddled together inside Maya's head. She tucked them away for a different time and place, when she could breathe normally, when she could think straight. Right now, all she knew was that she couldn't stop rubbing her hands over his abs, over his pecs, over every square inch of his glorious broad, tanned chest. And that she'd die if she didn't kiss him that very second.\nShe'd never been so close to death before. His warmth, his heartbeat thudding against hers, the desire she read in his eyes\u2014they all meant life to her. Keeping her distance from Logan and staying safe in her little world suddenly meant nothing. Not when one malicious act had almost robbed her of her chance to feel joy, to feel anything at all. She wanted to sample life's sweetness and allow herself a taste of the pleasure she'd refused for so long.\nTheir mouths came together and it was a blur of heat and passion. No one was in charge. Instead, they were both taking something they desperately needed, something they could only find in each other's arms.\n", 
+        "ean": "9780440338451", 
+        "endCfi": "/6/38!/4/190/1", 
+        "epub_title": "Wild Heat", 
+        "id": "9780440338451.17", 
+        "pub_date": "2009-04-28T04:00:00Z", 
+        "publisher": "Random House", 
+        "startCfi": "/6/38!", 
+        "title": "Chapter Fourteen", 
+        "wordcount": 3243
+      }, 
+      {
+        "cfi": [
+          "/6/40"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780062315786_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780062315786_p0_v1_s114x166.JPG", 
+        "description": "Nestled securely in the thicket of trees, the tiny cottage had managed to stay quite dry. Delaney, however, had not. When she\u2019d first arrived, she was dripping from head to foot all over the hard-packed clay floor.\nCalliope had been right on several accounts. The cottage was quite snug and clean as well. A single chair\u2014sturdy but old and flecked with aged red paint\u2014stood by a crescent-shaped fireplace recessed into the stone wall. A basket of firewood and kindling lay at the hearth with a cloth-wrapped bundle of tinder and flint. And a fringed blanket was draped over a peg on the wall.\nAs the spring rain turned into a storm outside, Delaney made herself more comfortable and started a fire. Yet even then, she couldn\u2019t remove the chill that covered her from head to toe. Her clothes were still dripping wet. She couldn\u2019t very well stand before the fire, expecting her clothes to dry quickly. They needed to be wrung out.\nShivering, she looked outside to the raging storm. Surely neither Bree nor Calliope would venture out in this.", 
+        "ean": "9780062315786", 
+        "endCfi": "/6/40!/4/192/1", 
+        "epub_title": "Finding Miss McFarland: The Wallflower Wedding Series", 
+        "id": "9780062315786.18", 
+        "pub_date": "2014-08-05T04:00:00Z", 
+        "publisher": "HARPERCOLLINS", 
+        "startCfi": "/6/40!/4/2", 
+        "title": "Chapter Fifteen", 
+        "wordcount": 3564
+      }, 
+      {
+        "cfi": [
+          "/6/28"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781619219960_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781619219960_p0_v1_s114x166.JPG", 
+        "description": "Chapter Ten\n\u201cDesire, like a fire, can very quickly explode.\u201d\u2014The Ladies Book of Pleasures\n\u201cLeave the estate?\u201d Seth stared at Isabel in disbelief, the shock of the idea working through him in one highly unpleasant burst. \u201cYou would go?\u201d\n\u201cAfter last night, I think I must,\u201d she said with a shake of her head.\nHe stared. \u201cBut\u2014\u201d\nShe interrupted him. \u201cWe did something so entirely inappropriate in a place where we easily could have been caught. It would have destroyed us both.\u201d\n\u201cIsabel,\u201d he whispered.\nHer expression softened. \u201cYou know I\u2019m not wrong. I could generate an excuse, perhaps something about Marjorie. As long as I didn\u2019t imply it was serious, there would be no scene created and Serena wouldn\u2019t even be forced to depart. I\u2019m sure Grace would be willing to serve as her chaperone for the remainder of the party.\u201d\nShe seemed to be talking to herself now, but Seth bolted forward. \u201cNo!\u201d\nWith a jump at his sharp tone, Isabel looked at him. \u201cSeth, it isn\u2019t only what we did, it is that\u2014that I\u2019m not certain I can stop myself from allowing it again if we were put in a similar situation.", 
+        "ean": "9781619219960", 
+        "endCfi": "/6/28!/4[MatterOfSin-AEPUB]/2/204/1", 
+        "epub_title": "A Matter of Sin", 
+        "id": "9781619219960.13", 
+        "pub_date": "2014-07-15T04:00:00Z", 
+        "publisher": "SAMHAIN PUBLISHING - EBKS", 
+        "startCfi": "/6/28!", 
+        "title": "Chapter Ten", 
+        "wordcount": 2930
+      }, 
+      {
+        "cfi": [
+          "/6/22"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940032813439_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940032813439_p0_v1_s114x166.JPG", 
+        "description": "Mrs. Goadby\u2019s warning echoed in my mind that evening as I played cards in her sitting room with the two other novices. Harriet, a pert brunette from the Midlands, had offered to teach Rose and me a game called three-card loo.\n\u201cWhat suit is trumps again?\u201d asked Rose, a fair Kentish girl whose dimpled cheeks made her look younger than sixteen.\n\u201cHearts.\u201d Harriet grinned. \u201cI suppose in a place like this hearts should always be trumps.\u201d\n\u201cDiamonds, more like,\u201d I muttered under my breath, remembering my conversation with Mrs. Goadby.\n\u201cI wish we had a few coins to wager.\u201d Harriet poked at the little mound of buttons that served as our pool. \u201cIt makes the game so much more interesting.\u201d\nI shrugged. \u201cAfter next week, we\u2019ll have plenty of coins to wager at cards or anything else we want.\u201d\nNot that I meant to gamble away my earnings. With my room, board and clothes all provided by Mrs. Goadby, I would save my money so I\u2019d never end up back on the streets.\n\u201cI have an idea,\u201d said Harriet. \u201cWhichever one of us takes no tricks must answer a question from the others.", 
+        "ean": "2940032813439", 
+        "endCfi": "/6/22!/4/272/1", 
+        "epub_title": "Confessions of a Courtesan", 
+        "id": "2940032813439.6", 
+        "pub_date": "2011-10-12T04:00:00Z", 
+        "publisher": "Smashwords", 
+        "startCfi": "/6/22!/4/4/2", 
+        "title": "Chapter Five", 
+        "wordcount": 4828
+      }, 
+      {
+        "cfi": [
+          "/6/30"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780062065414_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780062065414_p0_v1_s114x166.JPG", 
+        "description": ". . . This paper has it on excellent authority that a certain impoverished Lord has taken an interest in a very well dowered Lady. While we cannot confirm the lord-in-question\u2019s plans, we can confirm that they spent a quarter of an hour on a dark balcony several nights ago. We are assured that, while Lord L\u2014 was a perfect gentleman, he shan\u2019t need to be for much longer . . .\n. . . Truly, there are few couples we adore more than the Marquess and Marchioness of R\u2014. It has been more than a decade that we\u2019ve watched them make eyes at each other, and of such obvious adoration, this paper does not tire. Rumor has it that they even fence together . . .\nThe gossip pages of The Weekly Britannia,\nApril 29, 1833\nThe columns were beginning to work.\nGeorgiana had danced with five potential suitors at the Beaufetheringstone Ball, including three impoverished fortune hunters, an ancient marquess, and an earl of questionable breeding. And the night was only half over.\nNow, as the orchestra paused between sets, she stood at the refreshment table at the far end of the room with Viscount Langley, no doubt waiting for the music to begin so the two could dance\u2014and she could take the next steps in securing her future role as viscountess.\n", 
+        "ean": "9780062065414", 
+        "endCfi": "/6/30!/4/2[ch10]/724/1", 
+        "epub_title": "Never Judge a Lady by Her Cover (Rules of Scoundrels Series #4)", 
+        "id": "9780062065414.13", 
+        "pub_date": "2014-11-25T05:00:00Z", 
+        "publisher": "HARPERCOLLINS", 
+        "startCfi": "/6/30!", 
+        "title": "Chapter 10", 
+        "wordcount": 7228
+      }, 
+      {
+        "cfi": [
+          "/6/62"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940149630370_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940149630370_p0_v1_s114x166.JPG", 
+        "description": "Clara did not glance behind her as they left the banquet room, though the hubbub of conversation followed them into the landscape-lined hall. She tilted her head up at Darien, and he must have seen the questions in her eyes, for he smiled faintly.\n\u201cThe Baronessa de Luca,\u201d he said, \u201cwas once known as Signora Contini.\u201d\n\u201cThe opera singer?\u201d Nicholas asked. \u201cThe one who toured with you?\u201d\n\u201cYes, though she accompanied me for only a few months. Life on the road did not agree with her.\u201d\nThere was the faintest catch in Darien\u2019s voice, and Clara knew the story was not so simple. She suspected he and the singer had parted bitterly, after being more than colleagues. Was Signora Contini the reason he had initially opposed Clara\u2019s presence on the tour?\nWhat she had once thought was Darien\u2019s arrogance masked a vulnerability he almost never showed, and certainly would not admit to. But she had seen through the layers he wrapped himself in, to the true man within. The man she loved.\nHer heart clenched. Tonight would be their last night together.\n", 
+        "ean": "2940149630370", 
+        "endCfi": "/6/62!/4/146/5", 
+        "epub_title": "Tempted by His Touch: A Limited Edition Boxed Set of Dukes, Rogues, & Alpha Heroes Historical Romance Novels", 
+        "id": "2940149630370.28", 
+        "pub_date": "2014-07-26T04:00:00Z", 
+        "publisher": "Intrepid Reads", 
+        "startCfi": "/6/62!", 
+        "title": "Chapter Twenty-Six", 
+        "wordcount": 1818
+      }, 
+      {
+        "cfi": [
+          "/6/38"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781451693539_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781451693539_p0_v1_s114x166.JPG", 
+        "description": "12\nZOE\u2019S PULSE JUMPED into a gallop. He wanted \u201conly her\u201d\u2014in his bed. Not in his life, or as his wife, or anything acceptable. Oh no. In his bed.\nAs if to emphasize that, he pulled her back against him, let her feel the thick rod between his legs, and she gasped. She knew how men joined with women, because she\u2019d seen the beasts in heat on her estate\u2014the rams with their ewes and the stallions mounting their mares.\nBut this was different. Feeling his flesh harden against her fed her vanity, oddly enough. All those beautiful women he\u2019d been with . . . yet he wanted this with her?\nNo matter how much she reminded herself he was only satisfying a physical need, she still exulted that he wanted to satisfy it with her. At least he was honest about it. He wasn\u2019t pretending to want marriage.\nWhat else could she expect from an unrepentant rogue, anyway? \u201cIt doesn\u2019t matter what you want,\u201d she lied. \u201cIt doesn\u2019t even matter what I want.\u201d\n\u201cIt matters to me.\u201d He splayed his hand over her belly, startling a hot rush of need through her, and she thought she would evaporate into steam right there.", 
+        "ean": "9781451693539", 
+        "endCfi": "/6/38!/4/288/1", 
+        "epub_title": "How the Scoundrel Seduces", 
+        "id": "9781451693539.16", 
+        "pub_date": "2014-08-19T04:00:00Z", 
+        "publisher": "SIMON & SCHUSTER", 
+        "startCfi": "/6/38!", 
+        "title": "Chapter 12", 
+        "wordcount": 4290
+      }, 
+      {
+        "cfi": [
+          "/6/48"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781439167571_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781439167571_p0_v1_s114x166.JPG", 
+        "description": "Annabel stared at him, hardly able to believe her ears. An hour ago, she would have leaped at the offer and considered herself lucky to be spared a night with a man who was so clearly furious at her.\nBut over the course of the evening, something had changed. He had changed. And after all he\u2019d said, after how he\u2019d softened . . .\n\u201cYou don\u2019t have to do that,\u201d she said. \u201cI pay my debts.\u201d When he flinched at the word debts, she added hastily, \u201cYou may not think me honorable, but\u2014\u201d\n\u201cIt\u2019s got nothing to do with honor, Annabel.\u201d Every line of his body was tense, every feature looked carved in stone. \u201cI\u2019m absolving you of any responsibility for your debts. As the winner, I can do that, you know.\u201d\n\u201cI don\u2019t want you to do it!\u201d she protested. \u201cI chose to make that wager, and I won\u2019t have you \u2018absolving\u2019 me of responsibility for it simply because you pity me.\u201d\n\u201cAnd I won\u2019t have you sharing my bed as part of some foolish bargain.\u201d He rose to lean over the desk, his eyes stormy. \u201cIf I ever take you to bed, it will be because you choose it\u2014not because it was some fruitless ploy to save your family or your brother or your damned brewery.", 
+        "ean": "9781439167571", 
+        "endCfi": "/6/48!/4/254/1", 
+        "epub_title": "A Hellion in Her Bed (Hellions of Halstead Hall Series #2)", 
+        "id": "9781439167571.22", 
+        "pub_date": "2010-09-21T04:00:00Z", 
+        "publisher": "SIMON & SCHUSTER", 
+        "startCfi": "/6/48!", 
+        "title": "Chapter Seventeen", 
+        "wordcount": 4290
+      }, 
+      {
+        "cfi": [
+          "/6/20"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940016099019_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940016099019_p0_v1_s114x166.JPG", 
+        "description": "As Colbie lifted her mouth to Noah\u2019s and she kissed him, the ache inside him both deepened...and gave way to the greatest pleasure he\u2019d ever known. He swept her up into his arms, hardly able to believe that he was finally going to get to strip off her clothes, to touch her soft skin, to learn every inch of her beauty. Even as he held her in his arms and kissed her lips, he ached for her.\nWhen he finally put her down in his bedroom, letting her curves slide slowly over his muscles until her feet touched the floor, he put his hands on either side of her face and stared down at her. His chest clenched tight at the depth of her beauty. Just looking at her\u2014without yet touching anything but her face\u2014had his breath coming in ragged pants.\n\"I feel like I\u2019ve been waiting forever for you,\" he said right before he finally gave in to the need to have her, the greed that had been eating him up since the first moment he\u2019d held her in the snow in Lake Tahoe. He ran kisses from her mouth, over the arch of her cheekbones, to the gorgeous curve of her neck.\n", 
+        "ean": "2940016099019", 
+        "endCfi": "/6/20!/4/102/1", 
+        "epub_title": "One Perfect Night (Contemporary Romance)", 
+        "id": "2940016099019.8", 
+        "pub_date": "2013-01-06T05:00:00Z", 
+        "publisher": "Oak Press, LLC", 
+        "startCfi": "/6/20!", 
+        "title": "Chapter Seven", 
+        "wordcount": 2290
+      }, 
+      {
+        "cfi": [
+          "/6/32"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940016717371_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940016717371_p0_v1_s114x166.JPG", 
+        "description": "INVITATION TO SCANDAL \u2013 1 May 2012\nExcerpt...\nOnce inside the dark and shadowy stables, Rufus walked deliberately towards her. She tried to move out of his way but she wasn\u2019t quick enough and Rheda soon found herself up against the stable wall. Rufus\u2019s voice was soft and sensual, calling to her. \u201cMen too, can tell when a woman is ripe for the taking.\u201d\nRheda found her gaze riveted on his lips. Her heart began to pound in her chest. Her eyes swept across the rest of his face and froze at the expression that greeted her. He had gone quite still. There was soft fire in his eyes and his gaze held her spellbound.\nHe reached up and slid his fingers behind her nape. Her breathing faltered altogether. Then shockingly, he lowered his mouth to meet hers in a feather light contact.\nOnce again she was immersed in a rush of sensation at the exquisite caress. His lips were warm and firm, yet enticingly soft at the same time \u2013 and much too tempting.\nStifling a gasp, Rheda pressed her palms against his chest and pulled back her reeling head.", 
+        "ean": "2940016717371", 
+        "endCfi": "/6/32!/4/160/2/1", 
+        "epub_title": "To Dare the Duke of Dangerfield (Wicked Wagers Book #1)", 
+        "id": "2940016717371.14", 
+        "pub_date": "2012-02-04T05:00:00Z", 
+        "publisher": "Bronwen Evans", 
+        "startCfi": "/6/32!", 
+        "title": "InvitationToScandal", 
+        "wordcount": 2788
+      }, 
+      {
+        "cfi": [
+          "/6/42"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940149525140_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940149525140_p0_v1_s114x166.JPG", 
+        "description": "Krista\u2019s entire body froze as Chase\u2019s soft, full lips brushed hers. She didn\u2019t move. Didn\u2019t breathe. Didn\u2019t kiss. Inside her head, she was screaming, kiss him! Outside, she looked like she was playing a game of kiss freeze tag.\nMost likely picking up on her very convincing portrayal of a mannequin, Chase slowly pulled away, leaning back against his chair. His caramel-colored eyes searched hers. She\u2019d have loved for him to share his findings because Krista had no freaking idea what was going on with her.\nShe desperately wanted to laugh off her statue-like reaction and make some witty joke about her odd behavior, but it seemed her mouth had gone on strike from both the kissing and talking without telling her brain. No matter how hard she willed it, no words were coming out of her mouth. Actually, there was a very good possibility that her brain had actually joined her mouth on the picket line because she didn\u2019t think she could string a sentence together if her life had depended on it.\nSo they sat.", 
+        "ean": "2940149525140", 
+        "endCfi": "/6/42!/4/182/1", 
+        "epub_title": "Crazy Love - Krista & Chase", 
+        "id": "2940149525140.19", 
+        "pub_date": "2014-05-11T04:00:00Z", 
+        "publisher": "Red Hot Reads Publishing", 
+        "startCfi": "/6/42!/4/2", 
+        "title": "Chapter Seventeen", 
+        "wordcount": 3837
+      }, 
+      {
+        "cfi": [
+          "/6/72"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781466844087_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781466844087_p0_v1_s114x166.JPG", 
+        "description": "chapter 6\nhe wasn\u2019t stopping this time.\nMacey eased over the back of the couch, keeping his lips on Emerson\u2019s, tasting the wild passion and honeyed sweetness of her kiss, her tongue, letting himself become trapped in her pleasure and his own.\nThis was the snare, and he knew it. A pleasure unlike any other that he had known in his life. For the first time, he could feel his lover\u2019s pleasure as well as his own, and he was trapped within it. He wasn\u2019t touching, stroking, giving pleasure in the hopes of having that pleasure returned. Hell no. Hearing her pleasure, feeling her tremble with it, the sound of it echoing in her shaking moan, that was pleasure.\nHe stroked his tongue over Emerson\u2019s lips, felt them tremble as he took another short, drugging kiss. He let his hands move over her shoulders as he tried to sate himself with the sweetness of her lips and her inquisitive little tongue.\nBut there was no sating himself and he knew it. Had known it since that first kiss.\n\u201cCome here, Em.\u201d He lowered her to the couch as her velvety hazel green eyes opened and she stared back at him with pleasure.\n", 
+        "ean": "9781466844087", 
+        "endCfi": "/6/72!/4/110/1", 
+        "epub_title": "Taken", 
+        "id": "9781466844087.32", 
+        "pub_date": "2014-07-22T04:00:00Z", 
+        "publisher": "Macmillan", 
+        "startCfi": "/6/72!", 
+        "title": "chapter 6", 
+        "wordcount": 1700
+      }, 
+      {
+        "cfi": [
+          "/6/30"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940016029207_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940016029207_p0_v1_s114x166.JPG", 
+        "description": "Chapter Thirteen\n\u201cGo to sleep.\u201d Beau wished Yvette would fall asleep so he could slide out of bed, creep through his bedroom into his dressing room, and rid himself of his problem. His stones ached he\u2019d been hard so long. From the first moment he\u2019d lain down and touched her. She smelled so good, womanly sweet. Her skin was soft, her hair in front of his nose fragrant with the smell of an exotic soap.\nHe\u2019d thought he could offer comfort, nothing more, and he might have managed if she had fallen back asleep quickly. But the longer he lay still, his arm draped over her, the more awake he grew. His cock throbbed to painful fullness. Even if he didn\u2019t trust her, his body craved release.\nShe was his wife. No one would think it amiss if he slaked his passion on her, even if he was unwilling to let it be a joining wrought with tenderness. He wanted release and nothing more. It was a crass want, but he\u2019d been denied pleasure for too long to think of it as anything more than it was. Certainly he didn\u2019t want Yvette other than she had the right body, a luscious body, softer and fuller in places than he remembered, more perfect.\n", 
+        "ean": "2940016029207", 
+        "endCfi": "/6/30!/4/230/1", 
+        "epub_title": "Awakening His Duchess", 
+        "id": "2940016029207.14", 
+        "pub_date": "2013-01-02T05:00:00Z", 
+        "publisher": "Katy Madison", 
+        "startCfi": "/6/30!", 
+        "title": "Chapter Thirteen", 
+        "wordcount": 3835
+      }, 
+      {
+        "cfi": [
+          "/6/48"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780062199522_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780062199522_p0_v1_s114x166.JPG", 
+        "description": "Marcus smiled into Anne\u2019s collarbone, her skin silk beneath his cheek. He wished he could stay silent and replete, entwined with her like a pair of wintering creatures, forgetting the world outside. But he\u2019d done what he swore he would not and the piper needed to be paid. It would be easier for him if he were the one who would be doing the paying.\nReluctantly he withdrew from his happy berth, sliding onto his side and keeping Anne soft and warm in his arms. She\u2019d told him she loved him. Twice. It made him feel ten feet tall and the world\u2019s worst villain. And painfully, ludicrously hopeful.\n\u201cAnne,\u201d he said, loving the sound of her name, drawing out the syllable to a semibreve. \u201cHow do you feel?\u201d He\u2019d tried to be considerate, introduce her to love the way a virgin required, not that he had any experience in the matter, unless he counted his own initiation at the hands of an Oxford barmaid. That had not been gentle, though he\u2019d enjoyed it in a terrified kind of way.\n\u201cWonderful. You\u2019re wonderful.", 
+        "ean": "9780062199522", 
+        "endCfi": "/6/48!/4[Chapter]/2/360/1", 
+        "epub_title": "The Ruin of a Rogue", 
+        "id": "9780062199522.21", 
+        "pub_date": "2013-08-27T04:00:00Z", 
+        "publisher": "HARPERCOLLINS", 
+        "startCfi": "/6/48!/4/2/4", 
+        "title": "Chapter 21", 
+        "wordcount": 5594
+      }, 
+      {
+        "cfi": [
+          "/6/18"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781614174882_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781614174882_p0_v1_s114x166.JPG", 
+        "description": "The Posts kept country hours and on these short days the women went to bed as soon as the supper dishes were cleaned. The men would follow after the last farm-work of the day.\nBefore going out to see to his stock, Jeremy Post held a final, lengthy Bible-reading, including the pointed instruction:\n\"Keep thee from the evil of the flattery of the tongue of a strange woman. Lust not after her beauty in thine heart; neither let her take thee with her eyelids.\"\nThis was clearly directed at Shem and Japheth, but Francis thought he should perhaps take the words to heart himself. He also noted wryly that Mr. Post was not blind to the power of Serena's extraordinary eyes.\nAs soon as the big bible was closed, Serena and Francis were escorted\u2014rather in the manner of dangerous prisoners being rendered safe\u2014to the best bedroom, Mr. and Mrs. Post's own room.\nWhen Francis attempted to demur, it was made clear that the house was full, and that this arrangement had been accomplished by Mrs. Post moving in with her daughters and Mr.", 
+        "ean": "9781614174882", 
+        "endCfi": "/6/18!/4/344/2/1", 
+        "epub_title": "Forbidden (The Company of Rogues Series, Book 4)", 
+        "id": "9781614174882.7", 
+        "pub_date": "2013-10-01T04:00:00Z", 
+        "publisher": "EPUBLISHING WORKS - EBKS", 
+        "startCfi": "/6/18!", 
+        "title": "Chapter 4", 
+        "wordcount": 3660
+      }, 
+      {
+        "cfi": [
+          "/6/68"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781420131239_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781420131239_p0_v1_s114x166.JPG", 
+        "description": "Vivien\u2019s trepidation was quickly transformed into spiralling excitement as Aden pressed her into the mattress. The wooden frame of the old bed creaked beneath their combined weights. He was big and solid, and she loved the way his body covered hers. Instinctively, she\u2019d parted her legs when he came down on her, and he was now wedged between her hips, his thick erection nudging her mound and belly. She couldn\u2019t help wriggling, catching her breath as she cradled him between her thighs.\nHis dark eyes went to half-mast when she moved, gleaming with sensual pleasure. His lips parted and he breathed out a sigh before lowering his head those final few inches to kiss her.\nBut he barely touched her lips\u2014more a gentle brush, the prelude to a question. \u201cAre you sure, Vivien? Be very sure, because there\u2019s no turning back from this.\u201d\nShe frowned. \u201cDid you forget that I\u2019m the one who just took off my nightgown? Was that not a clear enough indication of what I want?\u201d\nHe stared at her for a long moment before letting out a strangled laugh.", 
+        "ean": "9781420131239", 
+        "endCfi": "/6/68!/4/2/260/1", 
+        "epub_title": "Secrets for Seducing a Royal Bodyguard (Renegade Royals Series #1)", 
+        "id": "9781420131239.32", 
+        "pub_date": "2014-01-07T05:00:00Z", 
+        "publisher": "KENSINGTON PUBLISHING CORP.- EBKS", 
+        "startCfi": "/6/68!", 
+        "title": "Chapter Twenty-Eight", 
+        "wordcount": 3831
+      }, 
+      {
+        "cfi": [
+          "/6/78"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781455557882_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781455557882_p0_v1_s114x166.JPG", 
+        "description": "Supporting Sophie\u2019s back with spread hands, Harry gently lowered her onto the chaise longue. His conscience gave one last squeak at the idea of debauching the Marquess of Leath\u2019s sister in his aunt\u2019s house and with his sister\u2019s unknowing connivance. But the warm, lithe reality of Sophie beggared caution.\nSophie\u2019s arms twined around his neck and she covered his face and neck and shoulders with enthusiastic kisses. Harry followed her down, sliding between her legs. She wriggled, brushing him with her mound. The feathery touch threatened to undo him. He gritted his teeth and prayed for control. This was her first time and he wanted her to enjoy it.\n\u201cSophie, easy now,\u201d he gasped as she tilted her hips in invitation. \u201cThis can be uncomfortable if you\u2019ve never done it before.\u201d\n\u201cIt doesn\u2019t feel uncomfortable,\u201d she said and, God help him, curled her bare legs around him until her feet caressed the backs of his thighs.\nSeeing her\u2014flushed, aroused, excited\u2014sent good intentions flying. \u201cDo you know what\u2019s going to happen?", 
+        "ean": "9781455557882", 
+        "endCfi": "/6/78!/4/2/2[chapter035]/106/1", 
+        "epub_title": "What a Duke Dares (Sons of Sin Series #3)", 
+        "id": "9781455557882.37", 
+        "pub_date": "2014-08-26T04:00:00Z", 
+        "publisher": "Hachette Digital, Inc.", 
+        "startCfi": "/6/78!", 
+        "title": "Chapter Thirty-Five", 
+        "wordcount": 1333
+      }, 
+      {
+        "cfi": [
+          "/6/14"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940150573048_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940150573048_p0_v1_s114x166.JPG", 
+        "description": "Chapter 3\nJulian\nSipping from my own glass, I study Nora as she looks out the window at the rapidly shrinking ground below. She\u2019s wearing jeans and a blue fleece sweater, her small feet clad in a pair of chunky-looking black sheepskin boots. Uggs, I think they\u2019re called. Despite that off-putting footwear, she still looks sexy\u2014though I far prefer seeing her in summer dresses, her smooth skin glowing in the sun.\nWatching her calm expression, I wonder what she\u2019s thinking, if she has any regrets.\nShe shouldn\u2019t. I would\u2019ve taken her regardless.\nAs though sensing my gaze on her, she turns toward me. \u201cHow did they find out about me?\u201d she asks quietly. \u201cThe men who kidnapped me, I mean. How did they learn of my existence?\u201d\nAt her question, my entire body tenses. My mind flashes back to those hellish hours after the attack on the clinic, and for a moment, I\u2019m gripped by that same volatile mix of burning fury and paralyzing fear.\nShe could\u2019ve died. She would\u2019ve died, if I hadn\u2019t found her in time.", 
+        "ean": "2940150573048", 
+        "endCfi": "/6/14!/4/2/154/1", 
+        "epub_title": "Keep Me (Twist Me #2)", 
+        "id": "2940150573048.6", 
+        "pub_date": "2014-09-28T04:00:00Z", 
+        "publisher": "Mozaika Publications", 
+        "startCfi": "/6/14!", 
+        "title": "Chapter 3", 
+        "wordcount": 3251
+      }, 
+      {
+        "cfi": [
+          "/6/10"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780547538679_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780547538679_p0_v1_s114x166.JPG", 
+        "description": "There was a Hungarian adventurer who had astonishing beauty, infallible charm, grace, the powers of a trained actor, culture, knowledge of many tongues, aristocratic manners. Beneath all this was a genius for intrigue, for slipping out of difficulties, for moving smoothly in and out of countries.\nHe traveled in grandiose style, with fifteen trunks of the finest clothes, with two great Danes. His air of authority had earned him the nickname the Baron. The Baron was seen in the most luxurious hotels, at watering places and horse races, on world tours, excursions to Egypt, trips through the desert, into Africa.\nEverywhere he became the center of attraction for women. Like the most versatile of actors, he passed from one role to another to please the taste of each of them. He was the most elegant dancer, the most vivacious dinner partner, the most decadent of entertainers in t\u00eate-\u00e0-t\u00eates; he could sail a boat, ride, drive. He knew each city as though he had lived there all his life. He knew everyone in society.", 
+        "ean": "9780547538679", 
+        "endCfi": "/6/10!/4/80/1", 
+        "epub_title": "Delta of Venus", 
+        "id": "9780547538679.3", 
+        "pub_date": "2004-02-02T05:00:00Z", 
+        "publisher": "HOUGHTON MIFFLIN", 
+        "startCfi": "/6/10!", 
+        "title": "The Hungarian Adventurer", 
+        "wordcount": 2468
+      }, 
+      {
+        "cfi": [
+          "/6/114"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940016152233_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940016152233_p0_v1_s114x166.JPG", 
+        "description": "Christine was quiet on the drive home, and Ben cast a few surreptitious glances toward her just to make sure she was doing okay. She looked tired, as though the events of the past week and a half were finally taking its toll on her psyche. Yet despite all she\u2019d been through, she\u2019d remained strong and tough on the outside, but it was how she was doing emotionally and mentally that concerned him the most.\nThey entered her house from the garage, which connected directly into the kitchen. He punched in the security code to disable the alarm, then locked and secured the door behind them. He switched on the overhead light, headed to the refrigerator, and took a look at what there was to drink.\nHe glanced back at Christine, who set her purse on the wooden table in the nook area. \u201cWould you like a glass of wine?\u201d If anything, he figured it would help to soothe what was left of her anxiety from the earlier incident with the snakes.\nShe shook her head and smiled at him. \u201cNo, I\u2019m fine.\u201d\nShe really wasn\u2019t.", 
+        "ean": "2940016152233", 
+        "endCfi": "/6/114!/4/236/1", 
+        "epub_title": "WILDE SERIES: Boxed Set of 3 Full Length Novels", 
+        "id": "2940016152233.50", 
+        "pub_date": "2013-01-01T05:00:00Z", 
+        "publisher": "Janelle Denison", 
+        "startCfi": "/6/114!", 
+        "title": "CHAPTER TWELVE", 
+        "wordcount": 5396
+      }, 
+      {
+        "cfi": [
+          "/6/44"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940016235325_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940016235325_p0_v1_s114x166.JPG", 
+        "description": "Grayson knew what he needed to do. He needed to stop them from going any further, just as he had in the cottage. He needed to turn his back not only on desire, but on affection as well. Because while he hadn\u2019t been a monk these past three years, there hadn\u2019t been any risk at all of emotional connection with the women he\u2019d slept with.\nBut with Lori, everything was at risk.\n\u201cGrayson.\u201d\nHis name on her lips had him refocusing on her, and when he did, he was surprised to find her smiling as she gazed back at him. He could still see desire in her beautiful eyes, but more than that, he realized there was understanding.\nUnderstanding he\u2019d done nothing whatsoever to deserve.\n\u201cOne night. That\u2019s all you have to give me.\u201d She leaned in close, as if to tell him a secret. \u201cAnd I won\u2019t tell anyone that you like me, if you don\u2019t tell anyone that I like you, too.\u201d\nWith that, she drew him back down over her so that she could give him one hot, sweet little kiss after another, each one of them made to confuse and inflame and drive his demons back down.", 
+        "ean": "2940016235325", 
+        "endCfi": "/6/44!/4/104/1", 
+        "epub_title": "Always On My Mind: The Sullivans (Contemporary Romance)", 
+        "id": "2940016235325.20", 
+        "pub_date": "2013-03-04T05:00:00Z", 
+        "publisher": "Oak Press, LLC", 
+        "startCfi": "/6/44!", 
+        "title": "Chapter Eighteen", 
+        "wordcount": 1760
+      }, 
+      {
+        "cfi": [
+          "/6/42"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780062065391_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780062065391_p0_v1_s114x166.JPG", 
+        "description": "He hadn\u2019t touched a woman in six years. Had resisted them ... until her.\nUntil now.\nUntil this moment, when he lifted her from her feet and carried her to the bed where she\u2019d slept for her entire life, and lay her down, following her down with his heady, heavy weight, pinning her beneath him with long limbs and corded strength and the promise of a pleasure she had never known.\nEight days prior, she\u2019d stood in his office and asked him to teach her about ruination; here, finally, was the lesson for which she had not known she\u2019d asked. The one for which she was utterly, completely desperate.\nHe kissed her, entirely different than the one that shattered her thought and breath earlier in the evening, but equally devastating. This one was slow and lavish, a claiming of lips and tongue that had her clinging to him, instantly addicted to the pleasure that only he could give.\nShe sighed her satisfaction, and he captured the sound with another long, lush mating of lips and tongues before lifting his head and meeting her gaze in the candlelight.", 
+        "ean": "9780062065391", 
+        "endCfi": "/6/42!/4/2[chapter-16]/2/372/1", 
+        "epub_title": "One Good Earl Deserves a Lover (Rules of Scoundrels Series #2)", 
+        "id": "9780062065391.18", 
+        "pub_date": "2013-01-29T05:00:00Z", 
+        "publisher": "HARPERCOLLINS", 
+        "startCfi": "/6/42!", 
+        "title": "Chapter Sixteen", 
+        "wordcount": 5188
+      }, 
+      {
+        "cfi": [
+          "/6/20"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781460334096_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781460334096_p0_v1_s114x166.JPG", 
+        "description": "Two\nAshley stared up at Devon, unsure of what to do now. He didn\u2019t suffer any such problem. Dropping another kiss on her brow, he bent and lifted her into his arms and carried her to the large master bedroom in the corner of the apartment.\nShe sighed as she laid her head on his chest. \u201cI\u2019ve always dreamed of being carried to bed when the big moment came. I probably sound silly.\u201d\nSoft laughter rumbled from his chest. \u201cGlad I could fulfill one of your fantasies before I even get you naked.\u201d\nShe blushed but felt a giddy thrill at the idea of him undressing her. That was number two on her fantasy list for when she lost her virginity.\nAfter listening to so many girls in high school and college talk about how utterly unremarkable their first times were, Ashley had vowed that her experience would be different. Perhaps she\u2019d been too picky as a result, but she\u2019d been determined to choose the right man and the right moment. So she was feeling pretty damn smug because it didn\u2019t get any more perfect than Devon Carter right here, right now.\n", 
+        "ean": "9781460334096", 
+        "endCfi": "/6/20!/4/2[chapter-two]/2/278/2/1", 
+        "epub_title": "Tempted", 
+        "id": "9781460334096.8", 
+        "pub_date": "2014-02-10T05:00:00Z", 
+        "publisher": "HARLEQUIN", 
+        "startCfi": "/6/20!", 
+        "title": "Chapter Two", 
+        "wordcount": 4032
+      }, 
+      {
+        "cfi": [
+          "/6/50"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780758279163_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780758279163_p0_v1_s114x166.JPG", 
+        "description": "The open window brought her a burst of lavender with each breath she took. The scent of lavender and, beneath that, on her skin, on her tongue, the hot, wild scent of Jack. He was her warrior man, hard and strong. It was all too easy to imagine him on some battlefield, fighting for their country. Jack had always defended what was his.\nEven a temporary, summertime lover.\nWhile he effortlessly carried her up her stairs, she indulged in that little fantasy, drinking in the strength and the heat of him. She needed more of him, needed to touch those strong forearms, stroke the hard muscles beneath the faded cotton of his T-shirt. Each subtle brush of his skin against hers as he carried her to her bed set nerve endings on fire, had her sinking into sensual bliss. The darkened house was slowly filling with moonlight, starlight from her farm. As her eyes adjusted, the dense darkness outside faded, resolving into familiar shapes: the greenhouse and the rows of lavender plants. His now-familiar face looked down at her, watching her and not the steps he mastered so easily.", 
+        "ean": "9780758279163", 
+        "endCfi": "/6/50!/4/2/152/2/1", 
+        "epub_title": "Burning Up (Smoke Jumpers #1)", 
+        "id": "9780758279163.23", 
+        "pub_date": "2012-10-30T04:00:00Z", 
+        "publisher": "KENSINGTON PUBLISHING CORP.- EBKS", 
+        "startCfi": "/6/50!", 
+        "title": "Chapter Twenty-one", 
+        "wordcount": 2974
+      }, 
+      {
+        "cfi": [
+          "/6/44"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780062245106_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780062245106_p0_v1_s114x166.JPG", 
+        "description": "When Daniel awoke the following day, he found Rebecca gone from the bedroom. Looking across at the clock on the dresser, he wasn\u2019t surprised\u2014it was almost two in the afternoon. After discovering Rebecca asleep the previous evening, he\u2019d gotten dressed and headed out, hiring a hackney to take him to Piccadilly. It had been close to three in the morning before he\u2019d returned home, but at least he\u2019d doubled his money at the gaming tables.\nStretching, he allowed himself a smile of contentment. Rebecca must think him a terrible card player after he\u2019d let her win yesterday. He wanted her to get a taste for the game though, and he knew that there was nothing more discouraging than constantly losing. Truth was that in spite of his uncle\u2019s complaints, he was one of the best gamblers he knew of. His biggest problem had been his love of spending\u2014parties, the phaeton, courtesans and jewels required to keep his mistresses exclusively to himself. It all seemed so ridiculous now in hindsight, but he\u2019d been a reckless fool back then without a care for the future.\n", 
+        "ean": "9780062245106", 
+        "endCfi": "/6/44!/4/2[chapter-16]/2/166/1", 
+        "epub_title": "The Scandal in Kissing an Heir (At the Kingsborough Ball Series #2)", 
+        "id": "9780062245106.19", 
+        "pub_date": "2013-12-31T05:00:00Z", 
+        "publisher": "HARPERCOLLINS", 
+        "startCfi": "/6/44!", 
+        "title": "Chapter 16", 
+        "wordcount": 4421
+      }, 
+      {
+        "cfi": [
+          "/6/112"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940149546312_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940149546312_p0_v1_s114x166.JPG", 
+        "description": "Payne was on fire, burning for her, desperate to taste her again. He kissed her inner left thigh, teasing her down from her climax. Her pleasure rocked him still, mingling with his own, drugging him and making it hard to control his incubus nature. He pressed his teeth to her soft flesh, feeling it quivering and her pulse beating hard against his lips, trying to rouse his more dominant vampire nature in order to suppress his other side. His fangs didn\u2019t lengthen but his incubus instincts did recede a fraction. It was always hard to suppress his incubus urges with his vampire desires even at the easiest times, like when he was at Vampirerotique and the shows were taking place. Now, it was verging on impossible. His incubus hungers pushed him to keep going, to lick and tease her to a second orgasm so he could feel that intense rush of pleasure flow through him. It forced his vampire side to recede.\nHe knew that he needed to embrace the incubus part of himself, just as Elissa had said, but he was afraid of what might happen if he did.\n", 
+        "ean": "2940149546312", 
+        "endCfi": "/6/112!/4/162/1", 
+        "epub_title": "Dark and Deadly: Eight Bad Boys of Paranormal Romance", 
+        "id": "2940149546312.47", 
+        "pub_date": "2014-04-12T04:00:00Z", 
+        "publisher": "Fire Flower Publishing, LLC", 
+        "startCfi": "/6/112!", 
+        "title": "CHAPTER 6", 
+        "wordcount": 2707
+      }, 
+      {
+        "cfi": [
+          "/6/66"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940013543676_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940013543676_p0_v1_s114x166.JPG", 
+        "description": "Perrie came out of the room she and Davey shared, wan and exhausted. She hesitated in the doorway as though disturbed by his presence.\n\u201cI can go in my room if you\u2019d rather be alone,\u201d he offered.\nShe shook her head quickly. \u201cThat\u2019s not necessary.\u201d But her steps were slow as she crossed the room, settling herself on the rug in front of the fire. Her movements were careful. Brittle as though she hovered close to breaking.\nMitch tried to give her the space she obviously needed, but his book couldn\u2019t hold his attention. When he read the same sentence four times in a row, he finally looked up, about to ask if she wanted to play cards or something.\nEven from the back, he could tell that she was holding herself together by a thread. Arms wrapped around her waist, her back curled like a protective shell, she shook with silent sobs.\nHe should let her be, stay away from temptation.\nBut he could not.\nMitch abandoned his book and picked her up, settling her on his lap and wrapping his arms around her, relieved when she didn\u2019t resist.\n", 
+        "ean": "2940013543676", 
+        "endCfi": "/6/66!/4/366/1", 
+        "epub_title": "The Gallaghers of Morning Star Boxed Set (Texas Heroes: The Gallaghers of Morning Star Books 1-3)", 
+        "id": "2940013543676.26", 
+        "pub_date": "2011-11-26T05:00:00Z", 
+        "publisher": "Jean Brashear", 
+        "startCfi": "/6/66!/4/2", 
+        "title": "Chapter Ten", 
+        "wordcount": 4846
+      }, 
+      {
+        "cfi": [
+          "/6/62"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781466837072_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781466837072_p0_v1_s114x166.JPG", 
+        "description": "Nipping at her plump, kiss-swollen lips, Crowe let his kisses move along her chin, her cheek, then begin a slow, sensual glide to the uplifted peaks of her breasts.\nHer head tilted back against the wall, her breath rushing hard and heavy from her lips as he scraped his teeth over the sensitive column then tasted it with flicks of his tongue. Every kiss, every taste of her flesh intoxicated him further, just as it pulled her deeper within the sensual fog he could feel overtaking her.\n* * *\nAmelia could feel it. Those dazed, body-humming sensations that rose from the pit of her womb, swept through her belly, then began radiating outward and overtaking her. It was like fingers of electricity traveling beneath her flesh, flicking against her nipples, her clitoris, and overriding any sense of self-preservation she may have actually possessed.\nNothing mattered but this.\nWeakened by the surge of sensual lassitude filling her, her knees began to buckle, but she didn\u2019t have to worry about that. Crowe swept her into his arms, cradled her against his chest, and moved for the bed.\n", 
+        "ean": "9781466837072", 
+        "endCfi": "/6/62!/4/284/3", 
+        "epub_title": "Ultimate Sins", 
+        "id": "9781466837072.28", 
+        "pub_date": "2014-08-26T04:00:00Z", 
+        "publisher": "Macmillan", 
+        "startCfi": "/6/62!", 
+        "title": "Chapter 25", 
+        "wordcount": 3574
+      }, 
+      {
+        "cfi": [
+          "/6/42"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940016235325_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940016235325_p0_v1_s114x166.JPG", 
+        "description": "Grayson had never wanted anyone the way he wanted Lori, but it wasn\u2019t just physical anymore, even though her beauty while she\u2019d led the entire community in her line dancing choreography had simply stunned him all over again, as though he was seeing her for the very first time.\nHe wanted to hear her laugh.\nHe wanted to feel her breathing softly as she fell asleep against him, her head on his shoulder.\nAnd he wanted to see her spin a little dark-haired girl around and around in circles, a girl who looked like both of them, a spitfire who would yell \u201cNo\u201d at them just as loudly as she would declare her love before falling asleep in the home they\u2019d made for her and her brothers and sisters.\nThey were all crazy dreams\u2014especially the last one. Dreams that would never be anything more than pure fantasy...but he already knew those fantasies were what would keep him going long after she left. He also knew that keeping her hidden away on his farm for more than a stolen week or two would unfairly deprive the world of her truly special gifts.\n", 
+        "ean": "2940016235325", 
+        "endCfi": "/6/42!/4/232/1", 
+        "epub_title": "Always On My Mind: The Sullivans (Contemporary Romance)", 
+        "id": "2940016235325.19", 
+        "pub_date": "2013-03-04T05:00:00Z", 
+        "publisher": "Oak Press, LLC", 
+        "startCfi": "/6/42!", 
+        "title": "Chapter Seventeen", 
+        "wordcount": 3908
+      }, 
+      {
+        "cfi": [
+          "/6/40"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781402284861_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781402284861_p0_v1_s114x166.JPG", 
+        "description": "Chapter 15\nYou know the rules of the ring\nThe auction is a roaring success. I walk the catwalk four more times, and my hearts raise another two hundred thousand dollars. Max escorts me on and off the stage. During the breaks, he keeps even Charlie away with his folded arms and menacing stare. I am forced to entertain myself by playing spot Big Doris as she swans around the room in her florescent green suit.\nAfter the auction ends, the floor is cleared for dancing. I catch Charlie planting a smooch on Big Doris in the corner. Big Doris doesn\u2019t look pleased. She slaps him across the face. Good thing we\u2019re in a room full of medical professionals.\n\u201cLighten up,\u201d I say after Max chases away an eighty-something-year-old man in a wheelchair.\n\u201cIf you want me to lighten up then put on my jacket,\u201d he snaps. \u201cI know what these men are thinking, and I don\u2019t want them thinking it about you.\u201d\n\u201cIf I wear your jacket, will you dance with me?\u201d Although I have doubts about the kind of music the band is going to play for the primarily post-sixties crowd, I never miss an opportunity to dance.\n", 
+        "ean": "9781402284861", 
+        "endCfi": "/6/40!/4[AgnstTheRopes]/2/282/1", 
+        "epub_title": "Against the Ropes", 
+        "id": "9781402284861.17", 
+        "pub_date": "2013-09-03T04:00:00Z", 
+        "publisher": "SOURCEBOOKS, INC.", 
+        "startCfi": "/6/40!/4/2/2", 
+        "title": "Chapter 15: You know the rules of the ring", 
+        "wordcount": 3541
+      }, 
+      {
+        "cfi": [
+          "/6/24"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781627413558_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781627413558_p0_v1_s114x166.JPG", 
+        "description": "Melissa was panting for breath and so turned on by the time Luke broke the kiss she couldn\u2019t sit still. When his mouth lifted from hers, she realized her fingers had entwined themselves in his hair and she didn\u2019t even remember doing it. Her heart was racing in her chest and her pussy was so wet her panties were soaked through, and it was a wonder the moisture hadn\u2019t seeped through her jeans to leave a wet spot on the sofa. She hoped to God she hadn\u2019t, because she didn\u2019t think she could handle being ashamed and humiliated again.\nDamian distracted her from her thoughts when he tugged on a strand of her hair and when she turned to face him, the hunger in his eyes caused her heart to stutter and her breath to hitch in her throat.\nShe realized the ache deep down inside her wasn\u2019t just because of physical need. The ache was lodged in her heart and wouldn\u2019t let go. Melissa felt like she was supposed to be here with these two men. The thought of leaving and never seeing them again was so abhorrent that tears burned the back of her eyes.\n", 
+        "ean": "9781627413558", 
+        "endCfi": "/6/24!/4/206/1", 
+        "epub_title": "Sugar Creek 2: Melissa's Acceptance [Sugar Creek 2] (Siren Publishing Menage Everlasting)", 
+        "id": "9781627413558.10", 
+        "pub_date": "2014-04-25T04:00:00Z", 
+        "publisher": "SIREN PUBLISHING - EBKS", 
+        "startCfi": "/6/24!", 
+        "title": "Chapter Four", 
+        "wordcount": 4131
+      }, 
+      {
+        "cfi": [
+          "/6/8"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940149798711_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940149798711_p0_v1_s114x166.JPG", 
+        "description": "13.\nThe drive back to the beach house is barely a few minutes. When we pull into the driveway, my heart is still racing, my blood burning hot and hungry in my veins.\nI have no idea whats going to happen next, and oh, how that thrills me.\nDex shuts off the engine and gets out, so I open my door. Before I can take a step, Dex is at my side, taking my hand and pulling me to my feet. I stumble against him, only a little by accident, and relish the feel of his body, hard and muscular against mine.\nI flash back to the sight of him half-naked last night and feel a shudder.\nI want to see his body again. And this time, I want to touch.\nI head for the front door, but Dex tugs on my hand, stopping me. Not that way, he grins, leading me around the side of the house to the pool area in back. Its the first time Ive been down here, and I drink it in. Luxurious loungers are lined up, facing the turquoise pool and the stretch of golden beach beyond. Dex picks up a remote, and then a moment later, music starts to play from hidden speakers set all around the pool.\n", 
+        "ean": "2940149798711", 
+        "endCfi": "/6/8!/4/1968/2", 
+        "epub_title": "Uninhibited", 
+        "id": "2940149798711.16", 
+        "pub_date": "2014-07-21T04:00:00Z", 
+        "publisher": "Melody Grace Books", 
+        "startCfi": "/6/8!/4/1758/2", 
+        "title": "13. Alicia", 
+        "wordcount": 3454
+      }, 
+      {
+        "cfi": [
+          "/6/24"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940149987108_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940149987108_p0_v1_s114x166.JPG", 
+        "description": "The intense scrutiny of Bobby\u2019s stare bore into Sophie as they rode the elevator up to the fortieth floor. The heat of his gaze was like a microwave to the kernel of nerves bouncing around inside her. Every second he looked at her pop, pop, popped more anxiety. Just like a paper bag filled to the brim with freshly popped popcorn, she felt like she needed to let some of the steam escape or she would burst open.\nShifting from one foot to the other, she rolled her head from side to side to try to loosen the knots at the base of her neck and in her shoulders. Was she fidgety? Yep. She couldn\u2019t help it. Not only was she trying to adjust to Bobby\u2019s surprise, she\u2019d also totally chickened out on telling him the rather life-changing announcement of her own. It had seemed like one surprise show-and-tell was enough for the evening.\nThe elevator doors opened and Sophie crossed her fingers that she would make it to the room on her wobbly legs. She felt like she was walking on top of a waterbed as she and Bobby made their way down the brightly lit hall.", 
+        "ean": "2940149987108", 
+        "endCfi": "/6/24!/4/1128/2", 
+        "epub_title": "Naughty & Nice: A Holiday Collection", 
+        "id": "2940149987108.124", 
+        "pub_date": "2014-12-01T05:00:00Z", 
+        "publisher": "Scott Erotica", 
+        "startCfi": "/6/24!/4/970/2", 
+        "title": "Chapter Seven", 
+        "wordcount": 4142
+      }, 
+      {
+        "cfi": [
+          "/6/164"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940045982924_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940045982924_p0_v1_s114x166.JPG", 
+        "description": "BRIT\nI WATCH THE realization roll across Hunter\u2019s face. The darkness in his eyes melts away, leaving something so vivid and intense, it takes my breath away.\n\u201cBrit,\u201d he growls, and then he yanks me to him, capturing my mouth in a desperate, tear-stained kiss. \nI can\u2019t hold back a moment longer. I fall against him, deep into his embrace. \nTogether.\nHis lips crash into me, his mouth searching and pleading with a wordless question I answer with everything I have. I don\u2019t want to run anymore. I can\u2019t keep pushing him away. Not now that I know the darkness he\u2019s been carrying, the tortured depths of his beautiful soul. \nI slide my fingers through his hair, hungry for the taste of him, our tongues sliding together deep in my mouth. Hunter groans against me, scooping his hands under my thighs so I\u2019m straddling his lap, our bodies pressed tight together, the fire between us blazing so fiercely I could die in the flames.\nGod, how did I think I could live without him? I couldn't leave his side if the world was crumbling to ashes around us.", 
+        "ean": "2940045982924", 
+        "endCfi": "/6/164!/4/146/2/1", 
+        "epub_title": "Love, Laughter, and Happily Ever Afters Collection (Eight Fun, Romantic Novels by Eight Bestselling Authors)", 
+        "id": "2940045982924.79", 
+        "pub_date": "2014-06-24T04:00:00Z", 
+        "publisher": "Smashwords", 
+        "startCfi": "/6/164!", 
+        "title": "Chapter Fifteen", 
+        "wordcount": 2748
+      }, 
+      {
+        "cfi": [
+          "/6/40"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781617735318_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781617735318_p0_v1_s114x166.JPG", 
+        "description": "Alistair\u2019s chest expanded with a sharply drawn breath, then deflated in a rush. He pivoted on his heel and moved to the chair, pausing to remove his coat and drape it over the back before sitting. \u201cAccording to our agreement, I am supposed to be the voice of reason. A model of propriety.\u201d\nJess watched him, admiring the sleek sensuality inherent in his movements. She also admired his taut backside, eager to see it bared. \u201cBe my guest, but I won\u2019t be swayed. I do understand, however, that you have a strong dislike for losing wagers.\u201d\nSetting his hands on his knees, he waited. His tense expectancy was reflected in his heavy-lidded gaze. Between his legs, the outline of his thick arousal quickened her breathing. \u201cNot in this instance. I would give up my fortune to bed you; losing our bet is a ridiculously small price to pay for the privilege.\u201d\nHer chest tightened at his fervency, her corset becoming an unbearable restraint. Needing to be free of it, she went to him and presented her back. \u201cHelp me.", 
+        "ean": "9781617735318", 
+        "endCfi": "/6/40!/4/2/200/1", 
+        "epub_title": "Seven Years to Sin", 
+        "id": "9781617735318.18", 
+        "pub_date": "2014-04-29T04:00:00Z", 
+        "publisher": "KENSINGTON PUBLISHING CORP.- EBKS", 
+        "startCfi": "/6/40!", 
+        "title": "Chapter 13", 
+        "wordcount": 4351
+      }, 
+      {
+        "cfi": [
+          "/6/32"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781420117219_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781420117219_p0_v1_s114x166.JPG", 
+        "description": "The next two days went by faster than any Laurel had ever known. Cole had arrived and was having a merry time with his brothers, who were constantly teasing Conor\u2014the eternal bachelor\u2014about getting married.\nLaurel had remained so busy preparing for the wedding that\u2014with organizing the feast, arranging rooms in the keep, and making her dress\u2014she could hardly believe it was now the day. The early morning light was brightly streaming through the window curtains as she lay on her bed staring at the ceiling, grinning like a child on Christmas morning. Today, she was going to marry Conor McTiernay.\nShe rose and was putting on a robe when the door to her chamber flew open and a half a dozen highland women entered. Fluttering around for the next several hours, they bathed, washed, and pampered her. Someone would put her hair up, and then another would take it down. Arguments arose over flowers, the numbers of herbs to be carried, whether or not she should eat, and a multitude of other things.\nAfter a while, Laurel felt overwhelmed and asked everyone except Aileen to leave while she caught her breath.", 
+        "ean": "9781420117219", 
+        "endCfi": "/6/32!/4[text]/2[ch12]/4/402/1", 
+        "epub_title": "The Highlander's Bride", 
+        "id": "9781420117219.14", 
+        "pub_date": "2007-06-01T04:00:00Z", 
+        "publisher": "KENSINGTON PUBLISHING CORP.- EBKS", 
+        "startCfi": "/6/32!", 
+        "title": "Chapter Twelve", 
+        "wordcount": 7438
+      }, 
+      {
+        "cfi": [
+          "/6/16"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780062363633_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780062363633_p0_v1_s114x166.JPG", 
+        "description": "He wanted to marry her.\nThe notion should not have left her so shaken, but it did. As did his words about Mr. Weston. She had never doubted Mr. Weston. Or herself. It wasn\u2019t fair that a few words from one arrogant nobleman should suddenly make her question her feelings for Mr. Weston ... or Mr. Weston\u2019s ability to permit her to cross an ocean without him. Even if it was a ruse and she was pretending to go along with her mother\u2019s matrimonial scheming, he had not appeared too bothered at the prospect of her entertaining the suits of other gentlemen. He\u2019d accepted the situation with unflappable ease. Too much ease? She frowned, considering the possibility that perhaps he did not care for her as much as she believed.\nShaking her head, she pushed such thoughts away and loosened her lips lest anyone see her scowling. Sipping from her spoon, she avoided the earl\u2019s gaze throughout the midday meal even though she felt his blue eyes assessing her across the table.\nShe attempted to listen to the Duchess of Banbury describe the months she had spent in Scotland following her marriage to Banbury.", 
+        "ean": "9780062363633", 
+        "endCfi": "/6/16!/4/186/1", 
+        "epub_title": "An Heiress for All Seasons: A Debutante Files Christmas Novella", 
+        "id": "9780062363633.6", 
+        "pub_date": "2014-11-04T05:00:00Z", 
+        "publisher": "HARPERCOLLINS", 
+        "startCfi": "/6/16!", 
+        "title": "Chapter Four", 
+        "wordcount": 2890
+      }, 
+      {
+        "cfi": [
+          "/6/50"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780062231246_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780062231246_p0_v1_s114x166.JPG", 
+        "description": "The George & Dragon Inn\nMaidenhead\nFOR THE FIRST time, Prudence wanted more. She had first felt the sparks when their lips had touched. Next, the slow burn as the fire had started to catch. She\u2019d felt positively smoldering all day. Simmering. Waiting. Wanting. More.\nThings had been tense and awkward over supper in a private parlor. Did he also feel things had only just started? Prue had only just begun to have these feelings; she still lacked the vocabulary or courage to speak of them. Thus they\u2019d made idle conversation about how much longer until London (one day, two at most), what they would each do upon arrival (how they delicately avoided conveying expectations of the other!).\nThen they ascended the stairs to their separate bedchambers. This would be the inn that had two rooms available, one for each. Gone were her hopes of somehow having more without having to explicitly invite him into her bedchamber. If something happened, she was curious and desirous enough to explore, but she didn\u2019t possess the courage to invite him into her bed.", 
+        "ean": "9780062231246", 
+        "endCfi": "/6/50!/4[Chapter]/2/238/1", 
+        "epub_title": "What a Wallflower Wants", 
+        "id": "9780062231246.22", 
+        "pub_date": "2014-09-30T04:00:00Z", 
+        "publisher": "HARPERCOLLINS", 
+        "startCfi": "/6/50!", 
+        "title": "Chapter18", 
+        "wordcount": 3134
+      }, 
+      {
+        "cfi": [
+          "/6/24"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940149987108_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940149987108_p0_v1_s114x166.JPG", 
+        "description": "Bobby couldn\u2019t help but grin even as his jeans tightened, his erection swelling at Sophie\u2019s blunt words. For a girl who hated to be rushed, she had no problem at all rushing him when he took his time and didn\u2019t get right to the good stuff fast enough for her. She\u2019d yet to learn that the psychological foreplay of buildup could be very satisfying. Actually, there was a good chance that she knew that and still didn\u2019t have the patience for it.\nWell, if she wanted to get the show on the road, then fine. He would make sure she did just that.\n\u201cShow me.\u201d Bobby felt his voice vibrate through his chest at his command.\nThe soft sounds of Sophie\u2019s shallow breaths filled the vehicle. Out of the corner of his eye, he could see her hands on her thighs, gathering up the fabric of her skirt as she shifted her weight back and forth until she\u2019d managed to bunch the material at her hips. Bobby\u2019s eyes cut to the side, and what he saw caused an involuntary groan to rumble through him.\nThe fair skin of her bare thighs.", 
+        "ean": "2940149987108", 
+        "endCfi": "/6/24!/4/810/2", 
+        "epub_title": "Naughty & Nice: A Holiday Collection", 
+        "id": "2940149987108.122", 
+        "pub_date": "2014-12-01T05:00:00Z", 
+        "publisher": "Scott Erotica", 
+        "startCfi": "/6/24!/4/690/2", 
+        "title": "Chapter Five", 
+        "wordcount": 2691
+      }, 
+      {
+        "cfi": [
+          "/6/52"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940149023615_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940149023615_p0_v1_s114x166.JPG", 
+        "description": "LACY MOVED THROUGH the kitchen, humming as she made coffee, eggs, and toast. She\u2019d gotten up while Dane was still sleeping and picked wildflowers from the garden, putting them in a vase in the center of the table.\n\u201cBreakfast? This was not on the itinerary,\u201d Dane said as he came out of the bedroom in only his boxer briefs and wrapped his arms around Lacy\u2019s waist from behind. He kissed the back of her neck and slid his hands beneath her satin camisole.\n\u201cNeither was last night,\u201d Lacy said, turning to kiss his cheek.\nHe pulled her close. \u201cI don\u2019t think I\u2019ve ever wanted anything as much as I wanted us to get back together. I can\u2019t change my pa\u2014\u201d\nLacy covered his lips with her finger. \u201cShh\u2026I didn\u2019t know how much I had been wondering about your past until the words left my lips last night and, Dane, I couldn\u2019t have asked for a better response. No more talk about your past, okay?\u201d\n\u201cYou won\u2019t get an argument from me.\u201d He kissed her neck.\n\u201cAnd I won\u2019t ever bring it up again. That\u2019s done, and I\u2019m working on my fear of sharks, but I think my fear was bigger than just sharks.", 
+        "ean": "2940149023615", 
+        "endCfi": "/6/52!/4/114/1", 
+        "epub_title": "Sea of Love (Love in Bloom: The Bradens, Book Four) Contemporary Romance", 
+        "id": "2940149023615.24", 
+        "pub_date": "2013-12-04T05:00:00Z", 
+        "publisher": "Melissa Foster", 
+        "startCfi": "/6/52!", 
+        "title": "Chapter Nineteen", 
+        "wordcount": 1883
+      }, 
+      {
+        "cfi": [
+          "/6/36"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940016787466_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940016787466_p0_v1_s114x166.JPG", 
+        "description": "He was fully awake.  She could feel the change in the tensing of his body.  Uncertain of what to do, Kaya held her breath and merely stared back at him as the air around them became so charged, it crackled.  She had trespassed into his private world.  A world he allowed no one into.  There would be consequences.\nHis gaze slid lazily to her mouth.  He raised one hand and brushed his knuckles across her cheek, so lightly it sent shivers down her spine.  The gold wedding band on his finger flashed in the firelight, reminding Kaya that she had the right to trespass.  He rubbed the pad of his thumb across her lips as if testing their subtlety.  The act was erotically simple.\nKaya swallowed, making a loud gulping sound.  \u201cYou\u2014you were hav\u2014 having a night\u2014\u201d\n\u201cShh.\u201d\nOne hand at her neck and shoulders eased her closer.  He took her face in the other and held it gently.  While his fingers tangled in her messy curls, his thumb caressed her cheeks, her chin, the perimeter of her mouth.  His eyes held hers captive as he hesitated, waiting for a sign of resistance.\n", 
+        "ean": "2940016787466", 
+        "endCfi": "/6/36!/4/318/1", 
+        "epub_title": "The Mogul's Reluctant Bride - Book Two", 
+        "id": "2940016787466.13", 
+        "pub_date": "2013-05-12T04:00:00Z", 
+        "publisher": "Ana E Ross", 
+        "startCfi": "/6/36!", 
+        "title": "CHAPTER TWELVE", 
+        "wordcount": 5923
+      }, 
+      {
+        "cfi": [
+          "/6/140"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940148408888_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940148408888_p0_v1_s114x166.JPG", 
+        "description": "CHAPTER TWENTY\nAbout an hour after that...\nCONNOR WATCHED Brian and Victoria talk, civilly, and actually laugh together as they made their way over to the reception site.\nSo miracles do happen.\nWho would\u2019ve thought? Victoria, the woman he would\u2019ve voted least likely to become a romantic, the woman who used to think his one-month rule was generous, was now a diehard convert. Seeing her light up when her date for the evening joined her and Brian over at the refreshment table, Connor smiled.\nJay was the last person he would\u2019ve paired Victoria with, but quite frankly, those two were a match made in heaven.\nAfter being given a slight run for her money during his mom\u2019s divorce proceedings\u2014thanks to all the investigative info Jay had managed to dig up for Marcus\u2014Victoria had sought Jay out with the express purpose of stealing him over to her firm, offering nearly double his current investigator salary. \nHe\u2019d played hardball of course and had her wine and dine him for three nights in a row. On the day following, he\u2019d told her he had no intention of leaving his firm but he would be at her house that night at seven sharp to pick her up for their fourth date.\n", 
+        "ean": "2940148408888", 
+        "endCfi": "/6/140!/4/232/2/1", 
+        "epub_title": "Nice Girl to Love: Three-Book Collection (#1 Resisting the Bad Boy, #2 Falling for the Good Guy, #3 Choosing the Right Man)", 
+        "id": "2940148408888.68", 
+        "pub_date": "2013-08-12T04:00:00Z", 
+        "publisher": "Violet Duke", 
+        "startCfi": "/6/140!", 
+        "title": "Chapter  Twenty", 
+        "wordcount": 2718
+      }, 
+      {
+        "cfi": [
+          "/6/32"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940148570806_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940148570806_p0_v1_s114x166.JPG", 
+        "description": "CHAPTER ELEVEN\nAbout an hour after that...\nCONNOR WATCHED Brian and Victoria talk, civilly, and actually laugh together as they made their way over to the reception site. \nSo miracles do happen.\nWho would\u2019ve thought? Victoria, the woman he would\u2019ve voted least likely to become a romantic, the woman who used to think his one-month rule was generous, was now a diehard convert. Seeing her light up when her date for the evening joined her and Brian over at the refreshment table, Connor smiled.\nJay was the last person he would\u2019ve paired Victoria with, but quite frankly, those two were a match made in heaven. \nAfter being given a slight run for her money during his mom\u2019s divorce proceedings\u2014thanks to all the investigative info Jay had managed to dig up for Marcus\u2014Victoria had sought Jay out with the express purpose of stealing him over to her firm, offering nearly double his current investigator salary. He\u2019d played hardball of course and had her wine and dine him for three nights in a row. On the day following, he\u2019d told her he had no intention of leaving his firm but he would be at her house that night at seven sharp to pick her up for their fourth date.\n", 
+        "ean": "2940148570806", 
+        "endCfi": "/6/32!/4/190/2/1:123", 
+        "epub_title": "Choosing the Right Man: Nice Girl Serial Trilogy #3 (CAN'T RESIST series)", 
+        "id": "2940148570806.14", 
+        "pub_date": "2013-07-31T04:00:00Z", 
+        "publisher": "Violet Duke", 
+        "startCfi": "/6/32!", 
+        "title": "CHAPTER ELEVEN", 
+        "wordcount": 2726
+      }, 
+      {
+        "cfi": [
+          "/6/26"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780698150881_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780698150881_p0_v1_s114x166.JPG", 
+        "description": "No one in their right mind would want to visit him, so the sound of knocking at his front door took him by surprise.\nMaybe it was Sherona Legion? But he\u2019d warned the only viable candidate for visitation for miles on end\u2014curvy, kind Sherona\u2014about visiting him on this godforsaken hilltop. Who knew what he\u2019d do to her, the state he\u2019d put himself in? Of course, Sherona\u2019d taken Rill at his word for a year and a half, so he couldn\u2019t imagine who was trying to barge in on his drunken, morose solitude now.\nHe was so caught off guard by the phenomenon of someone visiting that he briefly reverted to his old self\u2014his civilized self\u2014hastening to answer the door.\nHe was a big man, so when he tripped on the useless little rug in the entryway, he crashed to the wood floor with the impact of an ax-felled oak.\nHe rolled over and sat up, curses blistering his tongue, the savage Rill Pierce once again fully in evidence.\n\u201cMy, my. How the mighty have fallen,\u201d she said from above him.\nHe glanced up in midprocess of ripping the frilly rug in half, his blurry-eyed gaze encountering long legs and curving hips.", 
+        "ean": "9780698150881", 
+        "endCfi": "/6/26!/4[x9780698150881_EPUB]/2/228/1", 
+        "epub_title": "The Affair: Week 6", 
+        "id": "9780698150881.11", 
+        "pub_date": "2014-10-21T04:00:00Z", 
+        "publisher": "Penguin Group", 
+        "startCfi": "/6/26!", 
+        "title": "No one in their right mind would want to visit him, so the sound of knocking at his front door took him by surprise.", 
+        "wordcount": 3919
+      }, 
+      {
+        "cfi": [
+          "/6/24"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780062231154_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780062231154_p0_v1_s114x166.JPG", 
+        "description": "\u201cDo you believe they are truly betrothed? The entire affair is highly suspicious if you ask me,\u201d Lady Copley murmured to her husband over tea in the drawing room.\n\u201cI didn\u2019t ask you. And it doesn\u2019t matter what I think. Only what your batty old Aunt Agatha thinks is true,\u201d Lord Copley replied.\nLater that evening\n\u201cTHAT WAS A disaster,\u201d Blake said flatly. He and Emma had bid good-\u00adnight to the group after the conclusion of supper and the customary drinking of port and tea until the hour grew late.\nFor the sake of appearances, Blake linked arms with Emma as they quit the drawing room and proceeded past the monstrous urn in the foyer and onward to their respective bedchambers through shadowed corridors, dimly lit by the flickering candlelight contained in crystal sconces fixed high on the damask-\u00adpapered walls.\nKeeping his hands occupied properly would limit his ability to strangle her, which he desperately wanted to do after her theatrics at the dinner table. He didn\u2019t even want to know what outrageous tales with which she regaled the women over tea.\n", 
+        "ean": "9780062231154", 
+        "endCfi": "/6/24!/4[Chapter]/2/360/1", 
+        "epub_title": "The Wicked Wallflower", 
+        "id": "9780062231154.9", 
+        "pub_date": "2013-10-29T04:00:00Z", 
+        "publisher": "HARPERCOLLINS", 
+        "startCfi": "/6/24!", 
+        "title": "Chapter 6", 
+        "wordcount": 4735
+      }, 
+      {
+        "cfi": [
+          "/6/42"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781101612491_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781101612491_p0_v1_s114x166.JPG", 
+        "description": "She fit him.\nThe odd thought drifted through his mind as he danced with Gypsy, the slow, gliding steps of the waltz suddenly making sense as they moved together.\nShe did this with the same grace and sensuality that she danced to that country tune in black leather, or the vintage rock in a white lace skirt and cowboy boots. With such inherent eroticism that his balls tightened with the need to spill his release and ease the granite hardness of his cock.\nTonight, he was determined to have her. His suite was ready, clean sheets graced the bed, candles were lit and ready for the moment he entered the room with her. A bottle of her favorite wine was chilling and he was hard enough to fuck her for hours without softening.\nShe had orgasmed in his arms, her juices spilling over his fingers as he held her to him in her apartment. He understood that going further would have been far too soon. He sensed she was only now learning that such pleasure could exist. That she could shake with the need for his touch, plead for her release.\n", 
+        "ean": "9781101612491", 
+        "endCfi": "/6/42!/4[x9781101612491_EPUB]/2/382/1", 
+        "epub_title": "Rule Breaker (Breeds Series #29)", 
+        "id": "9781101612491.19", 
+        "pub_date": "2014-02-04T05:00:00Z", 
+        "publisher": "Penguin Group", 
+        "startCfi": "/6/42!", 
+        "title": "Chapter 13", 
+        "wordcount": 5540
+      }, 
+      {
+        "cfi": [
+          "/6/172"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940045329323_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940045329323_p0_v1_s114x166.JPG", 
+        "description": "SIX\nTHE POST BOY ringing his eleven o\u2019clock bell signaled the last collection of mail for the day, and shattered the still and freezing night air. It was much too cold in this fashionable quarter surrounding Grosvenor Square for itinerate sellers, thieves, pickpockets, and drunken Merry-Andrews who usually roamed the streets at this late hour. Even the chairmen were scarce. But then a carriage pulled up outside a particular townhouse in South Audley Street, and out stepped a lady in a fur-lined hooded cape, wearing pattens to keep the muck off her satin slippers.\nShe had just come from Drury Lane Theatre, where she had enjoyed the attentions of her son\u2019s circle of male friends and the admiration of one or two gentlemen nearer her own age, who left their cards and asked permission to call on her the following day. She had no idea what the play was about or the names of its actors, but she had spent the evening surrounded by titled and wealthy males. She was more than satisfied with her foray to the theater.\n", 
+        "ean": "2940045329323", 
+        "endCfi": "/6/172!/4/272/1", 
+        "epub_title": "Scandalous Brides (Four Bestselling Full-Length Regency Novels)", 
+        "id": "2940045329323.81", 
+        "pub_date": "2014-01-13T05:00:00Z", 
+        "publisher": "Smashwords", 
+        "startCfi": "/6/172!", 
+        "title": "SIX", 
+        "wordcount": 6945
+      }, 
+      {
+        "cfi": [
+          "/6/48"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940149637461_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940149637461_p0_v1_s114x166.JPG", 
+        "description": "Brian stepped as carefully as he could up the stairs. With every squeak of the wooden steps, he was scared that he would wake her. Becca was draped in his arms, sound asleep. She was his \u2018Sleeping Beauty\u2019, not Brooklyn.\nOn the short drive from the river, Becca had fallen fast asleep. When they\u2019d gotten into the Jeep, he\u2019d asked how much she\u2019d had to drink. The question had flown out of his mouth. It had probably been his subconscious trying to gauge what the chances were of another drunken kiss like they\u2019d shared at Haley\u2019s wedding. She\u2019d told him that she hadn\u2019t had anything to drink but that she hadn\u2019t slept in almost thirty-six hours and she just wanted to close her eyes for a minute. Before he\u2019d even pulled onto Main Street, she was out cold.\nHe\u2019d thought for sure that she would have woken when he\u2019d pulled up and parked. Becca was a fairly light sleeper, and normally after the slightest noise or disruption, her eyes would pop open. Not tonight.\nBrian couldn\u2019t believe that she\u2019d stayed asleep as he gently picked her up, out of the passenger seat.", 
+        "ean": "2940149637461", 
+        "endCfi": "/6/48!/4/254/1", 
+        "epub_title": "Fairytale Love - Becca & Brian", 
+        "id": "2940149637461.22", 
+        "pub_date": "2014-07-30T04:00:00Z", 
+        "publisher": "Red Hot Reads Publishing", 
+        "startCfi": "/6/48!/4/2", 
+        "title": "Chapter Twenty", 
+        "wordcount": 5173
+      }, 
+      {
+        "cfi": [
+          "/6/42"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780062229489_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780062229489_p0_v1_s114x166.JPG", 
+        "description": "THE SKY over Coral Cove Beach blazed orange and pink with streaks of purple shot through like threads in a brightly colored fabric. Christy and Jack had walked from the Happy Crab, both in upbeat moods after a pleasant dinner with Grandpa Charlie and the short drive back to the motel. And Christy felt better than she had in a long time. Trusting in her talent, and in her boldness, was making her dreams start to come true\u2014\u00adshe could feel it in her heart. And maybe trusting in Jack would pay off in the same way.\nHe truly seemed different tonight\u2014\u00admore like the relaxed Jack she\u2019d first met, but also . . . new in a way. The man who walked up the beach beside her now seemed . . . unafraid to let his affection for her show. And it shone in his eyes every time their gazes met\u2014\u00adsomething sweet and wonderful that hadn\u2019t ever been there before, or at least not in such an open way.\nThey walked barefoot at the water\u2019s edge, letting the cool gulf surf wash up over their toes before it rushed back out again.", 
+        "ean": "9780062229489", 
+        "endCfi": "/6/42!/4[Chapter]/2/232/1", 
+        "epub_title": "All I Want Is You: A Coral Cove Novel", 
+        "id": "9780062229489.18", 
+        "pub_date": "2014-05-27T04:00:00Z", 
+        "publisher": "HARPERCOLLINS", 
+        "startCfi": "/6/42!", 
+        "title": "Chapter 15", 
+        "wordcount": 4388
+      }, 
+      {
+        "cfi": [
+          "/6/48"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940149402793_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940149402793_p0_v1_s114x166.JPG", 
+        "description": "Chapter 23\nA need so strong couldn\u2019t be denied. Cami had felt alone. Now, all she wanted was to be with Bradan, to have him for that one night. Looking into his crystal-blue eyes and seeing the lust there melted her.\nThere was no way to turn away, and it was impossible to ignore the fire between them. No upset or hurt held strength against its heat. Bradan\u2019s gaze made her body tingle and flooded her with a delightful weakness.\n\u201cBradan.\u201d\nIt was all the encouragement he needed. Placing his palms on her cheeks, Bradan pulled her close. She could feel his breath on her skin, sense the heat coursing through his body, and smell his scent of arousal. Cami closed her eyes, and he covered her mouth with his.\nThe kiss was long, deep, and conveyed a need they both felt. The connection was everything Cami had missed, and all that she had to have. Nothing else mattered. Only this. Just him, the man she insanely desired despite all reasons not to.\nHis tongue raked against hers, making her sex pulse heavily.", 
+        "ean": "2940149402793", 
+        "endCfi": "/6/48!/4/2/160/2/1", 
+        "epub_title": "Perfectly Shattered", 
+        "id": "2940149402793.24", 
+        "pub_date": "2014-04-17T04:00:00Z", 
+        "publisher": "Camden Lee Press, LLC", 
+        "startCfi": "/6/48!", 
+        "title": "PerfectlyShattered-23", 
+        "wordcount": 2713
+      }, 
+      {
+        "cfi": [
+          "/6/38"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9781627413541_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9781627413541_p0_v1_s114x166.JPG", 
+        "description": "Tammy clung to Crag\u2019s shoulders when he bent down and lifted her up. He placed her in the middle of the bed and then crawled up after her. Crag covered her body with his, but without touching her. His weight was supported on his hands and knees on the outside of her body and he just stared down at her. He was looking at her so hungrily her body responded in kind. Her areolas contracted and her nipples pebbled. Her breathing and heartbeat escalated and her pussy clenched.\n\u201cYou are so gorgeous, darlin\u2019. I can\u2019t wait to have you as my mate.\u201d Crag bent his elbows, and then he was kissing her.\nTammy reached up and caressed his hard muscular chest. Her palms tingled as she swept her hands over his body. When she got to his lower abs, she felt his stomach muscles jump as if in anticipation of a more intimate touch from her. But when she moved her hand lower, he grabbed her wrist and stopped her.\n\u201cI don\u2019t want to lose control, Tammy. You can touch me later, but I\u2019m on edge right now, darlin\u2019.\u201d\n", 
+        "ean": "9781627413541", 
+        "endCfi": "/6/38!/4/194/2/1", 
+        "epub_title": "Carter Finds Two Mates [Pack Law 7] (Siren Publishing Menage Everlasting)", 
+        "id": "9781627413541.18", 
+        "pub_date": "2014-04-11T04:00:00Z", 
+        "publisher": "SIREN PUBLISHING - EBKS", 
+        "startCfi": "/6/38!", 
+        "title": "Chapter Eleven", 
+        "wordcount": 3047
+      }, 
+      {
+        "cfi": [
+          "/6/64"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940045762212_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940045762212_p0_v1_s114x166.JPG", 
+        "description": "Chapter Twenty-nine\n\u201cUnderstand what?\u201d Far and Truth asked as one. They were still sitting side by side, their arms loosely draped around each other\u2019s shoulders. Becca could see the tension in the dark twin\u2019s body but he hadn\u2019t pulled away when she left the bed. It made Becca glad\u2014after the pain Far had just witnessed and felt through his younger self, he needed his brother close.\n\u201cI understand what we need to get out of here,\u201d Becca said. \u201cWe need unity. Look,\u201d she continued, seeing their confused looks. \u201cRemember before when we were\u2026were touching each other before? I mean, here on the bed\u2026you know\u2026\u201d She could feel her cheeks getting hot but the twins simply nodded.\n\u201cWe know,\u201d Far said gently. \u201cWe did it to raise power in order to make projections.\u201d\n\u201cBut what if it wasn\u2019t power we were getting from our, uh, contact at all?\u201d Becca asked. \u201cWhat if what made us able to project, not because we were more powerful or energized or whatever, but because we were more unified? Think about it, that weird airline hostess voice kept talking about the OneMind.", 
+        "ean": "2940045762212", 
+        "endCfi": "/6/64!/4/294/1", 
+        "epub_title": "Divided: Brides of the Kindred book 10", 
+        "id": "2940045762212.32", 
+        "pub_date": "2014-03-13T04:00:00Z", 
+        "publisher": "Smashwords", 
+        "startCfi": "/6/64!/4/2/2", 
+        "title": "Chapter 29", 
+        "wordcount": 4840
+      }, 
+      {
+        "cfi": [
+          "/6/42"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940149096893_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940149096893_p0_v1_s114x166.JPG", 
+        "description": "As Massimo\u2019s mouth closed over hers, Nia wrapped her arms about his shoulders, and gave herself over to the passion of his kiss.  It wasn\u2019t demanding, or ravishing like his kisses in the past, but slow, lazy, and drugging with a dreamy intimacy that made her quiver at the sweet tenderness of it.  He moved his mouth over hers, savoring its softness, sucking and nibbling on her lips as if he were enjoying a delicious piece of chocolate candy.  This was a new side to his lovemaking and she loved it.\nMassimo was no longer the rat-bastard she despised and was eager to swindle and humiliate.  He was her husband.  She was no longer a scared young girl forced to offer her body to her nemesis in exchange for money to pay back a loan shark.  She was his wife.\nSuddenly the conditions of their union didn\u2019t matter to Nia anymore.  Maybe she was na\u00efve.  Maybe she was crazy.  Even stupid to be feeling the way she felt about him, but her life had changed the minute she walked up to him in that cabin on Bristol Mountain four days ago.", 
+        "ean": "2940149096893", 
+        "endCfi": "/6/42!/4/168/1", 
+        "epub_title": "The Playboy's Fugitive Bride - Book Three", 
+        "id": "2940149096893.15", 
+        "pub_date": "2014-01-05T05:00:00Z", 
+        "publisher": "Ana E Ross", 
+        "startCfi": "/6/42!", 
+        "title": "CHAPTER FIFTEEN", 
+        "wordcount": 4219
+      }, 
+      {
+        "cfi": [
+          "/6/16"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/2940149551996_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/2940149551996_p0_v1_s114x166.JPG", 
+        "description": "Olivia groaned. Oh hell. He\u2019d shared his home and his food and now offered to make good on a promise his ex-girlfriend had given? He cooked like a gourmet and kissed better than her fantasies. And the muscles under her fingers begged to be stroked.\nThoughts fled as his lips devoured hers. She moaned, unable to stop the desperate gasp for sanity. He tasted sweeter than honey, a drugging combination of sex and tenderness that made her want to consume him. \nHe deepened the kiss, searching and teasing her mouth with his tongue, until all Olivia felt was raw, overpowering need. \nShe rubbed against him, excited to feel his erection burning against her stomach. He was hard, his shaft like iron, but he made no move to overwhelm her with his desire. Instead, he held back, allowing her to set the pace. \nShe gasped when his lips left her mouth to trail down her throat, and she groaned when he sucked at the pulse point in her neck. \u201cI didn\u2019t want to do this so soon.\u201d Arching into his searing mouth, she tried to reassure him she wasn\u2019t as easy as she seemed.", 
+        "ean": "2940149551996", 
+        "endCfi": "/6/16!/4/234/1", 
+        "epub_title": "A Major Attraction", 
+        "id": "2940149551996.3", 
+        "pub_date": "2014-05-04T04:00:00Z", 
+        "publisher": "Fated Desires Publishing, LLC", 
+        "startCfi": "/6/16!", 
+        "title": "Chapter Three", 
+        "wordcount": 3433
+      }, 
+      {
+        "cfi": [
+          "/6/182"
+        ], 
+        "cover_image_big_url": "http://img1.imagesbn.com/p/9780743298544_p0_v1_s260x420.JPG", 
+        "cover_image_small_url": "http://img1.imagesbn.com/p/9780743298544_p0_v1_s114x166.JPG", 
+        "description": "It is springtime. I have never noticed a season so much in my life before; but this year the sun is so bright and the birdsong so loud that I wake at dawn and I lie awake with every inch of my skin like silk, and my lips moist, and my heart thudding with desire. I want to laugh without cause; I want to give my ladies little gifts to make them happy. I want to dance, I want to run down the long all\u00e9es of the garden and twirl around at the bottom and fall on the grass and smell the pale scent of the primroses. I want to ride all day and dance all night and gamble the king\u2019s fortune away. I have an enormous appetite; I taste all the dishes that come to the royal table and then I send the best, the very best, to one table or another\u2014but never, never to his.\nI have a secret; it is a secret so great that some days I think I can hardly breathe for the way it burns on my tongue, hot for telling. Some days it is like a tickle that makes me want to laugh. Every day, every night and day, it is like the warm, insistent pulse of lust.\n", 
+        "ean": "9780743298544", 
+        "endCfi": "/6/182!/4/20/1", 
+        "epub_title": "The Boleyn Inheritance", 
+        "id": "9780743298544.89", 
+        "pub_date": "2006-12-05T05:00:00Z", 
+        "publisher": "SIMON & SCHUSTER", 
+        "startCfi": "/6/182!/4/2/2", 
+        "title": "Katherine, Hampton Court, April 1541", 
+        "wordcount": 651
+      }
+    ], 
+    "maxScore": 0.20941481, 
+    "numFound": 709335, 
+    "start": 0
+  }, 
+  "responseHeader": {
+    "QTime": 386, 
+    "params": {
+      "defType": "edismax", 
+      "fl": "id,ean,title,description,epub_title,publisher,pub_date,cfi,startCfi,endCfi,wordcount", 
+      "q": "(wiki_topic:19361526^6 wiki_topic:19593167^5 wiki_topic:212427^4 wiki_topic:58249^4 wiki_topic:167744^4 wiki_topic:2719583^4 wiki_topic:21281976^4 wiki_topic:555643^4 wiki_topic:169407^4 wiki_topic:15822899^3 wiki_topic:10915^3 wiki_topic:69304^3 wiki_topic:58255^3 wiki_topic:53236^3 wiki_topic:50399^3 wiki_topic:7885^3 wiki_topic:5165^3 wiki_topic:1083844^3 wiki_topic:196470^3 wiki_topic:951407^3 wiki_topic:2414^3 wiki_topic:17389946^3 wiki_topic:25498357^2 wiki_topic:4881^2 wiki_topic:248581^2 wiki_topic:4576465^2 wiki_topic:2488021^2 wiki_topic:19166409^2 wiki_topic:51510^2 wiki_topic:3482916^2 wiki_topic:169493^2 wiki_topic:18542^2 wiki_topic:5623^2 wiki_topic:1822282^2 wiki_topic:25439732^2 wiki_topic:18834674^2 wiki_topic:157898^2 wiki_topic:4489^2 wiki_topic:13706^2 wiki_topic:50024^2 wiki_topic:23534170^2 wiki_topic:147292^2 wiki_topic:5638^2 wiki_topic:11145^2 wiki_topic:59916^2 wiki_topic:8972^2 wiki_topic:19404136^2 wiki_topic:929^2 wiki_topic:416486^2 wiki_topic:234371^2 wiki_topic:174158^2 wiki_topic:11558737^2 wiki_topic:89303^2 wiki_topic:18723138^2 wiki_topic:625404^2 wiki_topic:19166474^2 wiki_topic:14361^2 wiki_topic:2136925^2 wiki_topic:15430^2 wiki_topic:89246^2 wiki_topic:3883838^1 wiki_topic:195198^1 wiki_topic:42806^1 wiki_topic:49557^1 wiki_topic:471845^1 wiki_topic:36214900^1 wiki_topic:551678^1 wiki_topic:56444^1 wiki_topic:18444^1 wiki_topic:7673^1 wiki_topic:98581^1 wiki_topic:8280^1 wiki_topic:25295^1 wiki_topic:43494^1 wiki_topic:78151^1 wiki_topic:36808^1 wiki_topic:15157915^1 wiki_topic:2235851^1 wiki_topic:13675018^1 wiki_topic:19347033^1 wiki_topic:73165^1 wiki_topic:51511^1 wiki_topic:77538^1 wiki_topic:240058^1 wiki_topic:622545^1 wiki_topic:4855261^1 wiki_topic:43945^1 wiki_topic:17547^1 wiki_topic:31266051^1 wiki_topic:238966^1 wiki_topic:37533989^1 wiki_topic:2238065^1 wiki_topic:140886^1 wiki_topic:56884^1 wiki_topic:40630^1 wiki_topic:13645^1 wiki_topic:403005^1 wiki_topic:58253^1 wiki_topic:25003876^1 wiki_topic:683^1 wiki_topic:222740^1 wiki_topic:33702^1 wiki_topic:226160^1 wiki_topic:795184^1 wiki_topic:793565^1 wiki_topic:591470^1 wiki_topic:146303^1 wiki_topic:181592^1 wiki_topic:1352936^1 wiki_topic:13667013^1 wiki_topic:19723734^1 wiki_topic:255808^1 wiki_topic:59790^1 wiki_topic:19594^1 wiki_topic:26808^1 wiki_topic:15744185^1 wiki_topic:30865437^1 wiki_topic:3133255^1 wiki_topic:20810^1 wiki_topic:177428^1 wiki_topic:195434^1 wiki_topic:11657^1 wiki_topic:13829^1 wiki_topic:206119^1 wiki_topic:7040454^1 wiki_topic:34850722^1 wiki_topic:929147^1 wiki_topic:768332^1 wiki_topic:19372783^1 wiki_topic:1784650^1 wiki_topic:266307^1 wiki_topic:274374^1 wiki_topic:334990^1 wiki_topic:25079^1 wiki_topic:26994^1 wiki_topic:83443^1 wiki_topic:2652866^1 wiki_topic:2626200^1 wiki_topic:130312^1 wiki_topic:59493^1 wiki_topic:6816^1 wiki_topic:245632^1 wiki_topic:20264^1 wiki_topic:4318352^1 wiki_topic:31766208^1 wiki_topic:94858^1 wiki_topic:61026^1 wiki_topic:169228^1 wiki_topic:2168349^1 wiki_topic:191574^1 wiki_topic:4020048^1 wiki_topic:32893^1 wiki_topic:187697^1 wiki_topic:1638128^1 wiki_topic:55633^1 wiki_topic:149422^1 wiki_topic:449913^1 wiki_topic:2296086^1 wiki_topic:5715357^1 wiki_topic:146454^1 wiki_topic:21843061^1 wiki_topic:17214^1 wiki_topic:24897^1 wiki_topic:42139^1 wiki_topic:386115^1 wiki_topic:1408983^1 wiki_topic:30788710^1 wiki_topic:3935892^1 wiki_topic:762913^1 wiki_topic:35783123^1 wiki_topic:50767^1 wiki_topic:151604^1 wiki_topic:428105^1 wiki_topic:11039790^1 wiki_topic:180251^1 wiki_topic:180244^1 wiki_topic:532199^1 wiki_topic:2417700^1 wiki_topic:79913^1 wiki_topic:79915^1 wiki_topic:262544^1 wiki_topic:52911^1 wiki_topic:29810^1 wiki_topic:1805271^1 wiki_topic:8490126^1 wiki_topic:30318^1 wiki_topic:66505^1 wiki_topic:206821^1 wiki_topic:41600^1 wiki_topic:255063^1 wiki_topic:86111^1 wiki_topic:3512364^1 wiki_topic:349252^1 wiki_topic:27058^1) AND title_fbm_i:[0 TO 1] AND wordcount:[175 TO *] AND (epub_type:BA OR epub_type:B7)", 
+      "rows": "100", 
+      "start": "0", 
+      "wt": "json"
+    }, 
+    "status": 0
+  }
+}

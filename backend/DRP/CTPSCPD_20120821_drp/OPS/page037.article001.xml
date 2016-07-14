@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Cooking with Paula Deen</title>
+<link href="css/test1.css" rel="stylesheet" type="text/css" />
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    </head>
+<body class="left">
+        <div class="before">
+            <div class="articleMenuWrapper" id="header_navbar">
+                <div class="sectionMenuLeft" id="header_navbar_previous">
+                    <a href="page036.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="header_navbar_next">
+                    <a href="page037.article002.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+            <div class="masthead" id="header">
+                <div class="masthead-text">
+                    <div class="masthead-section" id="header_title">
+                        <a href="section.xml">Contents</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="article-headline" id="Headline">HUMMUS IN PITA CUPS WITH BLACK OLIVE RELISH</div>
+
+
+
+<div class="article-in-image" id="image1"><img src="images/page037.article001.image1.jpg" class="article-in-image" alt=""/></div>
+<div id="separatorLine"> <div class="invisible">empty</div> </div>
+
+<div class="articleImageCredit" id="ImageCredit">PHOTOGRAPHY BY WILLIAM DICKEY</div>
+<div class="article-body" id="Body"><p class="no-indent">Makes about 4 dozen </p><br/><p class="no-indent">1 (12-ounce) package pita bread rounds </p><p class="no-indent">1 (15.5-ounce) can chickpeas, drained and rinsed </p><p class="no-indent">½ cup chopped roasted red bell peppers </p><p class="no-indent">¼ cup fresh lemon juice </p><p class="no-indent">2 tablespoons tahini paste </p><p class="no-indent">2 tablespoons olive oil </p><p class="no-indent">2 teaspoons minced garlic </p><p class="no-indent">Black Olive Relish (recipe follows) </p><br/><p class="no-indent">1. Preheat oven to 350°. Spray 48 miniature muffin cups with nonstick cooking spray. </p><br/><p class="no-indent">2. Split each pita bread into 2 rounds. Using a 1½-inch cutter, cut rounds from pita. Press rounds into prepared muffin cups, and lightly spray with nonstick cooking spray. </p><br/><p class="no-indent">3. Bake for 12 to 15 minutes or until pita is browned and crisp. Let cool. </p><br/><p class="no-indent">4. In the work bowl of a food processor, combine chickpeas and next 5 ingredients. Process until smooth or to desired consistency. Spoon hummus into prepared pita cups. Top with Black Olive Relish. Serve immediately. </p><br/><p class="no-indent">To make ahead: Bake and cool pita cups. Store in airtight container for up to 3 days. Prepare humus and store covered in refrigerator.</p><br/><p>______________________________</p><br/><p class="no-indent">Black Olive Relish </p><p class="no-indent">Makes about 2 cups </p><br/><p class="no-indent">1 (4.25-ounce) can chopped black olives </p><p class="no-indent">3 tablespoons toasted pine nuts </p><p class="no-indent">2 tablespoons minced fresh parsley </p><p class="no-indent">2 tablespoons olive oil </p><p class="no-indent">1 tablespoon minced green onion </p><p class="no-indent">1 tablespoon fresh lemon juice </p><p class="no-indent">½ teaspoon ground black pepper </p><br/><p class="no-indent">1. In a small bowl, combine all ingredients. Cover, and refrigerate up to 3 days.</p></div>
+<div class="after">
+            <div class="articleMenuWrapper" id="footer_navbar">
+                <div class="sectionMenuLeft" id="footer_navbar_previous">
+                    <a href="page036.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="footer_navbar_next">
+                    <a href="page037.article002.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Cooking with Paula Deen</title>
+<link href="css/test1.css" rel="stylesheet" type="text/css" />
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    </head>
+<body class="left">
+        <div class="before">
+            <div class="articleMenuWrapper" id="header_navbar">
+                <div class="sectionMenuLeft" id="header_navbar_previous">
+                    <a href="page059.article004.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="header_navbar_next">
+                    <a href="page062.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+            <div class="masthead" id="header">
+                <div class="masthead-text">
+                    <div class="masthead-section" id="header_title">
+                        <a href="section.xml">Contents</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="article-headline" id="Headline">CHICKEN PESTO PASTA</div>
+
+
+
+<div class="article-in-image" id="image1"><img src="images/page060.article002.image1.jpg" class="article-in-image" alt=""/></div>
+<div id="separatorLine"> <div class="invisible">empty</div> </div>
+
+<div class="articleImageCredit" id="ImageCredit">PHOTOGRAPHY BY KAMIN WILLIAMS</div>
+<div class="article-body" id="Body"><p class="no-indent">Makes 4 to 6 servings </p><br/><p class="no-indent">1 (16-ounce) package fettuccine </p><p class="no-indent">1 pound fresh chicken tenderloins </p><p class="no-indent">½ teaspoon salt </p><p class="no-indent">½ teaspoon ground black pepper </p><p class="no-indent">1 tablespoon olive oil </p><p class="no-indent">1 small onion, thinly sliced </p><p class="no-indent">1 red bell pepper, thinly sliced </p><p class="no-indent">1 yellow squash, halved lengthwise and thinly sliced </p><p class="no-indent">1 zucchini, halved lengthwise and thinly sliced </p><p class="no-indent">2 cups heavy whipping cream </p><p class="no-indent">¼ cup prepared pesto</p><br/><p class="no-indent">1. Pepare fettuccine according to package directions and keep warm. Sprinkle chicken with salt and pepper. </p><br/><p class="no-indent">2. In a large skillet, heat olive oil over medium heat. Add chicken, and cook for 2 to 3 minutes per side, or until golden brown. Remove from skillet, and cut into ½-inch pieces. </p><br/><p class="no-indent">3. Add onion and bell pepper to skillet, and cook, over medium heat, for 3 to 4 minutes, or just until tender. Add squash and zucchini, and cook for 3 to 4 minutes, or just until tender. Stir in cream and pesto, and cook for 5 minutes, or until slightly thickened. Add pasta and chicken, tossing gently to coat. Serve immediately.</p></div>
+<div class="after">
+            <div class="articleMenuWrapper" id="footer_navbar">
+                <div class="sectionMenuLeft" id="footer_navbar_previous">
+                    <a href="page059.article004.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="footer_navbar_next">
+                    <a href="page062.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+        </div>
+    </body>
+</html>

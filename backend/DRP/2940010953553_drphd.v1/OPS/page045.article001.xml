@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>The New Yorker</title>
+<link href="css/test1.css" rel="stylesheet" type="text/css" />
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    </head>
+<body class="left">
+        <div class="before">
+            <div class="articleMenuWrapper" id="header_navbar">
+                <div class="sectionMenuLeft" id="header_navbar_previous">
+                    <a href="page036.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="header_navbar_next">
+                    <a href="page046.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+            <div class="masthead" id="header">
+                <div class="masthead-text">
+                    <div class="masthead-section" id="header_title">
+                        <a href="section.xml">Contents</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="article-headline" id="Headline">LUAU</div>
+
+<div class="article-byline" id="ByLine">BY JACK HANDEY</div>
+
+<div class="article-in-image" id="image1"><img src="images/page045.article001.image1.jpg" class="article-in-image" alt=""/></div>
+<div id="separatorLine"> <div class="invisible">empty</div> </div>
+
+<div class="articleImageCredit" id="ImageCredit">JEAN JULLIEN</div>
+<div class="article-body" id="Body"><p class="no-indent">One of the worst things I’ve ever been to has to be the Hawaiian luau I went to last month. Or should I say “so-called” Hawaiian luau?</p><br/><p class="no-indent">First of all, when I went to the pickup point, where we were supposed to be carried to the beach by native Hawaiian bearers, I was instead beaten on the head and shoved into the trunk of a car.</p><br/><p class="no-indent">After a long drive, I was finally let out, but when I asked where my lei was I was told to shut up and was knocked to the ground. There were no “hand-woven grass mats” to sit on, and I was never offered a “tall, refreshing pineapple drink.” It would have been hard to sip on anyway, because I was tied up.</p><br/><p class="no-indent">Eventually, I noticed that we were not at the beach but at some sort of tire junk yard. The mountains of old tires were pretty in their way, but I think I would have preferred the beach.</p><br/><p class="no-indent">There were other disappointments. Instead of the Aloha Brothers playing authentic Hawaiian slide guitar, one guy had a loud boom box that played heavy-metal music. Instead of being offered genuine poi, I was told to shut up and was repeatedly kicked.</p><br/><p class="no-indent">I have to admit that I was given a hula lesson, but it included only two hand gestures, and afterward I was beaten.</p><br/><p class="no-indent">My biggest complaint would have to be that the luau was supposed to be free, but then they called my brother and told him to bring “as much money as he could get.” What kind of an admission price is that? When my brother showed up, they broke his glasses and set his car on fire. Was this the famous Hawaiian hospitality?</p><br/><p class="no-indent">You may have wondered, as I did, if the burning car was to be the center of the luau’s fire dance. Not unless you call laughing and throwing rocks at it “dancing.” When one of the Hawaiians was urinating on the car, he got so close his shirttail caught on fire, and he had to roll around on the ground to put it out. My brother and I applauded, but we were beaten for doing so.</p><br/><p class="no-indent">We had a nice walk back to the New Jersey Turnpike—there were some interesting birds and rodents along the way—but we were almost run over by the luau people as they zoomed past. Also, my brother was hit in the back with a flying beer can.</p><br/><p class="no-indent">I guess I should have been suspicious of the flyer for the luau to begin with. It was handwritten and had a crudely drawn hula girl with overly graphic sexual regions. Also, it was tied to a coconut and thrown through my apartment window.</p><br/><p class="no-indent">Anyway, you’re lucky you didn’t go. But the good news is, next month I’ve been invited to a genuine Texas barbecue.</p></div>
+<div class="after">
+            <div class="articleMenuWrapper" id="footer_navbar">
+                <div class="sectionMenuLeft" id="footer_navbar_previous">
+                    <a href="page036.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="footer_navbar_next">
+                    <a href="page046.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+        </div>
+    </body>
+</html>

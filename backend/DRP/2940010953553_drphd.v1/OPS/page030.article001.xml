@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>The New Yorker</title>
+<link href="css/test1.css" rel="stylesheet" type="text/css" />
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    </head>
+<body class="left">
+        <div class="before">
+            <div class="articleMenuWrapper" id="header_navbar">
+                <div class="sectionMenuLeft" id="header_navbar_previous">
+                    <a href="page029.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="header_navbar_next">
+                    <a href="page031.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+            <div class="masthead" id="header">
+                <div class="masthead-text">
+                    <div class="masthead-section" id="header_title">
+                        <a href="section.xml">Contents</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="article-headline" id="Headline">DEPT. OF HOOPLA: IF THE SHOE FITS</div>
+
+<div class="article-byline" id="ByLine">Rebecca Mead</div>
+
+<div class="article-in-image" id="image1"><img src="images/page030.article001.image1.jpg" class="article-in-image" alt=""/></div>
+<div class="separator-line" id="separatorLine"> <div class="invisible">empty</div> </div>
+<div class="articleImageCaption" id="ImageCaption">Michael Ovitz and Tamara Mellon</div>
+<div class="articleImageCredit" id="ImageCredit">ILLUSTRATION BY TOM BACHTELL</div>
+<div class="article-body" id="Body"><p class="no-indent">Tamara Mellon, the co-founder of Jimmy Choo, has written a memoir called “In My Shoes,” and a party was held in the Grill Room at the Four Seasons the other week to celebrate its publication. The book tells of Mellon’s childhood in nineteen-seventies Los Angeles and Belgravia, when she was still Tamara Yeardye, the daughter of the co-founder of Vidal Sassoon; her party-girl years in London, snorting coke at Tramp, the night club for nobs; her marriage to and divorce from Matthew Mellon, a manic-depressive scion of the American banking dynasty; and her battles with business partners and family members. The book is full of lines like “Matthew and I went to Saint Tropez for the summer, staying on Valentino’s boat,” as well as “My mother’s raging lunacy flared up so routinely that it left me in a constant state of bewilderment” and “I was still juggling a small baby, an impaired ex-husband, and an asshole of a CEO that I couldn’t get rid of.”</p><br/><p class="no-indent">“I wanted to write it for women, because I came up against so many things that I was not expecting,” Mellon said, settling into a banquette. She was wearing a leopard-print dress and white patent-leather sandals from the début of her eponymous clothing collection, and a reverse French manicure, so that it looked as if she’d dipped her fingers in blood. Writing the book, she said, was “very healing.”</p><br/><p class="no-indent">One of its salutary sentences is this one, about Michael Ovitz, her boyfriend of the past two years: “Having a relationship with Michael Ovitz is like the final exam in the master class in self-actualization.” Ovitz hovered around Mellon as she spoke. “You know what I am to her?” he said, reaching for his wallet and laying his Amex card on the table.</p><br/><p class="no-indent">“As if I need that!” Mellon replied. </p><br/><p class="no-indent">“She’s the best thing that ever happened to me,” Ovitz went on. “I’m with someone who’s as curious and crazy as I am. She has got an insatiable appetite, and so do I, for new things and interesting things. I don’t think a Saturday goes by that we are not doing thirty different things, in five different areas of interest, from art to fashion.” Ovitz fumbled with his iPhone and retrieved an image of a glass chair by Shiro Kuramata, the Japanese designer. Mellon had surprised him with it as a Christmas gift. “She figured out minimal objects,” Ovitz said. “It’s a real special taste. It took me twenty years to figure out that I liked minimal art.”</p><br/><p class="no-indent">“The last two years have been an amazing education,” said Mellon, whose formal training extended no further than going to the same Swiss finishing school that Princess Diana attended. “Michael is very funny—he said, ‘Oh, my God. I’ve never had such a willing student.’ ” The education had been a two-way street, Ovitz remarked. “She moved me into Tom Ford.” </p><br/><p class="no-indent">Friends arrived: Wendi Deng dropped by early, Ron Perelman showed up late, and Ghislaine Maxwell was there for the duration. The co-hosts included Stephen Schwarzman and his wife, Christine, whom Mellon had got to know after they met in Saint-Tropez; Jamie Tisch, at whose cancer-charity gala Mellon regularly takes a table; L. A. Reid, the music executive, and his wife, Erica, whom Mellon first met in St. Bart’s; and Diane von Furstenberg, who had to host from a distance, since she was on a plane. Arne Glimcher, another host, at whose gallery, Pace, Mellon’s line had been introduced, said that she was “like a sponge.” Charlie Rose, yet another host, stopped by, tieless and rumpled, during a break from prepping for an interview with Benjamin Netanyahu.</p><br/><p class="no-indent">Mayor Bloomberg was there, too. “This woman is a genius,” he said, standing close to Mellon for a photograph. “How do I know that? Well, Diana”—Diana Taylor, his longtime girlfriend—“said she was very good.” The Mayor reported that he likes high heels. “I like women, and I think that they look stunning in high heels—not that they look bad without high heels. I wouldn’t criticize anybody,” he said. “But, if I were a woman, I think I would wear high heels.” When asked if he regretted the fact that men do not have the option of high heels, the Mayor, who is reported to be five-eight, replied, “I don’t care if a woman is taller than me, with or without heels,” he said. “I just like women.”</p><br/><p class="no-indent">Bloomberg, Ovitz, and Mellon took to the restaurant’s upper gallery, where a microphone awaited. “I don’t want to say anything derogatory, but I am really concerned about ninety-one days from today,” Ovitz said, by way of introducing Bloomberg. “Because this is a guy—you can pick up the phone and actually leave a message for him, and he calls you back.” The air was thick with unspoken assent: the sound of the Grill Room waiting for the other shoe to drop.</p></div>
+<div class="after">
+            <div class="articleMenuWrapper" id="footer_navbar">
+                <div class="sectionMenuLeft" id="footer_navbar_previous">
+                    <a href="page029.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="footer_navbar_next">
+                    <a href="page031.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Cooking with Paula Deen</title>
+<link href="css/test1.css" rel="stylesheet" type="text/css" />
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    </head>
+<body class="left">
+        <div class="before">
+            <div class="articleMenuWrapper" id="header_navbar">
+                <div class="sectionMenuLeft" id="header_navbar_previous">
+                    <a href="page010.article002.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="header_navbar_next">
+                    <a href="page014.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+            <div class="masthead" id="header">
+                <div class="masthead-text">
+                    <div class="masthead-section" id="header_title">
+                        <a href="section.xml">Contents</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="article-headline" id="Headline">PAULA’S PICKS</div>
+<div class="article-subhead" id="SubHeadline">The things I love, from my home to yours</div>
+
+
+<div class="article-in-image" id="image1"><img src="images/page012.article001.image1.jpg" class="article-in-image" alt=""/></div>
+<div id="separatorLine"> <div class="invisible">empty</div> </div>
+
+
+<div class="article-body" id="Body"><p class="no-indent">Enjoy entertaining this season with these autumn-inspired pieces.</p><br/><p class="no-indent">● Marrakesh Tray, $56, from Rosanna; rosannainc.com or 877-343-3779</p><br/><p class="no-indent">● Rocks Napkin Rings, $27.80 for set of 4, from Z Gallerie; zgallerie.com or 800-908-6748 </p><br/><p class="no-indent">● Acacia Wood Bowl with Wavy Bark Edge, $74.50 (includes shipping), from Kouboo; kouboo.com or 888-272-0705 </p><br/><p class="no-indent">● Metal Leaves Votive Holder, $25, from Pier 1; pier1.com or 800-245-4595 </p><br/><p class="no-indent">● Rust Satin Knot Napkin, $3.95 each, from Pier 1; pier1.com or 800-245-4595</p><br/><p class="no-indent">● American Atelier Beverage Dispenser, $39.99, from Bed Bath &amp; Beyond; bedbathandbeyond.com or 800-462-3966</p><br/><p class="no-indent">● Nelson Wood Servers, $36, from Jayson Home; jaysonhome.com or 800-472-1885</p><br/><p class="no-indent">● Glass Dome Cheese Board, $34.95, from Crate and Barrel; crateandbarrel.com or 800-967-6696</p><br/><p class="no-indent">● Paula Deen Tatnall Street 16-piece Dinnerware Set, $79.99, from Pots and Pans; potsandpans.com or 800-450-0156</p></div>
+<div class="after">
+            <div class="articleMenuWrapper" id="footer_navbar">
+                <div class="sectionMenuLeft" id="footer_navbar_previous">
+                    <a href="page010.article002.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="footer_navbar_next">
+                    <a href="page014.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+        </div>
+    </body>
+</html>

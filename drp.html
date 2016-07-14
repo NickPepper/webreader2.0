@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>DRP Webreader-2.0 Prototype</title>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+		<meta http-equiv="Expires" content="-1" />
+		<meta http-equiv="Pragma" content="no-cache" />
+		<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+		<meta content="Article/DRP Webreader-2.0" name="description" />
+		<meta content="initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0" name="viewport" />
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<link href="http://img3.imagesbn.com/resources/images/favicon.ico?cb=2.23.0" type="image/x-icon" rel="icon" />
+		<link type="text/css" rel="stylesheet" href="css/drp.css" />
+		<script type="text/javascript" src="js/bnwr_utils.js"></script>
+		<script type="text/javascript" src="js/drp_wrapper.js"></script>
+	</head>
+
+	<body>
+		<div id="wrapper">
+			<div id="header">
+				<div class="lefted">
+					<div id="nook_logo"></div>
+					<div id="book_title">&nbsp;</div>
+				</div>
+				<div class="righted">
+					<div id="drp_buttons">
+						<span id="btn_fs" class="drp-btn-fs"></span>
+					</div>
+				</div>
+			</div>
+			<div id="content">
+		    	<div id="viewport"></div>
+		    	<div id="articleport" class="">
+		    		<div id="framewrap">
+		    			<iframe id="article_frame" src="">Your browser does not support iframes?</iframe>
+		    		</div>
+		    	</div>
+		    	<div id="spinner"></div>
+			</div>
+			<div id="footer">
+				<div id="pages_counter">
+					<span id="num">0</span>
+					<span id="of"> of </span>
+					<span id="total">0</span>
+				</div>
+				<div id="articleview_menu">
+		    		<div id="av_back_btn">Magazine View</div>
+		    		<div id="text_settings_btn">Text Settings</div>
+		    	</div>
+			</div>
+		</div><!-- #wrapper -->
+
+		<!-- Tips -->
+		<div style='display:none'>
+			<div id='articles_tip'>
+				<h5>Choose an Article:</h5>
+				<ul id="artsul">
+				</ul>
+			</div>
+			<div id='av_styling'>
+				<h1>FONT</h1>
+				<ul id='av_fontSize'></ul>
+				<hr/>
+				<ul id='av_fontFamily'></ul>
+			</div>
+		</div>
+
+	</body>
+</html>

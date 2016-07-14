@@ -1,0 +1,819 @@
+{  
+    "v":"2.0",
+    "_":1,
+    "metadata":{  
+        "title":"Steve Jobs",
+        "language":"En",
+        "identifier":"9781451648553",
+        "publisher":"Simon & Schuster",
+        "creator":"Walter Isaacson"
+    },
+    "spine":[  
+        {  
+            "T":"ops/xhtml/cover.html",
+            "X":"q1",
+            "O":"ops/xhtml/cover.content.json",
+            "R":"application/dtls",
+            "C":"/6/2",
+            "N":true,
+            "Z":451,
+            "G":294
+        },
+        {  
+            "T":"ops/xhtml/fm01.html",
+            "X":"q2",
+            "O":"ops/xhtml/fm01.content.json",
+            "R":"application/dtls",
+            "C":"/6/4",
+            "N":true,
+            "Z":7487,
+            "G":2639
+        },
+        {  
+            "T":"ops/xhtml/ebookregfront.html",
+            "X":"q3",
+            "O":"ops/xhtml/ebookregfront.content.json",
+            "R":"application/dtls",
+            "C":"/6/6",
+            "N":true,
+            "Z":1155,
+            "G":544
+        },
+        {  
+            "T":"ops/xhtml/title.html",
+            "X":"q4",
+            "O":"ops/xhtml/title.content.json",
+            "R":"application/dtls",
+            "C":"/6/8",
+            "N":true,
+            "Z":454,
+            "G":300
+        },
+        {  
+            "T":"ops/xhtml/contents.html",
+            "X":"q5",
+            "O":"ops/xhtml/contents.content.json",
+            "R":"application/dtls",
+            "C":"/6/10",
+            "N":true,
+            "Z":10623,
+            "G":1987
+        },
+        {  
+            "T":"ops/xhtml/epigraph.html",
+            "X":"q6",
+            "O":"ops/xhtml/epigraph.content.json",
+            "R":"application/dtls",
+            "C":"/6/12",
+            "N":true,
+            "Z":617,
+            "G":400
+        },
+        {  
+            "T":"ops/xhtml/characters.html",
+            "X":"q7",
+            "O":"ops/xhtml/characters.content.json",
+            "R":"application/dtls",
+            "C":"/6/14",
+            "N":true,
+            "Z":12829,
+            "G":3511
+        },
+        {  
+            "T":"ops/xhtml/intro.html",
+            "X":"q8",
+            "O":"ops/xhtml/intro.content.json",
+            "R":"application/dtls",
+            "C":"/6/16",
+            "N":true,
+            "Z":12609,
+            "G":5445
+        },
+        {  
+            "T":"ops/xhtml/fm03.html",
+            "X":"q9",
+            "O":"ops/xhtml/fm03.content.json",
+            "R":"application/dtls",
+            "C":"/6/18",
+            "N":true,
+            "Z":1260,
+            "G":523
+        },
+        {  
+            "T":"ops/xhtml/ch01.html",
+            "X":"q10",
+            "O":"ops/xhtml/ch01.content.json",
+            "R":"application/dtls",
+            "C":"/6/20",
+            "N":true,
+            "Z":49991,
+            "G":18914
+        },
+        {  
+            "T":"ops/xhtml/ch02.html",
+            "X":"q11",
+            "O":"ops/xhtml/ch02.content.json",
+            "R":"application/dtls",
+            "C":"/6/22",
+            "N":true,
+            "Z":23840,
+            "G":9716
+        },
+        {  
+            "T":"ops/xhtml/ch03.html",
+            "X":"q12",
+            "O":"ops/xhtml/ch03.content.json",
+            "R":"application/dtls",
+            "C":"/6/24",
+            "N":true,
+            "Z":27349,
+            "G":11038
+        },
+        {  
+            "T":"ops/xhtml/ch04.html",
+            "X":"q13",
+            "O":"ops/xhtml/ch04.content.json",
+            "R":"application/dtls",
+            "C":"/6/26",
+            "N":true,
+            "Z":30447,
+            "G":12052
+        },
+        {  
+            "T":"nook/isaSample.xhtml",
+            "X":"q14",
+            "O":"nook/isaSample.content.json",
+            "R":"application/dtls",
+            "C":"/6/28",
+            "N":true,
+            "Z":2555,
+            "G":626
+        }
+    ],
+    "toc":{  
+        "b":"Steve Jobs",
+        "navmap":[  
+            {  
+                "label":"Cover",
+                "E":"ops/xhtml/cover.html",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Epigraph",
+                "E":"ops/xhtml/epigraph.html",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Characters",
+                "E":"ops/xhtml/characters.html",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Introduction: How This Book Came to Be",
+                "E":"ops/xhtml/intro.html#intro",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter One: Childhood: Abandoned and Chosen",
+                "E":"ops/xhtml/fm03.html#ch01",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Two: Odd Couple: The Two Steves",
+                "E":"ops/xhtml/ch02.html#ch02",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Three: The Dropout: Turn On, Tune In\u00A0.\u00A0.\u00A0.",
+                "E":"ops/xhtml/ch03.html#ch03",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Four: Atari and India: Zen and the Art of Game Design",
+                "E":"ops/xhtml/ch04.html#ch04",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Five: The Apple I: Turn On, Boot Up, Jack In\u00A0.\u00A0.\u00A0.",
+                "E":"ops/../nook/isaSample.xhtml#ch05_nook_isaSample_9",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Six: The Apple II: Dawn of a New Age",
+                "E":"ops/../nook/isaSample.xhtml#ch06_nook_isaSample_10",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Seven: Chrisann and Lisa: He Who is Abandoned\u00A0.\u00A0.\u00A0.",
+                "E":"ops/../nook/isaSample.xhtml#ch07_nook_isaSample_11",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Eight: Xerox and Lisa: Graphical User Interfaces",
+                "E":"ops/../nook/isaSample.xhtml#ch08_nook_isaSample_12",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Nine: Going Public: A Man of Wealth and Fame",
+                "E":"ops/../nook/isaSample.xhtml#ch09_nook_isaSample_13",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Ten: The Mac Is Born: You Say You Want a Revolution",
+                "E":"ops/../nook/isaSample.xhtml#ch10_nook_isaSample_14",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Eleven: The Reality Distortion Field: Playing by His Own Set of Rules",
+                "E":"ops/../nook/isaSample.xhtml#ch11_nook_isaSample_15",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Twelve: The Design: Real Artists Simplify",
+                "E":"ops/../nook/isaSample.xhtml#ch12_nook_isaSample_16",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Thirteen: Building the Mac: The Journey is the Reward",
+                "E":"ops/../nook/isaSample.xhtml#ch13_nook_isaSample_17",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Fourteen: Enter Sculley: The Pepsi Challenge",
+                "E":"ops/../nook/isaSample.xhtml#ch14_nook_isaSample_18",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Fifteen: The Launch: A Dent in the Universe",
+                "E":"ops/../nook/isaSample.xhtml#ch15_nook_isaSample_19",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Sixteen: Gates and Jobs: When Orbits Intersect",
+                "E":"ops/../nook/isaSample.xhtml#ch16_nook_isaSample_20",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Seventeen: Icarus: What Goes Up\u00A0.\u00A0.\u00A0.",
+                "E":"ops/../nook/isaSample.xhtml#ch17_nook_isaSample_21",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Eighteen: NeXT: Prometheus Unbound",
+                "E":"ops/../nook/isaSample.xhtml#ch18_nook_isaSample_22",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Nineteen: Pixar: Technology Meets Art",
+                "E":"ops/../nook/isaSample.xhtml#ch19_nook_isaSample_23",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Twenty: A Regular Guy: Love is Just a Four-Letter Word",
+                "E":"ops/../nook/isaSample.xhtml#ch20_nook_isaSample_24",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Twenty-One: Family Man: At Home with the Jobs Clan",
+                "E":"ops/../nook/isaSample.xhtml#ch21_nook_isaSample_25",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Twenty-Two: Toy Story: Buzz and Woody to the Rescue",
+                "E":"ops/../nook/isaSample.xhtml#ch22_nook_isaSample_26",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Twenty-Three: The Second Coming: What Rough Beast, its Hour Come Round at Last\u00A0.\u00A0.\u00A0.",
+                "E":"ops/../nook/isaSample.xhtml#ch23_nook_isaSample_27",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Twenty-Four: The Restoration: The Loser Now Will be Later to Win",
+                "E":"ops/../nook/isaSample.xhtml#ch24_nook_isaSample_28",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Twenty-Five: Think Different: Jobs as iCEO",
+                "E":"ops/../nook/isaSample.xhtml#ch25_nook_isaSample_29",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Twenty-Six: Design Principles: The Studio of Jobs and Ive",
+                "E":"ops/../nook/isaSample.xhtml#ch26_nook_isaSample_30",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Twenty-Seven: The iMac: Hello (Again)",
+                "E":"ops/../nook/isaSample.xhtml#ch27_nook_isaSample_31",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Twenty-Eight: CEO: Still Crazy after All These Years",
+                "E":"ops/../nook/isaSample.xhtml#ch28_nook_isaSample_32",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Twenty-Nine: Apple Stores: Genius Bars and Siena Sandstone",
+                "E":"ops/../nook/isaSample.xhtml#ch29_nook_isaSample_33",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Thirty: The Digital Hub: From iTunes to the iPod",
+                "E":"ops/../nook/isaSample.xhtml#ch30_nook_isaSample_34",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Thirty-One: The iTunes Store: I\u2019m the Pied Piper",
+                "E":"ops/../nook/isaSample.xhtml#ch31_nook_isaSample_35",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Thirty-Two: Music Man: The Sound Track of His Life",
+                "E":"ops/../nook/isaSample.xhtml#ch32_nook_isaSample_36",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Thirty-Three: Pixar\u2019s Friends: .\u00A0.\u00A0.\u00A0and Foes",
+                "E":"ops/../nook/isaSample.xhtml#ch33_nook_isaSample_37",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Thirty-Four: Twenty-first-century Macs: Setting Apple Apart",
+                "E":"ops/../nook/isaSample.xhtml#ch34_nook_isaSample_38",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Thirty-Five: Round One: Memento Mori",
+                "E":"ops/../nook/isaSample.xhtml#ch35_nook_isaSample_39",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Thirty-Six: The iPhone: Three Revolutionary Products in One",
+                "E":"ops/../nook/isaSample.xhtml#ch36_nook_isaSample_40",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Thirty-Seven: Round Two: The Cancer Recurs",
+                "E":"ops/../nook/isaSample.xhtml#ch37_nook_isaSample_41",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Thirty-Eight: The iPad: Into the Post-PC Era",
+                "E":"ops/../nook/isaSample.xhtml#ch38_nook_isaSample_42",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Thirty-Nine: New Battles: And Echoes of Old Ones",
+                "E":"ops/../nook/isaSample.xhtml#ch39_nook_isaSample_43",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Forty: To Infinity: The Cloud, the Spaceship, and Beyond",
+                "E":"ops/../nook/isaSample.xhtml#ch40_nook_isaSample_44",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Forty-One: Round Three: The Twilight Struggle",
+                "E":"ops/../nook/isaSample.xhtml#ch41_nook_isaSample_45",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Forty-Two: Legacy: The Brightest Heaven of Invention",
+                "E":"ops/../nook/isaSample.xhtml#ch42_nook_isaSample_46",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Epilogue",
+                "E":"ops/../nook/isaSample.xhtml#epilogue_nook_isaSample_47",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Acknowledgments",
+                "E":"ops/../nook/isaSample.xhtml#ack_nook_isaSample_48",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Photographs",
+                "E":"ops/../nook/isaSample.xhtml#_nook_isaSample_49",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"About Walter Isaacson",
+                "E":"ops/../nook/isaSample.xhtml#_nook_isaSample_50",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Sources",
+                "E":"ops/../nook/isaSample.xhtml#source_nook_isaSample_51",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Notes",
+                "E":"ops/../nook/isaSample.xhtml#notes_nook_isaSample_52",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Illustration Credits",
+                "E":"ops/../nook/isaSample.xhtml#_nook_isaSample_53",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Index",
+                "E":"ops/../nook/isaSample.xhtml#index_nook_isaSample_54",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Copyright",
+                "E":"ops/../nook/isaSample.xhtml#_nook_isaSample_55",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            }
+        ]
+    },
+    "pagemap":[  
+        {  
+            "C":"/6/2!"
+        },
+        {  
+            "C":"/6/4!"
+        },
+        {  
+            "C":"/6/4!/4/42/5:158"
+        },
+        {  
+            "C":"/6/4!/4/58/1:1"
+        },
+        {  
+            "C":"/6/6!"
+        },
+        {  
+            "C":"/6/8!"
+        },
+        {  
+            "C":"/6/10!"
+        },
+        {  
+            "C":"/6/10!/4/100/2/2/1:20"
+        },
+        {  
+            "C":"/6/12!"
+        },
+        {  
+            "C":"/6/14!"
+        },
+        {  
+            "C":"/6/14!/4/38/3:3"
+        },
+        {  
+            "C":"/6/14!/4/70/2/6/1:1"
+        },
+        {  
+            "C":"/6/14!/4/102/3:36"
+        },
+        {  
+            "C":"/6/16!"
+        },
+        {  
+            "C":"/6/16!/4/12/7:206"
+        },
+        {  
+            "C":"/6/16!/4/20/1:67"
+        },
+        {  
+            "C":"/6/16!/4/24/1:614"
+        },
+        {  
+            "C":"/6/16!/4/28/1:566"
+        },
+        {  
+            "C":"/6/16!/4/34/3:493"
+        },
+        {  
+            "C":"/6/18!"
+        },
+        {  
+            "C":"/6/20!"
+        },
+        {  
+            "C":"/6/20!/4/18/1:426"
+        },
+        {  
+            "C":"/6/20!/4/30/1:73"
+        },
+        {  
+            "C":"/6/20!/4/38/3:27"
+        },
+        {  
+            "C":"/6/20!/4/46/1:750"
+        },
+        {  
+            "C":"/6/20!/4/58/1:155"
+        },
+        {  
+            "C":"/6/20!/4/64/1:517"
+        },
+        {  
+            "C":"/6/20!/4/72/1:328"
+        },
+        {  
+            "C":"/6/20!/4/80/1:179"
+        },
+        {  
+            "C":"/6/20!/4/84/1:732"
+        },
+        {  
+            "C":"/6/20!/4/94/1:404"
+        },
+        {  
+            "C":"/6/20!/4/104/1:466"
+        },
+        {  
+            "C":"/6/20!/4/110/1:236"
+        },
+        {  
+            "C":"/6/20!/4/120/1:202"
+        },
+        {  
+            "C":"/6/20!/4/134/1:256"
+        },
+        {  
+            "C":"/6/20!/4/142/1:284"
+        },
+        {  
+            "C":"/6/20!/4/146/1:482"
+        },
+        {  
+            "C":"/6/20!/4/154/1:13"
+        },
+        {  
+            "C":"/6/20!/4/158/5:330"
+        },
+        {  
+            "C":"/6/22!"
+        },
+        {  
+            "C":"/6/22!/4/22/1:157"
+        },
+        {  
+            "C":"/6/22!/4/28/1:238"
+        },
+        {  
+            "C":"/6/22!/4/32/1:664"
+        },
+        {  
+            "C":"/6/22!/4/40/1:39"
+        },
+        {  
+            "C":"/6/22!/4/44/3:216"
+        },
+        {  
+            "C":"/6/22!/4/48/1:553"
+        },
+        {  
+            "C":"/6/22!/4/56/1:5"
+        },
+        {  
+            "C":"/6/22!/4/62/1:288"
+        },
+        {  
+            "C":"/6/22!/4/70/1:316"
+        },
+        {  
+            "C":"/6/24!"
+        },
+        {  
+            "C":"/6/24!/4/20/1:141"
+        },
+        {  
+            "C":"/6/24!/4/28/1:710"
+        },
+        {  
+            "C":"/6/24!/4/36/1:347"
+        },
+        {  
+            "C":"/6/24!/4/44/7:165"
+        },
+        {  
+            "C":"/6/24!/4/52/1:152"
+        },
+        {  
+            "C":"/6/24!/4/60/1:233"
+        },
+        {  
+            "C":"/6/24!/4/66/1:318"
+        },
+        {  
+            "C":"/6/24!/4/74/3:294"
+        },
+        {  
+            "C":"/6/24!/4/80/3:93"
+        },
+        {  
+            "C":"/6/24!/4/90/3:65"
+        },
+        {  
+            "C":"/6/26!"
+        },
+        {  
+            "C":"/6/26!/4/18/1:380"
+        },
+        {  
+            "C":"/6/26!/4/26/1:366"
+        },
+        {  
+            "C":"/6/26!/4/34/1:157"
+        },
+        {  
+            "C":"/6/26!/4/40/1:175"
+        },
+        {  
+            "C":"/6/26!/4/46/1:488"
+        },
+        {  
+            "C":"/6/26!/4/54/1:233"
+        },
+        {  
+            "C":"/6/26!/4/66/1:298"
+        },
+        {  
+            "C":"/6/26!/4/72/3:763"
+        },
+        {  
+            "C":"/6/26!/4/80/1:400"
+        },
+        {  
+            "C":"/6/26!/4/88/1:103"
+        },
+        {  
+            "C":"/6/26!/4/106/1:56"
+        },
+        {  
+            "C":"/6/28!"
+        }
+    ]
+}

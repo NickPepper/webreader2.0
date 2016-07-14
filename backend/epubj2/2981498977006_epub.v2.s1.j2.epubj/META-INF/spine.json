@@ -1,0 +1,1084 @@
+{  
+    "v":"2.0",
+    "_":1,
+    "metadata":{  
+        "title":"Dark Fate",
+        "subject":"paranormal romance",
+        "description":"<p>\r\n\tBOOK 1 &ndash; KEEPER by Tiffany Evans</p>\r\n<p>\r\n\t<br />\r\n\tAs a Drea, Taylee Pierce, is a walking energy bong&mdash;or that&rsquo;s how the gift stealing Rygons see her. Her ability to control minds in their hands could mean the destruction of the Kember and Drea race. Laced with speed, strength, and a physical ability, each Kember holds the key to not only defeat the Rygons, but to protect one Drea until death.</p>\r\n<p>\r\n\tBut what happens when one who&rsquo;s born to protect, hunts instead?</p>\r\n<p>\r\n\tDuring a heated battle with a rogue Kember, Taylee&rsquo;s forced to run and let her own Kember&mdash;the man who raised her&mdash;face him alone. With the announcement of her protector&rsquo;s death, Taylee&rsquo;s anger and obsession regarding the mysterious murderer take over. She&rsquo;s hell-bent on bringing her guardian justice, even if it means walking into the enemy&rsquo;s trap.</p>\r\n<p>\r\n\tBOOK 2 - SEVENTH MARK by W. J. May<br />\r\n\t<br />\r\n\tLike most teenagers, Rouge is trying to figure out who she is and what she wants to be. With little knowledge about her past, she has questions but has never tried to find the answers. Everything changes when she befriends a strangely intoxicating family. Siblings Grace and Michael, appear to have secrets which seem connected to Rouge.&nbsp;</p>\r\n<p>\r\n\tAn ancient journal, a Sioghra necklace and a special mark force life-altering decisions for a girl who grew up unprepared to fight for her life or others.</p>\r\n<p>\r\n\tAll secrets have a cost and Rouge&rsquo;s determination to find the truth can only lead to trouble&hellip;or something even more sinister.</p>\r\n<p>\r\n\tBOOK 3 &ndash; CRUSH by Chrissy Peebles</p>\r\n<p>\r\n\t<br />\r\n\tThe Crush Saga Book Trailer: http://youtu.be/4eMF8KXEUc4</p>\r\n<p>\r\n\tHis precious touch could prove deadly&hellip;</p>\r\n<p>\r\n\tWhen Taylor Sparks moves from New York City to Big Bear Lake, California, her life is forever changed when she meets a hot guy with winter-blue eyes named Jesse. Their attraction is instant, the chemistry undeniable. But sadly, things aren&#39;t adding up. Taylor wonders what her &#39;crush&#39; is hiding. When her new friend, Fred tells her his suspicions about Jesse being a paranormal creature, Taylor laughs. But when Fred turns up dead, she believes every warning he ever told her.</p>\r\n<p>\r\n\tTaylor is shocked to learn that Big Bear Lake isn&#39;t just glittering lakes, towering pines, and breathtaking mountains...there&#39;s more...way more than meets the eye.</p>\r\n<p>\r\n\tWill Taylor dive into a paranormal world she knows nothing about? To be with the one her heart can&rsquo;t live without?</p>\r\n<p>\r\n\tBOOK 4 &ndash; The COVETED Saga by C.M. Owens</p>\r\n<p>\r\n\t<br />\r\n\tHer blood paints her a target, whereas his marks him the enemy, but together they could be the key to changing it all&hellip;</p>\r\n<p>\r\n\tAria Weislen fought hard to stay in her rainforest home deep in the heart of South America, but she was forced to go back to the states to join the rest of her family.&nbsp; Grayford, Massachusetts is almost the polar opposite of her sweet jungle escape, but it does have one thing her old home never offered&hellip; Tallis Verdan.&nbsp; The sight of him leaves her unbalanced and almost incoherent.</p>\r\n<p>\r\n\tStolen glances and accidental grazes leave her with a fever almost every time.&nbsp; But his mixed signals get her high one second before leaving her to plummet the very next.&nbsp; In a world full of secrets, looks can be deceiving.&nbsp; Even her own reflection has been hiding the truth of what&rsquo;s to come.</p>\r\n<p>\r\n\tIt doesn&rsquo;t take long to realize why Tallis sends her on such highs and lows.&nbsp; His blood, his ties, and his secrets rival hers.&nbsp; And when the reality Aria has known shatters to make way for the fantasy she never believed, it all spirals out of control.<br />\r\n\tIt&rsquo;s her they want, but he&rsquo;ll stand in the way&hellip;</p>\r\n<p>\r\n\t&nbsp;</p>\r\n",
+        "language":"EN",
+        "date":"2014-04-28",
+        "identifier":"458df5e1-402c-44f1-9692-6cd2a618451f",
+        "creator":"W.J. May",
+        "publisher":"Dark Shadows Publishing"
+    },
+    "spine":[  
+        {  
+            "T":"cover-ed047dd1-965a-47cf-9c74-c8fa4e3436d9.xhtml",
+            "X":"q1",
+            "O":"cover-ed047dd1-965a-47cf-9c74-c8fa4e3436d9.content.json",
+            "R":"application/dtls",
+            "C":"/6/2",
+            "N":true,
+            "Z":886,
+            "G":442
+        },
+        {  
+            "T":"toc.xhtml",
+            "X":"q2",
+            "O":"toc.content.json",
+            "R":"application/dtls",
+            "C":"/6/4",
+            "N":true,
+            "Z":4786,
+            "G":1274
+        },
+        {  
+            "T":"c001.xhtml",
+            "X":"q3",
+            "O":"c001.content.json",
+            "R":"application/dtls",
+            "C":"/6/6",
+            "N":true,
+            "Z":1498,
+            "G":728
+        },
+        {  
+            "T":"c002.xhtml",
+            "X":"q4",
+            "O":"c002.content.json",
+            "R":"application/dtls",
+            "C":"/6/8",
+            "N":true,
+            "Z":2018,
+            "G":824
+        },
+        {  
+            "T":"c003.xhtml",
+            "X":"q5",
+            "O":"c003.content.json",
+            "R":"application/dtls",
+            "C":"/6/10",
+            "N":true,
+            "Z":1500,
+            "G":770
+        },
+        {  
+            "T":"c004.xhtml",
+            "X":"q6",
+            "O":"c004.content.json",
+            "R":"application/dtls",
+            "C":"/6/12",
+            "N":true,
+            "Z":1873,
+            "G":913
+        },
+        {  
+            "T":"c005.xhtml",
+            "X":"q7",
+            "O":"c005.content.json",
+            "R":"application/dtls",
+            "C":"/6/14",
+            "N":true,
+            "Z":884,
+            "G":452
+        },
+        {  
+            "T":"c006.xhtml",
+            "X":"q8",
+            "O":"c006.content.json",
+            "R":"application/dtls",
+            "C":"/6/16",
+            "N":true,
+            "Z":1325,
+            "G":707
+        },
+        {  
+            "T":"c007.xhtml",
+            "X":"q9",
+            "O":"c007.content.json",
+            "R":"application/dtls",
+            "C":"/6/18",
+            "N":true,
+            "Z":2335,
+            "G":1089
+        },
+        {  
+            "T":"c008.xhtml",
+            "X":"q10",
+            "O":"c008.content.json",
+            "R":"application/dtls",
+            "C":"/6/20",
+            "N":true,
+            "Z":2134,
+            "G":932
+        },
+        {  
+            "T":"c009.xhtml",
+            "X":"q11",
+            "O":"c009.content.json",
+            "R":"application/dtls",
+            "C":"/6/22",
+            "N":true,
+            "Z":1204,
+            "G":630
+        },
+        {  
+            "T":"c010.xhtml",
+            "X":"q12",
+            "O":"c010.content.json",
+            "R":"application/dtls",
+            "C":"/6/24",
+            "N":true,
+            "Z":304499,
+            "G":101693
+        },
+        {  
+            "T":"c011.xhtml",
+            "X":"q13",
+            "O":"c011.content.json",
+            "R":"application/dtls",
+            "C":"/6/26",
+            "N":true,
+            "Z":1095,
+            "G":453
+        },
+        {  
+            "T":"c012.xhtml",
+            "X":"q14",
+            "O":"c012.content.json",
+            "R":"application/dtls",
+            "C":"/6/28",
+            "N":true,
+            "Z":51891,
+            "G":19162
+        },
+        {  
+            "T":"c015.xhtml",
+            "X":"q15",
+            "O":"c015.content.json",
+            "R":"application/dtls",
+            "C":"/6/30",
+            "N":true,
+            "Z":24199,
+            "G":9070
+        },
+        {  
+            "T":"nook/isaSample.xhtml",
+            "X":"q16",
+            "O":"nook/isaSample.content.json",
+            "R":"application/dtls",
+            "C":"/6/32",
+            "N":true,
+            "Z":1712,
+            "G":401
+        }
+    ],
+    "toc":{  
+        "b":"Dark Fate",
+        "navmap":[  
+            {  
+                "label":"DARK FATE",
+                "E":"c001.xhtml",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Some stories have been previously published. Some stories are novellas and some are full length.",
+                "E":"c002.xhtml",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"BOOK 1 \u2013 KEEPER by Tiffany Evans",
+                "E":"c003.xhtml",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"BOOK 2 - SEVENTH MARK by W. J. May",
+                "E":"c004.xhtml",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"BOOK 3 \u2013 CRUSH by Chrissy Peebles",
+                "E":"c005.xhtml",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"His precious touch could prove deadly...",
+                "E":"c006.xhtml",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"BOOK 4 \u2013 The COVETED Saga by C.M. Owens",
+                "E":"c007.xhtml",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"KEEPER | by | Tiffany Evans | A Hidden Bloodlines novel | Book 1",
+                "E":"c008.xhtml",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Dedications:",
+                "E":"c009.xhtml",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"BOOK 1 \u2013 KEEPER by Tiffany Evans",
+                "E":"c010.xhtml",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"BOOK 2 \u2013 SEVENTH MARK by W.J. May | Seventh Mark",
+                "E":"c011.xhtml",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Hidden Secrets Saga: | Download Seventh Mark part 1! | Book Trailer: http://www.youtube.com/watch?v=Y-_vVYC1gvo",
+                "E":"c012.xhtml",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Of Part I",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_13",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Seventh Mark",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_14",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Acknowledgments",
+                "E":"c015.xhtml",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"** End of Excerpt ** | Purchase Seventh Mark Part 2:",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_16",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"THE CHRONICLES OF KERRIGAN | Book Trailer:",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_17",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"BOOK BLURB:",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_18",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"The Chronicles of Kerrigan",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_19",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"RAE OF HOPE | Chapter 1",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_20",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"BOOK 3 \u2013 CRUSH \u2013 by Chrissy Peebles | Crush",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_21",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"The Crush Saga",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_22",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter 1",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_23",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter 2",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_24",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter 3",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_25",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter 4",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_26",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter 5",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_27",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter 6",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_28",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter 7",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_29",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter 8",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_30",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter 9",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_31",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter 10",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_32",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter 11",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_33",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter 12",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_34",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter 13",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_35",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter 14",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_36",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter 15",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_37",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter 16",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_38",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter 17",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_39",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter 18",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_40",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter 19",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_41",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter 20",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_42",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter 21",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_43",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter 22",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_44",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Taylor\u2019s story continues with Book 2: Crash, now available",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_45",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"***See sample chapters of The Zombie Chronicles & Eternal Vows at the end of this intro***",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_46",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chrissy\u2019s blog: http://chrissypeebles.blogspot.com/ | Facebook Fan Page: (I\u2019d love to hear your comments and thoughts!) https://www.facebook.com/media/set/?set=vb.351121651567296&type=2#!/pages/Chrissy-Peebles/351121651567296",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_47",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Fantasy Romance Series",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_48",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Young Adult, Paranormal Romance Series",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_49",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Zombie Series | ***See sample chapters at the end of this intro***",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_50",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Prequel to The Zombie Chronicles: VAL",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_51",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Book 1 in The Trapped in the Hollow Earth Novelette Series | Castaway Blurb",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_52",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Want more FREE stories?!",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_53",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"3 Sample Chapters from The Zombie Chronicles: | The Zombie Chronicles | Apocalypse Infection Unleashed Series | by | Chrissy Peebles",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_54",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Sample Chapter 1",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_55",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter 2",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_56",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter 3",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_57",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Sample Chapter from Eternal Vows: | Eternal Vows",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_58",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"BOOK 4 \u2013 TREASURED SECRETS \u2013 by C.M. Owens",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_59",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            }
+        ]
+    },
+    "pagemap":[  
+        {  
+            "C":"/6/2!"
+        },
+        {  
+            "C":"/6/4!"
+        },
+        {  
+            "C":"/6/4!/4/76/2/1:6"
+        },
+        {  
+            "C":"/6/6!"
+        },
+        {  
+            "C":"/6/8!"
+        },
+        {  
+            "C":"/6/10!"
+        },
+        {  
+            "C":"/6/12!"
+        },
+        {  
+            "C":"/6/14!"
+        },
+        {  
+            "C":"/6/16!"
+        },
+        {  
+            "C":"/6/18!"
+        },
+        {  
+            "C":"/6/18!/4/10/1:108"
+        },
+        {  
+            "C":"/6/20!"
+        },
+        {  
+            "C":"/6/22!"
+        },
+        {  
+            "C":"/6/24!"
+        },
+        {  
+            "C":"/6/24!/4/40/1:18"
+        },
+        {  
+            "C":"/6/24!/4/72/1:88"
+        },
+        {  
+            "C":"/6/24!/4/114/1:52"
+        },
+        {  
+            "C":"/6/24!/4/150/1:65"
+        },
+        {  
+            "C":"/6/24!/4/180/1:187"
+        },
+        {  
+            "C":"/6/24!/4/204/1:1"
+        },
+        {  
+            "C":"/6/24!/4/234/1:267"
+        },
+        {  
+            "C":"/6/24!/4/264/3:34"
+        },
+        {  
+            "C":"/6/24!/4/300/1:50"
+        },
+        {  
+            "C":"/6/24!/4/334/1:31"
+        },
+        {  
+            "C":"/6/24!/4/372/1:60"
+        },
+        {  
+            "C":"/6/24!/4/408/1:145"
+        },
+        {  
+            "C":"/6/24!/4/438/1:14"
+        },
+        {  
+            "C":"/6/24!/4/476/1:2"
+        },
+        {  
+            "C":"/6/24!/4/500/1:24"
+        },
+        {  
+            "C":"/6/24!/4/530/3:68"
+        },
+        {  
+            "C":"/6/24!/4/576/1:26"
+        },
+        {  
+            "C":"/6/24!/4/598/1:226"
+        },
+        {  
+            "C":"/6/24!/4/620/1:59"
+        },
+        {  
+            "C":"/6/24!/4/652/3:134"
+        },
+        {  
+            "C":"/6/24!/4/682/1:72"
+        },
+        {  
+            "C":"/6/24!/4/708/1:65"
+        },
+        {  
+            "C":"/6/24!/4/742/1:73"
+        },
+        {  
+            "C":"/6/24!/4/778/1:262"
+        },
+        {  
+            "C":"/6/24!/4/808/1:14"
+        },
+        {  
+            "C":"/6/24!/4/836/1:11"
+        },
+        {  
+            "C":"/6/24!/4/872/1:2"
+        },
+        {  
+            "C":"/6/24!/4/906/1:6"
+        },
+        {  
+            "C":"/6/24!/4/938/1:21"
+        },
+        {  
+            "C":"/6/24!/4/968/1:51"
+        },
+        {  
+            "C":"/6/24!/4/1000/1:357"
+        },
+        {  
+            "C":"/6/24!/4/1048/1:10"
+        },
+        {  
+            "C":"/6/24!/4/1076/1:415"
+        },
+        {  
+            "C":"/6/24!/4/1114/3:35"
+        },
+        {  
+            "C":"/6/24!/4/1146/1:253"
+        },
+        {  
+            "C":"/6/24!/4/1180/1:110"
+        },
+        {  
+            "C":"/6/24!/4/1198/1:198"
+        },
+        {  
+            "C":"/6/24!/4/1238/1:201"
+        },
+        {  
+            "C":"/6/24!/4/1268/3:129"
+        },
+        {  
+            "C":"/6/24!/4/1306/1:86"
+        },
+        {  
+            "C":"/6/24!/4/1340/1:135"
+        },
+        {  
+            "C":"/6/24!/4/1370/1:158"
+        },
+        {  
+            "C":"/6/24!/4/1410/3:65"
+        },
+        {  
+            "C":"/6/24!/4/1452/1:11"
+        },
+        {  
+            "C":"/6/24!/4/1498/1:119"
+        },
+        {  
+            "C":"/6/24!/4/1538/3:3"
+        },
+        {  
+            "C":"/6/24!/4/1562/1:388"
+        },
+        {  
+            "C":"/6/24!/4/1586/1:249"
+        },
+        {  
+            "C":"/6/24!/4/1620/1:116"
+        },
+        {  
+            "C":"/6/24!/4/1646/1:235"
+        },
+        {  
+            "C":"/6/24!/4/1694/1:125"
+        },
+        {  
+            "C":"/6/24!/4/1726/1:34"
+        },
+        {  
+            "C":"/6/24!/4/1762/1:246"
+        },
+        {  
+            "C":"/6/24!/4/1802/1:7"
+        },
+        {  
+            "C":"/6/24!/4/1834/1:47"
+        },
+        {  
+            "C":"/6/24!/4/1864/1:99"
+        },
+        {  
+            "C":"/6/24!/4/1894/1:431"
+        },
+        {  
+            "C":"/6/24!/4/1930/1:18"
+        },
+        {  
+            "C":"/6/24!/4/1962/1:112"
+        },
+        {  
+            "C":"/6/24!/4/2010/1:179"
+        },
+        {  
+            "C":"/6/24!/4/2048/1:166"
+        },
+        {  
+            "C":"/6/24!/4/2084/1:50"
+        },
+        {  
+            "C":"/6/24!/4/2108/1:34"
+        },
+        {  
+            "C":"/6/24!/4/2140/4/1:30"
+        },
+        {  
+            "C":"/6/24!/4/2172/2/1:61"
+        },
+        {  
+            "C":"/6/24!/4/2212/1:23"
+        },
+        {  
+            "C":"/6/24!/4/2252/1:53"
+        },
+        {  
+            "C":"/6/24!/4/2282/1:74"
+        },
+        {  
+            "C":"/6/24!/4/2322/1:35"
+        },
+        {  
+            "C":"/6/24!/4/2368/1:26"
+        },
+        {  
+            "C":"/6/24!/4/2402/1:16"
+        },
+        {  
+            "C":"/6/24!/4/2452/3:203"
+        },
+        {  
+            "C":"/6/24!/4/2488/1:157"
+        },
+        {  
+            "C":"/6/24!/4/2516/1:61"
+        },
+        {  
+            "C":"/6/24!/4/2552/1:65"
+        },
+        {  
+            "C":"/6/24!/4/2576/1:192"
+        },
+        {  
+            "C":"/6/24!/4/2610/1:163"
+        },
+        {  
+            "C":"/6/24!/4/2644/1:229"
+        },
+        {  
+            "C":"/6/24!/4/2694/1:152"
+        },
+        {  
+            "C":"/6/24!/4/2738/1:42"
+        },
+        {  
+            "C":"/6/24!/4/2786/1:89"
+        },
+        {  
+            "C":"/6/24!/4/2818/1:55"
+        },
+        {  
+            "C":"/6/24!/4/2846/1:114"
+        },
+        {  
+            "C":"/6/24!/4/2874/1:127"
+        },
+        {  
+            "C":"/6/24!/4/2912/1:18"
+        },
+        {  
+            "C":"/6/24!/4/2932/1:38"
+        },
+        {  
+            "C":"/6/24!/4/2966/3:156"
+        },
+        {  
+            "C":"/6/24!/4/2988/1:192"
+        },
+        {  
+            "C":"/6/24!/4/3038/1:25"
+        },
+        {  
+            "C":"/6/24!/4/3062/1:43"
+        },
+        {  
+            "C":"/6/24!/4/3118/1:23"
+        },
+        {  
+            "C":"/6/24!/4/3152/1:5"
+        },
+        {  
+            "C":"/6/24!/4/3202/1:150"
+        },
+        {  
+            "C":"/6/24!/4/3238/3:45"
+        },
+        {  
+            "C":"/6/24!/4/3276/2/1:49"
+        },
+        {  
+            "C":"/6/24!/4/3310/3:121"
+        },
+        {  
+            "C":"/6/24!/4/3332/3:44"
+        },
+        {  
+            "C":"/6/24!/4/3370/1:169"
+        },
+        {  
+            "C":"/6/24!/4/3402/1:267"
+        },
+        {  
+            "C":"/6/26!"
+        },
+        {  
+            "C":"/6/28!"
+        },
+        {  
+            "C":"/6/28!/4/44/1:24"
+        },
+        {  
+            "C":"/6/28!/4/64/1:182"
+        },
+        {  
+            "C":"/6/28!/4/76/1:236"
+        },
+        {  
+            "C":"/6/28!/4/104/1:62"
+        },
+        {  
+            "C":"/6/28!/4/136/1:178"
+        },
+        {  
+            "C":"/6/28!/4/168/1:73"
+        },
+        {  
+            "C":"/6/28!/4/182/1:281"
+        },
+        {  
+            "C":"/6/28!/4/207:1"
+        },
+        {  
+            "C":"/6/28!/4/230/1:426"
+        },
+        {  
+            "C":"/6/28!/4/254/1:70"
+        },
+        {  
+            "C":"/6/28!/4/280/1:129"
+        },
+        {  
+            "C":"/6/28!/4/298/1:27"
+        },
+        {  
+            "C":"/6/28!/4/326/1:180"
+        },
+        {  
+            "C":"/6/28!/4/356/1:12"
+        },
+        {  
+            "C":"/6/28!/4/384/1:333"
+        },
+        {  
+            "C":"/6/28!/4/424/1:134"
+        },
+        {  
+            "C":"/6/28!/4/456/1:228"
+        },
+        {  
+            "C":"/6/28!/4/484/1:151"
+        },
+        {  
+            "C":"/6/30!"
+        },
+        {  
+            "C":"/6/30!/4/28/1:29"
+        },
+        {  
+            "C":"/6/30!/4/46/1:340"
+        },
+        {  
+            "C":"/6/30!/4/62/1:323"
+        },
+        {  
+            "C":"/6/30!/4/84/1:46"
+        },
+        {  
+            "C":"/6/30!/4/114/1:149"
+        },
+        {  
+            "C":"/6/30!/4/142/1:7"
+        },
+        {  
+            "C":"/6/30!/4/158/1:621"
+        },
+        {  
+            "C":"/6/30!/4/190/2/1:14"
+        },
+        {  
+            "C":"/6/32!"
+        }
+    ]
+}

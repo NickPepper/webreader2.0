@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Cooking with Paula Deen</title>
+<link href="css/test1.css" rel="stylesheet" type="text/css" />
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    </head>
+<body class="left">
+        <div class="before">
+            <div class="articleMenuWrapper" id="header_navbar">
+                <div class="sectionMenuLeft" id="header_navbar_previous">
+                    <a href="page052.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="header_navbar_next">
+                    <a href="page054.article002.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+            <div class="masthead" id="header">
+                <div class="masthead-text">
+                    <div class="masthead-section" id="header_title">
+                        <a href="section.xml">Contents</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="article-headline" id="Headline">PEANUT BUTTER BROWNIE CUPS</div>
+
+
+
+<div class="article-in-image" id="image1"><img src="images/page054.article001.image1.jpg" class="article-in-image" alt=""/></div>
+<div id="separatorLine"> <div class="invisible">empty</div> </div>
+
+<div class="articleImageCredit" id="ImageCredit">PHOTOGRAPHY BY MARCY BLACK SIMPSON</div>
+<div class="article-body" id="Body"><p class="no-indent">Makes 1½ dozen cups or brownies </p><br/><p class="no-indent">1 (19.9-ounce) box brownie mix </p><p class="no-indent">18 miniature peanut butter cup candies, unwrapped </p><p class="no-indent">1 (10-ounce) bag peanut butter morsels </p><p class="no-indent">3 tablespoons heavy whipping cream </p><br/><p class="no-indent">1. Preheat oven to 350°. Prepare brownie batter according to package directions. Line 18 muffin cups with paper liners. </p><br/><p class="no-indent">2. Spoon 1 tablespoon brownie batter into each muffin cup. Place 1 peanut butter cup into each muffin cup. Top with remaining brownie batter. </p><br/><p class="no-indent">3. Bake for 20 to 25 minutes or until center is set. Let cool on wire racks. </p><br/><p class="no-indent">4. In a medium saucepan, combine peanut butter morsels and cream. Cook over medium-low heat, stirring often, until morsels melt and mixture is smooth. Spread evenly over brownie cupcakes.</p></div>
+<div class="after">
+            <div class="articleMenuWrapper" id="footer_navbar">
+                <div class="sectionMenuLeft" id="footer_navbar_previous">
+                    <a href="page052.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="footer_navbar_next">
+                    <a href="page054.article002.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+        </div>
+    </body>
+</html>

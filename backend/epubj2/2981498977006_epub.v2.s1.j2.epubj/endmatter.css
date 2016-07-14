@@ -1,0 +1,141 @@
+/* Cover Page */
+#cover-page p {
+	text-indent: 0;
+	text-align: center;
+}
+.cover-page-title {
+	font-size: x-large;
+	margin-top:45.0px;
+	margin-bottom:15.0px;
+}
+.cover-page-series {
+	font-size: large;
+	margin-bottom:15.0px;
+}
+.cover-page-author {
+	font-size: medium;
+	margin-bottom:45.0px;
+}
+.cover-page-publisher {
+	font-size: small;
+}
+
+/* Copyright Page */
+#copyright-page p {
+	text-indent: 0;
+	text-align: center;
+	margin-bottom:7.5px;
+}
+.copyright-page-disclaimer {
+	margin-top:30.0px;
+	margin-bottom:30.0px;
+}
+.copyright-page-title {
+	margin-bottom:60.0px;
+}
+.copyright-page-edition {
+	font-size: large;
+	margin-bottom:30.0px;
+}
+.copyright-page-isbn {
+	margin-bottom:30.0px;
+}
+.copyright-page-contributors {
+	font-size: small;
+}
+.copyright-page-printing {
+	display: none;
+}
+
+/* Also By */
+#also-by-page p {
+	text-indent: 0;
+	text-align: center;
+	margin: 0;
+}
+.also-by-page-author {
+	font-size: x-large;
+	margin-top:30.0px;
+	margin-bottom:30.0px;
+}
+.also-by-page-series {
+	margin-bottom:15.0px;
+}
+.also-by-page-series-title {
+  font-weight: bold;
+}
+.also-by-page-book-title {
+}
+.also-by-page-author-link {
+}
+
+/* Dedication Page */
+#dedication-page div {
+}
+
+#dedication-page h1 {
+}
+
+#dedication-body-short p {
+    text-indent: 0;
+    text-align: center;
+	/*margin-bottom:22.5px;*/
+    /*margin-right:22.5px;*/
+    /*margin-left:22.5px;*/
+}
+
+
+
+/* Teaser Page */
+#teaser-page p {
+	text-indent:22.5px;
+	text-align: justify;
+	margin: 0;
+}
+.teaser-page-intro {
+	margin-top:30.0px;
+	margin-bottom:30.0px;
+}
+p#teaser-page-promo-text {
+	text-indent: 0;
+	text-align: center;
+}
+.teaser-page-cover-image {
+	text-indent: 0;
+	text-align: center;
+	margin-bottom:30.0px;
+}
+.teaser-page-description {
+}
+.teaser-page-author-link {
+}
+
+/* About the Author */
+#about-the-author-page p {
+	text-indent:22.5px;
+	text-align: justify;
+	margin: 0;
+}
+.about-the-author-page-author-photo {
+	text-indent: 0;
+	text-align: center;
+}
+.about-the-author-page-author-link {
+}
+
+/* About the Publisher */
+#about-the-publisher-page p {
+	text-indent:22.5px;
+	text-align: justify;
+	margin: 0;
+}
+
+.about-the-publisher-page-publisher-photo {
+	text-indent: 0;
+    text-align: center;
+}
+
+.about-the-publisher-page-publisher-link {
+}
+@page { margin-top: 30px; margin-bottom: 20px; margin-left: 30px; margin-right: 30px; }
+body { text-align: justify; }

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Cooking with Paula Deen</title>
+<link href="css/test1.css" rel="stylesheet" type="text/css" />
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    </head>
+<body class="left">
+        <div class="before">
+            <div class="articleMenuWrapper" id="header_navbar">
+                <div class="sectionMenuLeft" id="header_navbar_previous">
+                    <a href="page071.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="header_navbar_next">
+                    <a href="page072.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+            <div class="masthead" id="header">
+                <div class="masthead-text">
+                    <div class="masthead-section" id="header_title">
+                        <a href="section.xml">Contents</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="article-headline" id="Headline">HERBED POTATO CASSEROLE</div>
+
+
+
+<div class="article-in-image" id="image1"><img src="images/page071.article003.image1.jpg" class="article-in-image" alt=""/></div>
+<div id="separatorLine"> <div class="invisible">empty</div> </div>
+
+<div class="articleImageCredit" id="ImageCredit">PHOTOGRAPHY BY WILLIAM DICKEY</div>
+<div class="article-body" id="Body"><p class="no-indent">Makes 6 to 8 servings </p><br/><p class="no-indent">1 (5-pound) bag Yukon gold potatoes, cut into 1-inch chucks </p><p class="no-indent">1 (8-ounce) package cream cheese, softened </p><p class="no-indent">½ cup butter, softened </p><p class="no-indent">3 tablespoons minced fresh chives </p><p class="no-indent">2 tablespoons minced fresh dill </p><p class="no-indent">1 teaspoon salt </p><p class="no-indent">½ teaspoon ground black pepper </p><p class="no-indent">1 cup sour cream</p><br/><p class="no-indent">1. Preheat oven to 350°. Spray a 13x9-inch baking dish with nonstick cooking spray. </p><br/><p class="no-indent">2. In a large Dutch oven, add potatoes and enough water to cover. Bring to a boil over medium-high heat; reduce heat, and simmer for 10 minutes or until potatoes are tender. Drain well. </p><br/><p class="no-indent">3. Add cream cheese and butter to hot potatoes. Let stand, uncovered, for 10 minutes. Add chives, dill, salt, and pepper. Using a potato masher, mash potatoes to desired consistency. Stir in sour cream. Spoon mixture into prepared pan. </p><br/><p class="no-indent">4. Bake for 30 to 40 minutes or until potatoes are lightly browned.</p></div>
+<div class="after">
+            <div class="articleMenuWrapper" id="footer_navbar">
+                <div class="sectionMenuLeft" id="footer_navbar_previous">
+                    <a href="page071.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="footer_navbar_next">
+                    <a href="page072.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+        </div>
+    </body>
+</html>

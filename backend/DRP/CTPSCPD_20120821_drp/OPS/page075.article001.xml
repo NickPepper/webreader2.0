@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Cooking with Paula Deen</title>
+<link href="css/test1.css" rel="stylesheet" type="text/css" />
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    </head>
+<body class="left">
+        <div class="before">
+            <div class="articleMenuWrapper" id="header_navbar">
+                <div class="sectionMenuLeft" id="header_navbar_previous">
+                    <a href="page072.article002.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="header_navbar_next">
+                    <a href="page080.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+            <div class="masthead" id="header">
+                <div class="masthead-text">
+                    <div class="masthead-section" id="header_title">
+                        <a href="section.xml">Contents</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="article-headline" id="Headline">WARM &amp; MODERN KITCHEN</div>
+<div class="article-subhead" id="SubHeadline">So much is expected of the modern kitchen today. It’s not only the heart of the home, it has become the social hub of the household where family and friends linger the most. Our smart kitchen this issue combines a wide range of decorative influences with all of today’s modern conveniences.</div>
+
+
+<div class="article-in-image" id="image1"><img src="images/page075.article001.image1.jpg" class="article-in-image" alt=""/></div>
+<div id="separatorLine"> <div class="invisible">empty</div> </div>
+
+<div class="articleImageCredit" id="ImageCredit">PHOTOGRAPHY BY WILLIAM DICKEY</div>
+<div class="article-body" id="Body"><p class="no-indent">When we visited Debra Robinson to find out why her kitchen was smart, we were in for a treat. Her hospitality was apparent as we sat down and heard how she carefully designed every aspect of the space to meet the needs of her family and to hold her most treasured possessions. Debra’s kitchen is not only efficient but also serves as the setting where she hosts family and friends, prepares and serves lots of good food and drink, and celebrates the occasions that continue to tie them together and build cherished memories. </p><br/><p class="no-indent">So what are the smartest details and design elements that make this kitchen work? Here’s what Debra had to say.</p><br/><p class="no-indent">1. The new open floor plan was designed for entertaining and takes advantage of all the neighboring spaces, allowing the cook to see and be a part of whatever is going on. The 9-foot island anchors the room and provides a more-than-ample work surface for prepping and serving.</p><br/><p class="no-indent">2. The walk-in pantry “changed my life”, says Debra. Everything is now visible. Industrial shelving not only houses larger groceries, but all the small appliances and gadgets that used to be on the counter are now out of sight. </p><br/><p class="no-indent">3. Cherry cabinets, ceramic tile floors, and custom stone work around the cooking center offset the sleek stainless steel appliances and add warmth to the room. </p><br/><p class="no-indent">4. Cooking for a crowd has never been easier, thanks to the kitchen’s 60-inch commercial-grade double oven with grill and griddle. Debra’s says it has only increased her passion for trying new dishes and techniques. </p><br/><p class="no-indent">5. The pullout cabinet feature is a favorite and stores smaller items for everyday use, such as breakfast foods, condiments, and even the family pet’s bowls. </p><br/><p class="no-indent">6. Heavy-duty cabinet drawers were strategically placed near the hospitality center to house an assortment of china patterns inherited and collected over the years. “It’s nice to have them all in one place and visible to pick and choose from.” </p><br/><p class="no-indent">7. This chopping block is a prized find from a garage sale years back and has made it’s way through several kitchens. Here it was retrofitted into the cabinetry next to the cooking center.</p><br/><p class="no-indent">8. Every nook was taken advantage of to create interesting storage and prep areas, including this coffee bar and refreshment center. The wall cabinet was custom-designed to house a collection of silver teapots. </p><br/><p class="no-indent">9. The hospitality center connects the kitchen to the main living room and was designed with two countertops that allow for serving from multiple sides. “Two of my absolute favorite details here are the beverage trough and the swing-arm faucet. These little things really make all the difference when entertaining a crowd.” </p><br/><p class="no-indent">10. And since all food enthusiasts must have have a place for their cookbooks, Debra designed a bookcase that could house her collection while keeping them close at hand. The bookcase also features a spot to discreetly tuck in a television.</p></div>
+<div class="after">
+            <div class="articleMenuWrapper" id="footer_navbar">
+                <div class="sectionMenuLeft" id="footer_navbar_previous">
+                    <a href="page072.article002.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="footer_navbar_next">
+                    <a href="page080.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,1396 @@
+{  
+    "v":"2.0",
+    "_":1,
+    "metadata":{  
+        "title":"The History of the Ancient World",
+        "source":"PDF",
+        "contributor":"Susan Wise Bauer",
+        "rights":"Copyright \u00A9 2007 by Susan Wise Bauer",
+        "language":"en",
+        "date":"2007",
+        "identifier":"978-0-393-07089-7",
+        "publisher":"W. W. Norton",
+        "creator":"Susan Wise Bauer"
+    },
+    "spine":[  
+        {  
+            "T":"OEBPS/9780393070897_cov.html",
+            "X":"q1",
+            "O":"OEBPS/9780393070897_cov.content.json",
+            "R":"application/dtls",
+            "C":"/6/2",
+            "N":false,
+            "Z":844,
+            "G":476
+        },
+        {  
+            "T":"OEBPS/9780393070897_htp01.html",
+            "X":"q2",
+            "O":"OEBPS/9780393070897_htp01.content.json",
+            "R":"application/dtls",
+            "C":"/6/4",
+            "N":true,
+            "Z":676,
+            "G":400
+        },
+        {  
+            "T":"OEBPS/9780393070897_adc01.html",
+            "X":"q3",
+            "O":"OEBPS/9780393070897_adc01.content.json",
+            "R":"application/dtls",
+            "C":"/6/6",
+            "N":true,
+            "Z":1838,
+            "G":705
+        },
+        {  
+            "T":"OEBPS/9780393070897_tp01.html",
+            "X":"q4",
+            "O":"OEBPS/9780393070897_tp01.content.json",
+            "R":"application/dtls",
+            "C":"/6/8",
+            "N":true,
+            "Z":1131,
+            "G":564
+        },
+        {  
+            "T":"OEBPS/9780393070897_cop01.html",
+            "X":"q5",
+            "O":"OEBPS/9780393070897_cop01.content.json",
+            "R":"application/dtls",
+            "C":"/6/10",
+            "N":true,
+            "Z":2106,
+            "G":997
+        },
+        {  
+            "T":"OEBPS/9780393070897_ded01.html",
+            "X":"q6",
+            "O":"OEBPS/9780393070897_ded01.content.json",
+            "R":"application/dtls",
+            "C":"/6/12",
+            "N":true,
+            "Z":660,
+            "G":397
+        },
+        {  
+            "T":"OEBPS/9780393070897_con01.html",
+            "X":"q7",
+            "O":"OEBPS/9780393070897_con01.content.json",
+            "R":"application/dtls",
+            "C":"/6/14",
+            "N":true,
+            "Z":28471,
+            "G":3583
+        },
+        {  
+            "T":"OEBPS/9780393070897_fm01.html",
+            "X":"q8",
+            "O":"OEBPS/9780393070897_fm01.content.json",
+            "R":"application/dtls",
+            "C":"/6/16",
+            "N":true,
+            "Z":15019,
+            "G":2188
+        },
+        {  
+            "T":"OEBPS/9780393070897_fm02.html",
+            "X":"q9",
+            "O":"OEBPS/9780393070897_fm02.content.json",
+            "R":"application/dtls",
+            "C":"/6/18",
+            "N":true,
+            "Z":2518,
+            "G":931
+        },
+        {  
+            "T":"OEBPS/9780393070897_ack01.html",
+            "X":"q10",
+            "O":"OEBPS/9780393070897_ack01.content.json",
+            "R":"application/dtls",
+            "C":"/6/20",
+            "N":true,
+            "Z":5638,
+            "G":2752
+        },
+        {  
+            "T":"OEBPS/9780393070897_fm03.html",
+            "X":"q11",
+            "O":"OEBPS/9780393070897_fm03.content.json",
+            "R":"application/dtls",
+            "C":"/6/22",
+            "N":true,
+            "Z":14405,
+            "G":6008
+        },
+        {  
+            "T":"OEBPS/9780393070897_pt01.html",
+            "X":"q12",
+            "O":"OEBPS/9780393070897_pt01.content.json",
+            "R":"application/dtls",
+            "C":"/6/24",
+            "N":true,
+            "Z":786,
+            "G":430
+        },
+        {  
+            "T":"OEBPS/9780393070897_ch01.html",
+            "X":"q13",
+            "O":"OEBPS/9780393070897_ch01.content.json",
+            "R":"application/dtls",
+            "C":"/6/26",
+            "N":true,
+            "Z":15643,
+            "G":6146
+        },
+        {  
+            "T":"OEBPS/9780393070897_ch02.html",
+            "X":"q14",
+            "O":"OEBPS/9780393070897_ch02.content.json",
+            "R":"application/dtls",
+            "C":"/6/28",
+            "N":true,
+            "Z":18067,
+            "G":6874
+        },
+        {  
+            "T":"OEBPS/9780393070897_ch03.html",
+            "X":"q15",
+            "O":"OEBPS/9780393070897_ch03.content.json",
+            "R":"application/dtls",
+            "C":"/6/30",
+            "N":true,
+            "Z":12049,
+            "G":4980
+        },
+        {  
+            "T":"OEBPS/9780393070897_ch04.html",
+            "X":"q16",
+            "O":"OEBPS/9780393070897_ch04.content.json",
+            "R":"application/dtls",
+            "C":"/6/32",
+            "N":true,
+            "Z":14166,
+            "G":5488
+        },
+        {  
+            "T":"OEBPS/9780393070897_ch05.html",
+            "X":"q17",
+            "O":"OEBPS/9780393070897_ch05.content.json",
+            "R":"application/dtls",
+            "C":"/6/34",
+            "N":true,
+            "Z":10530,
+            "G":4408
+        },
+        {  
+            "T":"OEBPS/9780393070897_ch06.html",
+            "X":"q18",
+            "O":"OEBPS/9780393070897_ch06.content.json",
+            "R":"application/dtls",
+            "C":"/6/36",
+            "N":true,
+            "Z":10024,
+            "G":4190
+        },
+        {  
+            "T":"OEBPS/9780393070897_pt02.html",
+            "X":"q19",
+            "O":"OEBPS/9780393070897_pt02.content.json",
+            "R":"application/dtls",
+            "C":"/6/38",
+            "N":true,
+            "Z":785,
+            "G":419
+        },
+        {  
+            "T":"OEBPS/9780393070897_ch07.html",
+            "X":"q20",
+            "O":"OEBPS/9780393070897_ch07.content.json",
+            "R":"application/dtls",
+            "C":"/6/40",
+            "N":true,
+            "Z":20905,
+            "G":8051
+        },
+        {  
+            "T":"OEBPS/9780393070897_ch08.html",
+            "X":"q21",
+            "O":"OEBPS/9780393070897_ch08.content.json",
+            "R":"application/dtls",
+            "C":"/6/42",
+            "N":true,
+            "Z":24787,
+            "G":8861
+        },
+        {  
+            "T":"OEBPS/9780393070897_ch09.html",
+            "X":"q22",
+            "O":"OEBPS/9780393070897_ch09.content.json",
+            "R":"application/dtls",
+            "C":"/6/44",
+            "N":true,
+            "Z":24294,
+            "G":9307
+        },
+        {  
+            "T":"OEBPS/9780393070897_ch10.html",
+            "X":"q23",
+            "O":"OEBPS/9780393070897_ch10.content.json",
+            "R":"application/dtls",
+            "C":"/6/46",
+            "N":true,
+            "Z":18295,
+            "G":6836
+        },
+        {  
+            "T":"OEBPS/9780393070897_ch11.html",
+            "X":"q24",
+            "O":"OEBPS/9780393070897_ch11.content.json",
+            "R":"application/dtls",
+            "C":"/6/48",
+            "N":true,
+            "Z":11543,
+            "G":4787
+        },
+        {  
+            "T":"nook/isaSample.xhtml",
+            "X":"q25",
+            "O":"nook/isaSample.content.json",
+            "R":"application/dtls",
+            "C":"/6/50",
+            "N":true,
+            "Z":7680,
+            "G":1315
+        }
+    ],
+    "toc":{  
+        "b":"The History of the Ancient World",
+        "navmap":[  
+            {  
+                "label":"Cover",
+                "E":"OEBPS/9780393070897_cov.html",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Also by Susan Wise Bauer",
+                "E":"OEBPS/9780393070897_adc01.html",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Title Page",
+                "E":"OEBPS/9780393070897_tp01.html",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Copyright",
+                "E":"OEBPS/9780393070897_cop01.html",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Dedication",
+                "E":"OEBPS/9780393070897_ded01.html",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Contents",
+                "E":"OEBPS/9780393070897_con01.html",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"List of Maps",
+                "E":"OEBPS/9780393070897_fm01.html",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"List of Illustrations",
+                "E":"OEBPS/9780393070897_fm02.html",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Acknowledgments",
+                "E":"OEBPS/9780393070897_ack01.html",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Preface",
+                "E":"OEBPS/9780393070897_fm03.html",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Part One: The Edge of History",
+                "E":"OEBPS/9780393070897_pt01.html",
+                "page":0,
+                "navpoints":[  
+                    {  
+                        "label":"Chapter One: The Origin of Kingship",
+                        "E":"OEBPS/9780393070897_ch01.html#ch01",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Two: The Earliest Story",
+                        "E":"OEBPS/9780393070897_ch02.html#ch02",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Three: The Rise of Aristocracy",
+                        "E":"OEBPS/9780393070897_ch03.html#ch03",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Four: The Creation of Empire",
+                        "E":"OEBPS/9780393070897_ch04.html#ch04",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Five: The Age of Iron",
+                        "E":"OEBPS/9780393070897_ch05.html#ch05",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Six: The Philosopher King",
+                        "E":"OEBPS/9780393070897_ch06.html#ch06",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    }
+                ]
+            },
+            {  
+                "label":"Part Two: Firsts",
+                "E":"OEBPS/9780393070897_pt02.html",
+                "page":0,
+                "navpoints":[  
+                    {  
+                        "label":"Chapter Seven: The First Written Records",
+                        "E":"OEBPS/9780393070897_ch07.html#ch07",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Eight: The First War Chronicles",
+                        "E":"OEBPS/9780393070897_ch08.html#ch08",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Nine: The First Civil War",
+                        "E":"OEBPS/9780393070897_ch09.html#ch09",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Ten: The First Epic Hero",
+                        "E":"OEBPS/9780393070897_ch10.html#ch10",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Eleven: The First Victory over Death",
+                        "E":"OEBPS/9780393070897_ch11.html#ch11",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Twelve: The First Reformer",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch12_nook_isaSample_24",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Thirteen: The First Military Dictator",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch13_nook_isaSample_25",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Fourteen: The First Planned Cities",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch14_nook_isaSample_26",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Fifteen: The First Collapse of Empire",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch15_nook_isaSample_27",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Sixteen: The First Barbarian Invasions",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch16_nook_isaSample_28",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Seventeen: The First Monotheist",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch17_nook_isaSample_29",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Eighteen: The First Environmental Disaster",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch18_nook_isaSample_30",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    }
+                ]
+            },
+            {  
+                "label":"Part Three: Struggle",
+                "E":"OEBPS/../nook/isaSample.xhtml#_nook_isaSample_31",
+                "page":0,
+                "navpoints":[  
+                    {  
+                        "label":"Chapter Nineteen: The Battle for Reunification",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch19_nook_isaSample_32",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Twenty: The Mesopotamian Mixing Bowl",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch20_nook_isaSample_33",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Twenty-One: The Overthrow of the Xia",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch21_nook_isaSample_34",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Twenty-Two: Hammurabi\u2019s Empire",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch22_nook_isaSample_35",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Twenty-Three: The Hyksos Seize Egypt",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch23_nook_isaSample_36",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Twenty-Four: King Minos of Crete",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch24_nook_isaSample_37",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Twenty-Five: The Harappan Disintegration",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch25_nook_isaSample_38",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Twenty-Six: The Rise of the Hittites",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch26_nook_isaSample_39",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Twenty-Seven: Ahmose Expels the Hyksos",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch27_nook_isaSample_40",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Twenty-Eight: Usurpation and Revenge",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch28_nook_isaSample_41",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Twenty-Nine: The Three-Way Contest",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch29_nook_isaSample_42",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Thirty: The Shifting Capitals of the Shang",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch30_nook_isaSample_43",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Thirty-One: The Mycenaeans of Greece",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch31_nook_isaSample_44",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Thirty-Two: Struggle of the Gods",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch32_nook_isaSample_45",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Thirty-Three: Wars and Marriages",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch33_nook_isaSample_46",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Thirty-Four: The Greatest Battle in Very Ancient Times",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch34_nook_isaSample_47",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Thirty-Five: The Battle for Troy",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch35_nook_isaSample_48",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Thirty-Six: The First Historical King of China",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch36_nook_isaSample_49",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Thirty-Seven: The Rig Veda",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch37_nook_isaSample_50",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Thirty-Eight: The Wheel Turns Again",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch38_nook_isaSample_51",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Thirty-Nine: The End of the New Kingdom",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch39_nook_isaSample_52",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Forty: The Dark Age of Greece",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch40_nook_isaSample_53",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Forty-One: The Dark Age of Mesopotamia",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch41_nook_isaSample_54",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Forty-Two: The Fall of the Shang",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch42_nook_isaSample_55",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    }
+                ]
+            },
+            {  
+                "label":"Part Four: Empires",
+                "E":"OEBPS/../nook/isaSample.xhtml#_nook_isaSample_56",
+                "page":0,
+                "navpoints":[  
+                    {  
+                        "label":"Chapter Forty-Three: The Mandate of Heaven",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch43_nook_isaSample_57",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Forty-Four: The Bharata War",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch44_nook_isaSample_58",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Forty-Five: The Son of David",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch45_nook_isaSample_59",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Forty-Six: From Western to Eastern Zhou",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch46_nook_isaSample_60",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Forty-Seven: The Assyrian Renaissance",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch47_nook_isaSample_61",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Forty-Eight: New Peoples",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch48_nook_isaSample_62",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Forty-Nine: Trading Posts and Colonies",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch49_nook_isaSample_63",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Fifty: Old Enemies",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch50_nook_isaSample_64",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Fifty-One: Kings of Assyria and Babylon",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch51_nook_isaSample_65",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Fifty-Two: Spectacular Defeat",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch52_nook_isaSample_66",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Fifty-Three: The Decline of the King",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch53_nook_isaSample_67",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Fifty-Four: The Assyrians in Egypt",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch54_nook_isaSample_68",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Fifty-Five: Medes and Persians",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch55_nook_isaSample_69",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Fifty-Six: Conquest and Tyranny",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch56_nook_isaSample_70",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Fifty-Seven: The Beginnings and End of Empire",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch57_nook_isaSample_71",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Fifty-Eight: A Brief Empire",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch58_nook_isaSample_72",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Fifty-Nine: Cyrus the Great",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch59_nook_isaSample_73",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Sixty: The Republic of Rome",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch60_nook_isaSample_74",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Sixty-One: Kingdoms and Reformers",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch61_nook_isaSample_75",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Sixty-Two: The Power of Duty and the Art of War",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch62_nook_isaSample_76",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Sixty-Three: The Spreading Persian Empire",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch63_nook_isaSample_77",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Sixty-Four: The Persian Wars",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch64_nook_isaSample_78",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    }
+                ]
+            },
+            {  
+                "label":"Part Five: Identity",
+                "E":"OEBPS/../nook/isaSample.xhtml#_nook_isaSample_79",
+                "page":0,
+                "navpoints":[  
+                    {  
+                        "label":"Chapter Sixty-Five: The Peloponnesian Wars",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch65_nook_isaSample_80",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Sixty-Six: The First Sack of Rome",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch66_nook_isaSample_81",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Sixty-Seven: The Rise of the Ch\u2019in",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch67_nook_isaSample_82",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Sixty-Eight: The Macedonian Conquerors",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch68_nook_isaSample_83",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Sixty-Nine: Rome Tightens Its Grasp",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch69_nook_isaSample_84",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Seventy: Alexander and the Wars of the Successors",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch70_nook_isaSample_85",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Seventy-One: The Mauryan Epiphany",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch71_nook_isaSample_86",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Seventy-Two: First Emperor, Second Dynasty",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch72_nook_isaSample_87",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Seventy-Three: The Wars of the Sons",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch73_nook_isaSample_88",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Seventy-Four: Roman Liberators and Seleucid Conquerors",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch74_nook_isaSample_89",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Seventy-Five: Between East and West",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch75_nook_isaSample_90",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Seventy-Six: Breaking the System",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch76_nook_isaSample_91",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Seventy-Seven: The Problems of Prosperity",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch77_nook_isaSample_92",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Seventy-Eight: New Men",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch78_nook_isaSample_93",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Seventy-Nine: Empire",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch79_nook_isaSample_94",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Eighty: Eclipse and Restoration",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch80_nook_isaSample_95",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Eighty-One: The Problem of Succession",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch81_nook_isaSample_96",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Eighty-Two: The Edges of the Roman World",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch82_nook_isaSample_97",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Eighty-Three: Children on the Throne",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch83_nook_isaSample_98",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Eighty-Four: The Mistake of Inherited Power",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch84_nook_isaSample_99",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    },
+                    {  
+                        "label":"Chapter Eighty-Five: Savior of the Empire",
+                        "E":"OEBPS/../nook/isaSample.xhtml#ch85_nook_isaSample_100",
+                        "page":0,
+                        "navpoints":[  
+
+                        ]
+                    }
+                ]
+            },
+            {  
+                "label":"Notes",
+                "E":"OEBPS/../nook/isaSample.xhtml#end01_nook_isaSample_101",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Works Cited",
+                "E":"OEBPS/../nook/isaSample.xhtml#bm01_nook_isaSample_102",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Permissions",
+                "E":"OEBPS/../nook/isaSample.xhtml#bm02_nook_isaSample_103",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            }
+        ]
+    },
+    "pagemap":[  
+        {  
+            "C":"/6/2!"
+        },
+        {  
+            "C":"/6/4!"
+        },
+        {  
+            "C":"/6/6!"
+        },
+        {  
+            "C":"/6/8!"
+        },
+        {  
+            "C":"/6/10!"
+        },
+        {  
+            "C":"/6/12!"
+        },
+        {  
+            "C":"/6/14!"
+        },
+        {  
+            "C":"/6/14!/4/2[con01]/63:1"
+        },
+        {  
+            "C":"/6/14!/4/2[con01]/112/2/2/2/1:2"
+        },
+        {  
+            "C":"/6/14!/4/2[con01]/152/2/2/6/1:5"
+        },
+        {  
+            "C":"/6/16!"
+        },
+        {  
+            "C":"/6/16!/4/2[fm01]/70/2/2/1:6"
+        },
+        {  
+            "C":"/6/16!/4/2[fm01]/130/2/2/1:28"
+        },
+        {  
+            "C":"/6/18!"
+        },
+        {  
+            "C":"/6/20!"
+        },
+        {  
+            "C":"/6/20!/4/2[ack01]/4/8/1:610"
+        },
+        {  
+            "C":"/6/20!/4/2[ack01]/4/16/3:52"
+        },
+        {  
+            "C":"/6/22!"
+        },
+        {  
+            "C":"/6/22!/4/2[fm03]/4/12/1:67"
+        },
+        {  
+            "C":"/6/22!/4/2[fm03]/4/24/7:559"
+        },
+        {  
+            "C":"/6/22!/4/2[fm03]/4/30/1:602"
+        },
+        {  
+            "C":"/6/22!/4/2[fm03]/4/36/1:131"
+        },
+        {  
+            "C":"/6/22!/4/2[fm03]/4/42/1:49"
+        },
+        {  
+            "C":"/6/24!"
+        },
+        {  
+            "C":"/6/26!"
+        },
+        {  
+            "C":"/6/26!/4/2[ch01]/4/8/3:298"
+        },
+        {  
+            "C":"/6/26!/4/2[ch01]/4/14/5:173"
+        },
+        {  
+            "C":"/6/26!/4/2[ch01]/4/24/1:362"
+        },
+        {  
+            "C":"/6/26!/4/2[ch01]/4/30/1:784"
+        },
+        {  
+            "C":"/6/26!/4/2[ch01]/4/38/1:628"
+        },
+        {  
+            "C":"/6/26!/4/2[ch01]/4/50/1:178"
+        },
+        {  
+            "C":"/6/28!"
+        },
+        {  
+            "C":"/6/28!/4/2[ch02]/4/12/1:345"
+        },
+        {  
+            "C":"/6/28!/4/2[ch02]/4/24/1:1"
+        },
+        {  
+            "C":"/6/28!/4/2[ch02]/4/32/3:54"
+        },
+        {  
+            "C":"/6/28!/4/2[ch02]/4/44/1:2"
+        },
+        {  
+            "C":"/6/28!/4/2[ch02]/4/48/1:853"
+        },
+        {  
+            "C":"/6/28!/4/2[ch02]/4/66/3:100"
+        },
+        {  
+            "C":"/6/30!"
+        },
+        {  
+            "C":"/6/30!/4/2[ch03]/4/8/10/1:4"
+        },
+        {  
+            "C":"/6/30!/4/2[ch03]/4/20/3:114"
+        },
+        {  
+            "C":"/6/30!/4/2[ch03]/4/34/8/1:35"
+        },
+        {  
+            "C":"/6/30!/4/2[ch03]/4/50/1:652"
+        },
+        {  
+            "C":"/6/32!"
+        },
+        {  
+            "C":"/6/32!/4/2[ch04]/4/8/1:192"
+        },
+        {  
+            "C":"/6/32!/4/2[ch04]/4/14/11:235"
+        },
+        {  
+            "C":"/6/32!/4/2[ch04]/4/20/1:41"
+        },
+        {  
+            "C":"/6/32!/4/2[ch04]/4/32/3:47"
+        },
+        {  
+            "C":"/6/32!/4/2[ch04]/4/48/5:186"
+        },
+        {  
+            "C":"/6/34!"
+        },
+        {  
+            "C":"/6/34!/4/2[ch05]/4/12/1:104"
+        },
+        {  
+            "C":"/6/34!/4/2[ch05]/4/20/1:413"
+        },
+        {  
+            "C":"/6/34!/4/2[ch05]/4/30/1:377"
+        },
+        {  
+            "C":"/6/34!/4/2[ch05]/4/42/1:32"
+        },
+        {  
+            "C":"/6/36!"
+        },
+        {  
+            "C":"/6/36!/4/2[ch06]/4/10/3:348"
+        },
+        {  
+            "C":"/6/36!/4/2[ch06]/4/20/1:46"
+        },
+        {  
+            "C":"/6/36!/4/2[ch06]/4/30/7:108"
+        },
+        {  
+            "C":"/6/36!/4/2[ch06]/4/36/1:34"
+        },
+        {  
+            "C":"/6/38!"
+        },
+        {  
+            "C":"/6/40!"
+        },
+        {  
+            "C":"/6/40!/4/2[ch07]/4/12/3:108"
+        },
+        {  
+            "C":"/6/40!/4/2[ch07]/4/24/3:35"
+        },
+        {  
+            "C":"/6/40!/4/2[ch07]/4/34/2/1:1"
+        },
+        {  
+            "C":"/6/40!/4/2[ch07]/4/46/1:372"
+        },
+        {  
+            "C":"/6/40!/4/2[ch07]/4/54/1:88"
+        },
+        {  
+            "C":"/6/40!/4/2[ch07]/4/60/1:687"
+        },
+        {  
+            "C":"/6/40!/4/2[ch07]/4/70/1:358"
+        },
+        {  
+            "C":"/6/42!"
+        },
+        {  
+            "C":"/6/42!/4/2[ch08]/4/8/7:416"
+        },
+        {  
+            "C":"/6/42!/4/2[ch08]/4/20/1:192"
+        },
+        {  
+            "C":"/6/42!/4/2[ch08]/4/32/1:219"
+        },
+        {  
+            "C":"/6/42!/4/2[ch08]/4/44/1:77"
+        },
+        {  
+            "C":"/6/42!/4/2[ch08]/4/54/1:110"
+        },
+        {  
+            "C":"/6/42!/4/2[ch08]/4/64/1:354"
+        },
+        {  
+            "C":"/6/42!/4/2[ch08]/4/76/1:30"
+        },
+        {  
+            "C":"/6/42!/4/2[ch08]/4/88/1:96"
+        },
+        {  
+            "C":"/6/44!"
+        },
+        {  
+            "C":"/6/44!/4/2[ch09]/4/8/1:392"
+        },
+        {  
+            "C":"/6/44!/4/2[ch09]/4/22/1:118"
+        },
+        {  
+            "C":"/6/44!/4/2[ch09]/4/30/1:339"
+        },
+        {  
+            "C":"/6/44!/4/2[ch09]/4/38/1:205"
+        },
+        {  
+            "C":"/6/44!/4/2[ch09]/4/44/3:18"
+        },
+        {  
+            "C":"/6/44!/4/2[ch09]/4/52/1:104"
+        },
+        {  
+            "C":"/6/44!/4/2[ch09]/4/60/1:36"
+        },
+        {  
+            "C":"/6/44!/4/2[ch09]/4/66/1:552"
+        },
+        {  
+            "C":"/6/44!/4/2[ch09]/4/76/1:6"
+        },
+        {  
+            "C":"/6/46!"
+        },
+        {  
+            "C":"/6/46!/4/2[ch10]/4/6/7:1"
+        },
+        {  
+            "C":"/6/46!/4/2[ch10]/4/12/5:10"
+        },
+        {  
+            "C":"/6/46!/4/2[ch10]/4/18/1:110"
+        },
+        {  
+            "C":"/6/46!/4/2[ch10]/4/38/1:168"
+        },
+        {  
+            "C":"/6/46!/4/2[ch10]/4/58/1:30"
+        },
+        {  
+            "C":"/6/46!/4/2[ch10]/4/72/1:659"
+        },
+        {  
+            "C":"/6/48!"
+        },
+        {  
+            "C":"/6/48!/4/2[ch11]/4/8/1:225"
+        },
+        {  
+            "C":"/6/48!/4/2[ch11]/4/14/1:15"
+        },
+        {  
+            "C":"/6/48!/4/2[ch11]/4/24/1:74"
+        },
+        {  
+            "C":"/6/48!/4/2[ch11]/4/28/1:407"
+        },
+        {  
+            "C":"/6/50!"
+        },
+        {  
+            "C":"/6/50!/4/4/2/2/1:8"
+        }
+    ]
+}

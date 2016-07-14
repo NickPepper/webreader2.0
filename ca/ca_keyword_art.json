@@ -1,0 +1,218 @@
+{
+  "request": "http://pnjanalyticsm01:6100/m/snack/search?sort=&layout=tile&q=art&rf=json&fields=title,ean,id,file_order,epub_path,publisher,epub_title,images,snack_type,id,startCfi,endCfi,pageshots", 
+  "response": {
+    "docs": [
+      {
+        "ean": "2940036547293", 
+        "endCfi": "/6/42!/4/12/20[footer_navbar]/4[footer_navbar_next]/2/1", 
+        "epub_path": "/LibreDigital/RSN/93/2940036547293/2940036547293_drphd.v1.epub", 
+        "epub_title": "Reason Magazine - April 2015", 
+        "file_order": [
+          "OPS/article_12-18.xml"
+        ], 
+        "id": "2940036547293.17", 
+        "images": [
+          "OPS/images/img_10_12181.jpg,372.0,240.0"
+        ], 
+        "pageshots": [
+          "OPS/article_12-18.xml,OPS/images/pages/pg-12.jpg,OPS/images/pages/pg-12-thumb.jpg"
+        ], 
+        "publisher": "THE REASON FOUNDATION - EPERIODICAL", 
+        "snack_type": "article", 
+        "startCfi": "/6/42!", 
+        "title": "North Korea vs. Art"
+      }, 
+      {
+        "ean": "2940036574794", 
+        "endCfi": "/6/52!/4/12/28[footer_navbar]/4[footer_navbar_next]/2/1", 
+        "epub_path": "/LibreDigital/TLF/94/2940036574794/2940036574794_drphd.v1.epub", 
+        "epub_title": "Toronto Life Magazine - March 2015", 
+        "file_order": [
+          "OPS/article_108-1.xml"
+        ], 
+        "id": "2940036574794.25", 
+        "images": [
+          "OPS/images/img_20_10811.jpg,348.0,240.0"
+        ], 
+        "pageshots": [
+          "OPS/article_108-1.xml,OPS/images/pages/pg-108.jpg,OPS/images/pages/pg-108-thumb.jpg"
+        ], 
+        "publisher": "ST. JOSEPH MEDIA - EPERIODICAL - EB", 
+        "snack_type": "article", 
+        "startCfi": "/6/52!", 
+        "title": "Art"
+      }, 
+      {
+        "ean": "2940041635299", 
+        "endCfi": "/6/46!/4/14/72[footer_navbar]/4[footer_navbar_next]/2/1", 
+        "epub_path": "/LibreDigital/EQS/99/2940041635299/2940041635299_drphd.v1.epub", 
+        "epub_title": "Equus - March 2015", 
+        "file_order": [
+          "OPS/article_42-17.xml"
+        ], 
+        "id": "2940041635299.19", 
+        "images": [
+          "OPS/images/img_15_42171.jpg,188.0,240.0"
+        ], 
+        "pageshots": [
+          "OPS/article_42-17.xml,OPS/images/pages/pg-42.jpg,OPS/images/pages/pg-42-thumb.jpg,OPS/images/pages/pg-43.jpg,OPS/images/pages/pg-43-thumb.jpg,OPS/images/pages/pg-44.jpg,OPS/images/pages/pg-44-thumb.jpg,OPS/images/pages/pg-45.jpg,OPS/images/pages/pg-45-thumb.jpg,OPS/images/pages/pg-46.jpg,OPS/images/pages/pg-46-thumb.jpg,OPS/images/pages/pg-47.jpg,OPS/images/pages/pg-47-thumb.jpg,OPS/images/pages/pg-48.jpg,OPS/images/pages/pg-48-thumb.jpg,OPS/images/pages/pg-49.jpg,OPS/images/pages/pg-49-thumb.jpg"
+        ], 
+        "publisher": "Cruz Bay", 
+        "snack_type": "article", 
+        "startCfi": "/6/46!", 
+        "title": "THE ART & SCIENCE OF Hay"
+      }, 
+      {
+        "ean": "2940036268815", 
+        "endCfi": "/6/38!/4/16/2[footer_navbar]/4[footer_navbar_next]/2/1", 
+        "epub_path": "/CTPS/CTPSTOLUK/15/2940036268815/2940036268815_drphd.v1.epub", 
+        "epub_title": "Time Out London - 02/17/15", 
+        "file_order": [
+          "OPS/page094.article001.xml"
+        ], 
+        "id": "2940036268815.18", 
+        "images": [
+          "OPS/images/page094.article001.image1.jpg,269.0,486.0"
+        ], 
+        "pageshots": [
+          "OPS/page094.article001.xml,OPS/images/pages/BN_DRP_PAGE_94.jpg,OPS/images/pages/BN_DRP_PAGE_94-thumb.jpg,OPS/images/pages/BN_DRP_PAGE_95.jpg,OPS/images/pages/BN_DRP_PAGE_95-thumb.jpg,OPS/images/pages/BN_DRP_PAGE_96.jpg,OPS/images/pages/BN_DRP_PAGE_96-thumb.jpg"
+        ], 
+        "publisher": "TIMEOUT DIGITAL LTD - EPERIODICAL -", 
+        "snack_type": "article", 
+        "startCfi": "/6/38!", 
+        "title": "ART"
+      }, 
+      {
+        "ean": "2940041417635", 
+        "endCfi": "/6/30!/4/12/50[footer_navbar]/4[footer_navbar_next]/2/1", 
+        "epub_path": "/LibreDigital/KEY/35/2940041417635/2940041417635_drphd.v1.epub", 
+        "epub_title": "Keyboard - March 2015", 
+        "file_order": [
+          "OPS/article_48-1.xml"
+        ], 
+        "id": "2940041417635.10", 
+        "images": [
+          "OPS/images/img_10_4811.jpg,328.0,240.0"
+        ], 
+        "pageshots": [
+          "OPS/article_48-1.xml,OPS/images/pages/pg-48.jpg,OPS/images/pages/pg-48-thumb.jpg,OPS/images/pages/pg-49.jpg,OPS/images/pages/pg-49-thumb.jpg"
+        ], 
+        "publisher": "NEW BAY MEDIA - EPERIODICAL ", 
+        "snack_type": "article", 
+        "startCfi": "/6/30!", 
+        "title": "THE ART OF SYNTH SOLOING Jan Hammer The Primal Synth Soloist"
+      }, 
+      {
+        "ean": "2940036227362", 
+        "endCfi": "/6/102!/4/18/2[footer_navbar]/4[footer_navbar_next]/2/1", 
+        "epub_path": "/Conde Nast/CTPSALL/62/2940036227362/2940036227362_drphd.v1.epub", 
+        "epub_title": "Allure - March 2015", 
+        "file_order": [
+          "OPS/page168.article001.xml"
+        ], 
+        "id": "2940036227362.50", 
+        "images": [
+          "OPS/images/page168.article001.image1.jpg,442.0,600.0"
+        ], 
+        "pageshots": [
+          "OPS/page168.article001.xml,OPS/images/pages/BN_DRP_PAGE_168.jpg,OPS/images/pages/BN_DRP_PAGE_168-thumb.jpg,OPS/images/pages/BN_DRP_PAGE_169.jpg,OPS/images/pages/BN_DRP_PAGE_169-thumb.jpg,OPS/images/pages/BN_DRP_PAGE_170.jpg,OPS/images/pages/BN_DRP_PAGE_170-thumb.jpg,OPS/images/pages/BN_DRP_PAGE_171.jpg,OPS/images/pages/BN_DRP_PAGE_171-thumb.jpg,OPS/images/pages/BN_DRP_PAGE_172.jpg,OPS/images/pages/BN_DRP_PAGE_172-thumb.jpg,OPS/images/pages/BN_DRP_PAGE_173.jpg,OPS/images/pages/BN_DRP_PAGE_173-thumb.jpg,OPS/images/pages/BN_DRP_PAGE_174.jpg,OPS/images/pages/BN_DRP_PAGE_174-thumb.jpg,OPS/images/pages/BN_DRP_PAGE_175.jpg,OPS/images/pages/BN_DRP_PAGE_175-thumb.jpg,OPS/images/pages/BN_DRP_PAGE_176.jpg,OPS/images/pages/BN_DRP_PAGE_176-thumb.jpg,OPS/images/pages/BN_DRP_PAGE_177.jpg,OPS/images/pages/BN_DRP_PAGE_177-thumb.jpg"
+        ], 
+        "publisher": "Conde Nast", 
+        "snack_type": "article", 
+        "startCfi": "/6/102!", 
+        "title": "THE ART OF ILLUSION"
+      }, 
+      {
+        "ean": "9781466870598", 
+        "endCfi": "/6/130!/4/4/3", 
+        "epub_path": "/Macmillan/98/9781466870598/9781466870598_epub.v2.epub", 
+        "epub_title": "The Sound of Music Story: How A Beguiling Young Novice, A Handsome Austrian Captain, and Ten Singing Von Trapp Children Inspired the Most Beloved Film of All Time", 
+        "file_order": [
+          "OEBPS/xhtml/photo28.xhtml"
+        ], 
+        "id": "9781466870598.61", 
+        "images": [
+          "OEBPS/images/photo30.jpg,500.0,334.0"
+        ], 
+        "publisher": "Macmillan", 
+        "snack_type": "article", 
+        "startCfi": "/6/130!", 
+        "title": "Thirteenth\u2014and final\u2014version of the art work, which featured new and amusing titles overseas. Here, in Spain:"
+      }, 
+      {
+        "ean": "2940041635145", 
+        "endCfi": "/6/28!/4/14/20[footer_navbar]/4[footer_navbar_next]/2/1", 
+        "epub_path": "/LibreDigital/CLI/45/2940041635145/2940041635145_drphd.v2.epub", 
+        "epub_title": "Climbing - March 2015", 
+        "file_order": [
+          "OPS/article_36-1.xml"
+        ], 
+        "id": "2940041635145.11", 
+        "images": [
+          "OPS/images/img_8_3611.jpg,148.0,240.0"
+        ], 
+        "pageshots": [
+          "OPS/article_36-1.xml,OPS/images/pages/pg-36.jpg,OPS/images/pages/pg-36-thumb.jpg"
+        ], 
+        "publisher": "Cruz Bay", 
+        "snack_type": "article", 
+        "startCfi": "/6/28!", 
+        "title": "The Art of the Heel Hook"
+      }, 
+      {
+        "ean": "2940041329952", 
+        "endCfi": "/6/22!/4/14/14[footer_navbar]/4[footer_navbar_next]/2/1", 
+        "epub_path": "/LibreDigital/VCO/52/2940041329952/2940041329952_drphd.v1.epub", 
+        "epub_title": "Vancouver Magazine - March 2015", 
+        "file_order": [
+          "OPS/article_30-1.xml"
+        ], 
+        "id": "2940041329952.10", 
+        "images": [
+          "OPS/images/img_9_3011.jpg,156.0,239.0"
+        ], 
+        "pageshots": [
+          "OPS/article_30-1.xml,OPS/images/pages/pg-30.jpg,OPS/images/pages/pg-30-thumb.jpg"
+        ], 
+        "publisher": "TRANSCONTINENTAL WESTERN MEDIA", 
+        "snack_type": "article", 
+        "startCfi": "/6/22!", 
+        "title": "1 The Art of Necessity"
+      }, 
+      {
+        "ean": "2940036256874", 
+        "endCfi": "/6/20!/4/16/2[footer_navbar]/4[footer_navbar_next]/2/1", 
+        "epub_path": "/Conde Nast/CTPSTNY/74/2940036256874/2940036256874_drphd.v1.epub", 
+        "epub_title": "New Yorker - February 23 & March 2, 2015", 
+        "file_order": [
+          "OPS/page084.article001.xml"
+        ], 
+        "id": "2940036256874.9", 
+        "images": [
+          "OPS/images/page084.article001.image1.jpg,358.0,285.0"
+        ], 
+        "pageshots": [
+          "OPS/page084.article001.xml,OPS/images/pages/BN_DRP_PAGE_84.jpg,OPS/images/pages/BN_DRP_PAGE_84-thumb.jpg,OPS/images/pages/BN_DRP_PAGE_89.jpg,OPS/images/pages/BN_DRP_PAGE_89-thumb.jpg"
+        ], 
+        "publisher": "Conde Nast", 
+        "snack_type": "article", 
+        "startCfi": "/6/20!", 
+        "title": "ART"
+      }
+    ], 
+    "numFound": 15466, 
+    "start": 0
+  }, 
+  "responseHeader": {
+    "QTime": 59, 
+    "params": {
+      "defType": "edismax", 
+      "fl": "title,ean,id,file_order,epub_path,publisher,epub_title,images,snack_type,id,startCfi,endCfi,pageshots", 
+      "q": "title:art", 
+      "sort": "pub_date desc", 
+      "start": "0", 
+      "wt": "json"
+    }, 
+    "status": 0
+  }
+}

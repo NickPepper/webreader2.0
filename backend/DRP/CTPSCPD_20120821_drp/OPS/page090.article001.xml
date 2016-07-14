@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Cooking with Paula Deen</title>
+<link href="css/test1.css" rel="stylesheet" type="text/css" />
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    </head>
+<body class="left">
+        <div class="before">
+            <div class="articleMenuWrapper" id="header_navbar">
+                <div class="sectionMenuLeft" id="header_navbar_previous">
+                    <a href="page084.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="header_navbar_next">
+                    <a href="page098.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+            <div class="masthead" id="header">
+                <div class="masthead-text">
+                    <div class="masthead-section" id="header_title">
+                        <a href="section.xml">Contents</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="article-headline" id="Headline">LOVELESS ROAD TRIP</div>
+<div class="article-subhead" id="SubHeadline">The Deen Brothers take a side trip to a Middle Tennessee landmark that showcases the true flavor of the American South.</div>
+
+
+<div class="article-in-image" id="image1"><img src="images/page090.article001.image1.jpg" class="article-in-image" alt=""/></div>
+<div class="separator-line" id="separatorLine"> <div class="invisible">empty</div> </div>
+<div class="articleImageCaption" id="ImageCaption">Jamie and Bobby show their appreciation to Loveless Pitmaster George Harvell and his tray of Pork Loins glazed with Peach Preserves.</div>
+
+<div class="article-body" id="Body"><p class="no-indent">The Loveless Cafe is just minutes from downtown Nashville and you can bet there’s always a stream of tourists this time of year who make the drive down the Natchez Parkway to take in the fall foliage and end up at the Loveless. The restaurant’s sixty-one-year reputation for Southern traditions, scratch-made food, and gracious hospitality was just enough to entice Paula’s sons to take the relaxing drive after a September event in the Music City. </p><br/><p class="no-indent">“The atmosphere at the Loveless is like coming home for a visit with a relative from yesteryear. Everyone feels like family,” Jamie shares. Bobby adds,“The food is to die for. This is the kind of restaurant that inspires me to eat in moderation so when I arrive, I welcome a splurge.”</p><br/><p class="no-indent">Jamie took advantage of the all-day breakfast menu, ordering Pit-cooked Barbecue piled high on Griddle Cakes and served with two Fried Eggs, while Bobby opted for Smoked Pork Chops glazed with Peach Preserves, Caramel Sweet Potatoes, and Slow-cooked Green Beans. Both meals came with the café’s legendary biscuits. </p><br/><p>______________________________</p><br/><p class="no-indent">For more information on The Loveless Café or to plan a visit to Middle Tennessee, visit lovelesscafe.com/visit/plan-your-visit/.</p><br/><p>______________________________</p><br/><p class="no-indent">WEB EXTRAS</p><br/><p class="no-indent">For the Loveless Café’s Pork Chops glazed with Peach Preserves recipe, visit cookingwithpauladeen.com and click on Web Extras.</p></div>
+<div class="after">
+            <div class="articleMenuWrapper" id="footer_navbar">
+                <div class="sectionMenuLeft" id="footer_navbar_previous">
+                    <a href="page084.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="footer_navbar_next">
+                    <a href="page098.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+        </div>
+    </body>
+</html>

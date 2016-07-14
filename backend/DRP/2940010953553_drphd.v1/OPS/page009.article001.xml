@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>The New Yorker</title>
+<link href="css/test1.css" rel="stylesheet" type="text/css" />
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    </head>
+<body class="left">
+        <div class="before">
+            <div class="articleMenuWrapper" id="header_navbar">
+                <div class="sectionMenuLeft" id="header_navbar_previous">
+                    <a> </a>
+                </div>
+                <div class="sectionMenuRight" id="header_navbar_next">
+                    <a href="page010.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+            <div class="masthead" id="header">
+                <div class="masthead-text">
+                    <div class="masthead-section" id="header_title">
+                        <a href="section.xml">Contents</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="article-headline" id="Headline">GOINGS ON ABOUT TOWN</div>
+
+
+
+<div class="article-in-image" id="image1"><img src="images/page009.article001.image1.jpg" class="article-in-image" alt=""/></div>
+<div id="separatorLine"> <div class="invisible">empty</div> </div>
+
+<div class="articleImageCredit" id="ImageCredit">ILLUSTRATION BY AL HIRSCHFELD</div>
+<div class="article-body" id="Body"><p class="no-indent">AL HIRSCHFELD (pictured in a self-portrait from 1980) began his career in motion pictures, but soon turned to Broadway, and, over the next eight decades, became an icon with his trademark swooping-line drawings. An ardent playgoer (his namesake theatre currently houses “Kinky Boots”), Hirschfeld specialized in drawing show-biz folks. Though he’s often labelled a caricaturist, his work conveys respect as well as capturing the essence of a performer’s virtuosity. He drew (including for this magazine) until his death, in 2003, six months before his hundredth birthday. This week, “The Line King’s Library,” a rich and glamorous history of twentieth-century theatre, opens at the New York Public Library for the Performing Arts.</p></div>
+<div class="after">
+            <div class="articleMenuWrapper" id="footer_navbar">
+                <div class="sectionMenuLeft" id="footer_navbar_previous"> </div>
+                <div class="sectionMenuRight" id="footer_navbar_next">
+                    <a href="page010.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+        </div>
+    </body>
+</html>

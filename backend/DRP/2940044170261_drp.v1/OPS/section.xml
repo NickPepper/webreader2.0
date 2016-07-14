@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:ncr="http://www.nytimes.com/NewsClientReader#" xmlns:nitf="http://www.nytimes.com/applicationdata/xml/nitf-3-3.dtd">
+    <head>
+        <title>Contents</title>
+        <link href="css/test1.css" rel="stylesheet" type="text/css"/>
+    </head>
+    <body>
+        <div class="clean"> </div>
+        <div class="masthead" id="header">
+            <div>Contents</div>
+            <div class="masthead-date" id="header_date">2012-11-07</div>
+        </div>
+        <div class="sectionMenuWrapper" id="footer_navbar">
+            <div class="sectionNameGoTo" id="footer_navbar_title">
+                <a class="sectionNameGoTo" href="section.xml">Top of Contents</a>
+            </div>
+            <span class="sectionMenuLeft" id="footer_navbar_previous"/>
+            <span class="sectionMenuRight" id="footer_navbar_next"/>
+        </div>
+    </body>
+</html>

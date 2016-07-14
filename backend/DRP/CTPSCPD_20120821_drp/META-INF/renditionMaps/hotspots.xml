@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map mapID="hotspots" source-full-path="/OPS/pages.opf" xmlns="http://www.bn.com/schemas/BNFF">
+	<targetMaps>
+		<targetMap>
+            <sourceTarget sourceID="snapshot1">
+                <point x="0.80779" y="0.94480"/>
+            </sourceTarget>
+			<destTarget>
+				<link cfi="epubcfi(/4/34[snapshot73;href=images/pages/snapshot73.jpg])"/>
+			</destTarget>
+		</targetMap>
+		<targetMap>
+            <sourceTarget sourceID="snapshot1">
+                <point x="0.13605" y="0.85034"/>
+            </sourceTarget>
+			<destTarget>
+				<link href="http://dshop.nook.com/us/detail?EAN=2940043955982"/>
+			</destTarget>
+		</targetMap>
+		<targetMap>
+            <sourceTarget sourceID="snapshot2">
+                <point x="0.10996" y="0.83506"/>
+            </sourceTarget>
+			<destTarget>
+				<link href="http://pauladeen.com/realwomen"/>
+			</destTarget>
+		</targetMap>
+		<targetMap>
+            <sourceTarget sourceID="snapshot3">
+                <point x="0.20519" y="0.95324"/>
+            </sourceTarget>
+			<destTarget>
+				<link href="http://pauladeen.com/realwomen"/>
+			</destTarget>
+		</targetMap>
+		<targetMap>
+            <sourceTarget sourceID="snapshot3">
+                <point x="0.30216" y="0.35519"/>
+            </sourceTarget>
+			<destTarget>
+				<link href="http://pauladeen.com/realwomen"/>
+			</destTarget>
+		</targetMap>
+		<targetMap>
+            <sourceTarget sourceID="snapshot4">
+                <point x="0.07013" y="0.18117"/>
+            </sourceTarget>
+			<destTarget>
+				<link cfi="epubcfi(/4/96[snapshot48;href=images/pages/snapshot48.jpg])"/>
+			</destTarget>
+		</targetMap>
+		<targetMap>
+            <sourceTarget sourceID="snapshot4">
+                <point x="0.07100" y="0.24740"/>
+            </sourceTarget>
+			<destTarget>
+				<link cfi="epubcfi(/4/112[snapshot56;href=images/pages/snapshot56.jpg])"/>
+			</destTarget>
+		</targetMap>
+		<targetMap>
+            <sourceTarget sourceID="snapshot4">
+                <point x="0.93852" y="0.18766"/>
+            </sourceTarget>
+			<destTarget>
+				<link cfi="epubcfi(/4/124[snapshot62;href=images/pages/snapshot62.jpg])"/>
+			</destTarget>
+		</targetMap>
+		<targetMap>
+            <sourceTarget sourceID="snapshot4">
+                <point x="0.93939" y="0.26104"/>
+            </sourceTarget>
+			<destTarget>
+				<link cfi="epubcfi(/4/136[snapshot68;href=images/pages/snapshot68.jpg])"/>
+			</destTarget>
+		</targetMap>
+		<targetMap>
+            <sourceTarget sourceID="snapshot4">
+                <point x="0.93506" y="0.92986"/>
+            </sourceTarget>
+			<destTarget>
+				<link cfi="epubcfi(/4/106[snapshot4;href=images/pages/snapshot53.jpg])"/>
+			</destTarget>
+		</targetMap>
+		<targetMap>
+            <sourceTarget sourceID="snapshot5">
+                <point x="0.35324" y="0.23636"/>
+            </sourceTarget>
+			<destTarget>
+				<link href="http://kingarthurflour.com/rise"/>
+			</destTarget>
+		</targetMap>
+		<targetMap>
+            <sourceTarget sourceID="snapshot5">
+                <point x="0.94718" y="0.94155"/>
+            </sourceTarget>
+			<destTarget>
+				<link href="http://kingarthurflour.com/rise"/>
+			</destTarget>
+		</targetMap>
+		<targetMap>
+            <sourceTarget sourceID="snapshot6">
+                <point x="0.17749" y="0.14935"/>
+            </sourceTarget>
+			<destTarget>
+				<link cfi="epubcfi(/4/36[snapshot18;href=images/pages/snapshot18.jpg])"/>
+			</destTarget>
+		</targetMap>
+		<targetMap>
+            <sourceTarget sourceID="snapshot6">
+                <point x="0.52640" y="0.17208"/>
+            </sourceTarget>
+			<destTarget>
+				<link cfi="epubcfi(/4/72[snapshot36;href=images/pages/snapshot36.jpg])"/>
+			</destTarget>
+		</targetMap>
+		<targetMap>
+            <sourceTarget sourceID="snapshot6">
+                <point x="0.03896" y="0.59026"/>
+            </sourceTarget>
+			<destTarget>
+				<link cfi="epubcfi(/4/150[snapshot75;href=images/pages/snapshot75.jpg])"/>
+			</destTarget>
+		</targetMap>
+		<targetMap>
+            <sourceTarget sourceID="snapshot6">
+                <point x="0.57316" y="0.46298"/>
+            </sourceTarget>
+			<destTarget>
+				<link cfi="epubcfi(/4/168[snapshot84;href=images/pages/snapshot84.jpg])"/>
+			</destTarget>
+		</targetMap>
+		<targetMap>
+            <sourceTarget sourceID="snapshot6">
+                <point x="0.10563" y="0.77597"/>
+            </sourceTarget>
+			<destTarget>
+				<link cfi="epubcfi(/4/144[snapshot72;href=images/pages/snapshot72.jpg])"/>
+			</destTarget>
+		</targetMap>
+		<targetMap>
+            <sourceTarget sourceID="snapshot7">
+                <point x="0.60086" y="0.81298"/>
+            </sourceTarget>
+			<destTarget>
+				<link href="http://www.pauladeenhome.com"/>
+			</destTarget>
+		</targetMap>
+		<targetMap>
+            <sourceTarget sourceID="snapshot7">
+                <point x="0.82424" y="0.53376"/>
+            </sourceTarget>
+			<destTarget>
+				<link href="http://www.pauladeenhome.com"/>
+			</destTarget>
+		</targetMap>
+		<targetMap>
+            <sourceTarget sourceID="snapshot11">
+                <point x="0.34026" y="0.90000"/>
+            </sourceTarget>
+			<destTarget>
+				<link href="http://www.thehumanetouch.org"/>
+			</destTarget>
+		</targetMap>
+		<targetMap>
+            <sourceTarget sourceID="snapshot12">
+                <point x="0.40427" y="0.33187"/>
+            </sourceTarget>
+			<destTarget>
+				<link href="http://www.rosannainc.com/plates-platters/marrakesh-tray/"/>
+			</destTarget>
+		</targetMap>
+		<targetMap>
+            <sourceTarget sourceID="snapshot12">
+                <point x="0.79235" y="0.47668"/>
+            </sourceTarget>
+			<destTarget>
+				<link href="http://www.zgallerie.com/p-12085-rocks-napkin-ring-terra-set-of-4.aspx"/>
+			</destTarget>
+		</targetMap>
+		<targetMap>
+            <sourceTarget sourceID="snapshot12">
+                <point x="0.38937" y="0.65986"/>
+            </sourceTarget>
+			<destTarget>
+				<link href="http://www.kouboo.com/acacia-wood-bowls-with-wavy-bark-edge.html"/>
+			</destTarget>
+		</targetMap>
+    </targetMaps>
+</map>

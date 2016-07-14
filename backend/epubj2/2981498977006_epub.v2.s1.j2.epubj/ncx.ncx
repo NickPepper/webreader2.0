@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="458df5e1-402c-44f1-9692-6cd2a618451f" />
+    <meta content="1" name="dtb:depth" />
+    <meta content="0" name="dtb:totalPageCount" />
+    <meta content="0" name="dtb:maxPageNumber" />
+  </head>
+  <docTitle>
+    <text>Dark Fate</text>
+  </docTitle>
+  <docAuthor>
+    <text>W.J. May</text>
+  </docAuthor>
+  <docAuthor>
+    <text>Tiffany Evans</text>
+  </docAuthor>
+  <docAuthor>
+    <text>C.M. Owens</text>
+  </docAuthor>
+  <docAuthor>
+    <text>Chrissy Peebles</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="c001" playOrder="1">
+      <navLabel>
+        <text>DARK FATE</text>
+      </navLabel>
+      <content src="c001.xhtml" />
+    </navPoint>
+    <navPoint id="c002" playOrder="2">
+      <navLabel>
+        <text>Some stories have been previously published. Some stories are novellas and some are full length.</text>
+      </navLabel>
+      <content src="c002.xhtml" />
+    </navPoint>
+    <navPoint id="c003" playOrder="3">
+      <navLabel>
+        <text>BOOK 1 &#x2013; KEEPER by Tiffany Evans</text>
+      </navLabel>
+      <content src="c003.xhtml" />
+    </navPoint>
+    <navPoint id="c004" playOrder="4">
+      <navLabel>
+        <text>BOOK 2 - SEVENTH MARK by W. J. May</text>
+      </navLabel>
+      <content src="c004.xhtml" />
+    </navPoint>
+    <navPoint id="c005" playOrder="5">
+      <navLabel>
+        <text>BOOK 3 &#x2013; CRUSH by Chrissy Peebles</text>
+      </navLabel>
+      <content src="c005.xhtml" />
+    </navPoint>
+    <navPoint id="c006" playOrder="6">
+      <navLabel>
+        <text>His precious touch could prove deadly...</text>
+      </navLabel>
+      <content src="c006.xhtml" />
+    </navPoint>
+    <navPoint id="c007" playOrder="7">
+      <navLabel>
+        <text>BOOK 4 &#x2013; The COVETED Saga by C.M. Owens</text>
+      </navLabel>
+      <content src="c007.xhtml" />
+    </navPoint>
+    <navPoint id="c008" playOrder="8">
+      <navLabel>
+        <text>KEEPER | by | Tiffany Evans | A Hidden Bloodlines novel | Book 1</text>
+      </navLabel>
+      <content src="c008.xhtml" />
+    </navPoint>
+    <navPoint id="c009" playOrder="9">
+      <navLabel>
+        <text>Dedications:</text>
+      </navLabel>
+      <content src="c009.xhtml" />
+    </navPoint>
+    <navPoint id="c010" playOrder="10">
+      <navLabel>
+        <text>BOOK 1 &#x2013; KEEPER by Tiffany Evans</text>
+      </navLabel>
+      <content src="c010.xhtml" />
+    </navPoint>
+    <navPoint id="c011" playOrder="11">
+      <navLabel>
+        <text>BOOK 2 &#x2013; SEVENTH MARK by W.J. May | Seventh Mark</text>
+      </navLabel>
+      <content src="c011.xhtml" />
+    </navPoint>
+    <navPoint id="c012" playOrder="12">
+      <navLabel>
+        <text>Hidden Secrets Saga: | Download Seventh Mark part 1! | Book Trailer: http://www.youtube.com/watch?v=Y-_vVYC1gvo</text>
+      </navLabel>
+      <content src="c012.xhtml" />
+    </navPoint>
+    <navPoint id="c013" playOrder="13">
+      <navLabel>
+        <text>Of Part I</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_13" />
+    </navPoint>
+    <navPoint id="c014" playOrder="14">
+      <navLabel>
+        <text>Seventh Mark</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_14" />
+    </navPoint>
+    <navPoint id="c015" playOrder="15">
+      <navLabel>
+        <text>Acknowledgments</text>
+      </navLabel>
+      <content src="c015.xhtml" />
+    </navPoint>
+    <navPoint id="c016" playOrder="16">
+      <navLabel>
+        <text>** End of Excerpt ** | Purchase Seventh Mark Part 2:</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_16" />
+    </navPoint>
+    <navPoint id="c017" playOrder="17">
+      <navLabel>
+        <text>THE CHRONICLES OF KERRIGAN | Book Trailer:</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_17" />
+    </navPoint>
+    <navPoint id="c018" playOrder="18">
+      <navLabel>
+        <text>BOOK BLURB:</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_18" />
+    </navPoint>
+    <navPoint id="c019" playOrder="19">
+      <navLabel>
+        <text>The Chronicles of Kerrigan</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_19" />
+    </navPoint>
+    <navPoint id="c020" playOrder="20">
+      <navLabel>
+        <text>RAE OF HOPE | Chapter 1</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_20" />
+    </navPoint>
+    <navPoint id="c021" playOrder="21">
+      <navLabel>
+        <text>BOOK 3 &#x2013; CRUSH &#x2013; by Chrissy Peebles | Crush</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_21" />
+    </navPoint>
+    <navPoint id="c022" playOrder="22">
+      <navLabel>
+        <text>The Crush Saga</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_22" />
+    </navPoint>
+    <navPoint id="c023" playOrder="23">
+      <navLabel>
+        <text>Chapter 1</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_23" />
+    </navPoint>
+    <navPoint id="c024" playOrder="24">
+      <navLabel>
+        <text>Chapter 2</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_24" />
+    </navPoint>
+    <navPoint id="c025" playOrder="25">
+      <navLabel>
+        <text>Chapter 3</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_25" />
+    </navPoint>
+    <navPoint id="c026" playOrder="26">
+      <navLabel>
+        <text>Chapter 4</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_26" />
+    </navPoint>
+    <navPoint id="c027" playOrder="27">
+      <navLabel>
+        <text>Chapter 5</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_27" />
+    </navPoint>
+    <navPoint id="c028" playOrder="28">
+      <navLabel>
+        <text>Chapter 6</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_28" />
+    </navPoint>
+    <navPoint id="c029" playOrder="29">
+      <navLabel>
+        <text>Chapter 7</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_29" />
+    </navPoint>
+    <navPoint id="c030" playOrder="30">
+      <navLabel>
+        <text>Chapter 8</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_30" />
+    </navPoint>
+    <navPoint id="c031" playOrder="31">
+      <navLabel>
+        <text>Chapter 9</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_31" />
+    </navPoint>
+    <navPoint id="c032" playOrder="32">
+      <navLabel>
+        <text>Chapter 10</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_32" />
+    </navPoint>
+    <navPoint id="c033" playOrder="33">
+      <navLabel>
+        <text>Chapter 11</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_33" />
+    </navPoint>
+    <navPoint id="c034" playOrder="34">
+      <navLabel>
+        <text>Chapter 12</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_34" />
+    </navPoint>
+    <navPoint id="c035" playOrder="35">
+      <navLabel>
+        <text>Chapter 13</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_35" />
+    </navPoint>
+    <navPoint id="c036" playOrder="36">
+      <navLabel>
+        <text>Chapter 14</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_36" />
+    </navPoint>
+    <navPoint id="c037" playOrder="37">
+      <navLabel>
+        <text>Chapter 15</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_37" />
+    </navPoint>
+    <navPoint id="c038" playOrder="38">
+      <navLabel>
+        <text>Chapter 16</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_38" />
+    </navPoint>
+    <navPoint id="c039" playOrder="39">
+      <navLabel>
+        <text>Chapter 17</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_39" />
+    </navPoint>
+    <navPoint id="c040" playOrder="40">
+      <navLabel>
+        <text>Chapter 18</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_40" />
+    </navPoint>
+    <navPoint id="c041" playOrder="41">
+      <navLabel>
+        <text>Chapter 19</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_41" />
+    </navPoint>
+    <navPoint id="c042" playOrder="42">
+      <navLabel>
+        <text>Chapter 20</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_42" />
+    </navPoint>
+    <navPoint id="c043" playOrder="43">
+      <navLabel>
+        <text>Chapter 21</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_43" />
+    </navPoint>
+    <navPoint id="c044" playOrder="44">
+      <navLabel>
+        <text>Chapter 22</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_44" />
+    </navPoint>
+    <navPoint id="c045" playOrder="45">
+      <navLabel>
+        <text>Taylor&#x2019;s story continues with Book 2: Crash, now available</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_45" />
+    </navPoint>
+    <navPoint id="c046" playOrder="46">
+      <navLabel>
+        <text>***See sample chapters of The Zombie Chronicles &amp; Eternal Vows at the end of this intro***</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_46" />
+    </navPoint>
+    <navPoint id="c047" playOrder="47">
+      <navLabel>
+        <text>Chrissy&#x2019;s blog: http://chrissypeebles.blogspot.com/ | Facebook Fan Page: (I&#x2019;d love to hear your comments and thoughts!) https://www.facebook.com/media/set/?set=vb.351121651567296&amp;type=2#!/pages/Chrissy-Peebles/351121651567296</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_47" />
+    </navPoint>
+    <navPoint id="c048" playOrder="48">
+      <navLabel>
+        <text>Fantasy Romance Series</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_48" />
+    </navPoint>
+    <navPoint id="c049" playOrder="49">
+      <navLabel>
+        <text>Young Adult, Paranormal Romance Series</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_49" />
+    </navPoint>
+    <navPoint id="c050" playOrder="50">
+      <navLabel>
+        <text>Zombie Series | ***See sample chapters at the end of this intro***</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_50" />
+    </navPoint>
+    <navPoint id="c051" playOrder="51">
+      <navLabel>
+        <text>Prequel to The Zombie Chronicles: VAL</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_51" />
+    </navPoint>
+    <navPoint id="c052" playOrder="52">
+      <navLabel>
+        <text>Book 1 in The Trapped in the Hollow Earth Novelette Series | Castaway Blurb</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_52" />
+    </navPoint>
+    <navPoint id="c053" playOrder="53">
+      <navLabel>
+        <text>Want more FREE stories?!</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_53" />
+    </navPoint>
+    <navPoint id="c054" playOrder="54">
+      <navLabel>
+        <text>3 Sample Chapters from The Zombie Chronicles: | The Zombie Chronicles | Apocalypse Infection Unleashed Series | by | Chrissy Peebles</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_54" />
+    </navPoint>
+    <navPoint id="c055" playOrder="55">
+      <navLabel>
+        <text>Sample Chapter 1</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_55" />
+    </navPoint>
+    <navPoint id="c056" playOrder="56">
+      <navLabel>
+        <text>Chapter 2</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_56" />
+    </navPoint>
+    <navPoint id="c057" playOrder="57">
+      <navLabel>
+        <text>Chapter 3</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_57" />
+    </navPoint>
+    <navPoint id="c058" playOrder="58">
+      <navLabel>
+        <text>Sample Chapter from Eternal Vows: | Eternal Vows</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_58" />
+    </navPoint>
+    <navPoint id="c059" playOrder="59">
+      <navLabel>
+        <text>BOOK 4 &#x2013; TREASURED SECRETS &#x2013; by C.M. Owens</text>
+      </navLabel>
+      <content src="nook%2FisaSample.xhtml#_nook_isaSample_59" />
+    </navPoint>
+  </navMap>
+</ncx>

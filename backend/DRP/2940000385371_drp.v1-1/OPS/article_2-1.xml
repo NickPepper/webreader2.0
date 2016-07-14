@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns:saxon="http://saxon.sf.net/" xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:nitf="http://www.nytimes.com/applicationdata/xml/nitf-3-3.dtd">
+   <head>
+      <title>Mud in Your Eye</title>
+      <link rel="stylesheet" href="css/TablesAndFloats.css" type="text/css"/>
+   </head>
+   <body>
+      <div id="header_navbar" class="articleMenuWrapper">
+         <span id="header_navbar_previous" class="sectionMenuLeft"/>
+         <span id="header_navbar_next" class="sectionMenuRight">
+            <a href="article_2-2.xml">Next Article</a>
+         </span>
+      </div>
+      <div class="clean"/>
+      <div id="header" class="masthead">
+         <div class="masthead-text">
+            <div id="header_title" class="masthead-section">
+               <a href="section_2.xml">Books &#x0026; the Arts</a>
+            </div>
+         </div>
+      </div>
+      <h2 id="headline" class="article-full-headline">Mud in Your Eye</h2>
+      <p id="byline" class="article-full-byline"></p>
+      <div>
+         <div id="image_0" class="article-in-image">
+            <img id="image_0_img" class="article-in-image" src="images/img_1_211.jpg" alt="News image"/>
+         </div>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">HAMTRAMCK, MICH.</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">In minor objection but with much appreciation for Elias Altman’s “Watered Whiskey” [May 2], it seems to me that this collection contains some of the strongest barrels of whiskey brewed by James Baldwin, and as one reads it, and feels the anger that emanates from this love-revering artist, one can understand why these writings, perhaps until now, remained uncollected; taken together, his truth is hard to swallow. Yes, he says, we have come so far, and no, he is not talking about race relations in society, and probably he is not talking about you or, for that matter, me. It burns our throat, and depending on where we came from, makes us feel dirty or makes us feel real. For those of us who are not made proud by his paintings of the great myth of America, but who sense that salvation will come not in loving the freedom but in freeing our love, I think we should ask ourselves: have we added water just to make it easier to go down?</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">CAMERON KYLE-SIDELL</p>
+         <div id="footer_navbar" class="sectionMenuWrapper">
+            <span id="footer_navbar_previous" class="sectionMenuLeft"/>
+            <span id="footer_navbar_next" class="sectionMenuRight">
+               <a href="article_2-2.xml">Next Article</a>
+            </span>
+         </div>
+      </div>
+   </body>
+</html>

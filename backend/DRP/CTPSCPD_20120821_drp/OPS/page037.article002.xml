@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Cooking with Paula Deen</title>
+<link href="css/test1.css" rel="stylesheet" type="text/css" />
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    </head>
+<body class="left">
+        <div class="before">
+            <div class="articleMenuWrapper" id="header_navbar">
+                <div class="sectionMenuLeft" id="header_navbar_previous">
+                    <a href="page037.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="header_navbar_next">
+                    <a href="page040.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+            <div class="masthead" id="header">
+                <div class="masthead-text">
+                    <div class="masthead-section" id="header_title">
+                        <a href="section.xml">Contents</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="article-headline" id="Headline">SHRIMP AND CHEESE PHYLLO TRIANGLES</div>
+
+
+
+<div class="article-in-image" id="image1"><img src="images/page037.article002.image1.jpg" class="article-in-image" alt=""/></div>
+<div id="separatorLine"> <div class="invisible">empty</div> </div>
+
+<div class="articleImageCredit" id="ImageCredit">PHOTOGRAPHY BY WILLIAM DICKEY</div>
+<div class="article-body" id="Body"><p class="no-indent">Makes about 4 dozen </p><br/><p class="no-indent">½ pound peeled and deveined cooked shrimp, chopped</p><p class="no-indent">1 (8-ounce) package cream cheese, softened </p><p class="no-indent">1 cup shredded fontina cheese </p><p class="no-indent">2 tablespoons minced green onion </p><p class="no-indent">2 teaspoons minced fresh dill </p><p class="no-indent">1 large egg, lightly beaten </p><p class="no-indent">1½ (16-ounce) packages frozen phyllo dough, thawed </p><p class="no-indent">1½ cups butter, melted </p><br/><p class="no-indent">1. In a medium bowl, stir together shrimp and the next 5 ingredients. </p><br/><p class="no-indent">2. On a clean, flat surface, unroll phyllo dough. Stack dough, and cut lengthwise into quarters. Cover phyllo with plastic wrap or a clean damp kitchen towel to prevent it from drying out. </p><br/><p class="no-indent">3. Stack 4 strips, brushing with melted butter between strips. Spoon about 1 teaspoon shrimp mixture onto one end of prepared strips. Fold 1 corner of short edge over mixture, leaving a 1-inch border; continue folding side to side to the end of the strips, forming a triangle. Repeat procedure with remaining phyllo, butter, and shrimp mixture. </p><br/><p class="no-indent">4. Preheat oven to 400°. Place triangles, seam side down, on baking sheets. Bake for 12 to 15 minutes or until golden brown. Serve warm. </p><br/><p class="no-indent">To make ahead: Place prepared triangles on baking sheets in a single layer and freeze. Remove from baking sheets, and place in heavy-duty resealable plastic bags. Freeze for up to 1 month. To bake from frozen, place on baking sheets, and let stand for 30 minutes. Bake as directed.</p></div>
+<div class="after">
+            <div class="articleMenuWrapper" id="footer_navbar">
+                <div class="sectionMenuLeft" id="footer_navbar_previous">
+                    <a href="page037.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="footer_navbar_next">
+                    <a href="page040.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+        </div>
+    </body>
+</html>

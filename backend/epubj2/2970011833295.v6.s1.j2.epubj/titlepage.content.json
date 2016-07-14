@@ -1,0 +1,125 @@
+{  
+    "E":{  
+        "v":"0",
+        "b":"Cover",
+        "T":"titlepage",
+        "K":".xhtml",
+        "X":"q1",
+        "O":"titlepage.content.json",
+        "A":[  
+            {  
+                "T":"xml:lang",
+                "d":"en"
+            },
+            {  
+                "T":"xmlns",
+                "d":"http://www.w3.org/1999/xhtml"
+            }
+        ],
+        "I":[  
+
+        ],
+        "L":[  
+            {  
+                "B":"bookbody",
+                "C":"/4",
+                "D":[  
+                    {  
+                        "B":"#text",
+                        "C":"/4/1",
+                        "J":"\n        "
+                    },
+                    {  
+                        "B":"div",
+                        "C":"/4/2",
+                        "D":[  
+                            {  
+                                "B":"#text",
+                                "C":"/4/2/1",
+                                "J":"\n            "
+                            },
+                            {  
+                                "B":"svg",
+                                "C":"/4/2/2",
+                                "A":[  
+                                    {  
+                                        "T":"version",
+                                        "d":"1.1"
+                                    },
+                                    {  
+                                        "T":"width",
+                                        "d":"100%"
+                                    },
+                                    {  
+                                        "T":"height",
+                                        "d":"100%"
+                                    },
+                                    {  
+                                        "T":"viewBox",
+                                        "d":"0 0 566 734"
+                                    },
+                                    {  
+                                        "T":"preserveAspectRatio",
+                                        "d":"none"
+                                    },
+                                    {  
+                                        "T":"xmlns",
+                                        "d":"http://www.w3.org/2000/svg"
+                                    },
+                                    {  
+                                        "T":"xmlns:xlink",
+                                        "d":"http://www.w3.org/1999/xlink"
+                                    }
+                                ],
+                                "D":[  
+                                    {  
+                                        "B":"#text",
+                                        "C":"/4/2/2/1",
+                                        "J":"\n                "
+                                    },
+                                    {  
+                                        "B":"image",
+                                        "C":"/4/2/2/2",
+                                        "A":[  
+                                            {  
+                                                "T":"width",
+                                                "d":"566"
+                                            },
+                                            {  
+                                                "T":"height",
+                                                "d":"734"
+                                            },
+                                            {  
+                                                "T":"xlink:href",
+                                                "d":"cover.jpeg"
+                                            }
+                                        ],
+                                        "J":""
+                                    },
+                                    {  
+                                        "B":"#text",
+                                        "C":"/4/2/2/3",
+                                        "J":"\n            "
+                                    }
+                                ]
+                            },
+                            {  
+                                "B":"#text",
+                                "C":"/4/2/3",
+                                "J":"\n        "
+                            }
+                        ]
+                    },
+                    {  
+                        "B":"#text",
+                        "C":"/4/3",
+                        "J":"\n    "
+                    }
+                ]
+            }
+        ],
+        "script":[  
+
+        ]
+    }
+}

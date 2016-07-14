@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Cooking with Paula Deen</title>
+<link href="css/test1.css" rel="stylesheet" type="text/css" />
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    </head>
+<body class="left">
+        <div class="before">
+            <div class="articleMenuWrapper" id="header_navbar">
+                <div class="sectionMenuLeft" id="header_navbar_previous">
+                    <a href="page075.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="header_navbar_next">
+                    <a href="page083.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+            <div class="masthead" id="header">
+                <div class="masthead-text">
+                    <div class="masthead-section" id="header_title">
+                        <a href="section.xml">Contents</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="article-headline" id="Headline">A TABLE OF TREATS</div>
+<div class="article-subhead" id="SubHeadline">Invite friends over for an array of bakery goodies on a tablescape decked out for Halloween.</div>
+
+
+<div class="article-in-image" id="image1"><img src="images/page080.article001.image1.jpg" class="article-in-image" alt=""/></div>
+<div id="separatorLine"> <div class="invisible">empty</div> </div>
+
+<div class="articleImageCredit" id="ImageCredit">PHOTOGRAPHY BY WILLIAM DICKEY</div>
+<div class="article-body" id="Body"><p class="no-indent">Here’s How </p><br/><p class="no-indent">Find an outdoor spot for your table where trees frame the area, and then drape Spanish moss from the limbs for a spooky look. Top the table with fabric in neutral colors like this one featuring a black and white spiderweb pattern. Group several orange, red, or gold tiered serving pieces down the table, tucking small pumpkins underneath. Add a large candelabra on one end, and fill in with crow and rose arrangements. Add bakery cupcakes and cookies, and watch the magic begin. </p><br/><p class="no-indent">Crow and Rose Arrangements </p><br/><p class="no-indent">For stylish, easy, and whimsical table arrangements, begin with quart-size canning jars. Select roses in a blend of autumn colors like these shades of yellow, gold, and red. After trimming away the leaves, cut the stems so the roses are only a few inches taller than the jars. Fill with water, and arrange blooms in jars. Fill in around the lower edges with maple leaves. Add interest by perching a black crow replica (available at craft and variety stores) atop each arrangement.</p></div>
+<div class="after">
+            <div class="articleMenuWrapper" id="footer_navbar">
+                <div class="sectionMenuLeft" id="footer_navbar_previous">
+                    <a href="page075.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="footer_navbar_next">
+                    <a href="page083.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+        </div>
+    </body>
+</html>

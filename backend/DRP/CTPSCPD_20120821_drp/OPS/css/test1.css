@@ -1,0 +1,469 @@
+
+@page {
+  margin-left: 30px;
+  margin-right: 25px;
+  margin-top: 19px;
+  margin-bottom: 15px;
+}
+img.cover-image
+{
+	max-width: 600px
+}
+
+
+/********** BN Section Menu styles Chris original ***************/
+*.sectionMenuWrapper {  display: block;
+                            color: black;
+                            width: 100%;
+                            text-align: right;}
+
+*.articleMenuWrapper {  display: block;
+                            color: black;
+                            width: 100%;
+                            text-align: right;}
+
+
+*.sectionName {font-size: 2em;
+            font-weight: bold; 
+            text-align: center;
+}
+
+*.sectionName a {text-decoration: none;
+                color: black;}
+                
+*.sectionNameGoTo { font-size: 0.9em;
+            font-weight: bold; 
+            text-align: center;
+}
+
+*.sectionNameGoTo a {text-decoration: none;
+                color: black;}
+
+div.sectionMenuLeft  {
+    float:left;
+}
+
+div.sectionMenuLeft a { 
+    font-size: 0.6em;
+    font-weight: bold;
+    padding-right: 10px;
+}
+
+div.sectionMenuLeft a:hover  { 
+    background-color: grey;
+    color: white;
+}
+                        
+div.sectionMenuRight  {
+
+}       
+
+div.sectionMenuRight a { 
+    font-size: 0.6em;
+    font-weight: bold;
+    padding-left: 10px;
+}
+div.sectionMenuRight a:hover  {    
+    background-color: grey;
+    color: white;
+    padding-left: 10px;
+}       
+
+                    
+
+/******** BN Section Menu styles ***************
+*.sectionMenuWrapper {  display: block;
+                            color: black;
+                            width: 100%;
+                            text-align: right;
+                            margin-bottom:5px;
+                    border-bottom:1px dotted black;}
+
+*.sectionName { font-size: 0.75em;
+            font-weight: bold; 
+            text-align: center;
+
+div.sectionMenuLeft  {
+    float:left;
+}
+
+div.sectionMenuLeft a { 
+    font-size: 9px;
+    font-weight: bold;
+    padding-right: 10px;
+}
+
+div.sectionMenuLeft a:hover  { 
+    background-color: grey;
+    color: white;
+}
+                        
+div.sectionMenuRight  {
+    
+}       
+
+div.sectionMenuRight a { 
+    font-size: 9px;
+    font-weight: bold;
+    padding-left: 10px;
+}
+div.sectionMenuRight a:hover  {    
+    background-color: grey;
+    color: white;
+    padding-left: 10px;
+}       
+
+                    
+div.sectionMenuLeft a, div.sectionMenuRight a {
+    text-decoration: none;
+    color: black;
+}
+*/
+
+/********** Footer Menu styles ***************/
+
+div.footerWrapper { display: table;
+                    width: 100%;
+                    position: fixed;
+                    bottom: 0px;}
+
+div.footer  {   display: table-row;
+                width: 100%;}
+
+div.footer div {    display: table-cell;
+                    font-size: 8pt;
+                    background-color: black;
+                    color: red;
+                    text-align: center;}
+                
+
+                    
+div.footer a {  text-decoration: none;
+                color: white;}
+
+/********* miscl. **********/
+
+div.cover-block { text-align: center;}
+
+*.cover-image { }
+
+/********** masthead styles ***************/
+div.masthead {  width: 100%;
+                margin: 0;
+                padding: 0;
+                text-align: center;
+            margin-bottom: 30px;
+border-bottom:1px dotted gray;}
+
+img.masthead-img {  /*max-height: 30px; width: 200px;*/}
+
+
+div.masthead-text { vertical-align: bottom; 
+                    width: 100%;
+                    margin: 0;
+                    padding: 0;}
+
+            
+div.masthead-section {  font-size: 10pt;
+                        text-align: center;
+}
+
+div.masthead-section a {
+                        color: black;
+                        text-decoration: none;
+                        }
+
+div.masthead-date { font-size: 10pt; 
+                        text-align: center;
+}
+
+
+/********** Column styles ****************/
+
+div.article_row {
+        display: table-row;
+        /*background-color: blue;*/
+        margin-bottom: 15px;
+};
+
+div.article_block {
+        display: table-cell;
+        margin-bottom: 15px;}
+
+*.image-cell {  width: 20%;
+                vertical-align: top}
+
+*.two-column {  /*width: 584px; */
+                width: 100%;
+                height: 600px;
+                display: table;
+                margin-top: 5px; }
+
+*.left-column {
+                    border-right-style: solid; 
+                    border-right-width: thin; 
+                    padding-right: 5px;
+                    width: 49%;
+                    height: 595px; 
+                    overflow:hidden; 
+                    display: table-cell;}
+
+
+
+*.right-column {
+                    padding-left: 5px;
+                    width: 49%;
+                    height: 595px;
+                    overflow:hidden;
+                    display: table-cell;}
+
+*.column-text {}
+
+
+
+/******* Article styles used on section head pages *********/
+*.article-headline {    font-size: x-large; 
+                        margin-top: 0px; 
+                        margin-bottom: 5px;
+                        font-weight:bolder;
+						
+						
+						}
+						
+
+*.article-subhead { font-size: medium; 
+                    margin-top: 0px; 
+                    margin-bottom: 5px;
+                    font-style: italic;}
+
+*.article-byline {  font-size: small; 
+                    margin-top: 0px; 
+                    margin-bottom: 5px;
+					font-style:italic}
+
+*.article-body {    /* font-size: 18px; */
+                    margin-top: 10px;
+                    margin-bottom: 5px;
+					font-style:normal;
+					text-align:left;
+					text-indent:50px;
+					
+					}
+div.article-image 
+{
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 1em;
+	text-align: center;
+	display:block;
+}
+
+
+
+/********* Article sytles used on full article pages ********/
+*.article-full-headline {   font-size: x-large;
+                            text-decoration: none;
+                            margin-bottom: 5px;}
+
+*.article-full-subhead {    font-size: medium;
+                            margin-top: 0px; 
+                            margin-bottom: 5px;}
+
+*.article-full-byline { font-size: small;
+                        margin-top: 0px; 
+                        margin-bottom: 10px;
+                        font-style: italic;
+                        }
+
+*.article-print-info {  font-size: x-small;
+                        margin-top: 0px;
+                        margin-bottom: 5px;}
+
+p.article-full-body {
+    margin-top: 0;
+    margin-bottom: 5px;
+    text-indent: 2em;
+    text-align: justify;
+}
+
+img.article-image  
+{  
+	display: block;
+    max-width: 90%;
+    border: none;
+}
+div.articleImageCaption {
+    font-size: xx-small; 
+    padding: 5px;
+	
+    margin-left: auto;
+    margin-right: auto;
+	font-style: normal;
+	text-align: center;
+	
+    /* Bill - this is the automatic margin to try
+    width: 300px;
+    margin-left: auto
+    margin-right: auto;
+    */
+}
+
+div.articleImageCredit {
+    font-size: xx-small;
+    font-style: italic;
+
+    margin-left: auto;
+    margin-right: auto;
+	text-align: center;
+    /* Bill - this is the automatic margin to try
+    width: 300px;
+    margin-left: auto
+    margin-right: auto;
+    */
+}
+
+/********* Article styles used on exhaustive article list pages ********/
+*.section-list-headline {   font-size: 12pt;
+                            text-decoration: none;
+                            margin-top: 15px;
+                            font-weight: bold;}
+                            
+*.section-list-body {       font-size: 8pt;
+                            margin-bottom: 5px;}
+
+/********* Article styles used universally ***********/
+
+div.article-spacer {
+    border-bottom:1px dotted gray;
+    margin-bottom:15px;
+    margin-left:15px;
+    margin-right:15px;
+}
+
+a.article-link {    text-decoration: none;
+                    color: black;}
+                    
+                    
+/*********  tabular styles ************/
+div.sectionArticleBlock {
+    display: table;
+    margin-bottom:2px;
+}
+div.sectionArticleBlockOdd {
+    display: table;
+    margin-bottom:2px;
+}
+
+div.sectionArticleThumbBlock {
+    display: table-cell;
+    max-height: 120px;
+    max-width: 120px;
+    margin-right: 5px;
+    margin-bottom: 1px;
+    text-align:center;
+}
+
+img.sectionArticleImage { 
+    display: block;
+    max-height: 90px;
+    max-width: 100%;
+}
+
+div.sectionArticleTextBlock {
+    padding: 5px;
+    display: table-cell;
+    vertical-align:top;
+}
+                            
+div.sectionArticleTitle {
+        display: block;
+        margin-left: auto;
+}
+                        
+*.sectionArticleLink {  text-decoration: none;
+                        }
+    
+*.sectionArticleHeadline {  
+    font-size: 1.2em; /*0.9em; */
+    font-weight:bold;
+    color:black;
+}
+div.sectionArticleByline {
+    font-size:0.8em;
+    font-style: italic;
+    margin-bottom: 3px;
+}
+
+*.sectionArticleBody {  font-size: 0.8em;
+                text-align: justify;}
+
+*.sectionArticleWordCount { font-size:0.7em;
+                            text-align:right;}
+
+/************** Table of contents *******************/
+
+.toc {
+    list-style-type: none;
+    margin-bottom: 5px;
+}
+
+.toc-section a {
+    font-size: 1.0em;
+}
+
+.toc-article a {
+    font-size: .8em;
+}
+
+.toc-section a, .toc-article a {
+    color: black;
+    text-decoration: none;
+}
+
+div.masthead-copyright {
+    font-size: .8em;
+}
+
+p.caption {
+    text-indent: 0;
+    font-family: sans-serif;
+    font-weight:bold;
+    margin-top: 0;
+}
+
+div.article-in-image {  margin-left: 10px;
+                        margin-right: 10px;
+                        margin-bottom: 7px;
+                        text-align: center;
+}
+
+img.article-in-image {  max-width: 350px;
+                        max-height: 300px;
+                        border: none;}
+
+div.separator-line {
+	border-bottom: 1px solid black;
+	margin-bottom: 7px;
+}
+
+th { font-size: small;
+}
+
+td { font-size: small;
+}
+
+table {
+	text-indent: 0px;
+}
+
+p {	
+	margin: 0px;
+ }
+ 
+ p.no-indent {
+ 	text-indent: 0px;
+ }
+ 
+ div.invisible {
+ 	display: none !important;
+ }

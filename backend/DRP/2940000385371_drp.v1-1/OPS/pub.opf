@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="PrimaryID" xmlns="http://www.idpf.org/2007/opf">
+  <opf:metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>The Nation 06/06/11</dc:title>
+    <dc:description></dc:description>
+    <dc:creator>Nation Company</dc:creator>
+    <dc:publisher>Nation Company</dc:publisher>
+    <dc:identifier id="PrimaryID" opf:scheme="URN">urn:uuid:tco/lat/lat/20090624/sat_met/674989</dc:identifier>
+    <dc:identifier id="LDID">lat</dc:identifier>
+    <dc:language>en-US</dc:language>
+    <dc:date opf:event="publication">2011-06-06</dc:date>
+    <meta name="BNContentKind" content="magazineDRP" xmlns="" />
+  </opf:metadata>
+  <manifest>
+    <item id="s-1371557247" href="section_2.xml" media-type="application/xhtml+xml" />
+    <!-- section file for section: Books &#x0026; the Arts. -->
+    <item id="a799669558" href="article_2-1.xml" media-type="application/xhtml+xml" />
+    <item id="a800593079" href="article_2-2.xml" media-type="application/xhtml+xml" />
+    <item id="a801516600" href="article_2-3.xml" media-type="application/xhtml+xml" />
+    <item id="a713217046" href="article_11-1.xml" media-type="application/xhtml+xml" />
+    <item id="a-31735526" href="article_15-1.xml" media-type="application/xhtml+xml" />
+    <item id="a-1663268258" href="article_18-2.xml" media-type="application/xhtml+xml" />
+    <item id="a-950512713" href="article_22-2.xml" media-type="application/xhtml+xml" />
+    <item id="a-63009032" href="article_23-2.xml" media-type="application/xhtml+xml" />
+    <item id="a1711998330" href="article_25-2.xml" media-type="application/xhtml+xml" />
+    <item id="a-807961604" href="article_27-2.xml" media-type="application/xhtml+xml" />
+    <item id="a791374101" href="article_32-1.xml" media-type="application/xhtml+xml" />
+    <item id="a1678877782" href="article_33-1.xml" media-type="application/xhtml+xml" />
+    <item id="s-1370633726" href="section_3.xml" media-type="application/xhtml+xml" />
+    <!-- section file for section: Editorial. -->
+    <item id="a1687173239" href="article_3-1.xml" media-type="application/xhtml+xml" />
+    <item id="a-1720290376" href="article_4-1.xml" media-type="application/xhtml+xml" />
+    <item id="a-832786695" href="article_5-1.xml" media-type="application/xhtml+xml" />
+    <item id="a-831863174" href="article_5-2.xml" media-type="application/xhtml+xml" />
+    <item id="a-830939653" href="article_5-3.xml" media-type="application/xhtml+xml" />
+    <item id="a-830016132" href="article_5-4.xml" media-type="application/xhtml+xml" />
+    <item id="a55640507" href="article_6-2.xml" media-type="application/xhtml+xml" />
+    <item id="a56564028" href="article_6-3.xml" media-type="application/xhtml+xml" />
+    <item id="s-1369710205" href="section_4.xml" media-type="application/xhtml+xml" />
+    <!-- section file for section: Columns. -->
+    <item id="a1829724348" href="article_8-1.xml" media-type="application/xhtml+xml" />
+    <item id="a-174286635" href="article_10-1.xml" media-type="application/xhtml+xml" />
+    <item id="i1855946107" href="images/img_3_231.jpg" media-type="image/jpeg" />
+    <item id="i848810484" href="images/Thumb-img_5_1511.jpg" media-type="image/jpeg" />
+    <item id="i596923432" href="images/img_11_811.jpg" media-type="image/jpeg" />
+    <item id="i1318902981" href="images/img_9_411.jpg" media-type="image/jpeg" />
+    <item id="i-2056113533" href="images/img_8_311.jpg" media-type="image/jpeg" />
+    <item id="i-96223469" href="images/Thumb-img_6_2721.jpg" media-type="image/jpeg" />
+    <item id="i1339902205" href="images/img_5_1511.jpg" media-type="image/jpeg" />
+    <item id="i-547934548" href="images/Thumb-img_8_311.jpg" media-type="image/jpeg" />
+    <item id="i-1668158876" href="images/Thumb-img_1_211.jpg" media-type="image/jpeg" />
+    <item id="i-660195877" href="images/img_2_221.jpg" media-type="image/jpeg" />
+    <item id="i1790276561" href="images/Thumb-img_4_1111.jpg" media-type="image/jpeg" />
+    <item id="i1118629435" href="images/img_1_211.jpg" media-type="image/jpeg" />
+    <item id="i847983108" href="images/Thumb-img_2_221.jpg" media-type="image/jpeg" />
+    <item id="i394868252" href="images/img_6_2721.jpg" media-type="image/jpeg" />
+    <item id="i-1411994179" href="images/Thumb-img_12_1011.jpg" media-type="image/jpeg" />
+    <item id="i-1467885330" href="images/Thumb-img_9_411.jpg" media-type="image/jpeg" />
+    <item id="i926947284" href="images/img_12_1011.jpg" media-type="image/jpeg" />
+    <item id="i105831711" href="images/Thumb-img_11_811.jpg" media-type="image/jpeg" />
+    <item id="i-2013599014" href="images/img_4_1111.jpg" media-type="image/jpeg" />
+    <item id="i-930842204" href="images/Thumb-img_3_231.jpg" media-type="image/jpeg" />
+    <item id="i657999684" href="images/img_10_621.jpg" media-type="image/jpeg" />
+    <item id="i1278893101" href="images/Thumb-img_7_3211.jpg" media-type="image/jpeg" />
+    <item id="i166907963" href="images/Thumb-img_10_621.jpg" media-type="image/jpeg" />
+    <item id="i1769984822" href="images/img_7_3211.jpg" media-type="image/jpeg" />
+    <item id="masthead.jpg" href="images/masthead.jpg" media-type="image/jpeg" />
+    <item id="cover.jpg" href="images/cover.jpg" media-type="image/jpeg" />
+    <item id="cover.xml" href="cover.xml" media-type="application/xhtml+xml" />
+    <item id="ncx" href="pub.ncx" media-type="application/x-dtbncx+xml" />
+    <item id="c2092886482" href="css/TablesAndFloats.css" media-type="text/css" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xml" linear="yes" />
+    <itemref idref="s-1371557247" linear="yes" />
+    <!-- section file for section: Books &#x0026; the Arts. -->
+    <itemref idref="a799669558" linear="yes" />
+    <itemref idref="a800593079" linear="yes" />
+    <itemref idref="a801516600" linear="yes" />
+    <itemref idref="a713217046" linear="yes" />
+    <itemref idref="a-31735526" linear="yes" />
+    <itemref idref="a-1663268258" linear="yes" />
+    <itemref idref="a-950512713" linear="yes" />
+    <itemref idref="a-63009032" linear="yes" />
+    <itemref idref="a1711998330" linear="yes" />
+    <itemref idref="a-807961604" linear="yes" />
+    <itemref idref="a791374101" linear="yes" />
+    <itemref idref="a1678877782" linear="yes" />
+    <itemref idref="s-1370633726" linear="yes" />
+    <!-- section file for section: Editorial. -->
+    <itemref idref="a1687173239" linear="yes" />
+    <itemref idref="a-1720290376" linear="yes" />
+    <itemref idref="a-832786695" linear="yes" />
+    <itemref idref="a-831863174" linear="yes" />
+    <itemref idref="a-830939653" linear="yes" />
+    <itemref idref="a-830016132" linear="yes" />
+    <itemref idref="a55640507" linear="yes" />
+    <itemref idref="a56564028" linear="yes" />
+    <itemref idref="s-1369710205" linear="yes" />
+    <!-- section file for section: Columns. -->
+    <itemref idref="a1829724348" linear="yes" />
+    <itemref idref="a-174286635" linear="yes" />
+  </spine>
+  <guide>
+    <reference type="toc" title="Books &amp; the Arts" href="section_2.xml" />
+    <reference type="toc" title="Editorial" href="section_3.xml" />
+    <reference type="toc" title="Columns" href="section_4.xml" />
+  </guide>
+</package>

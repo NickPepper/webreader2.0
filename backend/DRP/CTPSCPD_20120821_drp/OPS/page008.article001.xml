@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Cooking with Paula Deen</title>
+<link href="css/test1.css" rel="stylesheet" type="text/css" />
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    </head>
+<body class="left">
+        <div class="before">
+            <div class="articleMenuWrapper" id="header_navbar">
+                <div class="sectionMenuLeft" id="header_navbar_previous">
+                    <a> </a>
+                </div>
+                <div class="sectionMenuRight" id="header_navbar_next">
+                    <a href="page010.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+            <div class="masthead" id="header">
+                <div class="masthead-text">
+                    <div class="masthead-section" id="header_title">
+                        <a href="section.xml">Contents</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="article-headline" id="Headline">HEY Y'ALL</div>
+
+
+
+<div class="article-in-image" id="image1"><img src="images/page008.article001.image1.jpg" class="article-in-image" alt=""/></div>
+<div id="separatorLine"> <div class="invisible">empty</div> </div>
+
+
+<div class="article-body" id="Body"><p class="no-indent">Fall has such a gentle way of easing in across the South—like when cool breezes interrupt the summer heat and vivid colors show up in the trees. But when pumpkins appear at roadside stands, that’s my signal that it’s finally here. </p><br/><p class="no-indent">I buy a trunkload of every size and shape for making jack-o-lanterns, decorating, and of course, for cooking. I’ve chosen a Pumpkin and Cannellini Bean Soup recipe for my Best Dishes column, and the recipe on page 98 is savory, rich, creamy, and makes a mighty memorable impression when served in small hollowed-out pie pumpkins. </p><br/><p class="no-indent">My family tailgates every Saturday this time of year. Whether staying home as armchair quarterbacks or traveling to the festivities at the stadium, we love college football! On page 48 you’ll find crowd-pleasing recipes such as Buffalo Chicken Sliders, Barbecue Snack Mix, and Peanut Butter Brownie Cups. They’re all make-aheads, so you can get out of the kitchen and into the game right at kickoff. </p><br/><p class="no-indent">Several months ago, I promised a selection of versatile chicken recipes. My favorites are on page 56, and each can be dressed up for company or served with simple sides for ordinary weeknights. Michael and I had Skillet Greek Chicken the other night by ourselves, but I’d happily serve it to company with a green salad, crunchy pita chips, and bowls of Greek yogurt with fruit for dessert. </p><br/><p class="no-indent">Finally, we’ll show you a smart kitchen that marries modern conveniences with warm, earthy decorative influences. It’s the ultimate hub for cooking and entertaining. And for those who love the beach during the cooler autumn months like I do, check out our story on Tybee Island, Georgia, on page 84. It’s a charming coastal town that offers delicious dining, shopping, historic sites, and fun festivals. </p><br/><p class="no-indent">Now turn the page friends, ready your taste buds, and plan to savor the fun of fall with those you love! </p><br/><p class="no-indent">Best Dishes,</p><p class="no-indent">Paula</p></div>
+<div class="after">
+            <div class="articleMenuWrapper" id="footer_navbar">
+                <div class="sectionMenuLeft" id="footer_navbar_previous"> </div>
+                <div class="sectionMenuRight" id="footer_navbar_next">
+                    <a href="page010.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,458 @@
+<?xml version="1.0"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head>
+       <meta name="dtb:uid" content="http://www.hxa7241.org/articles/content/epup-guide_hxa7241_2007_1.epub"/>
+    </head>
+    <docTitle>
+       <text>Pride and Prejudice (Barnes &amp; Noble Classics Series)</text>
+    </docTitle>
+    <navMap>
+            <navPoint id="fm1" playOrder="1">
+         <navLabel>
+            <text>From the Pages of Pride and Prejudice</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_fm1_r1.html"/>
+      </navPoint>
+      <navPoint id="tp" playOrder="2">
+         <navLabel>
+            <text>Title Page</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_tp_r1.html"/>
+      </navPoint>
+      <navPoint id="cop" playOrder="3">
+         <navLabel>
+            <text>Copyright Page</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_cop_r1.html"/>
+      </navPoint>
+      <navPoint id="ata" playOrder="4">
+         <navLabel>
+            <text>Jane Austen</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_ata_r1.html"/>
+      </navPoint>
+      <navPoint id="fm2" playOrder="5">
+         <navLabel>
+            <text>The World of Jane Austen and Pride and Prejudice</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_fm2_r1.html"/>
+      </navPoint>
+      <navPoint id="itr" playOrder="6">
+         <navLabel>
+            <text>Introduction</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_itr_r1.html"/>
+      </navPoint>
+      <navPoint id="p01" playOrder="7">
+         <navLabel>
+            <text>Volume the First</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_p01_r1.html"/>
+      <navPoint id="c01" playOrder="8">
+         <navLabel>
+            <text>Chapter 1</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c01_r1.html"/>
+      </navPoint>
+      <navPoint id="c02" playOrder="9">
+         <navLabel>
+            <text>Chapter 2</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c02_r1.html"/>
+      </navPoint>
+      <navPoint id="c03" playOrder="10">
+         <navLabel>
+            <text>Chapter 3</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c03_r1.html"/>
+      </navPoint>
+      <navPoint id="c04" playOrder="11">
+         <navLabel>
+            <text>Chapter 4</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c04_r1.html"/>
+      </navPoint>
+      <navPoint id="c05" playOrder="12">
+         <navLabel>
+            <text>Chapter 5</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c05_r1.html"/>
+      </navPoint>
+      <navPoint id="c06" playOrder="13">
+         <navLabel>
+            <text>Chapter 6</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c06_r1.html"/>
+      </navPoint>
+      <navPoint id="c07" playOrder="14">
+         <navLabel>
+            <text>Chapter 7</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c07_r1.html"/>
+      </navPoint>
+      <navPoint id="c08" playOrder="15">
+         <navLabel>
+            <text>Chapter 8</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c08_r1.html"/>
+      </navPoint>
+      <navPoint id="c09" playOrder="16">
+         <navLabel>
+            <text>Chapter 9</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c09_r1.html"/>
+      </navPoint>
+      <navPoint id="c10" playOrder="17">
+         <navLabel>
+            <text>Chapter 10</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c10_r1.html"/>
+      </navPoint>
+      <navPoint id="c11" playOrder="18">
+         <navLabel>
+            <text>Chapter 11</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c11_r1.html"/>
+      </navPoint>
+      <navPoint id="c12" playOrder="19">
+         <navLabel>
+            <text>Chapter 12</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c12_r1.html"/>
+      </navPoint>
+      <navPoint id="c13" playOrder="20">
+         <navLabel>
+            <text>Chapter 13</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c13_r1.html"/>
+      </navPoint>
+      <navPoint id="c14" playOrder="21">
+         <navLabel>
+            <text>Chapter 14</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c14_r1.html"/>
+      </navPoint>
+      <navPoint id="c15" playOrder="22">
+         <navLabel>
+            <text>Chapter 15</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c15_r1.html"/>
+      </navPoint>
+      <navPoint id="c16" playOrder="23">
+         <navLabel>
+            <text>Chapter 16</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c16_r1.html"/>
+      </navPoint>
+      <navPoint id="c17" playOrder="24">
+         <navLabel>
+            <text>Chapter 17</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c17_r1.html"/>
+      </navPoint>
+      <navPoint id="c18" playOrder="25">
+         <navLabel>
+            <text>Chapter 18</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c18_r1.html"/>
+      </navPoint>
+      <navPoint id="c19" playOrder="26">
+         <navLabel>
+            <text>Chapter 19</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c19_r1.html"/>
+      </navPoint>
+      <navPoint id="c20" playOrder="27">
+         <navLabel>
+            <text>Chapter 20</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c20_r1.html"/>
+      </navPoint>
+      <navPoint id="c21" playOrder="28">
+         <navLabel>
+            <text>Chapter 21</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c21_r1.html"/>
+      </navPoint>
+      <navPoint id="c22" playOrder="29">
+         <navLabel>
+            <text>Chapter 22</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c22_r1.html"/>
+      </navPoint>
+      <navPoint id="c23" playOrder="30">
+         <navLabel>
+            <text>Chapter 23</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c23_r1.html"/>
+      </navPoint>
+</navPoint>
+            <navPoint id="p02" playOrder="31">
+         <navLabel>
+            <text>Volume the Second</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_p02_r1.html"/>
+      <navPoint id="c24" playOrder="32">
+         <navLabel>
+            <text>Chapter 1</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c24_r1.html"/>
+      </navPoint>
+      <navPoint id="c25" playOrder="33">
+         <navLabel>
+            <text>Chapter 2</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c25_r1.html"/>
+      </navPoint>
+      <navPoint id="c26" playOrder="34">
+         <navLabel>
+            <text>Chapter 3</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c26_r1.html"/>
+      </navPoint>
+      <navPoint id="c27" playOrder="35">
+         <navLabel>
+            <text>Chapter 4</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c27_r1.html"/>
+      </navPoint>
+      <navPoint id="c28" playOrder="36">
+         <navLabel>
+            <text>Chapter 5</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c28_r1.html"/>
+      </navPoint>
+      <navPoint id="c29" playOrder="37">
+         <navLabel>
+            <text>Chapter 6</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c29_r1.html"/>
+      </navPoint>
+      <navPoint id="c30" playOrder="38">
+         <navLabel>
+            <text>Chapter 7</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c30_r1.html"/>
+      </navPoint>
+      <navPoint id="c31" playOrder="39">
+         <navLabel>
+            <text>Chapter 8</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c31_r1.html"/>
+      </navPoint>
+      <navPoint id="c32" playOrder="40">
+         <navLabel>
+            <text>Chapter 9</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c32_r1.html"/>
+      </navPoint>
+      <navPoint id="c33" playOrder="41">
+         <navLabel>
+            <text>Chapter 10</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c33_r1.html"/>
+      </navPoint>
+      <navPoint id="c34" playOrder="42">
+         <navLabel>
+            <text>Chapter 11</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c34_r1.html"/>
+      </navPoint>
+      <navPoint id="c35" playOrder="43">
+         <navLabel>
+            <text>Chapter 12</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c35_r1.html"/>
+      </navPoint>
+      <navPoint id="c36" playOrder="44">
+         <navLabel>
+            <text>Chapter 13</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c36_r1.html"/>
+      </navPoint>
+      <navPoint id="c37" playOrder="45">
+         <navLabel>
+            <text>Chapter 14</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c37_r1.html"/>
+      </navPoint>
+      <navPoint id="c38" playOrder="46">
+         <navLabel>
+            <text>Chapter 15</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c38_r1.html"/>
+      </navPoint>
+      <navPoint id="c39" playOrder="47">
+         <navLabel>
+            <text>Chapter 16</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c39_r1.html"/>
+      </navPoint>
+      <navPoint id="c40" playOrder="48">
+         <navLabel>
+            <text>Chapter 17</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c40_r1.html"/>
+      </navPoint>
+      <navPoint id="c41" playOrder="49">
+         <navLabel>
+            <text>Chapter 18</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c41_r1.html"/>
+      </navPoint>
+      <navPoint id="c42" playOrder="50">
+         <navLabel>
+            <text>Chapter 19</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c42_r1.html"/>
+      </navPoint>
+</navPoint>
+            <navPoint id="p03" playOrder="51">
+         <navLabel>
+            <text>Volume the Third</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_p03_r1.html"/>
+      <navPoint id="c43" playOrder="52">
+         <navLabel>
+            <text>Chapter 1</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c43_r1.html"/>
+      </navPoint>
+      <navPoint id="c44" playOrder="53">
+         <navLabel>
+            <text>Chapter 2</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c44_r1.html"/>
+      </navPoint>
+      <navPoint id="c45" playOrder="54">
+         <navLabel>
+            <text>Chapter 3</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c45_r1.html"/>
+      </navPoint>
+      <navPoint id="c46" playOrder="55">
+         <navLabel>
+            <text>Chapter 4</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c46_r1.html"/>
+      </navPoint>
+      <navPoint id="c47" playOrder="56">
+         <navLabel>
+            <text>Chapter 5</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c47_r1.html"/>
+      </navPoint>
+      <navPoint id="c48" playOrder="57">
+         <navLabel>
+            <text>Chapter 6</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c48_r1.html"/>
+      </navPoint>
+      <navPoint id="c49" playOrder="58">
+         <navLabel>
+            <text>Chapter 7</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c49_r1.html"/>
+      </navPoint>
+      <navPoint id="c50" playOrder="59">
+         <navLabel>
+            <text>Chapter 8</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c50_r1.html"/>
+      </navPoint>
+      <navPoint id="c51" playOrder="60">
+         <navLabel>
+            <text>Chapter 9</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c51_r1.html"/>
+      </navPoint>
+      <navPoint id="c52" playOrder="61">
+         <navLabel>
+            <text>Chapter 10</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c52_r1.html"/>
+      </navPoint>
+      <navPoint id="c53" playOrder="62">
+         <navLabel>
+            <text>Chapter 11</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c53_r1.html"/>
+      </navPoint>
+      <navPoint id="c54" playOrder="63">
+         <navLabel>
+            <text>Chapter 12</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c54_r1.html"/>
+      </navPoint>
+      <navPoint id="c55" playOrder="64">
+         <navLabel>
+            <text>Chapter 13</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c55_r1.html"/>
+      </navPoint>
+      <navPoint id="c56" playOrder="65">
+         <navLabel>
+            <text>Chapter 14</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c56_r1.html"/>
+      </navPoint>
+      <navPoint id="c57" playOrder="66">
+         <navLabel>
+            <text>Chapter 15</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c57_r1.html"/>
+      </navPoint>
+      <navPoint id="c58" playOrder="67">
+         <navLabel>
+            <text>Chapter 16</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c58_r1.html"/>
+      </navPoint>
+      <navPoint id="c59" playOrder="68">
+         <navLabel>
+            <text>Chapter 17</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c59_r1.html"/>
+      </navPoint>
+      <navPoint id="c60" playOrder="69">
+         <navLabel>
+            <text>Chapter 18</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c60_r1.html"/>
+      </navPoint>
+      <navPoint id="c61" playOrder="70">
+         <navLabel>
+            <text>Chapter 19</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_c61_r1.html"/>
+
+
+      </navPoint>
+</navPoint>
+            <navPoint id="nts" playOrder="71">
+         <navLabel>
+            <text>Endnotes</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_nts_r1.html"/>
+      </navPoint>
+      <navPoint id="bm1" playOrder="72">
+         <navLabel>
+            <text>Inspired by Pride and Prejudice</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_bm1_r1.html"/>
+      </navPoint>
+      <navPoint id="bm2" playOrder="73">
+         <navLabel>
+            <text>Comments &amp; Questions</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_bm2_r1.html"/>
+      </navPoint>
+      <navPoint id="bm3" playOrder="74">
+         <navLabel>
+            <text>For Further Reading</text>
+         </navLabel>
+         <content src="bano_9781411432963_oeb_bm3_r1.html"/>
+      </navPoint>
+</navMap>
+</ncx>

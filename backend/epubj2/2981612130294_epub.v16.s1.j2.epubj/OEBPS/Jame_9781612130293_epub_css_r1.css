@@ -1,0 +1,1350 @@
+
+/* --- start affected by epubFix ---
+Note: repeated instances of "text-align:center;" are normal */
+
+.tp {  
+margin-top:15.0px;
+text-align:center;
+text-align:center;
+}
+
+/* --- end affected by epubFix --- */
+
+/* ==================== RH Styles ===================== */
+
+h1.otherbooks
+{
+text-align: center;
+font-size: medium;
+margin-bottom:15.0px;
+margin-top:60.0px;
+}
+
+div.otherbooks
+{
+margin-top:60.0px;
+font-size: small;
+margin-left:30.0px;
+margin-right:30.0px;
+}
+
+div.copyright
+{
+font-size: small;
+margin-top:60.0px;
+}
+
+div.dedication
+{
+font-size: small;
+margin-top:120.0px;
+}
+
+div.epigraph
+{
+font-size: medium;
+margin-left:180.0px;
+margin-right:60.0px;
+margin-bottom:30.0px;
+margin-top:30.0px;
+}
+
+div.epigraphsource
+{
+font-size: x-small;
+text-align: right;
+font-style: italic;
+margin-bottom:180.0px;
+margin-right:30.0px;
+}
+
+h1.acknowledgments
+{
+font-size: medium;
+margin-top:60.0px;
+text-align: center;
+font-weight: bold;
+}
+
+div.acknowledgments
+{
+font-size: small;
+text-align: justify;
+margin-left:30.0px;
+margin-right:30.0px;
+}
+
+h1.authorsnote
+{
+font-size: medium;
+text-align: center;
+font-style: italic;
+font-weight: bold;
+}
+
+div.authorsnote
+{
+font-size: small;
+text-align: justify;
+}
+
+h1.listoffigures
+{
+font-size: medium;
+text-align: center;
+font-style: italic;
+font-weight: bold;
+}
+
+div.listoffigures
+{
+font-size: small;
+text-align: justify;
+}
+
+h1.chronology
+{
+font-size: medium;
+text-align: center;
+font-style: italic;
+font-weight: bold;
+}
+
+h1.geneology
+{
+font-size: medium;
+text-align: center;
+font-style: italic;
+font-weight: bold;
+}
+
+h1.foreword
+{
+font-size: medium;
+text-align: center;
+font-style: italic;
+font-weight: bold;
+}
+
+h1.preface
+{
+font-size: medium;
+text-align: center;
+font-style: italic;
+font-weight: bold;
+}
+
+h1.introduction
+{
+font-size: medium;
+text-align: center;
+font-style: italic;
+font-weight: bold;
+}
+
+h1.prologue
+{
+font-size: medium;
+text-align: center;
+font-style: italic;
+font-weight: bold;
+}
+
+h1.part
+{
+line-height: 1.3em;
+margin-top:60.0px;
+margin-bottom:15.0px;
+font-size: 1.5em;
+text-align: center;
+font-weight: bold;
+}
+
+h1.chapter
+{
+font-size: 1.2em;
+text-align: justify;
+font-weight: bold;
+line-height: 1.3em;
+margin-top:30.0px;
+margin-left:15.0px;
+margin-bottom:1.5px;
+}
+h1.chapter2
+{
+font-size: 1em;
+text-align: justify;
+font-weight: bold;
+line-height: 1.3em;
+margin-top:3.0px;
+margin-bottom:30.0px;
+}
+
+h1.subchapter
+{
+font-size: medium;
+text-align: center;
+font-style: italic;
+font-weight: bold;
+}
+
+h1.epilogue
+{
+font-size: medium;
+text-align: center;
+font-style: italic;
+font-weight: bold;
+}
+
+h1.coda
+{
+font-size: medium;
+text-align: center;
+font-style: italic;
+font-weight: bold;
+}
+
+h1.conclusion
+{
+font-size: medium;
+text-align: center;
+font-style: italic;
+font-weight: bold;
+}
+
+h1.afterward
+{
+font-size: medium;
+text-align: center;
+font-style: italic;
+font-weight: bold;
+}
+
+h1.permission
+{
+font-size: medium;
+text-align: center;
+font-style: italic;
+font-weight: bold;
+}
+
+h1.glossary
+{
+font-size: medium;
+text-align: center;
+font-style: italic;
+font-weight: bold;
+}
+
+span.glosaryterm
+{
+font-size: small;
+text-align: justify;
+margin-right:15.0px;
+}
+
+span.glosarydef
+{
+font-size: small;
+text-align: justify;
+margin-right:15.0px;
+}
+
+h1.appendix
+{
+font-size: medium;
+text-align: center;
+font-style: italic;
+font-weight: bold;
+}
+
+h1.resource
+{
+font-size: medium;
+text-align: center;
+font-style: italic;
+font-weight: bold;
+}
+
+h1.notes
+{
+font-size: medium;
+text-align: center;
+font-style: italic;
+font-weight: bold;
+}
+
+div.note
+{
+font-size: x-small;
+text-align: justify;
+margin-left:15.0px;
+}
+
+h1.source
+{
+font-size: medium;
+text-align: center;
+font-style: italic;
+font-weight: bold;
+}
+
+h1.bibliography
+{
+font-size: medium;
+text-align: center;
+font-style: italic;
+font-weight: bold;
+}
+
+div.bibliography
+{
+font-size: x-small;
+text-align: justify;
+margin-left:30.0px;
+font-weight: bold;
+}
+
+h1.suggestedreading
+{
+font-size: medium;
+text-align: center;
+font-style: italic;
+font-weight: bold;
+}
+
+h1.abouttheauthor
+{
+font-size: medium;
+text-align: center;
+font-style: italic;
+font-weight: bold;
+}
+
+p.smallheight
+{
+margin-top:15.0px;
+margin-bottom:15.0px;
+}
+
+p.mediumheight
+{
+margin-top:30.0px;
+margin-bottom:30.0px;
+}
+
+p.attribution
+{
+text-align: center;
+}
+
+
+p.largeheight
+{
+margin-top:45.0px;
+margin-bottom:45.0px;
+}
+
+div.list
+{
+font-size: small;
+margin-left:15.0px;
+}
+
+
+h1.box
+{
+font-size: medium;
+font-style: italic;
+text-align: center;
+}
+
+div.box
+{
+font-size: small;
+margin-left:15.0px;
+}
+
+p.caption
+{
+font-size: x-small;
+font-style: italic;
+text-align: center;
+margin-bottom:15.0px;
+}
+
+
+/* ===================== Added Styles ===================== */
+
+p.indent
+{
+text-indent:15.0px;
+margin-top:0.0px;
+margin-bottom:0.0px;
+text-align: justify;
+}
+
+p.right
+{
+text-align: right;
+}
+p.center2
+{
+margin-top:7.5px;
+text-align: center;
+margin-bottom:15.0px;
+margin-left: 1px;
+}
+
+p.center
+{
+margin-top:15.0px;
+text-align: center;
+margin-bottom:15.0px;
+margin-left: 1px;
+}
+
+a.hlink
+{
+text-decoration: none;
+}
+
+p.figure
+{
+font-size: small;
+margin-top:30.0px;
+text-align: center;
+margin-bottom:30.0px;
+}
+
+h1.subtitle
+{
+font-size: x-large;
+text-align: center;
+font-weight: bold;
+margin-bottom:60.0px;
+}
+
+
+h1.contents
+{
+font-size: medium;
+text-align: center;
+font-style: italic;
+font-weight: bold;
+}
+
+h2.title
+{
+font-size: medium;
+text-align: center;
+}
+
+p.smallheight
+{
+margin-top:15.0px;
+}
+
+p.mediumheight
+{
+margin-top:30.0px;
+}
+
+p
+{
+margin-top:4.5px;
+margin-bottom:4.5px;
+}
+
+div.cover
+{
+text-align: center;
+}
+
+img
+{
+max-height: 100%;
+max-width: 100%;
+}
+
+img.inline
+{
+vertical-align: middle;
+}
+
+
+
+/* --- start affected by epubFix ---
+Note: repeated instances of "text-align:center;" are normal */
+
+div.titlepage
+{
+text-align:center;
+text-align:center;
+}
+
+/* --- end affected by epubFix --- */
+
+a.pubhlink
+{
+text-decoration: none;
+color: green;
+}
+
+p.extract
+{
+text-indent: 0;
+text-align: justify;
+margin-top:15.0px;
+margin-bottom: 0;
+}
+
+p.extract4
+{
+text-indent: 0;
+text-align: justify;
+margin-top:45.0px;
+margin-bottom: 0;
+}
+
+
+p.extract1
+{
+text-align: justify;
+text-indent:15.0px;
+margin-top:15.0px;
+margin-bottom: 0;
+}
+
+div.textbox
+{
+margin-top:30.0px;
+margin-bottom:30.0px;
+border-bottom: 1px solid;
+border-top: 1px solid;
+line-height: 1.5em;
+text-align: center;
+}
+
+h1.caption
+{
+font-size: medium;
+margin-bottom:15.0px;
+}
+
+p.box
+{
+border-bottom: 1px double;
+border-left: 1px double;
+border-top: 1px double;
+border-right: 1px double;
+text-align: justify;
+}
+
+div.abstract
+{
+font-size: small;
+text-align: justify;
+margin-left:30.0px;
+margin-right:30.0px;
+}
+
+div.appendix
+{
+margin-top:15.0px;
+font-size: medium;
+text-align: justify;
+}
+
+p.reference
+{
+text-align: justify;
+text-indent:-15.0px;
+margin-left:15.0px;
+}
+
+div.biboliography
+{
+font-size: medium;
+text-align: justify;
+}
+
+div.preface
+{
+margin-top:60.0px;
+font-size: medium;
+text-align: justify;
+}
+
+div.preface1
+{
+margin-top:15.0px;
+font-size: medium;
+text-align: justify;
+}
+
+p.cop
+{
+margin-bottom:15.0px;
+}
+
+p.nonindent
+{
+margin-top:0.0px;
+margin-bottom:0.0px;
+text-align: justify;
+text-indent: 0;
+}
+
+span.small
+{
+font-size: 80%;
+}
+
+div.toc
+{
+font-size: medium;
+text-align: center;
+}
+
+p.stanga
+{
+text-align: justify;
+margin-top:15.0px;
+margin-bottom:15.0px;
+margin-left:30.0px;
+}
+
+body
+{
+font-size: medium;
+line-height: 1.2em;
+/*margin-top:15.0px;*/
+/*margin-left:15.0px;*/
+/*margin-right:15.0px;*/
+font-family: Charis, "Times New Roman", Verdana, Arial;
+}
+
+@font-face
+{
+font-family: "Charis";
+font-style: normal;
+font-weight: normal;
+src:url(fonts/CharisSILR.ttf);
+}
+
+@font-face
+{
+font-family: "Charis";
+font-style: normal;
+font-weight: bold;
+src:url(fonts/CharisSILB.ttf);
+}
+
+@font-face
+{
+font-family: "Charis";
+font-style: italic;
+font-weight: normal;
+src:url(fonts/CharisSILI.ttf);
+}
+
+@font-face
+{
+font-family: "Charis";
+font-style: italic;
+font-weight: bold;
+src:url(fonts/CharisSILBI.ttf);
+}
+
+h3.title
+{
+font-size: medium;
+text-align: center;
+margin-bottom:45.0px;
+}
+
+span.dropcapsimage
+{
+float: left;
+font-size: 90px;
+line-height: 100px;
+padding-top: 1px;
+margin-top:1.5px;
+margin-right:1.35px;
+}
+
+span.dropcaps7
+{
+color:#636163;
+float: left;
+font-size: 80px;
+line-height: 70px;
+padding-top: 1px;
+margin-top:-1.35px;
+margin-right:1.35px;
+}
+
+span.dropcaps
+{
+color:#636163;
+font-size: 50px;
+line-height: 50px;
+padding-top: 1px;
+}
+
+
+span.dropcaps3lines
+{
+float: left;
+font-size: 80px;
+line-height: 70px;
+padding-top: 1px;
+margin-top:-1.35px;
+margin-right:1.35px;
+}
+
+sup.small
+{
+		font-size:	small;
+		line-height:	0.0em;
+}
+
+div.footnote
+{
+		font-size:	small;
+		border-style: solid;
+		border-width: 1px 0 0 0;
+		margin-top:30.0px;
+}
+
+p.footnote
+{
+	text-align: justify;
+}
+
+p.question
+{
+text-align: justify;
+margin-top:15.0px;
+}
+
+div.small-page
+{
+margin-top:30.0px;
+font-size: medium;
+margin-left:180.0px;
+margin-right:90.0px;
+}
+
+h1.toc
+{
+font-size: 1.2em;
+text-align: justify;
+font-weight: bold;
+line-height: 1.3em;
+margin-top:30.0px;
+margin-bottom:30.0px;
+}
+
+ol.upperalpha
+{
+	text-align: justify;
+	list-style-type: upper-alpha;
+}
+
+ol.upperroman
+{
+	text-align: justify;
+	list-style-type: upper-roman;
+}
+
+ol.lowerroman
+{
+	text-align: justify;
+	list-style-type: lower-roman;
+}
+
+ol.loweralpha
+{
+	text-align: justify;
+	list-style-type: lower-alpha;
+}
+
+
+ol.arabic
+{
+	text-align: justify;
+}
+
+h1.section
+{
+text-align: justify;
+font-size: medium;
+margin-bottom:15.0px;
+margin-top:60.0px;
+}
+
+h2.section
+{
+text-align: center;
+font-size: medium;
+margin-bottom:15.0px;
+margin-top:30.0px;
+}
+
+h3.section
+{
+text-align: justify;
+font-size: medium;
+margin-bottom:15.0px;
+margin-top:30.0px;
+}
+
+h4.section
+{
+text-align: justify;
+font-size: medium;
+margin-bottom:15.0px;
+margin-top:30.0px;
+}
+
+h5.section
+{
+text-align: justify;
+font-size: medium;
+margin-bottom:15.0px;
+margin-top:30.0px;
+}
+
+span.underline
+{
+text-decoration: underline;
+}
+
+span.big
+{
+font-size: xx-large;
+}
+
+p.crt
+{
+margin-top:15.0px;
+text-align: center;
+margin-bottom:15.0px;
+}
+
+span.overline
+{
+text-decoration: overline;
+}
+
+h1.chapter1
+{
+font-size: 1.3em;
+text-align: justify;
+font-weight: bold;
+line-height: 2em;
+margin-top:60.0px;
+margin-bottom:15.0px;
+}
+
+p.textbox
+{
+text-indent: 0;
+text-align: justify;
+margin-left:15.0px;
+margin-right:15.0px;
+
+}
+
+p.textbox1
+{
+text-indent:15.0px;
+text-align: justify;
+margin-left:15.0px;
+margin-right:15.0px;
+}
+
+div.chapter
+{
+margin-top:30.0px;
+margin-left:7.5px;
+margin-right:7.5px;
+}
+
+span.strike
+{
+text-decoration: line-through;
+}
+
+sup
+{
+	vertical-align: 4px;
+}
+
+sub.frac
+{
+	font-size: 0.7em;
+}
+
+sup.frac
+{
+	font-size: 0.7em;
+}
+
+p.pagebreak
+{
+page-break-after: always;
+}
+
+
+div.part
+{
+margin-top:30.0px;
+margin-left:15.0px;
+margin-right:15.0px;
+}
+
+img.middle
+{
+vertical-align: middle;
+}
+
+
+div.textbox1
+{
+margin-left:30.0px;
+margin-right:30.0px;
+margin-top:30.0px;
+margin-bottom:30.0px;
+border-bottom: 2px solid;
+border-left: 2px solid;
+border-right: 2px solid;
+border-top: 2px solid;
+line-height: 1.3em;
+text-align: center;
+}
+
+/* =============== New Style added =============== */
+
+/* == For TOC == */
+
+div.toc_fm
+{
+margin-top:15.0px; 
+margin-bottom:15.0px;
+margin-left:0.0px;
+font-size:.9em;
+line-height:1.3em;
+text-align: justify;
+}
+
+div.toc_chap
+{
+margin-left:0.0px;
+font-size:1em;
+line-height:1.4em;
+}
+
+div.toc_sub
+{
+margin-left:19.5px;
+font-size:smaller;
+line-height:1.4em;
+}
+
+div.toc_part
+{
+margin-left:0.0px;
+margin-top:18.0px;
+line-height:1.5em;
+font-size:1.2em;
+}
+
+div.toc_part .toc_chap
+{
+font-size:medium;
+margin-left:22.5px;
+}
+
+div.toc_part .toc_chap .toc_sub
+{
+font-size:smaller;
+margin-left:22.5px;
+}
+
+
+/* == For Block Quotes == */
+
+div.block
+{
+margin-left:0.0px;
+margin-right:0.0px;
+text-align:justify;
+margin-top:15.0px;
+margin-bottom:15.0px;
+}
+
+p.bl_nonindent
+{
+text-indent: 0;
+font-size: small;
+margin-left:15.0px;
+margin-right:15.0px;
+text-align:justify;
+}
+p.bl_nonindent2
+{
+text-indent: 0;
+font-size: small;
+margin-left:30.0px;
+margin-right:30.0px;
+text-align:justify;
+}
+p.bl_nonindent5
+{
+text-indent: 0;
+margin-left:15.0px;
+margin-right:15.0px;
+text-align:justify;
+}
+
+p.bl_indent
+{
+font-size: small;
+text-indent:15.0px;
+margin-left:15.0px;
+margin-right:15.0px;
+text-align:justify;
+}
+
+/* For Hanging Paragraphs */
+
+p.hanging
+{
+text-indent:-15.0px;
+font-size: small;
+text-align: justify;
+}
+
+div.hanging
+{
+margin-left:15.0px;
+}
+p.hanging1
+{
+text-indent:-30.0px;
+font-size: medium;
+text-align: justify;
+}
+p.hanging2
+{
+text-indent:-15.0px;
+font-size: large;
+text-align: justify;
+}
+
+div.hanging1
+{
+margin-left:45.0px;
+margin-top:30.0px;
+}
+div.hanging2
+{
+margin-top:15.0px;
+margin-bottom:15.0px;
+margin-left:30.0px;
+}
+
+/* For Dialogue Text */
+
+div.dialogue
+{
+margin-left:62.999996px;
+margin-bottom:30.0px;
+margin-top:22.5px;
+font-size: small;
+}
+
+p.d_hanging
+{
+text-indent:-62.999996px;
+font-size: small;
+margin-top:7.5px;
+}
+
+/* For bullet list */
+
+ul.bullet
+{
+list-style-type: disc;
+margin-top:15.0px;
+margin-bottom:15.0px;
+}
+div.bullet
+{
+margin-left:12.0px;
+margin-top: 0;
+margin-bottom: 0;
+text-align: justify;
+}
+
+/* For Fractions */
+.frac_num
+{font-size:x-small; vertical-align:text-top;}
+.frac_den
+{font-size:x-small; vertical-align:text-bottom;}
+
+p.bl_extract
+{
+text-indent: 0;
+font-size: small;
+margin-left:15.0px;
+margin-right:15.0px;
+text-align:justify;
+margin-top:15.0px;
+}
+p.bl_extract2
+{
+text-indent: 0;
+font-size: small;
+margin-left:15.0px;
+margin-right:15.0px;
+text-align:justify;
+margin-top:22.5px;
+}
+
+p.bl_right
+{
+font-size: small;
+text-align: right;
+margin-right:22.5px;
+}
+
+div.toc_bm
+{
+margin-top:15.0px; 
+margin-bottom:15.0px;
+margin-left:0.0px;
+font-size:.9em;
+line-height:1.3em;
+text-align: justify;
+}
+
+span.small1
+{
+font-size: medium;
+}
+
+
+p.bl_center
+{
+font-size: small;
+margin-top:15.0px;
+margin-left:75.0px;
+margin-right:75.0px;
+text-align:center;
+line-height: 1.3em;
+}
+
+
+p.bl_nonindent1
+{
+text-indent: 0;
+font-size: small;
+margin-left:37.5px;
+margin-right:37.5px;
+text-align:justify;
+}
+
+p.bl_indent1
+{
+font-size: small;
+text-indent:15.0px;
+margin-left:37.5px;
+margin-right:37.5px;
+text-align:justify;
+}
+
+p.bl_center1
+{
+font-size: small;
+margin-left:37.5px;
+margin-right:37.5px;
+text-align:center;
+}
+
+p.bl_extract1
+{
+text-indent: 0;
+font-size: small;
+margin-left:37.5px;
+margin-right:37.5px;
+text-align:justify;
+margin-top:15.0px;
+}
+
+p.bl_right1
+{
+font-size: small;
+text-align: right;
+margin-right:37.5px;
+}
+
+div.bl_hanging
+{
+margin-top:15.0px;
+margin-bottom:15.0px;
+margin-left:45.0px;
+margin-right:22.5px;
+}
+
+p.bl_hanging
+{
+font-size: small;
+text-indent:-22.5px;
+text-align:justify;
+}
+
+p.footnote1
+{
+font-size: small;
+text-indent:-15.0px;
+margin-left:18.0px;
+	text-align: justify;
+}
+
+p.footnote2
+{
+font-size: small;
+text-indent:-27.0px;
+margin-left:22.5px;
+	text-align: justify;
+}
+
+p.footnote3
+{
+font-size: small;
+text-indent:-30.0px;
+margin-left:19.5px;
+	text-align: justify;
+}
+
+span.small2
+{
+font-size: small;
+}
+
+div.appendix1
+{
+margin-top:60.0px;
+font-size: medium;
+text-align: justify;
+}
+
+p.primary
+{
+text-indent:-15.0px;
+margin-left:15.0px;
+}
+
+p.secondary
+{
+text-indent:-15.0px;
+margin-left:30.0px;
+}
+
+p.center1
+{
+margin-top:-7.5px;
+text-align: center;
+margin-bottom:15.0px;
+margin-left: 1px;
+}
+
+span.color1
+{
+color: #818284;
+}
+span.color2
+{
+color: #646466;
+}
+span.color3
+{
+color: #A8A9AD;
+}
+span.color4
+{
+color: #58585A;
+}
+
+div.hanging0
+{
+margin-left:30.0px;
+}
+
+p.hanging0
+{
+text-indent:-33.0px;
+font-size: small;
+text-align: justify;
+}
+
+
+p.bl_nonindent3
+{
+text-indent: 0;
+margin-left:15.0px;
+margin-right:15.0px;
+text-align:justify;
+}
+
+
+div.hanging3
+{
+margin-top:15.0px;
+margin-bottom:15.0px;
+margin-left:15.0px;
+}
+
+
+p.bl_hanging1
+{
+font-size: small;
+text-indent:-22.5px;
+text-align:justify;
+}
+
+
+
+div.hanging8
+{
+margin-top:15.0px;
+margin-bottom:15.0px;
+margin-left:15.0px;
+}
+
+
+
+p.bl_hanging8
+{
+font-size: small;
+text-indent:-30.0px;
+text-align:justify;
+}
+
+
+
+p.bl_nonindent4
+{
+text-indent: 0;
+margin-left:15.0px;
+margin-right:15.0px;
+text-align:justify;
+}
+
+
+@page { margin-top: 30px; margin-bottom: 20px; margin-left: 30px; margin-right: 30px; }
+body { text-align: justify; }

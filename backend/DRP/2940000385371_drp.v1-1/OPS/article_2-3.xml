@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns:saxon="http://saxon.sf.net/" xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:nitf="http://www.nytimes.com/applicationdata/xml/nitf-3-3.dtd">
+   <head>
+      <title>Wolin Replies</title>
+      <link rel="stylesheet" href="css/TablesAndFloats.css" type="text/css"/>
+   </head>
+   <body>
+      <div id="header_navbar" class="articleMenuWrapper">
+         <span id="header_navbar_previous" class="sectionMenuLeft">
+            <a href="article_2-2.xml">Previous Article</a>
+         </span>
+         <span id="header_navbar_next" class="sectionMenuRight">
+            <a href="article_11-1.xml">Next Article</a>
+         </span>
+      </div>
+      <div class="clean"/>
+      <div id="header" class="masthead">
+         <div class="masthead-text">
+            <div id="header_title" class="masthead-section">
+               <a href="section_2.xml">Books &#x0026; the Arts</a>
+            </div>
+         </div>
+      </div>
+      <h2 id="headline" class="article-full-headline">Wolin Replies</h2>
+      <p id="byline" class="article-full-byline"></p>
+      <div>
+         <div id="image_0" class="article-in-image">
+            <img id="image_0_img" class="article-in-image" src="images/img_3_231.jpg" alt="News image"/>
+         </div>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">NEW YORK CITY</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">In keeping with Todd Lewis’s suggestion, I am all in favor of histories of philosophy that are in tune with the contributions of Taoism, Confucianism and so forth. But I am not sure that such an approach would have worked well in the case of James Miller’s Examined Lives, which is focused on continuities and discontinuities within the post-Platonic philosophical tradition.</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">I agree with Robert M. Wallace about the relationship between the Good, as philosophically defined, and human excellence. However, we disagree about the nature of Plato’s contribution to this discourse. In many ways, Plato’s distrust of the demos translated into a fear of politics and a mistrust of civic engagement. Hence, the draconian (and distasteful) nature of his political prescriptions: elite rule by Guardians and Philosopher Kings, the “myth of the metals” and the Noble Lie, which is designed to prevent hoi polloi, or unwashed masses, from trying to better themselves. Plato’s metaphysical starting point—the supersensible Forms—already displays a scorn for the phenomenal world, politics included. We would do better to take our bearings from Aristotle’s proto-democratic definition of politics as “ruling and being ruled in turn.”</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">RICHARD WOLIN</p>
+         <div id="footer_navbar" class="sectionMenuWrapper">
+            <span id="footer_navbar_previous" class="sectionMenuLeft">
+               <a href="article_2-2.xml">Previous Article</a>
+            </span>
+            <span id="footer_navbar_next" class="sectionMenuRight">
+               <a href="article_11-1.xml">Next Article</a>
+            </span>
+         </div>
+      </div>
+   </body>
+</html>

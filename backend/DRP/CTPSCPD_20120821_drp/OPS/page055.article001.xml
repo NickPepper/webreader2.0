@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Cooking with Paula Deen</title>
+<link href="css/test1.css" rel="stylesheet" type="text/css" />
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    </head>
+<body class="left">
+        <div class="before">
+            <div class="articleMenuWrapper" id="header_navbar">
+                <div class="sectionMenuLeft" id="header_navbar_previous">
+                    <a href="page054.article002.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="header_navbar_next">
+                    <a href="page056.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+            <div class="masthead" id="header">
+                <div class="masthead-text">
+                    <div class="masthead-section" id="header_title">
+                        <a href="section.xml">Contents</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="article-headline" id="Headline">WHISKEY SOURS FOR A CROWD</div>
+
+
+
+<div class="article-in-image" id="image1"><img src="images/page055.article001.image1.jpg" class="article-in-image" alt=""/></div>
+<div id="separatorLine"> <div class="invisible">empty</div> </div>
+
+<div class="articleImageCredit" id="ImageCredit">PHOTOGRAPHY BY MARCY BLACK SIMPSON</div>
+<div class="article-body" id="Body"><p class="no-indent">Makes 10 to 12 servings </p><br/><p class="no-indent">1 orange </p><p class="no-indent">2½ cups water </p><p class="no-indent">2 cups light brown sugar </p><p class="no-indent">1 cup fresh lemon juice </p><p class="no-indent">½ cup fresh lime juice </p><p class="no-indent">1 (750 milliliter) bottle whiskey </p><p class="no-indent">Garnish: maraschino cherries </p><br/><p class="no-indent">1. Using a vegetable peeler, remove rind from orange in wide strips, leaving behind as much white pith as possible. </p><br/><p class="no-indent">2. In a saucepan, combine orange rind, 2½ cups water, and sugar. Bring to a boil over medium-high heat, stirring just until sugar dissolves. Reduce heat to medium, and cook for 5 minutes. Remove and discard orange rind. Cool completely. </p><br/><p class="no-indent">3. In a pitcher, stir together cooled sugar mixture, lemon and lime juice, and whiskey. Serve over ice with maraschino cherries, if desired.</p></div>
+<div class="after">
+            <div class="articleMenuWrapper" id="footer_navbar">
+                <div class="sectionMenuLeft" id="footer_navbar_previous">
+                    <a href="page054.article002.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="footer_navbar_next">
+                    <a href="page056.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+        </div>
+    </body>
+</html>

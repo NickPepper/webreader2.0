@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Cooking with Paula Deen</title>
+<link href="css/test1.css" rel="stylesheet" type="text/css" />
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    </head>
+<body class="left">
+        <div class="before">
+            <div class="articleMenuWrapper" id="header_navbar">
+                <div class="sectionMenuLeft" id="header_navbar_previous">
+                    <a href="page062.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="header_navbar_next">
+                    <a href="page065.article002.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+            <div class="masthead" id="header">
+                <div class="masthead-text">
+                    <div class="masthead-section" id="header_title">
+                        <a href="section.xml">Contents</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="article-headline" id="Headline">CARAMELIZED ONIONS, MUSHROOMS, AND BACON</div>
+
+
+
+<div class="article-in-image" id="image1"><img src="images/page065.article001.image1.jpg" class="article-in-image" alt=""/></div>
+<div id="separatorLine"> <div class="invisible">empty</div> </div>
+
+<div class="articleImageCredit" id="ImageCredit">PHOTOGRAPHY BY SARAH SWIHART</div>
+<div class="article-body" id="Body"><p class="no-indent">Makes 15 to 20 servings </p><br/><p class="no-indent">1 (16-ounce) package bacon, chopped </p><p class="no-indent">2 (8-ounce) packages sliced baby portobello mushrooms </p><p class="no-indent">10 large sweet onions, thinly sliced </p><p class="no-indent">1 tablespoon balsamic vinegar </p><p class="no-indent">½ teaspoon ground black pepper </p><br/><p class="no-indent">1. In a large Dutch oven, cook bacon over medium heat until crisp. Using a slotted spoon, remove bacon from pan, and drain on paper towels, leaving ¼ cup drippings in pan. </p><br/><p class="no-indent">2. Cook mushrooms in hot drippings over medium heat for 8 to 10 minutes or until very tender. Using a slotted spoon, remove mushrooms from pan, and drain on paper towels. </p><br/><p class="no-indent">3. Add onions to hot drippings. Cover, and cook over medium heat, stirring occasionally, for 30 minutes, or until onions are very tender. Increase heat to medium-high. Cook, stirring constantly, until onions caramelize or begin to turn golden brown. Stir in vinegar, pepper, bacon, and mushrooms.</p></div>
+<div class="after">
+            <div class="articleMenuWrapper" id="footer_navbar">
+                <div class="sectionMenuLeft" id="footer_navbar_previous">
+                    <a href="page062.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="footer_navbar_next">
+                    <a href="page065.article002.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+        </div>
+    </body>
+</html>

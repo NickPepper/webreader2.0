@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns:saxon="http://saxon.sf.net/" xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:nitf="http://www.nytimes.com/applicationdata/xml/nitf-3-3.dtd">
+   <head>
+      <title>SHELF LIFE</title>
+      <link rel="stylesheet" href="css/TablesAndFloats.css" type="text/css"/>
+   </head>
+   <body>
+      <div id="header_navbar" class="articleMenuWrapper">
+         <span id="header_navbar_previous" class="sectionMenuLeft">
+            <a href="article_27-2.xml">Previous Article</a>
+         </span>
+         <span id="header_navbar_next" class="sectionMenuRight">
+            <a href="article_33-1.xml">Next Article</a>
+         </span>
+      </div>
+      <div class="clean"/>
+      <div id="header" class="masthead">
+         <div class="masthead-text">
+            <div id="header_title" class="masthead-section">
+               <a href="section_2.xml">Books &#x0026; the Arts</a>
+            </div>
+         </div>
+      </div>
+      <h2 id="headline" class="article-full-headline">SHELF LIFE</h2>
+      <p id="byline" class="article-full-byline">by ALEXANDRA SCHWARTZ</p>
+      <div>
+         <div id="image_0" class="article-in-image">
+            <img id="image_0_img" class="article-in-image" src="images/img_7_3211.jpg" alt="News image"/>
+            <div id="image_0_caption" class="articleImageCaption">Merc&#xe8; Rodoreda</div>
+            <div id="image_0_credit" class="articleImageCredit">&#xa9; ARXIU MERC&#xc8; RODOREDA DE L&#x2019;INSTITUT D&#x2019;ESTUDIS CATALANS</div>
+         </div>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">“ORIENTATION,” DANIEL OROZCO’s short story in the form of a new employee’s tour through an unnamed office, was published in 1994, the year before the debut of The Drew Carey Show. Like Carey, Orozco looked at modern American corporate culture, with its emphasis on “team playing” and “organizational character,” and saw a fiefdom whose obscure hierarchies, codes of conduct, rivalries and alliances were ripe for lampooning. “Isn’t the world a funny place?” the narrator wonders aloud to the newbie, lacing explications of kitchenette and photocopier protocol with the exploits of pencil-pushers like John LaFountaine, who is “harmless, his forays into the forbidden territory of the women’s room simply a benign thrill, a faint blip on the dull, flat line of his life,” and Kevin Howard, an exceptional typist with a sideline gig as a serial killer. “Not in the ha-ha sense, of course.”</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">With the deadpan rhythm of a stand-up act, or a laugh track–tailored sitcom, “Orientation” is funny in exactly the ha-ha sense, and it’s not hard to understand why Orozco’s vision of the absurdity lurking in even the most mundane cubicles struck a chord. “Orientation” was included in the 1995 edition of The Best American Short Stories and broadcast on This American Life, but after sixteen years, and seven seasons of the American Office, Orozco’s sendup of the corporate grind has lost much of its bite, thanks to the success of the genre it helped usher in. Though each of the nine pieces that make up Orientation and Other Stories (Faber and Faber; $23) has appeared in a magazine or literary review over the course of the past decade and a half, the collection is Orozco’s first. There’s no way around this lateness: the book suffers from having been beaten to its own punch line a few times too many. The zingers launched at the ironies and contorted logic of professional life—“if you let on, you may be let go”; “if you ever said no, you never worked again”—no longer have zest; the characters plucked from the lower rungs of the working ladder, from inarticulate warehouse loaders to shy, perfectionist temps, wobble on the line between emblematic Everymen and stock types, clever enough but worn all the same.</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">There are exceptions. In “Somoza’s Dream,” the best piece in the collection, the deposed Nicaraguan dictator fritters away his exile in Paraguay, taking his nightly piss on the wall of the US Embassy as his would-be assassins go about stockpiling their arsenal. Part farce, part zany action flick, the story breathes without feeling crafted to a fault. It’s driven by imagination pure and simple rather than the sense of mission—to bring to light the kinds of lives Orozco seems to fear will go overlooked—that encumbers much of the book. For Orozco, washed-up tyrants and small-town cops, cookie-binging women and stoic bridge painters are all, as he writes of the crowd on a rush-hour bus, part of the same “stew of human heat, dank and thick and close.” It’s a pungent image, but most of his narratives are too tidily packaged to give more than a cursory sense of the stew’s mess and joy. “Only Connect,” urges the title of one tale late in the collection. Strapped to the story like a sandwich board, E.M. Forster’s challenge registers as an advertisement for an idea, not the idea itself. What should have been Orientation’s theme instead ossifies into a talking point.</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">SINCE THE 1980s, MERCÈ RODOREDA’S short fiction has been nearly impossible to track down in English; what luck to now have The Selected Stories of Mercè Rodoreda (Open Letter; $15.95) in a stark, eloquent translation from the Catalan by Martha Tennent. Rodoreda arrived in France in 1939, a 30-year-old who had begun to make a name for herself as a writer in her native Barcelona before fleeing Franco’s regime. While her tales of domestic life display an almost pointed indifference to the politics that might shape them, the stories hinge on an exile’s knowledge of the suddenness by which “before” is liable to turn, irrevocably, into “after.” In “Guinea Fowls,” Quimet, a small boy, comes across a butcher’s stall where live birds have been strung up by the neck to be hanged like a brace of luckless convicts:</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">“The last was gray, but less dark, whitish, with a larger head, but the same elegant neck as the others. This hen’s beak remained open for a moment, then it gasped violently, causing its breast feathers to undulate. The beak closed abruptly, then slowly reopened, the thin tongue, pointed like a pistil, throbbing helplessly. This one took longer to die.”</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">The desperateness of the motion, that lurid, sexual tongue: it’s impossible to look away from this primal scene, and Quimet stands transfixed until the butcher orders him to help pick up the bodies, changed by death into “warm feathery pillows.” Rodoreda’s subject is the transformation of innocence into experience, arrived at not through the gradual process of education and reflection so familiar from the bildungsroman, but with a snap as sharp as a limb wrenched loose from its joint. A young woman, utterly content while falling asleep next to her lover, wakes to misery and revulsion; a man seeking a doctor for his pregnant wife locates the town’s only working phone in a brothel filled with German soldiers and stays, against all reason, to drink with them. “It must have slipped into the obscure region of his will,” Rodoreda writes of the soldiers’ alcohol, “changing some delicate mechanism within him.” For all its fatalism and lush, symbolic language, this fiction isn’t made to teach lessons. If the beauty of Rodoreda’s characters lies in the profundity of the compulsions that drive them, the same could be said of the stories themselves.</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">Alexandra Schwartz is a freelance writer based in New York City.</p>
+         <div id="footer_navbar" class="sectionMenuWrapper">
+            <span id="footer_navbar_previous" class="sectionMenuLeft">
+               <a href="article_27-2.xml">Previous Article</a>
+            </span>
+            <span id="footer_navbar_next" class="sectionMenuRight">
+               <a href="article_33-1.xml">Next Article</a>
+            </span>
+         </div>
+      </div>
+   </body>
+</html>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Cooking with Paula Deen</title>
+<link href="css/test1.css" rel="stylesheet" type="text/css" />
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    </head>
+<body class="left">
+        <div class="before">
+            <div class="articleMenuWrapper" id="header_navbar">
+                <div class="sectionMenuLeft" id="header_navbar_previous">
+                    <a href="page059.article002.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="header_navbar_next">
+                    <a href="page059.article004.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+            <div class="masthead" id="header">
+                <div class="masthead-text">
+                    <div class="masthead-section" id="header_title">
+                        <a href="section.xml">Contents</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="article-headline" id="Headline">CHICKEN CORN CHOWDER</div>
+
+
+
+<div class="article-in-image" id="image1"><img src="images/page059.article003.image1.jpg" class="article-in-image" alt=""/></div>
+<div id="separatorLine"> <div class="invisible">empty</div> </div>
+
+<div class="articleImageCredit" id="ImageCredit">PHOTOGRAPHY BY KAMIN WILLIAMS</div>
+<div class="article-body" id="Body"><p class="no-indent">Makes 8 to 10 servings </p><br/><p class="no-indent">1¾ pounds boneless skinless chicken breast, cut into ½-inch pieces </p><p class="no-indent">½ teaspoon salt </p><p class="no-indent">½ teaspoon ground black pepper </p><p class="no-indent">¼ cup butter, divided </p><p class="no-indent">1 cup finely chopped red bell pepper </p><p class="no-indent">½ cup minced green onion </p><p class="no-indent">3 cups frozen Southern-style hash brown potatoes, thawed </p><p class="no-indent">1 (10-ounce) package frozen whole kernel corn, thawed </p><p class="no-indent">¼ cup all-purpose flour </p><p class="no-indent">6 cups chicken broth </p><p class="no-indent">1 cup sour cream </p><p class="no-indent">Garnish: sliced green onion </p><br/><p class="no-indent">1. Sprinkle chicken with salt and pepper. In a Dutch oven, melt 2 tablespoons butter over medium-high heat; add chicken, and cook for 5 to 6 minutes, stirring occasionally, until chicken is done. Using a slotted spoon, remove chicken from pan, and keep warm. </p><br/><p class="no-indent">2. Melt remaining 2 tablespoons butter in pan over medium heat. Add bell pepper and green onion, and cook for 2 minutes. Add hash browns and corn, and cook, stirring frequently, for 6 to 8 minutes or until potatoes are just tender. Add flour, and cook, stirring constantly, for 2 minutes. Stir in broth. </p><br/><p class="no-indent">3. Return chicken to pan, and bring mixture to a boil over medium heat. Reduce heat, and simmer, stirring frequently, for 15 to 20 minutes, or until mixture is thickened. Add sour cream, stirring until mixture is heated through. Garnish with green onion if desired.</p></div>
+<div class="after">
+            <div class="articleMenuWrapper" id="footer_navbar">
+                <div class="sectionMenuLeft" id="footer_navbar_previous">
+                    <a href="page059.article002.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="footer_navbar_next">
+                    <a href="page059.article004.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+        </div>
+    </body>
+</html>

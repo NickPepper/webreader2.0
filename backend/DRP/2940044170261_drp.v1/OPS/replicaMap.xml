@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReplicaMap xmlns="http://www.hp.com/schemas/imaging/ereader/hff">
+    <Title>Ame-Comi Girls #1</Title>
+    <Pages>
+        <Page file="images/pages/BN_DRP_PAGE_1.jpg" pageNum="0" thumbFile="images/pages/BN_DRP_PAGE_1-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_2.jpg" pageNum="1" thumbFile="images/pages/BN_DRP_PAGE_2-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_3.jpg" pageNum="2" thumbFile="images/pages/BN_DRP_PAGE_3-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_4.jpg" pageNum="3" thumbFile="images/pages/BN_DRP_PAGE_4-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_5.jpg" pageNum="4" thumbFile="images/pages/BN_DRP_PAGE_5-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_6.jpg" pageNum="5" thumbFile="images/pages/BN_DRP_PAGE_6-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_7.jpg" pageNum="6" thumbFile="images/pages/BN_DRP_PAGE_7-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_8.jpg" pageNum="7" thumbFile="images/pages/BN_DRP_PAGE_8-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_9.jpg" pageNum="8" thumbFile="images/pages/BN_DRP_PAGE_9-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_10.jpg" pageNum="9" thumbFile="images/pages/BN_DRP_PAGE_10-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_11.jpg" pageNum="10" thumbFile="images/pages/BN_DRP_PAGE_11-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_12.jpg" pageNum="11" thumbFile="images/pages/BN_DRP_PAGE_12-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_13.jpg" pageNum="12" thumbFile="images/pages/BN_DRP_PAGE_13-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_14.jpg" pageNum="13" thumbFile="images/pages/BN_DRP_PAGE_14-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_15.jpg" pageNum="14" thumbFile="images/pages/BN_DRP_PAGE_15-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_16.jpg" pageNum="15" thumbFile="images/pages/BN_DRP_PAGE_16-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_17.jpg" pageNum="16" thumbFile="images/pages/BN_DRP_PAGE_17-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_18.jpg" pageNum="17" thumbFile="images/pages/BN_DRP_PAGE_18-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_19.jpg" pageNum="18" thumbFile="images/pages/BN_DRP_PAGE_19-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_20.jpg" pageNum="19" thumbFile="images/pages/BN_DRP_PAGE_20-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_21.jpg" pageNum="20" thumbFile="images/pages/BN_DRP_PAGE_21-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_22.jpg" pageNum="21" thumbFile="images/pages/BN_DRP_PAGE_22-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_23.jpg" pageNum="22" thumbFile="images/pages/BN_DRP_PAGE_23-thumb.jpg"/>
+        <Page file="images/pages/BN_DRP_PAGE_24.jpg" pageNum="23" thumbFile="images/pages/BN_DRP_PAGE_24-thumb.jpg"/>
+    </Pages>
+    <Articles/>
+    <TOC>
+		<TocEntry title="Cover">
+			<Summary/>
+			<Page pagenum="0"/>
+		</TocEntry>
+		<TocEntry title="Title and Credits">
+			<Summary/>
+			<Page pagenum="2"/>
+		</TocEntry>
+		<TocEntry title="Begin Reading">
+			<Summary/>
+			<Page pagenum="3"/>
+		</TocEntry>
+	</TOC>
+</ReplicaMap>

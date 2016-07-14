@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>The New Yorker</title>
+<link href="css/test1.css" rel="stylesheet" type="text/css" />
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    </head>
+<body class="left">
+        <div class="before">
+            <div class="articleMenuWrapper" id="header_navbar">
+                <div class="sectionMenuLeft" id="header_navbar_previous">
+                    <a href="page031.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="header_navbar_next">
+                    <a href="page035.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+            <div class="masthead" id="header">
+                <div class="masthead-text">
+                    <div class="masthead-section" id="header_title">
+                        <a href="section.xml">Contents</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="article-headline" id="Headline">THE PICTURES: VICTORY LAP</div>
+
+<div class="article-byline" id="ByLine">Michael Schulman</div>
+
+<div class="article-in-image" id="image1"><img src="images/page032.article001.image1.jpg" class="article-in-image" alt=""/></div>
+<div id="separatorLine"> <div class="invisible">empty</div> </div>
+
+
+<div class="article-body" id="Body"><p class="no-indent">The filmmaker Nicole Holofcener pulled up to the corner of Eighty-second and Broadway, where, seconds earlier, Tony Kushner had been walking his dog. Holofcener, who lives in Los Angeles, was in town in connection with her new film, “Enough Said,” a love-after-divorce comedy starring Julia Louis-Dreyfus and James Gandolfini, and wanted to visit her old neighborhood. “The doorman that was here when I was growing up has died,” she said, approaching a canopied building, where she lived until she was eight. “He used to call me Nicolasa, and he’d go like this”—she knocked her companion gently on the head—“ ‘Nicolasa linda. Coo-coo! ’ Which, I guess, means ‘pretty Nicole,’ or something like that.”</p><br/><p class="no-indent">What was his name? “Shit,” Holofcener said, and poked her head inside the lobby. “I’m blanking on my favorite doorman’s name,” she told the doorman on duty. “He passed away.”</p><br/><p class="no-indent">“José?” the guy said.</p><br/><p class="no-indent">“José,” she repeated wistfully. “So sweet.”</p><br/><p class="no-indent">“He was an individual, that’s for sure,” the doorman said, hedging.</p><br/><p class="no-indent">“Really? Was he crazy?”</p><br/><p class="no-indent">“Well, he was an old-timer. Things went his way.”</p><br/><p class="no-indent">“O.K., yeah,” she said. “Didn’t make a lot of friends here.” So much for that.</p><br/><p class="no-indent">Outside, Holofcener, a nonchalant fifty-three-year-old in a ponytail and transition lenses, catalogued the places that were no longer there: the twenty-five-cent pizza parlor (now Laytner’s Linen &amp; Home), the candy store where she got hooked on apricot Fruit Roll-Ups (wine shop). “This was Woolworth’s,” she said, in front of Designer Shoe Warehouse. “I got my parakeet at Woolworth’s. Then, after it died, I got another parakeet. And my goldfish. I stole from Woolworth’s.” She pointed across the street, to the Apthorp building. “I met my first pervert on that corner.” </p><br/><p class="no-indent">Holofcener’s parents divorced when she was a year old, and when her mother remarried, in 1968, Holofcener moved to Seventy-ninth and Riverside. Her stepfather was Charles Joffe, Woody Allen’s manager and longtime producer. She made her film début at the age of eight, as an extra in “Take the Money and Run.” “Everyone was wearing suède then,” she recalled. “I have a picture of my stepdad in, like, a three-piece suède suit, my mom in a suède miniskirt, a suède cowboy hat.” The wrap party doubled as her mother and stepfather’s wedding party. “Can you imagine? People were probably dropping acid and having sex. And I was a child. I couldn’t enjoy any of those things!” </p><br/><p class="no-indent">Holofcener started her film education on Allen’s sets: “Sleeper” (extra), “A Mid-summer Night’s Sex Comedy” (production assistant), “Hannah and Her Sisters” (apprentice editor, until she was fired). This was after Joffe moved the family to L.A., when Holofcener was twelve. She was happy to start over, having fallen in with a tough crowd at City and Country School. “They managed to bully me while I was in California by sending me mean letters,” she said. “I was kind of drawn to mean girls. They’re spicier—but then they turn on you.” </p><br/><p class="no-indent">The same could be said of Holofcener’s films (“Friends with Money,” “Please Give”), which anatomize the social misdemeanors of the coastal middle class. “Petty stuff is so fascinating to me,” she said, over a frozen yogurt at Zabar’s. “I was walking down the street yesterday—I needed to find an outfit for the première. I’m shopping on Madison Avenue, talking on the phone with my girlfriend, complaining because I can’t find the right dress—and across the street there’s a woman with no body. Literally, she was in a wheelchair and all I saw was a head. And it was, like, holy shit! Should I not worry about my dress because she doesn’t have a body? Yech. It’s painful, and yet you have to honor your own life and what’s important to you. But it’s usually something embarrassing, like a dress.” </p><br/><p class="no-indent">In “Enough Said,” Louis-Dreyfus plays a massage therapist who begins dating Gandolfini. When she discovers that one of her clients (Catherine Keener) is his ex-wife, she can’t help entangling herself in a web of white lies. Holofcener recalled directing the scene in which Gandolfini, who died before the movie was released, confronts Louis-Dreyfus in his kitchen. “He says, ‘You broke my heart, and I’m too old for that shit.’ That was not in the script.” She scooped up the last of her frozen yogurt. “That was a hard scene. We had a million airplanes going by. Many of the lines in that scene were his. We just sort of let it go—I wanted it to feel real to him. I think he was just very vulnerable. And then when we finished shooting the scene, in the other room, he says, ‘I can’t believe you made me cry like a bitch in the kitchen.’ ”</p></div>
+<div class="after">
+            <div class="articleMenuWrapper" id="footer_navbar">
+                <div class="sectionMenuLeft" id="footer_navbar_previous">
+                    <a href="page031.article001.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="footer_navbar_next">
+                    <a href="page035.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+        </div>
+    </body>
+</html>

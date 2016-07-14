@@ -1,0 +1,378 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="PrimaryID" version="2.0">
+  <opf:metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>The New Yorker</dc:title>
+    <dc:description />
+    <dc:creator>sip5</dc:creator>
+    <dc:publisher>sip5</dc:publisher>
+    <dc:identifier id="PrimaryID" opf:scheme="URN">2940010953553</dc:identifier>
+    <dc:identifier id="LDID">lat</dc:identifier>
+    <dc:language>en-US</dc:language>
+    <dc:date opf:event="publication">Sunday, October 13, 2013</dc:date>
+    <meta name="BNContentKind" content="magazineDRP" xmlns="" />
+  </opf:metadata>
+  <manifest>
+    <item href="images/cover.jpg" id="cover.jpg" media-type="image/jpeg" />
+    <item href="cover.xml" id="cover.xml" media-type="application/xhtml+xml" />
+    <item href="images/cover.jpg" id="cover" media-type="image/jpeg" />
+    <item href="section.xml" id="section" media-type="application/xhtml+xml" />
+    <item href="page054.article001.xml" id="page054.article001" media-type="application/xhtml+xml" />
+    <item href="page009.article001.xml" id="page009.article001" media-type="application/xhtml+xml" />
+    <item href="page035.article001.xml" id="page035.article001" media-type="application/xhtml+xml" />
+    <item href="page020.article001.xml" id="page020.article001" media-type="application/xhtml+xml" />
+    <item href="page025.article001.xml" id="page025.article001" media-type="application/xhtml+xml" />
+    <item href="page022.article001.xml" id="page022.article001" media-type="application/xhtml+xml" />
+    <item href="page078.article001.xml" id="page078.article001" media-type="application/xhtml+xml" />
+    <item href="page110.article001.xml" id="page110.article001" media-type="application/xhtml+xml" />
+    <item href="page046.article001.xml" id="page046.article001" media-type="application/xhtml+xml" />
+    <item href="page029.article001.xml" id="page029.article001" media-type="application/xhtml+xml" />
+    <item href="page045.article001.xml" id="page045.article001" media-type="application/xhtml+xml" />
+    <item href="page102.article001.xml" id="page102.article001" media-type="application/xhtml+xml" />
+    <item href="page066.article001.xml" id="page066.article001" media-type="application/xhtml+xml" />
+    <item href="page016.article001.xml" id="page016.article001" media-type="application/xhtml+xml" />
+    <item href="page036.article001.xml" id="page036.article001" media-type="application/xhtml+xml" />
+    <item href="page108.article001.xml" id="page108.article001" media-type="application/xhtml+xml" />
+    <item href="page018.article001.xml" id="page018.article001" media-type="application/xhtml+xml" />
+    <item href="page114.article001.xml" id="page114.article001" media-type="application/xhtml+xml" />
+    <item href="page012.article001.xml" id="page012.article001" media-type="application/xhtml+xml" />
+    <item href="page048.article001.xml" id="page048.article001" media-type="application/xhtml+xml" />
+    <item href="page106.article001.xml" id="page106.article001" media-type="application/xhtml+xml" />
+    <item href="page030.article001.xml" id="page030.article001" media-type="application/xhtml+xml" />
+    <item href="page032.article001.xml" id="page032.article001" media-type="application/xhtml+xml" />
+    <item href="page010.article001.xml" id="page010.article001" media-type="application/xhtml+xml" />
+    <item href="page062.article001.xml" id="page062.article001" media-type="application/xhtml+xml" />
+    <item href="css/test1.css" id="test1" media-type="text/css" />
+    <item href="replicaMap.xml" id="replicaMap" media-type="application/xhtml+xml" />
+    <item href="pub.ncx" id="pub" media-type="application/x-dtbncx+xml" />
+    <item href="page031.article001.xml" id="page031.article001" media-type="application/xhtml+xml" />
+    <item href="page092.article001.xml" id="page092.article001" media-type="application/xhtml+xml" />
+    <item href="images/page031.article001.image1.jpg" id="page031.article001.image1" media-type="image/jpeg" />
+    <item href="images/page016.article001.image1.jpg" id="page016.article001.image1" media-type="image/jpeg" />
+    <item href="images/page078.article001.image1.jpg" id="page078.article001.image1" media-type="image/jpeg" />
+    <item href="images/page020.article001.image1.jpg-thumb.jpg" id="page020.article001.image1.jpg-thumb" media-type="image/jpeg" />
+    <item href="images/page026.article001.image1.jpg-thumb.jpg" id="page026.article001.image1.jpg-thumb" media-type="image/jpeg" />
+    <item href="images/page012.article001.image1.jpg" id="page012.article001.image1" media-type="image/jpeg" />
+    <item href="images/page054.article001.image1.jpg-thumb.jpg" id="page054.article001.image1.jpg-thumb" media-type="image/jpeg" />
+    <item href="images/page030.article001.image1.jpg-thumb.jpg" id="page030.article001.image1.jpg-thumb" media-type="image/jpeg" />
+    <item href="images/page016.article001.image1.jpg-thumb.jpg" id="page016.article001.image1.jpg-thumb" media-type="image/jpeg" />
+    <item href="images/page025.article001.image1.jpg-thumb.jpg" id="page025.article001.image1.jpg-thumb" media-type="image/jpeg" />
+    <item href="images/page012.article001.image1.jpg-thumb.jpg" id="page012.article001.image1.jpg-thumb" media-type="image/jpeg" />
+    <item href="images/page029.article001.image1.jpg" id="page029.article001.image1" media-type="image/jpeg" />
+    <item href="images/page031.article001.image1.jpg-thumb.jpg" id="page031.article001.image1.jpg-thumb" media-type="image/jpeg" />
+    <item href="images/page018.article001.image1.jpg" id="page018.article001.image1" media-type="image/jpeg" />
+    <item href="images/page025.article001.image1.jpg" id="page025.article001.image1" media-type="image/jpeg" />
+    <item href="images/page022.article001.image1.jpg-thumb.jpg" id="page022.article001.image1.jpg-thumb" media-type="image/jpeg" />
+    <item href="images/page046.article001.image1.jpg" id="page046.article001.image1" media-type="image/jpeg" />
+    <item href="images/page110.article001.image1.jpg" id="page110.article001.image1" media-type="image/jpeg" />
+    <item href="images/page009.article001.image1.jpg" id="page009.article001.image1" media-type="image/jpeg" />
+    <item href="images/page108.article001.image1.jpg-thumb.jpg" id="page108.article001.image1.jpg-thumb" media-type="image/jpeg" />
+    <item href="images/page036.article001.image1.jpg" id="page036.article001.image1" media-type="image/jpeg" />
+    <item href="images/page009.article001.image1.jpg-thumb.jpg" id="page009.article001.image1.jpg-thumb" media-type="image/jpeg" />
+    <item href="images/page066.article001.image1.jpg-thumb.jpg" id="page066.article001.image1.jpg-thumb" media-type="image/jpeg" />
+    <item href="images/page078.article001.image1.jpg-thumb.jpg" id="page078.article001.image1.jpg-thumb" media-type="image/jpeg" />
+    <item href="images/page102.article001.image1.jpg-thumb.jpg" id="page102.article001.image1.jpg-thumb" media-type="image/jpeg" />
+    <item href="images/page114.article001.image1.jpg" id="page114.article001.image1" media-type="image/jpeg" />
+    <item href="images/page114.article001.image1.jpg-thumb.jpg" id="page114.article001.image1.jpg-thumb" media-type="image/jpeg" />
+    <item href="images/page102.article001.image1.jpg" id="page102.article001.image1" media-type="image/jpeg" />
+    <item href="images/page106.article001.image1.jpg" id="page106.article001.image1" media-type="image/jpeg" />
+    <item href="images/page110.article001.image1.jpg-thumb.jpg" id="page110.article001.image1.jpg-thumb" media-type="image/jpeg" />
+    <item href="images/page020.article001.image1.jpg" id="page020.article001.image1" media-type="image/jpeg" />
+    <item href="images/page092.article001.image1.jpg-thumb.jpg" id="page092.article001.image1.jpg-thumb" media-type="image/jpeg" />
+    <item href="images/page092.article001.image1.jpg" id="page092.article001.image1" media-type="image/jpeg" />
+    <item href="images/page032.article001.image1.jpg-thumb.jpg" id="page032.article001.image1.jpg-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_58.jpg" id="BN_DRP_PAGE_58" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_12-thumb.jpg" id="BN_DRP_PAGE_12-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_27-thumb.jpg" id="BN_DRP_PAGE_27-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_103.jpg" id="BN_DRP_PAGE_103" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_89-thumb.jpg" id="BN_DRP_PAGE_89-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_48-thumb.jpg" id="BN_DRP_PAGE_48-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_64.jpg" id="BN_DRP_PAGE_64" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_23-thumb.jpg" id="BN_DRP_PAGE_23-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_26.jpg" id="BN_DRP_PAGE_26" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_99.jpg" id="BN_DRP_PAGE_99" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_116.jpg" id="BN_DRP_PAGE_116" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_85.jpg" id="BN_DRP_PAGE_85" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_9.jpg" id="BN_DRP_PAGE_9" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_28-thumb.jpg" id="BN_DRP_PAGE_28-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_67.jpg" id="BN_DRP_PAGE_67" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_107.jpg" id="BN_DRP_PAGE_107" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_68.jpg" id="BN_DRP_PAGE_68" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_78-thumb.jpg" id="BN_DRP_PAGE_78-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_109.jpg" id="BN_DRP_PAGE_109" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_104.jpg" id="BN_DRP_PAGE_104" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_114.jpg" id="BN_DRP_PAGE_114" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_97.jpg" id="BN_DRP_PAGE_97" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_23.jpg" id="BN_DRP_PAGE_23" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_45.jpg" id="BN_DRP_PAGE_45" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_7-thumb.jpg" id="BN_DRP_PAGE_7-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_39-thumb.jpg" id="BN_DRP_PAGE_39-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_28.jpg" id="BN_DRP_PAGE_28" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_51.jpg" id="BN_DRP_PAGE_51" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_105-thumb.jpg" id="BN_DRP_PAGE_105-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_36.jpg" id="BN_DRP_PAGE_36" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_54.jpg" id="BN_DRP_PAGE_54" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_11.jpg" id="BN_DRP_PAGE_11" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_106.jpg" id="BN_DRP_PAGE_106" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_10-thumb.jpg" id="BN_DRP_PAGE_10-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_17-thumb.jpg" id="BN_DRP_PAGE_17-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_94.jpg" id="BN_DRP_PAGE_94" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_50-thumb.jpg" id="BN_DRP_PAGE_50-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_10.jpg" id="BN_DRP_PAGE_10" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_84.jpg" id="BN_DRP_PAGE_84" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_22.jpg" id="BN_DRP_PAGE_22" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_31.jpg" id="BN_DRP_PAGE_31" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_103-thumb.jpg" id="BN_DRP_PAGE_103-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_76-thumb.jpg" id="BN_DRP_PAGE_76-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_82-thumb.jpg" id="BN_DRP_PAGE_82-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_8.jpg" id="BN_DRP_PAGE_8" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_110-thumb.jpg" id="BN_DRP_PAGE_110-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_66-thumb.jpg" id="BN_DRP_PAGE_66-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_44.jpg" id="BN_DRP_PAGE_44" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_19.jpg" id="BN_DRP_PAGE_19" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_97-thumb.jpg" id="BN_DRP_PAGE_97-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_65.jpg" id="BN_DRP_PAGE_65" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_6.jpg" id="BN_DRP_PAGE_6" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_111.jpg" id="BN_DRP_PAGE_111" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_87.jpg" id="BN_DRP_PAGE_87" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_63-thumb.jpg" id="BN_DRP_PAGE_63-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_15-thumb.jpg" id="BN_DRP_PAGE_15-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_102.jpg" id="BN_DRP_PAGE_102" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_78.jpg" id="BN_DRP_PAGE_78" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_74.jpg" id="BN_DRP_PAGE_74" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_33-thumb.jpg" id="BN_DRP_PAGE_33-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_95.jpg" id="BN_DRP_PAGE_95" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_14-thumb.jpg" id="BN_DRP_PAGE_14-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_20.jpg" id="BN_DRP_PAGE_20" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_20-thumb.jpg" id="BN_DRP_PAGE_20-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_100.jpg" id="BN_DRP_PAGE_100" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_30.jpg" id="BN_DRP_PAGE_30" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_116-thumb.jpg" id="BN_DRP_PAGE_116-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_90.jpg" id="BN_DRP_PAGE_90" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_34-thumb.jpg" id="BN_DRP_PAGE_34-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_113-thumb.jpg" id="BN_DRP_PAGE_113-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_76.jpg" id="BN_DRP_PAGE_76" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_24.jpg" id="BN_DRP_PAGE_24" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_96.jpg" id="BN_DRP_PAGE_96" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_80-thumb.jpg" id="BN_DRP_PAGE_80-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_92.jpg" id="BN_DRP_PAGE_92" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_98.jpg" id="BN_DRP_PAGE_98" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_1.jpg" id="BN_DRP_PAGE_1" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_4.jpg" id="BN_DRP_PAGE_4" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_85-thumb.jpg" id="BN_DRP_PAGE_85-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_27.jpg" id="BN_DRP_PAGE_27" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_13.jpg" id="BN_DRP_PAGE_13" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_8-thumb.jpg" id="BN_DRP_PAGE_8-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_21.jpg" id="BN_DRP_PAGE_21" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_41.jpg" id="BN_DRP_PAGE_41" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_15.jpg" id="BN_DRP_PAGE_15" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_75.jpg" id="BN_DRP_PAGE_75" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_77-thumb.jpg" id="BN_DRP_PAGE_77-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_56.jpg" id="BN_DRP_PAGE_56" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_2.jpg" id="BN_DRP_PAGE_2" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_43-thumb.jpg" id="BN_DRP_PAGE_43-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_113.jpg" id="BN_DRP_PAGE_113" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_53.jpg" id="BN_DRP_PAGE_53" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_42.jpg" id="BN_DRP_PAGE_42" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_79.jpg" id="BN_DRP_PAGE_79" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_5.jpg" id="BN_DRP_PAGE_5" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_108-thumb.jpg" id="BN_DRP_PAGE_108-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_73-thumb.jpg" id="BN_DRP_PAGE_73-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_36-thumb.jpg" id="BN_DRP_PAGE_36-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_91.jpg" id="BN_DRP_PAGE_91" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_117-thumb.jpg" id="BN_DRP_PAGE_117-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_77.jpg" id="BN_DRP_PAGE_77" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_14.jpg" id="BN_DRP_PAGE_14" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_44-thumb.jpg" id="BN_DRP_PAGE_44-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_52-thumb.jpg" id="BN_DRP_PAGE_52-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_9-thumb.jpg" id="BN_DRP_PAGE_9-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_102-thumb.jpg" id="BN_DRP_PAGE_102-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_100-thumb.jpg" id="BN_DRP_PAGE_100-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_75-thumb.jpg" id="BN_DRP_PAGE_75-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_12.jpg" id="BN_DRP_PAGE_12" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_95-thumb.jpg" id="BN_DRP_PAGE_95-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_74-thumb.jpg" id="BN_DRP_PAGE_74-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_46-thumb.jpg" id="BN_DRP_PAGE_46-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_25.jpg" id="BN_DRP_PAGE_25" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_61.jpg" id="BN_DRP_PAGE_61" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_86-thumb.jpg" id="BN_DRP_PAGE_86-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_118.jpg" id="BN_DRP_PAGE_118" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_91-thumb.jpg" id="BN_DRP_PAGE_91-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_62-thumb.jpg" id="BN_DRP_PAGE_62-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_99-thumb.jpg" id="BN_DRP_PAGE_99-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_79-thumb.jpg" id="BN_DRP_PAGE_79-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_16-thumb.jpg" id="BN_DRP_PAGE_16-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_109-thumb.jpg" id="BN_DRP_PAGE_109-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_55.jpg" id="BN_DRP_PAGE_55" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_88-thumb.jpg" id="BN_DRP_PAGE_88-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_47.jpg" id="BN_DRP_PAGE_47" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_43.jpg" id="BN_DRP_PAGE_43" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_70-thumb.jpg" id="BN_DRP_PAGE_70-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_38.jpg" id="BN_DRP_PAGE_38" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_68-thumb.jpg" id="BN_DRP_PAGE_68-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_90-thumb.jpg" id="BN_DRP_PAGE_90-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_41-thumb.jpg" id="BN_DRP_PAGE_41-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_83.jpg" id="BN_DRP_PAGE_83" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_33.jpg" id="BN_DRP_PAGE_33" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_4-thumb.jpg" id="BN_DRP_PAGE_4-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_115-thumb.jpg" id="BN_DRP_PAGE_115-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_11-thumb.jpg" id="BN_DRP_PAGE_11-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_71-thumb.jpg" id="BN_DRP_PAGE_71-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_34.jpg" id="BN_DRP_PAGE_34" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_67-thumb.jpg" id="BN_DRP_PAGE_67-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_93-thumb.jpg" id="BN_DRP_PAGE_93-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_46.jpg" id="BN_DRP_PAGE_46" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_82.jpg" id="BN_DRP_PAGE_82" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_65-thumb.jpg" id="BN_DRP_PAGE_65-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_49-thumb.jpg" id="BN_DRP_PAGE_49-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_32.jpg" id="BN_DRP_PAGE_32" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_30-thumb.jpg" id="BN_DRP_PAGE_30-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_118-thumb.jpg" id="BN_DRP_PAGE_118-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_56-thumb.jpg" id="BN_DRP_PAGE_56-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_69-thumb.jpg" id="BN_DRP_PAGE_69-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_106-thumb.jpg" id="BN_DRP_PAGE_106-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_115.jpg" id="BN_DRP_PAGE_115" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_42-thumb.jpg" id="BN_DRP_PAGE_42-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_83-thumb.jpg" id="BN_DRP_PAGE_83-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_72.jpg" id="BN_DRP_PAGE_72" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_117.jpg" id="BN_DRP_PAGE_117" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_29.jpg" id="BN_DRP_PAGE_29" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_112.jpg" id="BN_DRP_PAGE_112" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_5-thumb.jpg" id="BN_DRP_PAGE_5-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_22-thumb.jpg" id="BN_DRP_PAGE_22-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_81.jpg" id="BN_DRP_PAGE_81" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_19-thumb.jpg" id="BN_DRP_PAGE_19-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_98-thumb.jpg" id="BN_DRP_PAGE_98-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_50.jpg" id="BN_DRP_PAGE_50" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_31-thumb.jpg" id="BN_DRP_PAGE_31-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_59.jpg" id="BN_DRP_PAGE_59" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_57.jpg" id="BN_DRP_PAGE_57" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_101-thumb.jpg" id="BN_DRP_PAGE_101-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_86.jpg" id="BN_DRP_PAGE_86" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_94-thumb.jpg" id="BN_DRP_PAGE_94-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_25-thumb.jpg" id="BN_DRP_PAGE_25-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_104-thumb.jpg" id="BN_DRP_PAGE_104-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_2-thumb.jpg" id="BN_DRP_PAGE_2-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_112-thumb.jpg" id="BN_DRP_PAGE_112-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_66.jpg" id="BN_DRP_PAGE_66" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_45-thumb.jpg" id="BN_DRP_PAGE_45-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_51-thumb.jpg" id="BN_DRP_PAGE_51-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_49.jpg" id="BN_DRP_PAGE_49" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_35.jpg" id="BN_DRP_PAGE_35" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_72-thumb.jpg" id="BN_DRP_PAGE_72-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_58-thumb.jpg" id="BN_DRP_PAGE_58-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_1-thumb.jpg" id="BN_DRP_PAGE_1-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_69.jpg" id="BN_DRP_PAGE_69" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_40-thumb.jpg" id="BN_DRP_PAGE_40-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_111-thumb.jpg" id="BN_DRP_PAGE_111-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_17.jpg" id="BN_DRP_PAGE_17" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_21-thumb.jpg" id="BN_DRP_PAGE_21-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_39.jpg" id="BN_DRP_PAGE_39" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_55-thumb.jpg" id="BN_DRP_PAGE_55-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_32-thumb.jpg" id="BN_DRP_PAGE_32-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_92-thumb.jpg" id="BN_DRP_PAGE_92-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_53-thumb.jpg" id="BN_DRP_PAGE_53-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_60-thumb.jpg" id="BN_DRP_PAGE_60-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_24-thumb.jpg" id="BN_DRP_PAGE_24-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_61-thumb.jpg" id="BN_DRP_PAGE_61-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_88.jpg" id="BN_DRP_PAGE_88" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_81-thumb.jpg" id="BN_DRP_PAGE_81-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_40.jpg" id="BN_DRP_PAGE_40" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_107-thumb.jpg" id="BN_DRP_PAGE_107-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_93.jpg" id="BN_DRP_PAGE_93" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_71.jpg" id="BN_DRP_PAGE_71" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_73.jpg" id="BN_DRP_PAGE_73" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_114-thumb.jpg" id="BN_DRP_PAGE_114-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_35-thumb.jpg" id="BN_DRP_PAGE_35-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_3-thumb.jpg" id="BN_DRP_PAGE_3-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_3.jpg" id="BN_DRP_PAGE_3" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_108.jpg" id="BN_DRP_PAGE_108" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_29-thumb.jpg" id="BN_DRP_PAGE_29-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_38-thumb.jpg" id="BN_DRP_PAGE_38-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_37.jpg" id="BN_DRP_PAGE_37" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_80.jpg" id="BN_DRP_PAGE_80" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_47-thumb.jpg" id="BN_DRP_PAGE_47-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_64-thumb.jpg" id="BN_DRP_PAGE_64-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_59-thumb.jpg" id="BN_DRP_PAGE_59-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_89.jpg" id="BN_DRP_PAGE_89" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_18-thumb.jpg" id="BN_DRP_PAGE_18-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_48.jpg" id="BN_DRP_PAGE_48" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_37-thumb.jpg" id="BN_DRP_PAGE_37-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_57-thumb.jpg" id="BN_DRP_PAGE_57-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_84-thumb.jpg" id="BN_DRP_PAGE_84-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_52.jpg" id="BN_DRP_PAGE_52" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_87-thumb.jpg" id="BN_DRP_PAGE_87-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_54-thumb.jpg" id="BN_DRP_PAGE_54-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_62.jpg" id="BN_DRP_PAGE_62" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_101.jpg" id="BN_DRP_PAGE_101" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_96-thumb.jpg" id="BN_DRP_PAGE_96-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_63.jpg" id="BN_DRP_PAGE_63" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_13-thumb.jpg" id="BN_DRP_PAGE_13-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_6-thumb.jpg" id="BN_DRP_PAGE_6-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_105.jpg" id="BN_DRP_PAGE_105" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_110.jpg" id="BN_DRP_PAGE_110" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_16.jpg" id="BN_DRP_PAGE_16" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_18.jpg" id="BN_DRP_PAGE_18" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_70.jpg" id="BN_DRP_PAGE_70" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_26-thumb.jpg" id="BN_DRP_PAGE_26-thumb" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_7.jpg" id="BN_DRP_PAGE_7" media-type="image/jpeg" />
+    <item href="images/pages/BN_DRP_PAGE_60.jpg" id="BN_DRP_PAGE_60" media-type="image/jpeg" />
+    <item href="images/page112.article001.image1.jpg-thumb.jpg" id="page112.article001.image1.jpg-thumb" media-type="image/jpeg" />
+    <item href="images/page010.article001.image1.jpg-thumb.jpg" id="page010.article001.image1.jpg-thumb" media-type="image/jpeg" />
+    <item href="images/page029.article001.image1.jpg-thumb.jpg" id="page029.article001.image1.jpg-thumb" media-type="image/jpeg" />
+    <item href="images/page045.article001.image1.jpg" id="page045.article001.image1" media-type="image/jpeg" />
+    <item href="images/page108.article001.image1.jpg" id="page108.article001.image1" media-type="image/jpeg" />
+    <item href="images/page030.article001.image1.jpg" id="page030.article001.image1" media-type="image/jpeg" />
+    <item href="images/page022.article001.image1.jpg" id="page022.article001.image1" media-type="image/jpeg" />
+    <item href="images/page010.article001.image1.jpg" id="page010.article001.image1" media-type="image/jpeg" />
+    <item href="images/page045.article001.image1.jpg-thumb.jpg" id="page045.article001.image1.jpg-thumb" media-type="image/jpeg" />
+    <item href="images/page036.article001.image1.jpg-thumb.jpg" id="page036.article001.image1.jpg-thumb" media-type="image/jpeg" />
+    <item href="images/page046.article001.image1.jpg-thumb.jpg" id="page046.article001.image1.jpg-thumb" media-type="image/jpeg" />
+    <item href="images/page032.article001.image1.jpg" id="page032.article001.image1" media-type="image/jpeg" />
+    <item href="images/page106.article001.image1.jpg-thumb.jpg" id="page106.article001.image1.jpg-thumb" media-type="image/jpeg" />
+    <item href="images/page112.article001.image1.jpg" id="page112.article001.image1" media-type="image/jpeg" />
+    <item href="images/page054.article001.image1.jpg" id="page054.article001.image1" media-type="image/jpeg" />
+    <item href="images/page026.article001.image1.jpg" id="page026.article001.image1" media-type="image/jpeg" />
+    <item href="images/page035.article001.image1.jpg-thumb.jpg" id="page035.article001.image1.jpg-thumb" media-type="image/jpeg" />
+    <item href="images/page066.article001.image1.jpg" id="page066.article001.image1" media-type="image/jpeg" />
+    <item href="images/page035.article001.image1.jpg" id="page035.article001.image1" media-type="image/jpeg" />
+    <item href="images/page018.article001.image1.jpg-thumb.jpg" id="page018.article001.image1.jpg-thumb" media-type="image/jpeg" />
+    <item href="page112.article001.xml" id="page112.article001" media-type="application/xhtml+xml" />
+    <item href="page026.article001.xml" id="page026.article001" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="pub">
+    <itemref idref="cover.xml" linear="yes" />
+    <itemref idref="section" linear="yes" />
+    <itemref idref="page009.article001" linear="yes" />
+    <itemref idref="page010.article001" linear="yes" />
+    <itemref idref="page012.article001" linear="yes" />
+    <itemref idref="page016.article001" linear="yes" />
+    <itemref idref="page018.article001" linear="yes" />
+    <itemref idref="page020.article001" linear="yes" />
+    <itemref idref="page022.article001" linear="yes" />
+    <itemref idref="page025.article001" linear="yes" />
+    <itemref idref="page026.article001" linear="yes" />
+    <itemref idref="page029.article001" linear="yes" />
+    <itemref idref="page030.article001" linear="yes" />
+    <itemref idref="page031.article001" linear="yes" />
+    <itemref idref="page032.article001" linear="yes" />
+    <itemref idref="page035.article001" linear="yes" />
+    <itemref idref="page036.article001" linear="yes" />
+    <itemref idref="page045.article001" linear="yes" />
+    <itemref idref="page046.article001" linear="yes" />
+    <itemref idref="page048.article001" linear="yes" />
+    <itemref idref="page054.article001" linear="yes" />
+    <itemref idref="page062.article001" linear="yes" />
+    <itemref idref="page066.article001" linear="yes" />
+    <itemref idref="page078.article001" linear="yes" />
+    <itemref idref="page092.article001" linear="yes" />
+    <itemref idref="page102.article001" linear="yes" />
+    <itemref idref="page106.article001" linear="yes" />
+    <itemref idref="page108.article001" linear="yes" />
+    <itemref idref="page110.article001" linear="yes" />
+    <itemref idref="page112.article001" linear="yes" />
+    <itemref idref="page114.article001" linear="yes" />
+  </spine>
+  <guide>
+    <reference href="section.xml" title="The New Yorker" type="toc" />
+  </guide>
+</package>

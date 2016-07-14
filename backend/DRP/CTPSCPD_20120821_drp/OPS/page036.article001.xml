@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Cooking with Paula Deen</title>
+<link href="css/test1.css" rel="stylesheet" type="text/css" />
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    </head>
+<body class="left">
+        <div class="before">
+            <div class="articleMenuWrapper" id="header_navbar">
+                <div class="sectionMenuLeft" id="header_navbar_previous">
+                    <a href="page037.article003.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="header_navbar_next">
+                    <a href="page037.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+            <div class="masthead" id="header">
+                <div class="masthead-text">
+                    <div class="masthead-section" id="header_title">
+                        <a href="section.xml">Contents</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="article-headline" id="Headline">ASIAN PORK STACKS</div>
+
+
+
+<div class="article-in-image" id="image1"><img src="images/page036.article001.image1.jpg" class="article-in-image" alt=""/></div>
+<div id="separatorLine"> <div class="invisible">empty</div> </div>
+
+<div class="articleImageCredit" id="ImageCredit">PHOTOGRAPHY BY WILLIAM DICKEY</div>
+<div class="article-body" id="Body"><p class="no-indent">Makes 3 dozen </p><br/><p class="no-indent">36 wonton wrappers </p><p class="no-indent">1½ pounds pork tenderloin, trimmed </p><p class="no-indent">2 tablespoons vegetable oil </p><p class="no-indent">2 tablespoons soy sauce </p><p class="no-indent">1 tablespoon rice vinegar </p><p class="no-indent">1 tablespoon sesame oil </p><p class="no-indent">1 tablespoon minced fresh cilantro </p><p class="no-indent">2 teaspoons minced garlic </p><p class="no-indent">Napa Cabbage Slaw (recipe follows) </p><p class="no-indent">Wasabi Cream (recipe follows) </p><p class="no-indent">Garnish: black sesame seeds </p><br/><p class="no-indent">1. Preheat oven to 350˚. Spray baking sheets with nonstick cooking spray. Arrange wonton wrappers in a single layer on prepared baking sheets. Spray wontons lightly with cooking spray. Bake for 8 to 10 minutes or until browned and crisp. Remove from pan and cool on wire racks.</p><br/><p class="no-indent">2. In a large resealable plastic bag, place pork and next 6 ingredients, turning to coat. Seal bag, and chill for at least 4 hours or up to 24 hours. </p><br/><p class="no-indent">3. Preheat oven to 400°. Line a rimmed baking sheet with aluminum foil. Remove pork from bag and discarde marinade. Place on prepared pan. </p><br/><p class="no-indent">4. Bake for 30 to 40 minutes or until a meat thermometer inserted into thickest portion of pork registers 145°. Let stand for 20 minutes. Cut into very thin slices. </p><br/><p class="no-indent">5. Spoon about 2 tablespoons Napa Cabbage Slaw on wonton wrappers, and top with one or two slices of pork. Spoon about ½ teaspoon Wasabi Cream over pork. Garnish with black sesame seeds, if desired. Serve immediately. </p><br/><p class="no-indent">To make ahead: Bake wonton wrappers up to 3 days in advance, and store in airtight containers. Bake pork and cool. Cover and refrigerate for up to 2 days.</p><br/><p>______________________________</p><br/><p class="no-indent">Napa Cabbage Slaw </p><p class="no-indent">Makes about 3 cups </p><br/><p class="no-indent">5 cups thinly sliced Napa cabbage </p><p class="no-indent">1 cup matchstick carrots </p><p class="no-indent">½ cup thinly sliced green onions</p><p class="no-indent">2 tablespoons rice vinegar </p><p class="no-indent">2 tablespoons soy sauce </p><p class="no-indent">2 tablespoons sesame oil </p><p class="no-indent">2 teaspoons sweet chili sauce </p><p class="no-indent">¼ teaspoon crushed red pepper </p><br/><p class="no-indent">1. In a medium bowl, combine cabbage, carrots, and green onions. </p><br/><p class="no-indent">2. In a small bowl, combine vinegar and remaining 4 ingredients. Add to cabbage mixture, tossing gently to coat. Let stand for 10 minutes before serving. </p><br/><p class="no-indent">To make ahead: Combine vegetables and make dressing the day before. Store separately in refrigerator. Toss together, and let stand for 10 minutes before serving. </p><br/><p>______________________________</p><br/><p class="no-indent">Wasabi Cream </p><p class="no-indent">Makes about 1 cup </p><br/><p class="no-indent">1 cup sour cream </p><p class="no-indent">2 tablespoons minced fresh cilantro </p><p class="no-indent">1 tablespoon wasabi powder </p><p class="no-indent">2 teaspoons fresh lime juice </p><br/><p class="no-indent">1. In a small bowl, stir together all ingredients until combined. Cover and refrigerate for up to 2 days.</p></div>
+<div class="after">
+            <div class="articleMenuWrapper" id="footer_navbar">
+                <div class="sectionMenuLeft" id="footer_navbar_previous">
+                    <a href="page037.article003.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="footer_navbar_next">
+                    <a href="page037.article001.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+        </div>
+    </body>
+</html>

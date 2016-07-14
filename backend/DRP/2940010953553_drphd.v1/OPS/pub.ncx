@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+    <head>
+        <meta content="nyt/nyt/nyt/20080927/sat_met/674989" name="dtb:uid"/>
+        <meta content="2" name="dtb:depth"/>
+        <meta content="0" name="dtb:totalPageCount"/>
+        <meta content="0" name="dtb:maxPageNumber"/>
+    </head>
+    <docTitle>
+        <text>The New Yorker</text>
+    </docTitle>
+    <docAuthor>
+        <text>sip5</text>
+    </docAuthor>
+    <navMap>
+        <navPoint class="introduction" id="cover.xml" playOrder="1">
+            <navLabel>
+                <text>Cover</text>
+            </navLabel>
+            <content src="cover.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="page009.article001" playOrder="2">
+            <navLabel>
+                <text>GOINGS ON ABOUT TOWN</text>
+            </navLabel>
+            <content src="page009.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="page010.article001" playOrder="3">
+            <navLabel>
+                <text>ART</text>
+            </navLabel>
+            <content src="page010.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="page012.article001" playOrder="4">
+            <navLabel>
+                <text>THE THEATRE</text>
+            </navLabel>
+            <content src="page012.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="page016.article001" playOrder="5">
+            <navLabel>
+                <text>CLASSICAL MUSIC</text>
+            </navLabel>
+            <content src="page016.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="page018.article001" playOrder="6">
+            <navLabel>
+                <text>DANCE</text>
+            </navLabel>
+            <content src="page018.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="page020.article001" playOrder="7">
+            <navLabel>
+                <text>ABOVE &amp; BEYOND</text>
+            </navLabel>
+            <content src="page020.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="page022.article001" playOrder="8">
+            <navLabel>
+                <text>MOVIES</text>
+            </navLabel>
+            <content src="page022.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="page025.article001" playOrder="9">
+            <navLabel>
+                <text>NIGHT LIFE</text>
+            </navLabel>
+            <content src="page025.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="page026.article001" playOrder="10">
+            <navLabel>
+                <text>FOOD &amp; DRINK</text>
+            </navLabel>
+            <content src="page026.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="page029.article001" playOrder="11">
+            <navLabel>
+                <text>COMMENT: IMPEACH OBAMA!</text>
+            </navLabel>
+            <content src="page029.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="page030.article001" playOrder="12">
+            <navLabel>
+                <text>DEPT. OF HOOPLA: IF THE SHOE FITS</text>
+            </navLabel>
+            <content src="page030.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="page031.article001" playOrder="13">
+            <navLabel>
+                <text>WIND ON CAPITOL HILL: NAIL-BITER</text>
+            </navLabel>
+            <content src="page031.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="page032.article001" playOrder="14">
+            <navLabel>
+                <text>THE PICTURES: VICTORY LAP</text>
+            </navLabel>
+            <content src="page032.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="page035.article001" playOrder="15">
+            <navLabel>
+                <text>THE FINANCIAL PAGE: OPEN SEASON</text>
+            </navLabel>
+            <content src="page035.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="page036.article001" playOrder="16">
+            <navLabel>
+                <text>GONE GIRL</text>
+            </navLabel>
+            <content src="page036.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="page045.article001" playOrder="17">
+            <navLabel>
+                <text>LUAU</text>
+            </navLabel>
+            <content src="page045.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="page046.article001" playOrder="18">
+            <navLabel>
+                <text>LYDDA, 1948</text>
+            </navLabel>
+            <content src="page046.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="page048.article001" playOrder="19">
+            <navLabel>
+                <text>TANAGER</text>
+            </navLabel>
+            <content src="page048.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="page054.article001" playOrder="20">
+            <navLabel>
+                <text>TWO-HIT WONDER</text>
+            </navLabel>
+            <content src="page054.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="page062.article001" playOrder="21">
+            <navLabel>
+                <text>MOON RIVER</text>
+            </navLabel>
+            <content src="page062.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="page066.article001" playOrder="22">
+            <navLabel>
+                <text>PRIVATE EYES</text>
+            </navLabel>
+            <content src="page066.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="page078.article001" playOrder="23">
+            <navLabel>
+                <text>ALICE MUNRO</text>
+            </navLabel>
+            <content src="page078.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="page092.article001" playOrder="24">
+            <navLabel>
+                <text>THE NORMAN INVASION</text>
+            </navLabel>
+            <content src="page092.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="page102.article001" playOrder="25">
+            <navLabel>
+                <text>HEAD COUNT</text>
+            </navLabel>
+            <content src="page102.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="page106.article001" playOrder="26">
+            <navLabel>
+                <text>THE NEW CURIOSITY SHOP</text>
+            </navLabel>
+            <content src="page106.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="page108.article001" playOrder="27">
+            <navLabel>
+                <text>BRIEFLY NOTED</text>
+            </navLabel>
+            <content src="page108.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="page110.article001" playOrder="28">
+            <navLabel>
+                <text>ROYALTIES</text>
+            </navLabel>
+            <content src="page110.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="page112.article001" playOrder="29">
+            <navLabel>
+                <text>PLAY TIME</text>
+            </navLabel>
+            <content src="page112.article001.xml"/>
+        </navPoint>
+        <navPoint class="introduction" id="page114.article001" playOrder="30">
+            <navLabel>
+                <text>FIGHTING TO SURVIVE</text>
+            </navLabel>
+            <content src="page114.article001.xml"/>
+        </navPoint>
+    </navMap>
+</ncx>

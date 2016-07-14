@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+		<meta http-equiv="Expires" content="-1" />
+		<meta http-equiv="Pragma" content="no-cache" />
+		<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+		<meta content="Nook for Web" name="description" />
+		<meta content="initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0" name="viewport" />
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<title>EPUBJ-WebReader Prototype</title>
+		<link href="http://img3.imagesbn.com/resources/images/favicon.ico?cb=2.23.0" type="image/x-icon" rel="icon" />
+		<link type="text/css" rel="stylesheet" href="css/bnwr.css" />
+		<script type="text/javascript" src="js/bnwr_polyfills.js"></script>
+		<script type="text/javascript" src="js/bnwr_utils.js"></script>
+		<script type="text/javascript" src="js/bnwr_wrapper.js"></script>
+	</head>
+	<body>
+		<div id="wrapper">
+			<div id="header">
+				<div class="lefted">
+					<div id="nook_logo"></div>
+					<div id="book_title">&nbsp;</div>
+				</div>
+				<div class="righted">
+					<div id="bnwr_buttons">
+						<span tip-content="#bnwr_toclist" class="tip bnwr-btn-toc"></span>
+						<span tip-content="#bnwr_styling" class="tip bnwr-btn-font"></span>
+						<span class="bnwr-btn-fs"></span>
+					</div>
+				</div>
+			</div>
+			<div id="content">
+		    	<div id="left"></div>
+		    	<div id="right"></div>
+		    	<div id="center">
+		    		<div id='swipe_overlay'></div>
+		       		<iframe id="content_frame" src="frame.html">Your browser does not support iframes.</iframe>
+					<div id="spinner"></div>
+		    	</div>
+			</div>
+			<div id="footer">
+				<div id='slider'></div>
+			    <div class="bnwr_pages_counter">
+					<span id="page">0</span>
+					<span id="page-of"> of </span>
+					<span id="pages">0</span>
+				</div>
+			</div>
+		</div><!-- #wrapper -->
+		<div style='display:none'>
+			<div id='bnwr_styling'>
+				<h1>FONT</h1>
+				<ul id='bnwr_fontSize'></ul>
+				<hr/>
+				<ul id='bnwr_fontFamily'></ul>
+			</div>
+			<div id='bnwr_toclist'>
+				<h1>CONTENTS</h1>
+			</div>
+		</div>
+	</body>
+</html>

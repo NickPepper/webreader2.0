@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns:saxon="http://saxon.sf.net/" xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:nitf="http://www.nytimes.com/applicationdata/xml/nitf-3-3.dtd">
+   <head>
+      <title>Curbing Campaign Cash</title>
+      <link rel="stylesheet" href="css/TablesAndFloats.css" type="text/css"/>
+   </head>
+   <body>
+      <div id="header_navbar" class="articleMenuWrapper">
+         <span id="header_navbar_previous" class="sectionMenuLeft"/>
+         <span id="header_navbar_next" class="sectionMenuRight">
+            <a href="article_4-1.xml">Next Article</a>
+         </span>
+      </div>
+      <div class="clean"/>
+      <div id="header" class="masthead">
+         <div class="masthead-text">
+            <div id="header_title" class="masthead-section">
+               <a href="section_3.xml">Editorial</a>
+            </div>
+         </div>
+      </div>
+      <h2 id="headline" class="article-full-headline">Curbing Campaign Cash</h2>
+      <p id="byline" class="article-full-byline"></p>
+      <div>
+         <div id="image_0" class="article-in-image">
+            <img id="image_0_img" class="article-in-image" src="images/img_8_311.jpg" alt="News image"/>
+         </div>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">The post–Citizens United drive for secret campaign money has now become an arms race. As a New York Times editorial recently noted, former White House deputy press secretary Bill Burton will be leading a group called Priorities USA to “raise unlimited money from undisclosed sources to aid in the president’s re-election campaign.”</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">We acknowledge the strong case made by many that Democrats cannot afford to cede ground in these exorbitant, no-holds-barred campaigns (see Eric Alterman on page 8). But this isn’t news to be welcomed by pro-democracy reformers. If Democrats seek the same kind of opaque funding they have been arguing against, their case for reform becomes morally ambiguous, at best. Instead, they should act on the overwhelming bipartisan sentiment in favor of curbing the influence of money in elections—even 62 percent of GOP voters and 60 percent of Tea Partiers agree. Democrats are already on record—unlike nearly every Republican—in support of the DISCLOSE Act, the Fair Elections Now Act and state Clean Election laws. Some are even backing a constitutional amendment to overturn the Citizens United decision, which allows corporations to spend any amount of money on campaigns.</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">President Obama’s rhetoric on money in politics has been splendid at times—during the 2008 campaign and when criticizing Citizens United and supporting the DISCLOSE Act. But he could push harder for the Fair Elections Now Act, a presidential public financing fix, and renew his support for the DISCLOSE Act, blocked last year by a GOP filibuster. Obama should draw a stark contrast between the parties by signing a draft executive order requiring any company seeking a government contract to disclose its political giving. Not surprisingly, the GOP and its gravy train (aka the Chamber of Commerce) have retreated, vampirelike, from this little bit of sunlight, as have a few Dems. But that provides a huge opening for Obama to renew his 2008 call to change the culture of Washington. Indeed, it’s not only good policy but good politics. “The bottom line is that people want a political system that is responsive to their needs,” observes Nick Nyhart, president and CEO of Public Campaign. “Elected officials who stand in the way of that could pay a price down the line.”</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">Despite clear public support for reform, conservative courts, Republican legislatures and corporate front groups are attempting to reverse hard-won gains. In Arizona GOP legislators and the Chamber of Commerce are pressing to repeal that state’s effective Clean Election law, even though 77 percent of Arizonans support it. In Maine Republican Governor Paul LePage has attempted to defund his state’s Clean Election law and repeal its use in governors’ races, even as he has more than tripled the private contribution limit for gubernatorial candidates. Let’s hope the 82 percent of Mainers who support the law have the last word.</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">The fight for campaign finance reform can’t be separated from the fight to preserve collective bargaining rights, prevent restrictive voter ID laws and protect our tattered social safety net from deeper budget cuts. These struggles are all about power and voice in our democracy. “Our country’s biggest problems won’t be solved for the many if the process is fixed by the money,” says Nyhart.</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">Instead of heading into the ditch of pay-to-play politics with the Republicans, Democrats—led by President Obama—should continue along the high road. Most Americans are already there waiting for them.</p>
+         <div id="footer_navbar" class="sectionMenuWrapper">
+            <span id="footer_navbar_previous" class="sectionMenuLeft"/>
+            <span id="footer_navbar_next" class="sectionMenuRight">
+               <a href="article_4-1.xml">Next Article</a>
+            </span>
+         </div>
+      </div>
+   </body>
+</html>

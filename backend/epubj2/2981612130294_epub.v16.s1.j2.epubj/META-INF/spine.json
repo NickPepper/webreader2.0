@@ -1,0 +1,491 @@
+{  
+    "v":"2.0",
+    "_":1,
+    "metadata":{  
+        "title":"Fifty Shades of Grey",
+        "rights":"Copyright \u00A9 2011 by Fifty Shades, Ltd.",
+        "language":"en-US",
+        "date":"2012-03-27",
+        "identifier":"978-1-61213-029-3",
+        "publisher":"Vintage Books",
+        "creator":"E L James"
+    },
+    "spine":[  
+        {  
+            "T":"OEBPS/Jame_9781612130293_epub_cvi_r1.htm",
+            "X":"q1",
+            "O":"OEBPS/Jame_9781612130293_epub_cvi_r1.content.json",
+            "R":"application/dtls",
+            "C":"/6/2",
+            "N":true,
+            "Z":623,
+            "G":377
+        },
+        {  
+            "T":"OEBPS/Jame_9781612130293_epub_ata_r1.htm",
+            "X":"q2",
+            "O":"OEBPS/Jame_9781612130293_epub_ata_r1.content.json",
+            "R":"application/dtls",
+            "C":"/6/4",
+            "N":true,
+            "Z":1097,
+            "G":622
+        },
+        {  
+            "T":"OEBPS/Jame_9781612130293_epub_adc_r1.htm",
+            "X":"q3",
+            "O":"OEBPS/Jame_9781612130293_epub_adc_r1.content.json",
+            "R":"application/dtls",
+            "C":"/6/6",
+            "N":true,
+            "Z":689,
+            "G":375
+        },
+        {  
+            "T":"OEBPS/Jame_9781612130293_epub_tp_r1.htm",
+            "X":"q4",
+            "O":"OEBPS/Jame_9781612130293_epub_tp_r1.content.json",
+            "R":"application/dtls",
+            "C":"/6/8",
+            "N":true,
+            "Z":652,
+            "G":395
+        },
+        {  
+            "T":"OEBPS/Jame_9781612130293_epub_cop_r1.htm",
+            "X":"q5",
+            "O":"OEBPS/Jame_9781612130293_epub_cop_r1.content.json",
+            "R":"application/dtls",
+            "C":"/6/10",
+            "N":true,
+            "Z":1826,
+            "G":937
+        },
+        {  
+            "T":"OEBPS/Jame_9781612130293_epub_ded_r1.htm",
+            "X":"q6",
+            "O":"OEBPS/Jame_9781612130293_epub_ded_r1.content.json",
+            "R":"application/dtls",
+            "C":"/6/12",
+            "N":true,
+            "Z":556,
+            "G":356
+        },
+        {  
+            "T":"OEBPS/Jame_9781612130293_epub_ack_r1.htm",
+            "X":"q7",
+            "O":"OEBPS/Jame_9781612130293_epub_ack_r1.content.json",
+            "R":"application/dtls",
+            "C":"/6/14",
+            "N":true,
+            "Z":1358,
+            "G":696
+        },
+        {  
+            "T":"OEBPS/Jame_9781612130293_epub_toc_r1.htm",
+            "X":"q8",
+            "O":"OEBPS/Jame_9781612130293_epub_toc_r1.content.json",
+            "R":"application/dtls",
+            "C":"/6/16",
+            "N":true,
+            "Z":3908,
+            "G":625
+        },
+        {  
+            "T":"OEBPS/Jame_9781612130293_epub_c01_r1.htm",
+            "X":"q9",
+            "O":"OEBPS/Jame_9781612130293_epub_c01_r1.content.json",
+            "R":"application/dtls",
+            "C":"/6/18",
+            "N":true,
+            "Z":33464,
+            "G":11803
+        },
+        {  
+            "T":"OEBPS/Jame_9781612130293_epub_c02_r1.htm",
+            "X":"q10",
+            "O":"OEBPS/Jame_9781612130293_epub_c02_r1.content.json",
+            "R":"application/dtls",
+            "C":"/6/20",
+            "N":true,
+            "Z":20560,
+            "G":8009
+        },
+        {  
+            "T":"nook/isaSample.xhtml",
+            "X":"q11",
+            "O":"nook/isaSample.content.json",
+            "R":"application/dtls",
+            "C":"/6/22",
+            "N":true,
+            "Z":1058,
+            "G":341
+        }
+    ],
+    "toc":{  
+        "b":"Fifty Shades of Grey",
+        "navmap":[  
+            {  
+                "label":"Cover",
+                "E":"OEBPS/Jame_9781612130293_epub_cvi_r1.htm",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"About the Author",
+                "E":"OEBPS/Jame_9781612130293_epub_ata_r1.htm",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Other Books by This Author",
+                "E":"OEBPS/Jame_9781612130293_epub_adc_r1.htm",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Title Page",
+                "E":"OEBPS/Jame_9781612130293_epub_tp_r1.htm",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Copyright",
+                "E":"OEBPS/Jame_9781612130293_epub_cop_r1.htm",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Dedication",
+                "E":"OEBPS/Jame_9781612130293_epub_ded_r1.htm",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Acknowledgments",
+                "E":"OEBPS/Jame_9781612130293_epub_ack_r1.htm",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Contents",
+                "E":"OEBPS/Jame_9781612130293_epub_toc_r1.htm",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter One",
+                "E":"OEBPS/Jame_9781612130293_epub_c01_r1.htm",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Two",
+                "E":"OEBPS/Jame_9781612130293_epub_c02_r1.htm",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Three",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_11",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Four",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_12",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Five",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_13",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Six",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_14",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Seven",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_15",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Eight",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_16",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Nine",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_17",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Ten",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_18",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Eleven",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_19",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Twelve",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_20",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Thirteen",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_21",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Fourteen",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_22",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Fifteen",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_23",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Sixteen",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_24",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Seventeen",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_25",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Eighteen",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_26",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Nineteen",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_27",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Twenty",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_28",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Twenty-one",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_29",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Twenty-two",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_30",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Twenty-three",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_31",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Twenty-four",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_32",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Twenty-five",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_33",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            },
+            {  
+                "label":"Chapter Twenty-six",
+                "E":"nook/isaSample.xhtml#_nook_isaSample_34",
+                "page":0,
+                "navpoints":[  
+
+                ]
+            }
+        ]
+    },
+    "pagemap":[  
+        {  
+            "C":"/6/2!"
+        },
+        {  
+            "C":"/6/4!"
+        },
+        {  
+            "C":"/6/6!"
+        },
+        {  
+            "C":"/6/8!"
+        },
+        {  
+            "C":"/6/10!"
+        },
+        {  
+            "C":"/6/12!"
+        },
+        {  
+            "C":"/6/14!"
+        },
+        {  
+            "C":"/6/16!"
+        },
+        {  
+            "C":"/6/18!"
+        },
+        {  
+            "C":"/6/18!/4/16/1:99"
+        },
+        {  
+            "C":"/6/18!/4/36/1:312"
+        },
+        {  
+            "C":"/6/18!/4/48/3:632"
+        },
+        {  
+            "C":"/6/18!/4/92/1:83"
+        },
+        {  
+            "C":"/6/18!/4/116/1:297"
+        },
+        {  
+            "C":"/6/18!/4/140/3:188"
+        },
+        {  
+            "C":"/6/18!/4/158/1:95"
+        },
+        {  
+            "C":"/6/18!/4/194/1:7"
+        },
+        {  
+            "C":"/6/18!/4/228/1:310"
+        },
+        {  
+            "C":"/6/18!/4/274/1:14"
+        },
+        {  
+            "C":"/6/18!/4/314/1:64"
+        },
+        {  
+            "C":"/6/20!"
+        },
+        {  
+            "C":"/6/20!/4/12/4/1:25"
+        },
+        {  
+            "C":"/6/20!/4/28/1:22"
+        },
+        {  
+            "C":"/6/20!/4/66/3:70"
+        },
+        {  
+            "C":"/6/20!/4/92/1:29"
+        },
+        {  
+            "C":"/6/20!/4/114/3:654"
+        },
+        {  
+            "C":"/6/20!/4/136/1:14"
+        },
+        {  
+            "C":"/6/20!/4/156/1:106"
+        },
+        {  
+            "C":"/6/22!"
+        }
+    ]
+}

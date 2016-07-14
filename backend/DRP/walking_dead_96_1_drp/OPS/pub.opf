@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="PrimaryID" version="2.0">
+  <opf:metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>The Walking Dead #96</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Kirkman, Robert">Robert Kirkman</dc:creator>
+    <dc:creator opf:role="art" opf:file-as="Adlard, Charlie">Charlie Adlard</dc:creator>
+    <dc:creator opf:role="ill" opf:file-as="Rathburn, Cliff">Cliff Rathburn</dc:creator>
+    <dc:creator opf:role="ill" opf:file-as="Adlard, Charlie">Charlie Adlard</dc:creator>
+    <dc:creator opf:role="ill" opf:file-as="Wooton, Rus">Rus Wooton</dc:creator>
+    <dc:creator opf:role="cov" opf:file-as="Adlard, Charlie">Charlie Adlard</dc:creator>
+    <dc:creator opf:role="edt" opf:file-as="Grace, Sina">Sina Grace</dc:creator>
+    <dc:creator opf:role="cre" opf:file-as="Kirkman, Robert">Robert Kirkman</dc:creator>
+    <dc:identifier id="PrimaryID" opf:scheme="URN">urn:uuid:123</dc:identifier>
+    <dc:identifier id="LDID">lat</dc:identifier>
+    <dc:subject>Action/Adventure, Fiction, Horror, Drama, Zombies</dc:subject>
+    <dc:description>THE ROAD TO ISSUE ONE HUNDRED STARTS HERE AS "A LARGER WORLD" CONCLUDES!
+
+Will Rick's community join the network? Will they enter into an era of unprecedented peace and prosperity - or has Rick ruined that for everyone? Has he now made more, deadlier enemies for them to deal with?</dc:description>
+    <dc:publisher>Image Comics</dc:publisher>
+    <dc:date>2012-04-18</dc:date>
+    <dc:identifier id="uid" opf:scheme="URI">http://web.graphicly.com/image-comics/walking-dead/96</dc:identifier>
+    <dc:language>en-US</dc:language>
+    <dc:rights>Copyright #x00A9; Image Comics</dc:rights>
+    <meta name="cover" content="cover"/>
+    <meta name="BNContentKind" content="ComicsDRP" xmlns=""/>
+  </opf:metadata>
+  <manifest>
+    <item id="cover.jpg" href="images/cover.jpg" media-type="image/jpeg"/>
+    <item id="cover" href="images/cover.jpg" media-type="image/jpeg"/>
+    <item id="cover" href="cover.xml" media-type="application/xhtml+xml"/>
+    <item id="section" href="section.xml" media-type="application/xhtml+xml"/>
+    <item id="css" href="css/style.css" media-type="text/css"/>
+    <item id="ncx" href="pub.ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover" linear="yes"/>
+    <itemref idref="section" linear="yes"/>
+  </spine>
+  <guide>
+    <reference href="section.xml" type="toc" title="The Walking Dead #96"/>
+  </guide>
+</package>

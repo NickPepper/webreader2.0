@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns:saxon="http://saxon.sf.net/" xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:nitf="http://www.nytimes.com/applicationdata/xml/nitf-3-3.dtd">
+   <head>
+      <title>Dreamt of in Your Philosophy</title>
+      <link rel="stylesheet" href="css/TablesAndFloats.css" type="text/css"/>
+   </head>
+   <body>
+      <div id="header_navbar" class="articleMenuWrapper">
+         <span id="header_navbar_previous" class="sectionMenuLeft">
+            <a href="article_2-1.xml">Previous Article</a>
+         </span>
+         <span id="header_navbar_next" class="sectionMenuRight">
+            <a href="article_2-3.xml">Next Article</a>
+         </span>
+      </div>
+      <div class="clean"/>
+      <div id="header" class="masthead">
+         <div class="masthead-text">
+            <div id="header_title" class="masthead-section">
+               <a href="section_2.xml">Books &#x0026; the Arts</a>
+            </div>
+         </div>
+      </div>
+      <h2 id="headline" class="article-full-headline">Dreamt of in Your Philosophy</h2>
+      <p id="byline" class="article-full-byline"></p>
+      <div>
+         <div id="image_0" class="article-in-image">
+            <img id="image_0_img" class="article-in-image" src="images/img_2_221.jpg" alt="News image"/>
+         </div>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">HOLDEN, MASS.</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">Re Richard Wolin’s thoughtful review of James Miller’s Examined Lives [“Being in the World,” March 7/14]: I would like to see critics take seriously that Western philosophers do not represent all of philosophy. How rich are the traditions of Asia, which could have informed this book’s mode of inquiry. Soon the day will have passed when philosophers of Asia can be ignored without critical comment and when authors are not called out for this failure of global worldview.</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">TODD LEWIS</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">SHOREWOOD, WIS.</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">Richard Wolin properly gives a good part of his review to discussion of Socrates and Plato. Unfortunately, he describes Plato’s Forms as a concern of metaphysics but not of civic life. But Plato makes it clear that the Forms are about knowing what’s truly good, which is the key to any truly useful contribution to civic life. This is not a question that any responsible philosophy can ignore. It would have been helpful if Miller or Wolin had mentioned the valuable contributions to political thought of Locke, Hegel, Mill and Rawls, all of whom followed Plato’s lead in thinking that a clear picture of what’s good for humans is indispensable for thinking about civic life. Obviously philosophers aren’t politically or morally infallible, but they’ve done a good deal to clarify how we might best live together.</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">ROBERT M. WALLACE</p>
+         <div id="footer_navbar" class="sectionMenuWrapper">
+            <span id="footer_navbar_previous" class="sectionMenuLeft">
+               <a href="article_2-1.xml">Previous Article</a>
+            </span>
+            <span id="footer_navbar_next" class="sectionMenuRight">
+               <a href="article_2-3.xml">Next Article</a>
+            </span>
+         </div>
+      </div>
+   </body>
+</html>

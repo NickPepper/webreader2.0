@@ -1,0 +1,15 @@
+body{margin-left:5%;margin-right:5%;margin-top:5%;margin-bottom:5%}
+p{text-indent:0;margin-left:0;margin-right:0;margin-top:8pt;margin-bottom:8pt;font-family:"Times New Roman";font-size:109%}
+.p0{text-align:center}
+.p1{line-height:115%;text-align:center}
+.p2{text-align:center;page-break-before:always;margin-top:0}
+.p3{line-height:115%}
+.p5{line-height:115%;text-align:center;page-break-before:always;margin-top:0}
+.p6{page-break-before:always;margin-top:0}
+.t1{font-size:1.67em}
+.t2{font-size:1em;color:blue;text-decoration:underline}
+.t3{font-size:.92em}
+.t4{font-family:Cambria;font-size:1em}
+.t5{font-size:1.33em}
+.t6{font-size:3.13em}
+.t7{font-size:1.5em}

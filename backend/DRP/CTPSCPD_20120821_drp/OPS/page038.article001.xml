@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Cooking with Paula Deen</title>
+<link href="css/test1.css" rel="stylesheet" type="text/css" />
+        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    </head>
+<body class="left">
+        <div class="before">
+            <div class="articleMenuWrapper" id="header_navbar">
+                <div class="sectionMenuLeft" id="header_navbar_previous">
+                    <a href="page038.article002.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="header_navbar_next">
+                    <a href="page037.article003.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+            <div class="masthead" id="header">
+                <div class="masthead-text">
+                    <div class="masthead-section" id="header_title">
+                        <a href="section.xml">Contents</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="article-headline" id="Headline">PRALINE BROWNIES</div>
+
+
+
+<div class="article-in-image" id="image1"><img src="images/page038.article001.image1.jpg" class="article-in-image" alt=""/></div>
+<div id="separatorLine"> <div class="invisible">empty</div> </div>
+
+<div class="articleImageCredit" id="ImageCredit">PHOTOGRAPHY BY WILLIAM DICKEY</div>
+<div class="article-body" id="Body"><p class="no-indent">Makes about 3 dozen </p><br/><p class="no-indent">1 cup butter </p><p class="no-indent">8 (1-ounce) squares unsweetened chocolate</p><p class="no-indent">2 cups granulated sugar </p><p class="no-indent">1 cup firmly packed brown sugar </p><p class="no-indent">5 large eggs </p><p class="no-indent">1 tablespoon vanilla extract </p><p class="no-indent">1¾ cups all-purpose flour </p><p class="no-indent">8 (1-ounce) squares semisweet chocolate </p><p class="no-indent">¼ cup heavy whipping cream </p><p class="no-indent">Praline Frosting (recipe follows) </p><br/><p class="no-indent">1. Preheat oven to 350°. Line a 13x9-inch baking pan with foil. Spray with nonstick cooking spray. </p><br/><p class="no-indent">2. In a small saucepan, combine butter and unsweetened chocolate. Cook over low heat, stirring frequently, until chocolate melts and mixture is smooth. Let cool for 15 minutes. </p><br/><p class="no-indent">3. In a large bowl, beat sugars, eggs, and vanilla at medium speed with a mixer until fluffy. Gradually beat in flour. Add chocolate mixture to flour mixture, beating until combined. Spoon batter into prepared pan. </p><br/><p class="no-indent">4. Bake for 30 to 35 minutes or until center is set. Let cool in pan for 1 hour. </p><br/><p class="no-indent">5. In a small saucepan, combine semisweet chocolate and cream. Cook over low heat, stirring frequently, until chocolate melts and mixture is smooth. Spread over cooled brownies. Cover and chill for at least 4 hours or up to 3 days. Spread Praline Frosting over chocolate mixture. Let stand until set. Cut into squares to serve.</p><br/><p>______________________________</p><br/><p class="no-indent">Praline Frosting </p><p class="no-indent">Makes about 2 cups </p><br/><p class="no-indent">⅓ cup butter </p><p class="no-indent">1¼ cups firmly packed brown sugar </p><p class="no-indent">½ cup heavy whipping cream </p><p class="no-indent">1 cup confectioners’ sugar </p><p class="no-indent">1 teaspoon vanilla extract </p><p class="no-indent">1½ cup chopped pecans </p><br/><p class="no-indent">1. In a medium saucepan, combine butter, brown sugar, and cream; bring to a boil over medium heat. Boil for 1 minute. Remove from heat, and stir in confectioners’ sugar, vanilla, and pecans. Continue stirring for 3 to 4 minutes, or until mixture thickens. Spread immediately over chilled brownies.</p></div>
+<div class="after">
+            <div class="articleMenuWrapper" id="footer_navbar">
+                <div class="sectionMenuLeft" id="footer_navbar_previous">
+                    <a href="page038.article002.xml">Previous Article</a>
+                </div>
+                <div class="sectionMenuRight" id="footer_navbar_next">
+                    <a href="page037.article003.xml">Next Article</a>
+                </div>
+                <div class="clean"> </div>
+            </div>
+        </div>
+    </body>
+</html>

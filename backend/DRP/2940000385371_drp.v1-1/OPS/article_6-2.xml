@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns:saxon="http://saxon.sf.net/" xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:nitf="http://www.nytimes.com/applicationdata/xml/nitf-3-3.dtd">
+   <head>
+      <title>Solving the Euro Crisis</title>
+      <link rel="stylesheet" href="css/TablesAndFloats.css" type="text/css"/>
+   </head>
+   <body>
+      <div id="header_navbar" class="articleMenuWrapper">
+         <span id="header_navbar_previous" class="sectionMenuLeft">
+            <a href="article_5-4.xml">Previous Article</a>
+         </span>
+         <span id="header_navbar_next" class="sectionMenuRight">
+            <a href="article_6-3.xml">Next Article</a>
+         </span>
+      </div>
+      <div class="clean"/>
+      <div id="header" class="masthead">
+         <div class="masthead-text">
+            <div id="header_title" class="masthead-section">
+               <a href="section_3.xml">Editorial</a>
+            </div>
+         </div>
+      </div>
+      <h2 id="headline" class="article-full-headline">Solving the Euro Crisis</h2>
+      <p id="byline" class="article-full-byline">MARK WEISBROT</p>
+      <div>
+         <div id="image_0" class="article-in-image">
+            <img id="image_0_img" class="article-in-image" src="images/img_10_621.jpg" alt="News image"/>
+         </div>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">The eurozone crisis is in some ways less complicated in its foundations than most people are making it. The fundamental problem is that Greece, Spain, Ireland and Portugal are stuck in recession or near recession and have not been allowed to adopt the policies needed to get out of it. In 2009 most countries followed expansionary policies to get out of recession: for example, a fiscal stimulus or expansionary monetary policy (witness the more than $2 trillion the US Federal Reserve has created since our recession began). In some cases countries also got a boost from a depreciating currency, which increased their exports and reduced their imports.</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">The peripheral European countries are stuck in a currency union where their monetary policy is dictated by the European Central Bank (ECB), which is far to the right of the US Federal Reserve and has little interest in helping them. Because these countries have adopted the euro, they also do not control their exchange rate; and their fiscal policy, with the imposition of budget cuts, is going in the wrong direction, under pressure from the European Commission, the ECB and the IMF.</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">No wonder, then, that Spain has more than 20 percent unemployment, Greece has nearly 15 percent unemployment and is sinking further into debt, and Ireland has lost about 17 percent of its income per person since the crisis began. Portugal just signed an agreement with the IMF that is projected to give it two more years of recession.</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">This does not make any economic sense, except from the point of view of creditors who want to make sure these countries are punished for their “excesses”—although, for the most part, it was not overborrowing but the collapse of the bubble  and the world financial crisis and recession that brought them to this situation. Unfortunately, the view of the creditors is what prevails among the European authorities.</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">IMF managing director Dominique Strauss-Kahn, currently jailed on sexual assault charges, understood the futility of some of these policies,  but he was unable to change them very much, since IMF management is subordinate to the European authorities (and US Treasury). His imminent departure is therefore unlikely to change much, although it may speed up the process of Greece’s inevitable move toward debt restructuring.</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">Argentina defaulted on its foreign public debt in 2001, after years of trying the IMF route to recovery and sinking further into recession. The currency was cut loose from the dollar, and although economic free fall accelerated for one more quarter, it then recovered and grew 63 percent over the next six years. Within three years Argentina had reached its pre-crisis level of output; by contrast, Greece is not expected to reach its pre-recession level of GDP for at least eight years.</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">When will it end? So long as these governments are committed to policies that shrink their economies, their only hope is that the global economy will pick up steam and pull them out with demand for their exports. This does not look likely in the foreseeable future—the rest of Europe is not growing that rapidly and the US economy is still weak.</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">The governments of Greece, Portugal and Ireland need to tell the European authorities that they will not accept any “bailout” agreements that do not allow their economies to grow. That has to be the bottom line: help, not punishment. Spain has not yet entered into a loan agreement, but its situation is similar. These governments have a lot of unused bargaining power, since the European authorities are very much afraid of a default and/or exit from the euro by any one of them. And the European authorities have the money to help each and every one of these economies recover with expansionary macroeconomic policies. They just need to be told that “there is no alternative.”</p>
+         <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="article-full-body">Mark Weisbrot, co-director of the Center for Economic and Policy Research (cepr.net), is president of Just Foreign Policy (justforeignpolicy.org).</p>
+         <div id="footer_navbar" class="sectionMenuWrapper">
+            <span id="footer_navbar_previous" class="sectionMenuLeft">
+               <a href="article_5-4.xml">Previous Article</a>
+            </span>
+            <span id="footer_navbar_next" class="sectionMenuRight">
+               <a href="article_6-3.xml">Next Article</a>
+            </span>
+         </div>
+      </div>
+   </body>
+</html>
